@@ -183,6 +183,8 @@ a:hover { color: var(--color-accent-light); }
 
 .hero-photo {
   position: relative;
+  display: flex;
+  justify-content: center;
 }
 
 .hero-photo img {
@@ -190,7 +192,7 @@ a:hover { color: var(--color-accent-light); }
   max-width: 400px;
   aspect-ratio: 3/4;
   object-fit: cover;
-  object-position: top;
+  object-position: center;
   border-radius: 4px;
   filter: grayscale(15%);
 }

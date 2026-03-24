@@ -62,7 +62,7 @@ Put them in `images/` and reference with relative paths.
 - Medscape: https://www.medscape.com/index/list_12471_0
 - CTRA: https://medicine.yale.edu/internal-medicine/ctra/
 - Coursera: https://www.coursera.org/learn/medical-research
-- Book: https://www.amazon.com/dp/1538723603
+- Book: https://www.amazon.com/How-Medicine-Works-When-Doesnt/dp/1538723603
 - Podcast (Apple): https://podcasts.apple.com/us/podcast/wellness-actually-with-emily-oster-perry-wilson-md/id1633515294
 - Podcast (Spotify): https://open.spotify.com/show/5igTryEwHMmAJfODAFKp3W
 - Twitter/X: https://twitter.com/fperrywilson
