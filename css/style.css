@@ -197,18 +197,6 @@ a:hover { color: var(--color-accent-light); }
   filter: grayscale(15%);
 }
 
-.hero-photo::before {
-  content: '';
-  position: absolute;
-  top: -12px;
-  right: -12px;
-  width: 100%;
-  max-width: 400px;
-  aspect-ratio: 3/4;
-  border: 2px solid var(--color-accent);
-  border-radius: 4px;
-  z-index: -1;
-}
 
 /* ---- Section Layout ---- */
 .section {
