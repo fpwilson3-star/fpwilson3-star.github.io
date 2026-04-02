@@ -1,0 +1,76 @@
+name: Update Latest Podcast Episode
+
+on:
+  schedule:
+    - cron: '0 14 * * 3'  # Wednesdays at 2pm UTC (episodes drop Wednesdays)
+  workflow_dispatch:       # Allow manual trigger from GitHub UI
+
+jobs:
+  update-episode:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Fetch and update latest episode
+        run: |
+          python3 << 'EOF'
+          import urllib.request, json, re, sys
+          from datetime import datetime
+
+          # Fetch latest episode from iTunes API
+          api_url = "https://itunes.apple.com/lookup?id=1633515294&entity=podcastEpisode&limit=1"
+          data = json.loads(urllib.request.urlopen(api_url).read())
+
+          # results[0] is the podcast metadata, results[1] is the latest episode
+          if len(data['results']) < 2:
+              print("No episode found in API response.")
+              sys.exit(1)
+
+          episode = data['results'][1]
+          title = episode['trackName']
+          ep_url = episode['trackViewUrl']
+          release_date = datetime.strptime(episode['releaseDate'][:10], '%Y-%m-%d')
+          date_str = release_date.strftime('%b %-d, %Y')
+
+          print(f"Latest episode: {title} ({date_str})")
+
+          # Update index.html between marker comments
+          with open('index.html', 'r') as f:
+              content = f.read()
+
+          new_block = (
+              "        <!-- LATEST-EPISODE-START -->\n"
+              "        <p style=\"margin-bottom: 24px;\">\n"
+              f"          <a href=\"{ep_url}\" target=\"_blank\" style=\"color: var(--color-accent); text-decoration: none; font-weight: 600;\">{title}</a>\n"
+              f"          <span style=\"font-size: 0.9rem; color: var(--color-muted);\"> — {date_str}</span>\n"
+              "        </p>\n"
+              "        <!-- LATEST-EPISODE-END -->"
+          )
+
+          new_content = re.sub(
+              r'<!-- LATEST-EPISODE-START -->.*?<!-- LATEST-EPISODE-END -->',
+              new_block,
+              content,
+              flags=re.DOTALL
+          )
+
+          if new_content == content:
+              print("Already up to date.")
+          else:
+              with open('index.html', 'w') as f:
+                  f.write(new_content)
+              print("index.html updated.")
+          EOF
+
+      - name: Commit and push if changed
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git diff --quiet && echo "No changes to commit." || (
+            git add index.html &&
+            git commit -m "Update latest podcast episode" &&
+            git push
+          )
