@@ -2,7 +2,7 @@ name: Update Latest Podcast Episode
 
 on:
   schedule:
-    - cron: '0 14 * * 3'  # Wednesdays at 2pm UTC (episodes drop Wednesdays)
+    - cron: '0 12 * * 4'  # Thursdays at 12pm UTC = 8am Eastern
   workflow_dispatch:       # Allow manual trigger from GitHub UI
 
 jobs:
