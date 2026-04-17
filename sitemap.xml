@@ -36,4 +36,10 @@
     <changefreq>never</changefreq>
     <priority>0.7</priority>
   </url>
+  <url>
+    <loc>https://fperrywilson.com/podcast/does-red-light-therapy-actually-work.html</loc>
+    <lastmod>2026-03-12</lastmod>
+    <changefreq>never</changefreq>
+    <priority>0.7</priority>
+  </url>
 </urlset>
