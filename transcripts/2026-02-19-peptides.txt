@@ -1,0 +1,285 @@
+Influencer 1: [00:00:01] There is a new peptide that literally burns fat off of your body. At the same time, it suppresses your hunger.
+
+Influencer 2: [00:00:06] Peptides are one of the best ingredients you can use for anti-aging.
+
+Influencer 3: [00:00:09] Do not sleep on peptides. Peptides are the IT girl of the year and for good reason.
+
+Joe Rogan: [00:00:13] Well, that's the thing about peptides to the Wolverine stack. I don't know if you ever get injured, get immediately on BP 157 and TB 500.
+
+Influencer 2: [00:00:20] Might help you improve your gut, improve the tone texture of your skin, reduce fine lines and wrinkles, possibly restore your hair. Raise your natural growth hormone.
+
+Influencer 3: [00:00:27] So there's truly a peptide for everything.
+
+Perry: [00:00:30] Emily, are we in over our heads here?
+
+Emily: [00:00:32] Maybe a little bit. How many peptides did you have this morning? Are you ready?
+
+Perry: [00:00:36] Well, I've had 30, but it's clearly not enough.
+
+Emily: [00:00:40] It's not enough. Did you have your CJC 1295?
+
+Perry: [00:00:44] Oh, you know what? That's the problem.
+
+Emily: [00:00:46] Because that's the one.
+
+Perry: [00:00:47] I still have my existential sense of dread. And I'm pretty sure that's the key to eliminate that.
+
+Emily: [00:00:56] I'm Emily Oster, I'm an economist and a data expert.
+
+Perry: [00:00:59] And I'm Perry Wilson. I'm a medical doctor.
+
+Emily: [00:01:02] It's Thursday, February 19th, 2026. And this is Wellness, Actually.
+
+Perry: [00:01:07] Because you're getting a staggering amount of health and wellness information nowadays from every source imaginable. And some of it is awesome.
+
+Emily: [00:01:15] And some of it is, well, actually, bullsh-t. Fortunately, we're both people who know how to read studies, how to parse the data, and can tell you what's worth thinking about and what you can safely ignore.
+
+Perry: [00:01:29] But before we dig in a note that this podcast is for educational purposes and should not be construed as medical advice. We do not know your unique situation, so talk to your doctor for personal health decisions.
+
+Emily: [00:01:40] This week we're asking what's the deal with peptides. And then we'll get to your question of the week. But first let's do the health news roundup after the break.
+
+Perry: [00:02:02] Hey, just a quick note from the future here. The following conversation about mRNA flu vaccines was recorded before the FDA reversed their stance. That's good news for everyone, as you'll soon understand why. But bad news for our producer, Tamar, who had to add this caveat at the 11th hour. This is what keeping up with the news looks like. And I think, as you'll see, the mere idea that something is being discussed on the Wellness podcast has the effect of moving policy on a national scale.
+
+Emily: [00:02:31] All right, Perry, so first piece of health news for the week is Moderna has a phase three trial of an mRNA flu vaccine, but the FDA has declined to review their results. There's been a lot of talk about this. I think it's pretty confusing for a lot of people. Perry, can you break down what is going on, why people are upset. Where do we go from here?
+
+Perry: [00:02:54] Yeah, I mean, to be honest, this is pretty weird. This is unusual. So why do we need an mRNA flu vaccine? I mean, the argument here is that our traditional flu vaccines, which are those egg based vaccines, take about six months to make, and that means you're always sort of trying to stay ahead of the flu. Uh, the flu. Eight ball. Right. Like, you start guessing what the flu strains are going to be in the future to grow up your vaccines. Mrna flu vaccine, in theory, can get spun up in a couple of weeks. That's the benefit of mRNA technology. You could potentially, even in real time, keep up with the flu strains that are coming out. So there's definitely a reason to do this kind of study. Even though we have existing flu vaccines, this vaccine that Moderna put out, they had published already several studies, about 7000 patients each demonstrating safety. But this 41,000 patient trial was for efficacy. Does it prevent the flu compared to not a placebo, but the current active flu vaccine, one of these egg based vaccines, and in fact the rates of flu were significantly lower with the Moderna vaccine. They submit that data to the FDA, and in theory, an FDA advisory panel will review it, assess it for safety and efficacy, make a ruling that the FDA then decides on.
+
+Perry: [00:04:07] This did not happen. The head of the vaccine division of the FDA, a guy named Vinay Prasad, apparently according to New York Times, unilaterally decided not to review this data at all, so not to bring it to the peer review group in the first place. Um, he his rationale was that the dose of the normal vaccine they gave was not high enough for older people who, who, who do better with a higher dose. So it was like not a good enough comparator is the argument. Here's the problem. If you're a big pharmaceutical company, generally you go to the FDA and this is what Moderna did before you do the trial. And you say, hey, here's our design, here's our here's our control group, here's our analysis. Are you okay with this because you don't want to spend $250 million if the FDA is going to say they're not okay with this, right? So they did that. They went to the FDA. The FDA said, sure, run your trial. You know, this looks like a good design. And now, apparently one person, although obviously who knows what's going on, has after the fact, been like, no, you know, moving the goalposts. This is like sort of classic Lucy picking up the football situation.
+
+Emily: [00:05:17] Yeah. I mean, it is important to hit on the top point of why we would want this vaccine. And I actually think it's particularly interesting in the context of this most recent flu season, where the flu vaccine was very poorly matched to the circulating flu strain because they guessed what the circulating strain would be six months out and they were not right. And the promise of the mRNA version of this is you wouldn't have to guess six months out. You could guess a month out or two months out and you might get much closer. And so I think there's a lot of value here, making the fact that now it seems like this just won't happen. Both objectively bad. In addition to this process seeming like this definitely isn't the process that we would like, and we're already starting to see companies talk about we don't want to do vaccine innovation now if there's no way it's going to.
+
+Perry: [00:06:06] Mrna innovation in general. And mRNA technology is not just for vaccines. There's there's mRNA, anti-cancer therapies and stuff that are getting held up by this. And it does feel somewhat ideological. I think all people are asking is like, just do the normal process, like just submit the data for the standard peer review that every other drug gets through. But it's not happening.
+
+Emily: [00:06:26] It is a holdover from Covid.
+
+Perry: [00:06:29] All of society has long Covid. Um, right now basically. All right, let's stick with the FDA. Emily, maybe some better news. I'm curious what you thought of this. Uh, the FDA had, uh, removed some warnings that appear on hormone replacement therapies for women who are perimenopausal or postmenopausal in the past, um, those, medications have warnings on them that they could increase the risk of cardiovascular disease, breast cancer or dementia. Those warnings are now removed. Good. Bad.
+
+Emily: [00:07:01] I think this is great news. I mean, so hormone replacement therapy is really beneficial for a lot of people in perimenopause and menopause. It can improve quality of life tremendously, lower symptoms, which can be really debilitating. There was a large trial, you know, decades ago, which suggested that there could be some risks from hormone replacement therapy. But as people have better understood that data and gotten follow up data, it has seemed pretty clear that the risks that were identified in that trial, which were mostly about cancer, in fact, are not things that we should be concerned about for the vast majority of people who would be treated with these medications. And so we've kind of, over time, clawed back towards a view that actually HRT should be prescribed more. It can be very beneficial, and the removal of these boxed warnings is the sort of the next step in that. So I my hope is that this will encourage more people who could benefit from these therapies to be to be on them. So I thought this was a response to evidence and a a good one at that.
+
+Perry: [00:08:07] All right. So good. The FDA gets it right from time to time. I want to move on to a bit of, uh, happier news, um, something I you know, I've seen this story before, but, man, I, I always love it. Um, the Olympic Village condom situation. So the New York Times reported that the that the Winter Olympics village in Italy, they ran out of 10,000 condoms within three days. Uh, to to put that in perspective, there are about 3000 athletes, uh, in the games. That's a lot of condoms. It's a lot. I just have to say, it must be fun to be in like the best shape of your life. And in Italy.
+
+Emily: [00:08:50] I agree. I agree, I mean, I do. I did wonder whether there was a condom hoarding issue, right? So, you know, my guess is that people mostly before their events are kind of like laying low, but maybe they're picking up a bunch of condoms for like after the event.
+
+Perry: [00:09:06] And so you think and they've got that like overly ambitious, like I'm going to need 20.
+
+Emily: [00:09:11] What if I get a gold medal? I'm going to need a lot of condoms for all of the demand that's going to be coming in after my medal.
+
+Perry: [00:09:18] So I was debating this with some people. You think that you are. I'll speak somewhat euphemistically. You think you are not using condoms before your event. And I'm wondering if there are some events like maybe biathlon or like some of the precision events where you should be using the condoms more beforehand.
+
+Emily: [00:09:39] It's an interesting thing. Yeah, I, I in my mind I have the endurance events where I do think you probably don't want to be using condoms before, but maybe the precision, maybe it like curling. Chills you out. Curling? Yes. Curling.
+
+Perry: [00:09:53] Clearly.
+
+Emily: [00:09:53] Clearly curling would benefit from a pre condom. Pre use.
+
+Perry: [00:09:58] There you go. Curlers let us know. Hit us up. We want to know what your strategy is.
+
+Emily: [00:10:04] We really really really do. That's it for the Health news of the week. Next up peptides. But first a break.
+
+Perry: [00:10:17] Welcome back to Wellness, Actually. So what's the deal with peptides Emily. This is like a big topic. There's so much talk about this on social media. It's nearly overwhelming.
+
+Emily: [00:10:32] I was waiting for the airplane yesterday uh, for a flight home. And I opened up my Instagram. And the first thing I saw was someone who had two side by side pictures of her face. And it was like, it was like, this is what happens after 12 weeks on peptides. And I looked better. I mean, I don't know that that particular person, I have a lot of issues, but the point is that you cannot open social media without hearing about peptides. I would like us to start this by just demystifying a little bit. You know, when I think about peptides, the thing, at least before I did some more research for this episode, the first thing that often comes into my head is Demi Moore in The substance. You know, where she takes some thing and then she, like, turns into a different person and then slowly decays over time. I don't think that's what it is. But my concern is that for many people, we're close to that in our understanding of peptides. It's just this seems like a crazy thing with a lot of crazy names that people are yelling about on Reddit. So can you just, like, anchor us in the biology of what is this?
+
+Perry: [00:11:39] Yes, yes. It does not make hot young women pop out of your back. Uh, at least not yet.
+
+Emily: [00:11:46] We haven't found the peptide for that is my. Is my guess.
+
+Perry: [00:11:50] Let's let's talk about that. Okay. So, um, the first thing you have to know is what a protein is. So protein is the building blocks of our bodies. And proteins are composed of little building blocks, which are called amino acids. There's about 20 that humans use in our proteins, and they're all different, but they all stick together just like like Lego blocks all do, right? They have one end and the other, and they kind of fit together. And you can take those 20 amino acids and combine them and any combinations that you want to make various proteins. Now proteins can have thousands of amino acids. They can be very, very complicated. Peptides are little pieces of proteins. And the definitions vary. But most people say that peptides are somewhere south of 50 amino acids. So you're talking much, much smaller than a protein, but you're still using those same 20 amino acids. And just to explain why Reddit and Instagram, like, has an explosion of all these things with, you know, these crazy names and numbers attached to them. If you want to do the math, okay, if you have 20 amino acids that you can combine into a chain of 50, the possible combinations. And I had to get out my scientific calculator for this. The number of different peptides you could create is the same roughly as the number of atoms in every star in our galaxy. Okay. There is a nearly infinite possibility of the number of peptides that are out there.
+
+Emily: [00:13:28] Okay. So we've got these peptides, potentially an infinite number of them. But I think that the the question is why would having more of some peptide I understand we have amino acids. They make peptides. They make proteins. We need those. Why would supplementing myself with some peptides have any impact at all on anything?
+
+Perry: [00:13:50] Oh, sure. Well, so peptides, uh, you know, if you, if you have a chain of amino acids, what's going to happen is they're going to fold into like some kind of shape based on their chemical nature. So these are not like a long stack. That's just a line based on what the amino acids are. They kind of fold and shape into like little globby shapes, which is how your body, uh, signals to do stuff in a lot of ways. So there are receptors for different shapes on your cells. And different peptides, at least purportedly will stimulate certain receptors. And those receptors tell your cells what to do. So it's almost like, you know, you can imagine a key and lock analogy or something. You have these these locks on your cells, and you're trying to inject something that's going to form the key to open the lock. That's the theory at least. And a lot of these peptides, while based on proteins that you can ingest or that exist in your body, not all of them are, you know, some of them come from animals. Some of them are completely synthetic.
+
+Emily: [00:14:54] And so the idea is, if I had more of some of these peptides, I could encourage myself to do more of something that I want. So I think a good example that probably anchors for people is the GLP ones are peptides.
+
+Perry: [00:15:06] Yeah.
+
+Emily: [00:15:06] So semaglutide tirzepatide these like things that where people are taking for weight loss. Those are peptides. They are injected and then they are encouraging something that then causes you to be less hungry and have all kinds of, of other impacts. But it's just a it's just a peptide to try to get your body to do more of something, which it might do otherwise, but you want more of it.
+
+Perry: [00:15:29] Exactly. And just to give a sense of like the diversity of peptides, I've told you there's infinite, but because the shape is really what dictates the function of molecules in your body. Um, here's some other examples. So GLP one, you said, uh, aspartame, the artificial sweetener. Okay.
+
+Emily: [00:15:47] Like in diet soda.
+
+Perry: [00:15:48] Yeah. I'm not sure which one is in Diet Coke, but yes, like, you know, the one that people actually a lot of wellness influencers are worried about. Aspartame is a peptide. It's two amino acids stuck together. They just happen to make a shape that stimulates the sugar receptor on your tongue. So it just like makes you think it's sweet, but it's not. It's just a peptide. Uh, bee venom, for example, the main protein in bee venom is called melittin. And that's a peptide. So that can be something that really hurts when you inject it for example. Right. And so one of my concerns and actually I'd like to play you a clip, um, is people suggesting that peptides are really safe because of their sort of nature of being something like a protein. So take a listen to this.
+
+Speaker5: [00:16:32] Peptides are sequences of amino acids. And why is that important? Because your body recognizes these, it can break them down. They're called metabolites and it can get rid of the waste. When we put chemicals, synthetics and pharmaceuticals into our body, there's no natural way for our body to break them down and get rid of them.
+
+Perry: [00:16:49] So, Emily, here we have, you know, someone being like, hey, these are just amino acids, like your body knows what to do with that, therefore safe. What do you think?
+
+Emily: [00:16:57] Uh, that doesn't sound right to me. I mean, I think, you know, the fact that something is naturally occurring in the world and is an amino acid definitely does not mean that it is safe.
+
+Perry: [00:17:09] It clearly doesn't. Um, right. Like snake venom has peptides in it, right? There's there's lots of things. But I think people one of the reasons that peptides are exploding and actually one of the regulatory reasons you can get your hands on these things even, is because of this idea that, like, well, they're just made of amino acids after all.
+
+Emily: [00:17:29] Right. All right. So let's talk about whether these actually matter for anything. And I actually want to start with a place where I think the evidence is the best, which is in the space of collagen. So I hear people talk about collagen peptides, both for your face and for your for your joint health. So this comes up actually a lot in endurance sports. People talk about, you know, like I need my joints to not be so elderly and creaky. And so I should take these collagen peptides in a lot of endurance sports drinks. It's a thing. Um, and so my sense is that the evidence on this is at least reasonably good in the case of your skin. So we have some meta analyses of trials in which using collagen peptides, typically in a kind of topical way, can have significant improvements in your skin hydration and elasticity. Now, okay, in that particular meta analysis, there was there was a subtlety, which is that when you only looked at studies that were not sponsored by industry. The effects were not there. So capitalism. Um, but I'm curious whether you like, if you were interested in improving your already lovely skin elasticity, would you use a collagen peptide?
+
+Perry: [00:18:48] I mean, maybe I don't care that much about it. Um, but but, you know, whatever. I'm a I'm a 46 year old man, so I know that there are some there's some differing opinions here. I mean, the interesting thing about collagen peptides is that they're basically the only peptide to exist in a regulatory landscape that makes it easy and safe to get, um, because the FDA has recognized that collagen itself is safe. They call it generally recognized as safe, which means you can be a supplement company and you can put collagen in a pill and you can give it to people. Collagen peptides. All it is, is they take collagen and they digest it with an enzyme. So collagen is a protein with thousands, literally thousands of amino acids. And then they just digest it down into manageable pieces. Very similar, honestly to what your digestive system does when you eat a big protein. But that said, the collagen peptides are because they're smaller, absorb through the skin a little bit better, absorbed through the GI tract a little bit better. And you're delivering in that sense, you're delivering some of these proteins, some of these constituents of the stuff that makes your skin firm and elastic directly to the site that you want them to be delivered. And to me, that seems fine. Um, you know, this is one of those things I tell people, listen, it's it's not terribly expensive. If you feel like trying it, try it. You know, try to be honest with yourself. If you think you really look better, if you don't save your money.
+
+Emily: [00:20:11] Yes, save your money. Perhaps good advice in in general in everything we hear about on social media. So beyond Collagen, I think there are actually a couple of other things where a couple of other FDA approved peptides which treat actually somewhat unusual things. So One of them, uh, is for tanning and one is for improving female sexual desire. Did I get that right?
+
+Perry: [00:20:39] Yeah. Sort of. Um, yeah. The one for tanning called Afamelanotide. Um, it's not FDA approved to get utan, but it does get utan. It's approved for a very rare condition called erythropoietic protoporphyria, which very few people have, but it does stimulate the melanin receptor, which is what makes you tan. And so people who receive this drug do get tan. And it's worth thinking about just because there is a pathway for peptides to go through the same approval process, that every other drug has to go through the same purity standards, the same testing, the same manufacturing practices. Um, and they can do really interesting things, like, it's true, the female hypoactive sexual desire disorder, which, uh, Emily, we definitely need to do a whole show about this. It's fascinating. Um, that's a peptide product called Vyleesi, which was approved to treat this condition. It does apparently increase sexual desire in women. It also causes nausea in 40% of people who take it, which I don't know how those two things are compatible, but apparently they are.
+
+Emily: [00:21:47] Well, you don't know. It could be that 60% of people who are not nauseous. You know, it's a trade off.
+
+Perry: [00:21:52] Fair enough. Yeah. So you're flipping an interesting coin there. The. And of course we should. You mentioned already the GLP one receptors are peptides. Of course, insulin, which is maybe saved more lives than any other injectable drug that we've ever created, uh, is also a peptide product. So there is a pathway. But I think there's a lot of people who are trying to kind of jump that evidence gun and potentially taking on more risk than they know that they are taking on.
+
+Emily: [00:22:20] What about the evidence on joint pain? Most of this evidence is in athletes. Some of it's in older people.
+
+Perry: [00:22:26] Yeah. It's there, it's there. I mean, so we do have another meta analysis. And for everyone, a meta analysis is just a study of studies. So it's a study that aggregates data from multiple other studies that have been done to try to kind of average out the variability and things like that. There was some evidence in this meta analysis of 15 randomized trials of collagen peptides for joint pain, 12 of which were in athletes that showed some improvement in joint pain. There was really no evidence for muscle building, which is the other thing that people sometimes suggest this being used for. Again, one of the problems we have when the outcome of a trial is subjective, like pain or fatigue or even depression.
+
+Emily: [00:23:11] How your skin looks.
+
+Perry: [00:23:13] How your skin looks, is that it is very susceptible to what we call placebo effects, like the idea that you're taking something now, randomized controlled trial is going to have placebo controls, but just even because you have a placebo doesn't mean people can't figure out what they're getting. Sometimes they taste a little bit different, they look a little bit different and things like that. So, you know, again, for joint pain, it's like it's it's relatively safe. It's not going to hurt you. It's their non-toxic. If it helps, that's great. I mean I don't even care if it's a placebo. Right. Like if it helps and then you.
+
+Emily: [00:23:46] Feel like it helps.
+
+Perry: [00:23:47] You feel like it helps. It helps go for it.
+
+Emily: [00:23:48] Yeah. I mean, this is an example of a place where I think we sort of bring together, like often what we're looking for when we try to argue for causality. Question of like, is it biologically plausible? I think the answer in the collagen peptide cases. Yeah, it's biologically plausible that, you know, this could have some this could make some difference. And then we're looking for, you know, do we have evidence either randomized evidence or even observational evidence. But here it's randomized. That suggests that we do see some impacts. I will say I take away from this like this is small. There are many other things one might do to address joint pain like strength training and other things where collagen could be a little helpful but is probably not the be all and end all and sort of similarly. My guess is the overall variation in skin elasticity across people is much greater than the treatment effect of collagen peptide. Like when you see someone on the internet and their skin is amazing and they tell you they took collagen, I'm telling you it's that they have good genetics and or are using a filter. Not that they are taking collagen.
+
+Perry: [00:24:57] And are and are really good at makeup. Like when I was looking at all the peptide stuff on Instagram and things, these videos all I was like, oh my God, these people are just beautiful. Like that's the that is. The requirement apparently to be an influencer is to like look really good on camera, you know, which is why I'm glad this is an audio podcast. Um, no one has to look at my unfiltered face.
+
+Emily: [00:25:21] Uh, everyone would love it. Okay, So let's talk about the sort of third piece of the peptide conversation, which is the idea of using injected peptides for like longevity wound healing. And this is a much bigger space than the narrow. Like I'm taking some collagen to improve my face. It's like, you know, BPC 157. It's there's a thing called the Wolverine stack, basically, Perry, there's a thing called the Wolverine stack. And I guess, do we want it? Say more?
+
+Perry: [00:25:56] Well, okay, Emily, um, let's take it from the highest authority in the land, Joe Rogan himself.
+
+Joe Rogan: [00:26:04] Well, that's the thing about peptides to the Wolverine stack. Bp 157 and TB 500. I don't know if you ever get injured. If you ever get injured, get immediately on BP 157 and TB 500.
+
+Matt Damon: [00:26:14] I didn't hear about TB 500. What's that?
+
+Joe Rogan: [00:26:16] One Thymosin beta 500. It's in conjunction with BPC 157. It is a phenomenal stack and it just really helps.
+
+Matt Damon: [00:26:25] I know they called it The Wolverine.
+
+Joe Rogan: [00:26:26] That's what they call it the Wolverine. Yeah, because you heal incredibly well like you like quickly. I was talking to a pro football player, pulled his hamstring. He's like, dude, I, I shot that right into my hamstring for two weeks and I was right back on the field. Wow. I was like, that's nuts.
+
+Matt Damon: [00:26:39] Yeah.
+
+Perry: [00:26:39] So first of all, Joe Rogan, Ben Affleck, Matt Damon in that clip. I mean, we are really blowing against the wind here, Emily. I mean, I don't know that we can compete.
+
+Emily: [00:26:50] No. Totally not. I mean.
+
+Perry: [00:26:52] Yeah, all right. But let's let's, let's I think BPC 157 because of Joe Rogan, honestly. Um, and the Wolverine stack is BPC 157 combined with TB 500, which is another injectable peptide. I think it's really emblematic of the space. And so no, we are not I have to apologize to our listeners. There are like hundreds and hundreds of marketed peptides out there. We just simply can't get to all of them and like whether they work and how they work. But I think there's some real big principles here that BPC 157 sort of teaches us. So let's start there and kind of kind of walk through it. Totally. So BPC 157, this is a peptide that was initially isolated from human gastric juices. Which is weird.
+
+Emily: [00:27:39] Okay.
+
+Perry: [00:27:40] But fine.
+
+Emily: [00:27:41] You know, as you said, you can get peptides from anywhere. Why not from your gastric juices?
+
+Perry: [00:27:47] Sure. But because it's being promoted for healing and everything, you kind of I was like, oh, it must have been isolated from like healing cells or something, whatever. But, you know, hey, the gastric mucosa is a hostile environment. So, so maybe there's some biologic plausibility there. The data for BPC 157 is essentially entirely in mice and rats. Um, so you injure a rat like you sever. This is cruel a little bit, but this is how science works.
+
+Emily: [00:28:16] In rats and mice is cruel.
+
+Perry: [00:28:17] So I know so, so trigger warning for pet rat owners. Um, they will, like, sever part of a rat's Achilles tendon. And then, uh, you know, they either inject this stuff or they inject a placebo, and then they see how fast the Achilles tendon heals. And some of those studies in mice and rats do show accelerated healing with BPC 157.
+
+Emily: [00:28:39] Okay. I just want to pause on the question of mice and rat studies, because I feel like a tremendous amount of the data that we have in the world about all kinds of different treatments come from mice and rats, because mice and rats are really easy to experiment on. You can do all kinds of stuff with them, like cut their Achilles and do other things and look in their brains and kill them and do all kinds of things, which may be sad but are effective for for learning. And we always then have the question of how do we take the evidence from mice and rats into humans? And, you know, there there I think are really good learnings. But someone said to me the other day, you know, if we were mice, we would have solved, like, everything. Because actually, in mice, you know, you can really titrate and be careful. And there's a lot of things that work in mice. But then when we bring them into humans, it doesn't work. Or the effect size is totally different or just this doesn't port over.
+
+Perry: [00:29:33] Yeah, we're just not the same creatures. But there's even bigger issues than that, particularly when it comes to the longevity space, because mice and rats don't live as long as people in their natural state. Mice might live a year or two, rats might live a little bit longer. But you know what? In these research studies, they're not letting these mice live to a ripe old age. Right. What you do is, you know, you do your little Achilles tendon thing, and then you watch them for a couple of weeks as they heal. And then you the euphemism is sacrifice the mice, you know, humanely.
+
+Emily: [00:30:07] That's the euphemism?
+
+Perry: [00:30:08] That's the euphemism is sacrifice. Okay? You kill the mice in as humane a way as possible. Um, and there are protocols for that. And then and then you can extract their organs and look at them under the microscope and do all that stuff. So even if we're like, oh yeah, this appears to heal Achilles tendons. The larger scale questions of like, what happens if you're doing this repeatedly on a weekly basis for years and years and years? Like we're not even close to knowing that. And there are some concerns here. So, Bpc157, um, thanks to the mice, we know a little bit about how it might work. Aside from the general magic of being a gastric juice peptide, BPC 157 appears to bind a receptor called VEGF or vascular endothelial growth factor, which promotes the growth of blood vessels into tissues. And sure, that makes sense. If you're talking about healing, you want a lot of blood flow. Like that's that's no doubt a good thing. One of the problems, actually, you probably can guess the problem. Emily, what's wrong? If we promote blood vessel growth into tissues too much.
+
+Emily: [00:31:11] I actually, I feel like this is like when my 14 year old asked me about her biology homework and I feel like I'm just, I'm I know, I don't know.
+
+Perry: [00:31:21] Cancer is begging for blood vessels to come into the tumors. And one of our main therapies to treat cancer is blocking VEGF, because it turns off that signal that the cancer is saying like, ooh, give me blood. Grow blood vessels into me. And then the cancer starves and dies. And so there is a theoretical concern that, you know, ongoing stimulation of receptors like this could lead to cancer. And we have no idea if that's true, because you kill the mouse, you know, a week after you give the injection. So just something to be aware of there.
+
+Emily: [00:31:50] When we look at this particular thing in people, I would say my read is that like, we don't have much evidence in any direction that this is effective in people. We don't have any randomized control trials. We don't have a lot of just we just don't have anything.
+
+Perry: [00:32:05] Correct. Only anecdote, which is unfortunately the problem.
+
+Emily: [00:32:08] Yeah, yeah. Anecdote is not data. I mean, this whole space, this Wolverine stack, all of the other stacks, the different things really has the the feel of like there's an interesting potential, something to explore based on the animal data, but nothing in the people data that would say this should be widely adopted based on efficacy foundation. And then we are worried about, you know, some of the potential risks to using such a treatment.
+
+Perry: [00:32:41] Absolutely right. And I think that's the prudent point. But we also have to realize that, a, there are a lot of people out there that are potentially suffering with something. And a lot of times, the medical establishment that I am a part of does a poor job of this. Right. They've got joint pain. They have some, you know. Yes, sure. They were told to do physical therapy. They're told to do strength training and things just aren't working. So there's a desperation there. Like this does fulfill a need that I think some people have. And then there's a whole group of people, you know, the kind of biohackers who are like, yeah, yeah, I understand in theory that we would like to have a large randomized trial to prove that this works, but I'm not going to wait for that. Like, this stuff seems great. My buddy says it's great. This guy online says it's perfectly safe. Um, you know, LFG like, let's go. And I'll sort of throw caution to the wind. I think as much as we can say like, well, guys, I don't know, there's no hard data. It's still going to happen. And so I think anticipating that this stuff is out there, we might want to try to give people some like tools to be able to separate at least what is potentially safe from what is potentially not safe. Even if we throw evidence out the window.
+
+Emily: [00:33:52] Yeah. So I want to start with actually the just noting that the okay, so let's kind of back up there. When we think about peptides, there are some peptides that people take orally other than some of these collagen peptides. Generally oral peptides are totally ineffective because they break down in your stomach and are not therefore absorbed. So if somebody is telling you, here are some gummies with this amazing peptide like that's just a money toilet, like you're just putting your money in a money toilet and flushing it away. Correct.
+
+Perry: [00:34:22] I think broadly, yes, there are ways to make peptides more stable in the GI tract. Oral peptide consumption is basically going to be safe. You know, even if you are ingesting like bee venom.
+
+Emily: [00:34:34] Because it's not effective. It's not it's safe because it's useless. Your stomach is eating it.
+
+Perry: [00:34:38] Correct. And so so I don't worry too much about people, you know, wasting their money on things. You know, I'm a I'm a libertarian in that sense.
+
+Emily: [00:34:48] No, I will say I worry about that because I feel like exactly to the point you had before, which is, you know, people are struggling with this. They want to get help. And then online, someone's telling them, oh, just take this gummy bee venom and like, it's going to fix all of your of your problems. I actually think that really gets in the way of people finding solutions that might actually work for them. So I am more worried than you are about the kind of I'm buying this unapproved thing that somebody on TikTok told me about, even if it is not actually unsafe. Although I agree with you, it's worse if there's a potential safety risk.
+
+Perry: [00:35:20] Yeah, I mean, the trick here is being honest with yourself and really trying to determine whether this thing that you tried, if you're going to try it, helped you or not. Like, is your life better or not? Is it worth the expense or not? We think I agree with you. It probably isn't most of the time.
+
+Emily: [00:35:36] Okay. But then there are the these products that you're injecting. So most of these peptides would be delivered to the extent they could be efficacious at all. They are delivered through an injection like a GLP one. But these, unlike the GLP ones, are not in an FDA approved product category. So generally, the FDA does not approve these peptides, which are made by compounding pharmacies and are not regulated because the FDA has actually now said they are illegal to compound, that includes the BPC 157 and all of these other ones. And so if you're getting these, they are not from an FDA approved supplier.
+
+Perry: [00:36:17] I think this is such an important point, and I want to play a clip here about someone who's trying to talk about safe sourcing of peptides.
+
+Influencer: [00:36:27] So today you and I are going to have a little chit chat about where you're getting your peptides from. There are a couple different ways that you can get your hands on peptides. One is going to your doctor and getting a pharmaceutical prescription for it. Option number two Compound Pharmacy. But there are two split offs that come up when we talk about compound pharmacies. So one is going to be pharmaceutical grade human grade made for human beings. The other is research grade. This is the one that I am telling my clients to stay away from. There's not the same amount of oversight we don't have.
+
+Perry: [00:36:56] So I really do think because, you know, if you're listening to this and you're like, well, I don't know. Joe Rogan says BPC 157 is good. Like, I want to get my hands on some BPC 157. It is important to know what the regulatory landscape is here. Compounding pharmacies are pharmacies that have a license to mix drugs. That's what compounding is. They can make their own concoctions under specific conditions, ideally sterile conditions that they can then sell for injections and things like that. Compounding pharmacies are regulated at the state, not the federal level, which gives this whole crazy patchwork of what's legal across the country. And because you can ship these things from state to state, it basically is like a lowest common denominator of what the compounding pharmacy can do. Many of the peptides that you'll see out there on Instagram are able to be made in compounded pharmacies, but many of the most popular ones, as you said, Emily, are not so BPC 157. This Wolverine stack peptide of Joe Rogan fame, um, was classified by the FDA as a category two substance, which is one that has significant evidence for harm and compounding. Pharmacies are not allowed to synthesize or create anything that is category two, or they lose their license. That's illegal. So if you're getting BPC 157, you're actually not getting it from a compounding pharmacy. You're getting it from overseas, almost certainly. And most of it comes from China. So again, BPC 157 I think is like the poster child for this set of problems. It's marketed aggressively. It's got I mean Wolverine stack like that is awesome.
+
+Emily: [00:38:34] Amazing.
+
+Perry: [00:38:35] Totally awesome. Like I'm a superhero fan. Like that is great marketing. It's got really impressive influencers.
+
+Emily: [00:38:41] Talking out of your hand. Like.
+
+Perry: [00:38:43] I mean, I would do it I would do it if you show me, um, you've got these impressive influencers talking about it. You have, you know, anecdotal evidence from anecdotal stories, I should say, from people saying how great it is, but it's actually like deemed unsafe. You have to source it from some external country, and we have no idea what its actual effects are. And that's sort of the space right now. It's like it's pretty much the Wild West. And when it comes to eating something, you know, I'm more experimental when it comes to injecting things into your body. Like, you don't really want the Wild West.
+
+Emily: [00:39:13] Yeah. And I mean, there are all kinds of examples in the past of things that were injectable that turn out bad. I was looking at this Scientific American article from a number of years ago about stem cells, where someone had injected some stem cells to try to fix some eyelid problem, and they ended up growing tiny bones in their eyelid, which need to be removed. I'm not saying that's going to happen here.
+
+Perry: [00:39:35] That is worse than the substance.
+
+Emily: [00:39:38] It is somewhat worse. I don't know, you may not have watched the substance. That's pretty gross.
+
+Perry: [00:39:42] It's pretty gross. Uh, but I mean, I feel like there is a general sense that injecting yourself with things, it runs a risk of of infection, and it is just a much more extreme approach to this than, say, eating something, which again, I don't think that makes sense in this context for almost any of these peptides.
+
+Perry: [00:40:03] Let me give you two more risks of injecting things into your body, as if we don't have enough number one allergy. As you may know, when we eat things, we have this whole immune system in our gut that surveils them for allergens and gives us tolerance to the things we eat. This is why, like Emily, I'm sure you've talked about, it's actually good for little kids to like, get kind of dirty and put dirt in their mouths and stuff like that so they have less hygiene hypothesis. Allergic reactions. Right. Um, that's what our GI tract does when we get what are called antigens, which are peptides or proteins or other things via another route, like the injection or sometimes the inhalation route, a whole different immune reaction occurs and that is an allergen forming immune reaction. It is worth noting that the first time you get stung by a bee is not when you have the anaphylactic response to a bee sting. If you're allergic to bees, it's the second time. The first time the allergy starts to get learned and woken up, essentially. And then the second time you get stung, you have the anaphylactic shock. As I said, there's infinite peptides you could theoretically inject into you. And it is likely that some, at the very least will cause severe allergies in some people. So be aware of that. Number two is what we call auto immunity. So your immune system is this amazing thing that surveils all the cells in your body and decides, is this me or is this something else? And in general, if you're healthy, it looks at your cells and says, oh yeah, this is me.
+
+Perry: [00:41:30] I don't need to attack this. This is myself. We're okay. Autoimmunity is when the immune system starts to recognize something in your own body that is you, but it doesn't recognize it as you anymore, so it attacks it. And, you know, lupus, for example, is the prototypical autoimmune syndrome where your immune system is attacking these various cells in your body. When you inject a protein into yourself, you form antibodies to that protein. That is how vaccines work. When we inject a Covid vaccine. Antibodies form against the spike protein, and that works because the spike protein is not you. And so when the immune system sees the spike protein again, it can attack that. Many of these peptides are derived from human proteins. And if your immune system starts to recognize those peptides as foreign, there's a chance that they might start to attack your own proteins that contain those peptides as foreign. And that could be really bad. It could almost do the opposite of what you want these things to do, right? Because you want these peptides to stimulate, you know, this system. And now all of a sudden you have antibodies that are directly attacking the system. That could be an issue in the long term.
+
+Emily: [00:42:40] That does seem like an issue in the long term. Okay, so Perry, I honestly feel like we could just list all of these peptides that exist in the world and just talk about why there's no evidence for them. You know, there's tb500, there's g siu, there are a million of these peptides. And if we talked about everyone, they can nearly all cases. What we would say was maybe there's a little bit of suggestive something in mice and there's nothing to say in people. And there are these risks of injecting yourself with random things which you want to be careful about. So I do want to acknowledge that people who are listening, who are like, I hear you about this, but ah, that sounds good. I'm I'm interested in trying. And so if someone came, you know, your your doctor, somebody comes to you and they're like, look, I'm really interested in trying to inject myself with a bunch of different peptides. I just feel like it's like, that's it for me this week. Uh, is there any way to ameliorate some of the concerns that you have about such activities?
+
+Perry: [00:43:44] Yeah. I mean, so, you know, you're probably not going to get them from me directly. Um, because I don't think the risk benefit calculus is there. But yeah, just to understand, let's accept the fact that people are going to do this. Like, you know, we cannot fight the tide.
+
+Emily: [00:43:59] Ben Affleck comes to you and asks for some advice. What's the advice?
+
+Perry: [00:44:02] All right. Um, Ben, what was up with Gigli? Did you need to do that? Like, was she pressuring you? Okay, if you're going to do it. Okay. Realize that if someone tells you that they're getting some of these peptides, like BPC 157 from a compounding pharmacy, they're not it's not legal. So it's coming from outside of the US. So so be a little skeptical of, you know, wherever you're getting them from. Um, if you are getting and there are places that do a better job of trying to be reputable in this space, and what they do is, um, they farm out the substance to an independent testing laboratory, which issues what's called a certificate of analysis, which basically says, like, we tested the stuff in here. And yes, it is what it says. It is the things you're looking for on a certificate of analysis. Number one is purity. Is it actually, you know, is is it clean? Is it the stuff you want? You want basically greater than 98% purity to feel comfortable. Number two, you want testing for something called endotoxin. This is a bacterial byproduct that causes sepsis and inflammation. You do not want endotoxin in anything you inject into your body.
+
+Perry: [00:45:09] It's also the thing that causes toxic shock syndrome. You want heavy metal testing. So a lot of these that have come from China and other countries are contaminated with lead and other heavy metals. So you want to you want the certificate of analysis to demonstrate there's no heavy metals there. You want sterility testing. So they've confirmed that it's sterile. It doesn't contain bacteria or anything. And finally you want to check the certificate analysis, which should list the batch number and the lot number against the one on the thing you're injecting. Or else it could just be referring to some other one that was tested years ago. And I know that sounds insane. And maybe that, more than anything else, is going to convince people not to use these things. But I do think if if all of these pieces are in place, you may be okay. I would not recommend long term use though, because we really just don't know the effects. And I am quite concerned about allergy and autoimmunity with repeated dosing. All right Emily, we've talked a lot here. What's your one thing about peptides?
+
+Emily: [00:46:07] Don't inject something in yourself that's not FDA approved just because it worked on a rat.
+
+Perry: [00:46:12] That's a good thing.
+
+Emily: [00:46:15] What about you?
+
+Perry: [00:46:16] I'm not ready to give up on this, but there's some serious snake oil vibes here.
+
+Emily: [00:46:21] Fair enough. All right, that's enough about peptides. Possibly too much. Who knows? Uh. Stay tuned after the break for our listener mailbag.
+
+Speaker12: [00:46:35] Hi, Emily and Perry, this is Eric from Cambridge, Massachusetts. I'm 44. And keep hearing about the so-called age cliff. You know, like in your mid 40s, you wake up one day and everything feels harder. Workouts just don't work. Weight creeps up, sleep gets, um, weird, and recovery just takes forever. Is this actually a thing or just a mix of lifestyle changes, stress, and not moving as much as we used to? What's actually happening like hormonally, metabolically around this age? Should I start wearing my pants higher now?
+
+Perry: [00:47:03] All right, so as a 46 year old man, boy, does this question resonate with me? Um, it's referring just so everyone knows, this 44 is referring to a study that appeared in Nature Medicine of about 100 people, if I'm remembering correctly, it across a range of ages, and it measured hundreds and hundreds of things in their blood, DNA methylation and all these things that are supposed to change with age. And what they were looking for is like, is there a linear decline in any of these things over time or in all of these things over time? That was the expectation. What they actually found was that there's kind of a linear decline over time, and then a more abrupt decline at around age 44, that then kind of levels out, and then another abrupt decline at age 60. And, you know, this has gotten sort of blown up to be like, these are the cliffs, like age 44 and age 60. That's the baseline. Emily's rolling her eyes. What's the truth, Emily?
+
+Emily: [00:47:56] I mean, I think there is almost nothing in biology that falls off a cliff like this. Like we have, there are so many things where people quote them as falling off a cliff. Your fertility falls off a cliff at 35. This and that. Like fundamentally, that is not usually how biology works. This is also not, in my view, a large enough sample size to really sort of definitively draw some kind of cutoff in this way. So I guess for me, like my prior is everything just gets worse slowly over time. And I'm not sure I update very much on that prior based on this fairly limited data. It is true that as we age, everything gets worse. Slow decline.
+
+Perry: [00:48:37] I have one other thought.
+
+Emily: [00:48:39] Okay.
+
+Perry: [00:48:40] Which is that this is based on personal experience, that this is the age like the mid 40s, when our kids are kind of old enough to fend for themselves a little bit more. And I, like we all start kind of venturing out more like I'm doing more activities. I'm like playing golf and I'm lifting weights, which I didn't do before, and I'm like, definitely injuring myself. And I wonder if it's just actually the fact that, like, we're doing, we're actually doing a little bit more than we would have used to, I don't know.
+
+Emily: [00:49:06] Yeah. This is the age where all of the men in my. I am also 46. And all of the, the sort of men in my social group have decided to, like, start playing soccer and lacrosse again and like, you know, somebody like, I'm going to play lacrosse, you know, the next time you see them, they're going to have a broken foot. And it's just like really, really consistent.
+
+Perry: [00:49:25] Exactly. That's the actual cliff.
+
+Emily: [00:49:28] I don't think that there is a an age cliff in this way, but the fact that as you age through your mid 40s, things start to feel harder, like that's that's true. And it's probably a time people have to think more about, you know, how to prioritize their sleep and and so on.
+
+Perry: [00:49:45] I do have a secret peptide that only I know that stops the aging cliff. But you have to subscribe to my.
+
+Emily: [00:49:52] Like and subscribe. Like and subscribe. I had one mailbag follow up from last week that I just I want. For the purposes of being honest with our listeners. So in last week's episode, the question was asked, you know, what is something you do? That's not based on evidence. And I said, you know, everything I do is based on evidence. And at dinner, my husband. Hi, Jessie listened to it. And dinner was like, I can't believe you said that. So much of what you do is not based on evidence. And so I just wanted to say that I, I then started reflecting on some of my behaviors, and I, I think he may be right. So for example, I'm having some sciatica. And so I am now routinely using a machine like electrically stimulates the glute muscles to try to fix my sciatica. And I do have to admit, I don't think that's based on evidence. So I apologize for not coming up with that last week.
+
+Perry: [00:50:51] An immense amount of transparency and honesty from the Wellness Actually podcast, separating us from all other people in this space who never backed down from anything they say, ever.
+
+Emily: [00:51:06] All right, that's it for us for today. Stick with us next week when we'll ask, what's the deal with cold plunges and saunas? Well, this actually is produced in association with iHeartMedia. Our senior producer is Tamar Avishai. Our executive producer is Jennifer Bassett. Our theme music is by Eric Deutsch, and our content is for educational purposes only.
+
+Perry: [00:51:28] If you like the show, help other people find us. Leave a rating and review on Apple Podcasts or your podcatcher of choice and help us spread the word about the show. Don't give the TikTokers all the power. And don't forget we want to hear from you. Head over to wellness and leave us a question for our mailbag, or suggest a topic for a future show.
+
+Emily: [00:51:48] We'll let the influencers have the last word.
+
+Influencer: [00:51:50] I've gotten a ton of questions about what a peptide even is, so let me make this stupid simple peptides are short chain amino acids. The fragments of protein. They're not steroids or drugs or some fairy dust that some influencer talks about. So imagine your body is like my 911 turbo S. Now imagine somebody handed you the upgrade file, the tuning file that gets your car to use all the stuff that it already has, but forgot was even there. That's what a peptide is. It's not forcing anything. It's saying, hey, you know all this hidden horsepower. Yeah. Do that. Peptides are like voice commands for your biology. They walk into the pit crew of your body and they say, all right, fire up a fat burn and we'll let you...
