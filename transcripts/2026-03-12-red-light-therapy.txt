@@ -1,0 +1,273 @@
+Emily: [00:00:01] Perry, I have been feeling, uh, like a liar as we've been doing more of these podcast episodes. And so I want to like come clean to you and the listeners. I spend a lot of time and we're going to talk about red light therapy today. And I'm going to tell you that I think it's a bit of a scam, but I do so many scammy wellness things and I feel like I'm not being honest about them.
+
+Perry: [00:00:27] Whoa. I feel like, first of all, I should put on my, like, priestly frock and, you know, prepare to hear this confession. But all right, I'm in the headspace. This surprises me. Emily, you're an evidence based person.
+
+Emily: [00:00:38] Yeah, I know, and I want to tell you that one of the things I think is so compelling about these wellness influencers online is they're selling people the thing they want. So they're telling you like you are worried about your wrinkles. And so you should get this red light mask or this cream or whatever. And the thing is, it's easy for me to say, like, you shouldn't do that because I don't care about all my wrinkles. That's not important to me. But I really, really, really care. Like an unbelievable amount about running fast. And I will do any crazy thing to try to run faster. The other day I spent $28 on four tiny bottles of broccoli sprout juice because the Norwegian ski team uses it. And I don't know if you watched that guy ski. He was really good. And my friend Shaina said it improved her long run and I was like, that's it, all right, no problem. I'm buying it right now.
+
+Perry: [00:01:32] I $28 is a small price to pay to get whatever it is ten extra seconds.
+
+Emily: [00:01:38] Who knows? It could be it could be as much as 2 to 3 extra seconds. I haven't tried it yet. They haven't come and I haven't tried it and I'm actually injured. So I'm also going to go do another thing this afternoon to fix my injury, which is called shock wave therapy, which is also probably a scam. Anyway, this is all to say, I just, I, I want to be clear to the audience that I am very susceptible to the internet, just maybe not the particular topics that we are talking about. Like today.
+
+Perry: [00:02:10] It is so important to recognize your own biases. We all have them. We're all human. We all have limitations. Um, and fortunately for when it comes to red light therapy, even if you don't care about your wrinkles, there's enough purported benefits across a wide variety of things that surely you'll find something that you're motivated reasoning will compel you to believe in and purchase these thousand dollar devices. Surely.
+
+Emily: [00:02:36] I'm hoping for that because, you know, so far it's only been $28 this week, but it could be more let's get lit.
+
+Emily: [00:02:44] I'm Emily Oster, I'm an economist and a data expert.
+
+Perry: [00:02:47] And I'm Perry Wilson. I'm a medical doctor. It's Thursday, March 12th, 2026. And this is wellness actually, because you're getting a staggering amount of health and wellness information nowadays from every source imaginable. And some of it is awesome.
+
+Emily: [00:03:03] And some of it is, well, actually bullshit. Fortunately, we're both people who know how to read studies, how to parse the data, and can tell you what's worth thinking about and what you can safely ignore.
+
+Perry: [00:03:16] But before we dig in, a note that this podcast is for educational purposes and should not be construed as medical advice. We don't know your unique situation, so talk to your doctor for personal health decisions. This week, we'll answer the age old question. Roxanne, do you have to put on the red light as we ask, what's the deal with red light therapy? Emily and I will give the official smash or pass, and we'll get to your question of the week. But first, let's do the health news roundup after the break.
+
+Perry: [00:03:57] We're looking at the health news now. Emily, the CDC has issued a new travel advisory for 32 countries over the spread of polio, a disease that is of particular interest to me. My mom had polio. She was, uh, actually in a in an iron lung for a period of time when she was 5 or 6 years old. So just to remind people how horrible this paralyzing condition can be. She recovered to the point where she was only paralyzed in the lower part of her left leg. But, you know, my mom walked with that limp for her entire life. She caught it just before the infamous Salk vaccine was developed and released, which essentially eradicated polio, at least in the West. I never like to see polio spreading again. Emily, what are your thoughts on the travel advisory?
+
+Emily: [00:04:48] So I also don't like to see polio spreading in. I mean, I think it's it's polio is spreading again for the same reason that measles is spreading again, which is some vaccine hesitancy. We actually maybe last year saw the first community spread non-travel associated polio case in the US. And very, very, very long time an unvaccinated teenager. I think in upstate New York. So most people who are listening to this, most people in the US are vaccinated for polio. The vaccine is extremely effective. And so the travel advisory is probably not something that is going to cause people to change their travel plans unless they are not vaccinated for polio. But you really should be vaccinated for polio.
+
+Perry: [00:05:30] Yeah, it's one of these things where some of these diseases, I think people have kind of forgotten. They forgot. They forgot how bad it was. So it's like, oh, no, like what is polio even? Right. But it's real.
+
+Emily: [00:05:40] Yeah. And it's not, it's not too long ago. I mean, the rates of polio in the 1950s, I think it's hard for for people our age, we don't remember that. But for people our parents age, they do. And this was a really, really, really scary thing where healthy kids were dying, were spending time in iron lungs because of being at the pool. So polio bad. All right. A new randomized trial has found that a daily multivitamin decreases something called epigenetic aging. Perry, have you upped your multivitamin intake as a result of this exciting new finding?
+
+Perry: [00:06:13] Oh, I, I have not. Um, as, as you know, I'm not a big vitamin and supplement guy. Um, and despite what you see on social media about a multivitamin a day reducing genetic clocks, I'm not really buying it. This is a subanalysis of a trial called cosmos, which did randomize people to get either a multivitamin a day. It was centrum silver or cocoa extract or both or placebo. So four groups followed them for a few years. And the original cosmos trial was designed to show that cocoa extract reduced the risk of cardiovascular disease. It didn't. Um, but they've done subanalyses over and over and over again. This one looked at what are called epigenetic clock. So as you age, your DNA gets these little methyl groups attached to it. It's like dust on the mantel of our lives. And it does correlate with age. You can measure that and assign someone a biological age that might differ from their calendar age. So like I'm 46, but maybe my DNA age is like 50. And there are studies that show if your biological age is older than your calendar age, that that's bad. Like you have higher risk of cancer and cardiovascular disease and death. Like there is something there. Here's the problem. There are multiple different aging clocks. Like there's one clock on your wall. There's like any number of algorithms that will spit out an age based on DNA information that you feed it. And in fact, in this study, they used five different algorithms. They examined those five different algorithms across two different time points. So now we've got ten things and across two different interventions a multivitamin and cocoa extract. Now we have 20 things. Okay. Of those 20 things, two and only two showed any statistically what we call statistically significant trend in benefit. And that benefit was very small. What's the problem, Emily? You you know what the problem is?
+
+Emily: [00:08:11] It's the problem is that that is called p hacking. Perry. I mean, this is something I think we should spend more time on at some point, because I think it's actually a really important statistical point. But put very simply, if you have those 20 different effects, 20 different things you're looking at, even if there is no effect on any of them, you would expect probably one of them to show up as very statistically significant, maybe two, because that's what statistical significance means. And I don't want to like ruin this whole episode by explaining statistical significance. We'll ruin another episode on that. But Fundamentally, this is not a real result. This is just. I tried a lot of different things and I picked the one thing that worked. And you can always do that with statistics, but it is not consistent with it being true.
+
+Perry: [00:09:01] Exactly. I will just make one note, which is that whenever I come down hard on vitamins and supplements, someone comes after me and is like, you're. You know, these are natural things and you're a pharma shill. And I just want to point out that in this particular study, the Centrum Silver, uh, was donated and partially funded by the makers of Centrum Silver at the time. That was Pfizer and GlaxoSmithKline, and the cocoa extract was provided by the Mars Corporation.
+
+Emily: [00:09:26] And I just want to disclose that I take vitamin D and vitamin B every day, because somebody told me it was good for my performance. C cold open. Okay, last thing I want to talk about is the baseball pitch clock. Okay. The baseball pitch clock theory is a thing that I think the goal of this is to make baseball less boring because it was taking too long. And then now it's fast because you have to pitch real fast. You can't just screw around spitting on the ball and like stretching and pulling up your pants or whatever it's due. I'm not a fan of this sport, and I believe there was some concern that making people pitch really fast. Uh, it was going to increase this very common injury in pitchers sometimes called the Tommy John injury. I think it's a UCL tear, but it sounds like that's not true. No concern there.
+
+Perry: [00:10:11] The most recent study suggests probably not. The Tommy John injury is clearly becoming more common. Um, especially in younger pitchers like high school kids are getting more and more surgeries for the UCL is the ulnar collateral ligament tear. But the Tommy John surgery is what it's called, in part because pitchers are throwing much faster, like training regimens are getting them stronger. They're putting a ton of stress on that elbow. I mean, I remember when I was a kid, you know, like baseball, but like if you saw someone throwing a pitch at 100 miles an hour, you were like, Holy cow. Like what a fastball. And now it's like routinely They're throwing these 100 plus mile an hour fastballs. It's ridiculous. This new study examined changes in UCL injuries since the pitch clock, and the thought was that you're just pitching faster, more like you're doing it more often. So maybe you're going to hurt. Overall, no effect. There was you know, we're skeptical of subgroup analyses, but I will say that starting pitchers tended to get a little more frequently injured than the rest of the pitchers. We probably don't want to overread that. If anything, the rate of Tommy John injury is increasing because of sort of the the way we have optimized for this thing, which is throwing balls as fast as possible, which is not really what our arms are designed for.
+
+Emily: [00:11:25] I also think there's a sort of interesting thing here around youth sports that kids used to do more variety of sports. The increased youth sports specialization has pushed kids to do more and more and more of one sport early on, when your ligaments and so on are more susceptible to overuse. Um, so I think that is part of what we've seen more of this in high school kids over time.
+
+Perry: [00:11:50] And that's it for the Health news of the week after the break. What's the deal with red light therapy.
+
+Emily: [00:12:01] All right. So let's talk about red light therapy. So for people who are not on the internet, red light therapy refers to the idea of putting red lights lights with a particular wavelength. We'll get into that on your face, your wound, your body, your brain in a helmet in some way, exposing some part of your body to this light. And it's supposed to improve a wide variety of things. So the way I would like to structure this is I want to talk about why we might think this would work, but then really think about the relationship between biological plausibility and is it likely this actually works for the things that people say that it works for, but then also is buying that red light mask on Instagram. Like the way that I should implement this, even if it works. And I think those are always really important benchmarks in these discussions. Like, is it plausible? Are we seeing it in studies? Is it actually something you could implement on your own? So if that works for you, I want you to tell me why we would think putting lights on our face is good or anywhere, and why. What is this thing?
+
+Perry: [00:13:06] I thought we might get through an episode without talking about mitochondria, but here we are.
+
+Emily: [00:13:11] So far, no.
+
+Perry: [00:13:13] So far. So far no. This is so biologic plausibility. This is like the central technique of wellness. Influencers. To sell you on something is to convince you that there is a biologically plausible mechanism, and then jump to the conclusion that because there's plausibility, it must work. And I think we can teach people anything. It's that that you have to prove that biologic plausibility is table stakes for something that you're going to invest in for your health. But let's talk about the table stakes, because at first you hear it and you're like, I'm going to shine red light on my skin. Like what? Of course that doesn't work. That seems ridiculous. It's not actually ridiculous, so I'll try to go through this very quickly. First, a bit of physics. The wavelength of light.
+
+Emily: [00:13:54] I'm sorry, but when somebody starts with I'm going to go through this quickly and then begins with just a bit of physics. Parry. Let's do it. Do it quickly. Just a tiny bit of physics, though. A little bit teeny bit.
+
+Perry: [00:14:04] All right, let's start with the big bang. I'm going to start with the Big Bang. Okay. The universe was hot and dense. Okay. No skip forward light. Light has wavelengths. Longer wavelengths are redder. Shorter wavelengths are bluer. As wavelengths get longer, you go in the visible light spectrum. You go from blue to red to infrared. And the longer the wavelength is, the easier it passes through stuff. The longest wavelengths that you're typically exposed to are probably radio waves, which are very long, much longer than infrared light. And they go right through your walls and through your body and all these kind of things, right? So wavelength matters Because of that, some wavelengths of light can actually get below the surface of your skin and even slightly deeper. We'll talk about that. Okay. In your cells, there are mitochondria, the powerhouse of the cell. As you learned about in high school, what's actually happening in mitochondria is called aerobic respiration. Aerobic means having to do with air. But in this context it means oxygen. So mitochondria are the things in your cells that metabolize the oxygen you breathe and help turn it into energy by combining it with byproducts of glucose and other energy containing molecules, they are burning the gas of your cells, basically to make the ATP. That is the energy of your cell. And this is a very complicated process in the mitochondria is a protein called cytochrome c oxidase. And cytochrome c oxidase is the final step that the mitochondria needs to transform glucose and all the other sugars and other sources of energy you need into ATP, which is the energy your cells use. It's very critical. If you were to try to kill someone with cyanide, the way you would kill them is because cyanide binds irreversibly to cytochrome c oxidase, shutting it down, which shuts down all your mitochondria and all your cells start to die.
+
+Emily: [00:16:02] Fascinating. Okay.
+
+Perry: [00:16:03] Very important. Okay.
+
+Emily: [00:16:04] Noting that.
+
+Perry: [00:16:05] In 1981, a paper comes out entitled cytochrome c oxidase is a possible photoreceptor in mitochondria. And Emily, in layman's terms, what do you think that means? No. Just kidding.
+
+Emily: [00:16:21] Going to kill you with cyanide, Perry. And that's what I'm taking from this conversation.
+
+Perry: [00:16:25] All right, what that means is that this is a protein that light interacts with, which is odd because most of the proteins that light interact with in our bodies are in our eyes and like some in our skin to help make vitamin D and stuff like that, but a little bit unusual to see it in mitochondria. And I suspect it probably comes from the bacteria that the mitochondria were in our deep evolutionary history or something. So in a petri dish, it has been shown that certain wavelengths of light interact with cytochrome c oxidase. And this begins the entire like red light therapy movement. Essentially what happens when you shine red light of certain wavelengths? So we're talking wavelengths of somewhere between 600 and 800 nanometers. There's different frequencies that seem to work better. And worse is that it changes the electrical state of cytochrome c oxidase and makes it work a little bit more efficiently. Now you're going to see influencers online tell you that it like kicks out nitric oxide from cytochrome c oxidase. I actually don't think that's true, but we don't have to go into that. But it clearly does ramp up in a petri dish. It ramps up the production of ATP. That's the fuel of your cells by shining light on this thing. And that's interesting and surprising that you could give a little light and you would slightly increase ATP production. And then we're off to the races, right.
+
+Emily: [00:17:51] And I think then because ATP just to sort of step back, because ATP is such an important driver of our cell and driver of all kinds of things, I think that is why this has become a space where we're evaluating the potential of this therapy for like almost anything, because it's like ATP, we're using that all the time. That's like how your cells.
+
+Perry: [00:18:11] Yeah, if you don't have it, you literally die. Right.
+
+Emily: [00:18:14] So before we get into the details, I do want to double click on the, you know, this is a really cool paper from 1981, but the beginning of the summary of this paper says the effect of light on respiration of intact mouse liver mitochondria was examined at various temperatures using various inference filters. And what that means is in this study, you know, it's not that they went to people and they did stuff to them and they saw how it's they have some mouse liver mitochondria in a petri dish and they're putting light on it. And then they're seeing what happens. And it's super, super cool science and very interesting biological plausibility, but not some direct like we shine light on people and things happened. And that's what you then need to evaluate in these studies, right?
+
+Perry: [00:18:58] So again, the way that wellness space tends to work, like if I wanted to be a very popular wellness influencer, I would be like, look at this. It's amazing. It increases ATP by 20% and here by my thing, and it'll increase your ATP by 20%, and that'll make you younger and more virile. And like everything will get better.
+
+Emily: [00:19:16] There's a really big gap between that.
+
+Perry: [00:19:19] We got to tie those things together. So let's tie them together.
+
+Emily: [00:19:21] This time together. So they're actually because of this, ATP is so important. There are many, many, many, many, many things which people will claim. And so I think we should start with actually something that is that is real. There is, you know, there are is at least kind of one thing in this space, I think, which is called photodynamic therapy, that is a a real positive red light effect. So tell me. Positive effects.
+
+Perry: [00:19:45] Yeah. Um, photodynamic therapy. I mean, this is this is this is definitely real, but it's definitely not the wellness space. So what photodynamic therapy is, is a combination of light plus some chemical, um, to affect a change in the cell. So this is usually used for skin conditions like actinic keratosis which is a precancerous skin condition. You put a special cream on the spot on the skin. The cells sort of take up that cream. And then you shine light of a certain frequency on that area. And the cream undergoes a chemical reaction that creates a toxic byproduct. And the idea is that, you know, like a chemotherapy, the cells that took it up get killed because these are precancerous cells that you're trying to kill. And because light, as we pointed out, doesn't penetrate that far beneath the skin. We should probably talk about how much it penetrates you limit the toxicity of that therapy. So like, yes, these things exist. Obviously it's cool. It's like a combination of light and medicine. I like it, but that's not really what people are talking about online.
+
+Emily: [00:20:51] Yeah. And that's something that if you had this condition, your doctor would potentially prescribe this, but it is not something you would do on your own because there's a weird dry spot on your face.
+
+Perry: [00:20:59] Exactly. I mean, I think where the bulk of what I'm seeing online is about skin, skin, skin related stuff, wrinkles and discolorations and acne and things like that. So, Emily, I know you've thought about this a bit. What is the evidence suggest in terms of red light affecting meaningful changes in people's skin? I know you don't care about it. You've told us you don't care about wrinkles, but I do.
+
+Emily: [00:21:24] So I think this is a very interesting space because it's actually quite hard to study. So imagine that I do something to you and I tell you, like, here, Perry, here is this cream, this mask, this whatever, like, use it on your face every day for three weeks and then come back and tell me how you feel like your face is okay. I could give you almost anything. A bottle of Aquaphor, some, you know, Cetaphil face wash, a cream glow recipe from my kid. Whatever it is. And you would come back and you'd be like, I think my face looks amazing. And that's called the placebo effect. Basically, we are really susceptible to like the suggestion that something might work. So one of the issues with many of the studies of these masks or these kind of red light wrinkle treatments is that they are using as the perceived outcome, either the sort of evaluation of the individual or an evaluation of, of an investigator who kind of knows, potentially knows whether somebody was in fact using the red light mask. And so what the ideal approach to a study like this is to have a blinded approach where some people get red light therapy and some people get a placebo, but the placebo needs to actually seem like red light therapy. But since the therapy is just putting light on your face, it's actually very hard to have a placebo form of this. It's not that it's not like a pill where you can give them a pill and it looks the same, and then you can have a placebo. So I think a lot of the studies of this, just like before we get into the results, a lot of them are really pretty limited because it's very, very difficult to have like what's called a sham placebo.
+
+Perry: [00:23:05] But you could have a blinded evaluator, like so instead of the person that did the therapy, just like have their picture or, or something and have some third party decide if their skin looks better or not, right?
+
+Emily: [00:23:16] And so the better studies do that, but even there, you want a sham placebo because like, how do you know the effect is red light rather than something else? Right? And so, I mean, maybe that doesn't really matter. But if you actually care about the sort of biological plausibility and linking that to these effects, we would like to test this particular, you know, this wavelength or this, you know, this particular treatment. And that's very hard to do without having a true placebo because maybe there's an effect, but maybe it's not really about the red light. Maybe it's about the laying down and the having the warm stuff on your face, like, I don't know, right?
+
+Perry: [00:23:53] Or the patient or the participant in the trial kind of knows they're getting the red light because as you say, it's hard to placebo and they like wash their face more or something after and moisturizer.
+
+Emily: [00:24:03] Whatever it is. So, so when we look at these studies, there are a small number of mostly very small sample size RCTs, some of which show maybe some small impacts of some red light therapies in sort of different directions. I would say my take on this is the effects are generally very small, and the dosing is really inconsistent and in many of the cases, it has the problem that, you know, there's 12 different things we can measure about your wrinkles. And, you know, two of them, it kind of seems to work. And most of them it doesn't. So this is not a statistically very compelling literature. I'm not sure that I would say we completely rule out any possible small effects on on wrinkles or other sort of skin elasticity. But you know, it's not Botox for getting rid of your I mean, just realistically, this is not a very large impacts and I think it will be hard to study. I mean, I think it's not I'm not sure we're going to get really super to the bottom of that, uh, just because of this sham, because of the sham problem.
+
+Perry: [00:25:06] Let's move off of skin then a little bit to some of the other claims that people talk about.
+
+Emily: [00:25:13] One I was extremely interested in is wound healing, um, which feels like a, again, a more directly medical thing, but maybe something where there's a little more positive evidence.
+
+Perry: [00:25:24] Maybe, maybe, But not really. Um, yeah, so I dug into this a little bit. Um, most of the literature here actually comes from real medical device studies, not so much the wellness space. So we're talking about, um, lasers being used to treat diabetic foot ulcers and things like that. There was one decent randomized trial. I mean, also small 30 people, but nicely blinded in this case. Um, these were patients with diabetes who had diabetic foot ulcers. And they did demonstrate some accelerated wound closure through the use of this very specific 904 nanometer laser that is not available to be purchased anywhere. This is a medical device that is used in certain doctor's offices. This is one of the meta problems of red light therapy. Is that like red light, this isn't like a chemical, like an antibiotic or a chemotherapy drug that is difficult to synthesize and requires a giant lab like. You can buy a red LED at. You know, I was going to say RadioShack, but you can't because RadioShack.
+
+Emily: [00:26:35] Don't have that anymore. Home depot, Amazon.
+
+Perry: [00:26:39] Amazon, Htmu. And you can buy these things for, you know, cents.
+
+Emily: [00:26:43] Does that sell this? Probably.
+
+Perry: [00:26:44] I bet it does. It definitely does. But you know what I'm saying. So you do also have to be careful when influencers are like, oh, look at this study. And it does show this good. It's good for wounds. And they're using like this very specific type of thing that is not necessarily what you're buying online. Yeah. Again, is there plausibility a little bit, but, um, I don't think this is something that you really should be strapping to open wounds or shining at open wounds necessarily. I think you should be using your triple antibiotic ointment and.
+
+Emily: [00:27:16] Bandaid.
+
+Perry: [00:27:17] And a bandaid. Yeah, let's move off of wound and go to like weirder, weirder stuff. Let's go to the head because I saw some people arguing that this red light therapy might improve cognition or thinking.
+
+Emily: [00:27:32] No.
+
+Perry: [00:27:32] I'm skeptical.
+
+Emily: [00:27:34] Emily so this is a place where I think the biological plausibility kind of falls down, right? So you talked about sort of different wavelengths at the beginning, and the idea that this sort of might work by wavelengths kind of these longer wavelengths being able to penetrate your skin. It's not really obvious that those wavelengths could penetrate far enough to be into your skull. I think there's like disagreement about surely some wavelengths like radio waves go long enough, but it's not clear that even at the upper end of the wavelength of red light, that they can actually get into your brain.
+
+Perry: [00:28:08] Yeah. I tried to look at this. And for red light that you can see, so not infrared, but kind of deep red light that you can see the penetrants into the skin is about a millimeter. So we're really, I mean, a millimeter is a tiny, tiny amount, maybe enough to get at some of the cells that have to do with wrinkles and stuff, you know? But but definitely not deeper than that. The infrared light can maybe get five millimetres beneath the skin, but you sure aren't getting through the skull with that kind of light. Like your brain is staying dark.
+
+Emily: [00:28:41] So there's one kind of double blind, placebo randomized controlled trial of evaluating people with traumatic brain injury. And, you know, broadly, it kind of shows nothing. Um, they don't have any symptom improvement on the sort of standard measure of symptoms on this, which is a questionnaire. There's like some stuff in that paper saying that maybe when you put people in MRIs, like on one of the metrics that you measure in the MRI, maybe there's something statistically different. But again, we're in a space where we're looking at an awful lot of different outcomes, and one of them is working. And that's kind of how statistics works. Uh, even if the results are zero. So the combination of lack of biological plausibility and lack of any real good evidence here, I think there's this feels like a real no go. Yeah.
+
+Perry: [00:29:34] It's it's it's a reach. Um, when you've got a lot of placebo effects and issues with blinding and things like that, sometimes the animal literature can clue you in. You know, we often see positive studies in animals that don't work in humans. That's a typical pathway. But this is one of those cases where actually the study in mice is negative. So there are mice that develop Alzheimer's disease or an Alzheimer's disease like condition with the same sort of brain pathology that humans have. Um, and they can test them by their ability to get through mazes and stuff like that. And they tried near infrared, 810 nanometer transcranial therapy three times a week for five months. And the mice got no better at working through mazes or doing any of the problem solving tasks that mice are good to do. Um, so we're here. We're. Yeah. I agree. Limited. No. Essentially no. Biological plausibility.
+
+Emily: [00:30:24] Not for people and not for mice.
+
+Perry: [00:30:26] Probably not strapping it to your head for that reason.
+
+Emily: [00:30:29] But what about Perry? Okay, so obviously on the internet there. I think that that women get more of the wellness influencer push, but the one thing that men are really, really into is their hair. Men really don't like to lose their hair.
+
+Perry: [00:30:45] I can confirm that this is true.
+
+Emily: [00:30:47] And so this comes up as like red light for hair loss. So should I put red light on my head for hair loss if I am a man or a woman, I guess. But men specifically.
+
+Perry: [00:30:56] I think I have good news and bad news here.
+
+Emily: [00:30:57] Okay.
+
+Perry: [00:30:58] From from from from my read of this research is that the good news is that red light therapy seems to be maybe as effective as minoxidil or finasteride. The two most common medications that we use for hair loss in terms of hair regrowth. The bad news is it seems to be as effective as minoxidil and finasteride for hair regrowth.
+
+Emily: [00:31:23] Just to say.
+
+Perry: [00:31:24] To say.
+
+Emily: [00:31:24] Not very.
+
+Perry: [00:31:25] We're not good at this. Um, and this is something like. Like you don't care about wrinkles. You care about your, uh, your running times. I care mildly about wrinkles. But boy, I would take, like, a thick, luscious head of hair. Like I yes, I am into it. And so this is where this is where they twist the knife on me. So yes, there have been some studies which showed increased hair density with near infrared and deep red therapy about an increase in hair density of 41 hairs per centimeter squared. Um, and I had to look into like how good that is. But again, that's similar to what you see for finasteride. There was actually a, believe it or not, a randomized head to head comparison of minoxidil and red light therapy for hair regrowth. And there was no difference between them, which again could be because neither of them work, but it could be because both of them work. I mean, I will say that minoxidil and finasteride both are medications that have side effects. Minoxidil can lower your blood pressure, lead to a little bit of dizziness when standing up, things like that. Finasteride can have some sexual side effects reported and things like that. Whereas the adverse event rate for red light therapy is very low. So I'm not willing to write this one off completely, but I'm. Even if I were really excited about this, I come to the same problem. And I think we've got to address this at the end is like, okay, sure. Let's even say like, yeah, this works as well as finasteride and I might as well try it. What do I do? Right? Like what, what am I supposed to buy? Finasteride is a prescription.
+
+Emily: [00:33:04] Yeah. This is the sort of core problem with this space because in some ways, this is a very simple idea, like we're going to put some wavelength of red ish or read more, read less red light onto something. Your head, your face, your wound, your something else. There is no like specific wavelength, specific criteria, specific dosing. Every one of these studies has a slightly different wavelength, a slightly different delivery mechanism, a slightly different dosing, a slightly different time frame. It's all like really wild West. And so relative to some kind of medication where you'd say, okay, we're evaluating a medication, we have a dosing schedule, we have a dosing amount. You take the medication, we know exactly what the activity is you do to get the treatment effect. This is a place where even if you said, okay, you want to use it to grow your hair, we wouldn't really be able to give super specific information about what to do or what to buy or how to achieve it.
+
+Perry: [00:34:02] I tried to keep like a running list of the parameters that these different things could have. And so, so there are different wavelengths. You mentioned that there's different power density, right? Like how much wattage do you put into these bulbs? Basically there's different what they call fluence, which is that total energy delivered during a therapy session, right? So if you think is more, better is less better, some of these pulse at different frequencies. I have no idea if that makes a difference. And then there's the timing. Are you doing this every day? Are you doing it for 30 minutes? Two hours, you know, just once a week, etc. when you have a parameter space that big, it's nearly impossible to read any study. And unless you're using the exact same device that was used in that study, it's really hard to know that you're getting anything similar to what was actually studied. Yeah. All right. This is stressing me out, thinking of all the different possibilities for red light therapy. It's affecting my mood, but fortunately, I have something for you. Red light therapy.
+
+Emily: [00:35:01] No you don't. Okay, I actually, I want to talk about mood because I think that the, the evidence on mood, the way that that the impacts of the sort of idea that red light therapy might improve your mood. I think the way that literature has moved is actually really interesting thing about science and almost a cautionary tale. So there's like one series of papers in a set of trials called the Elated trials. And so what happened in these trials was there's like a pilot trial where they did a actually quite good, like double blind, sham controlled study in which they tried to deliver red light therapy to people with major depressive disorder. And they found in this small initial pilot that the effects on the subjects were much like the people who were treated were much more likely to be doing better than the people who were controlled. So it looked like it had a very big effect. But when they looked further into that particular study, they actually found that although they intended for the treatment to be blinded to the evaluating clinician, the evaluating clinicians like 80% of the time, were able to figure out what the treatment was. So like, effectively, they were, even though they had tried to blind. They were not blind. Yeah. And so then they sort of took this as what it should be, which is like, this is an interesting suggestive hypothesis, but not conclusive with 20 subjects and this problem. And then they went to a much bigger study of like 50 people across multiple places, and they did the same thing and they found nothing. And so it just turned out like in the better data, this does not seem to impact depression in this way, but I think it is a sort of it's a good illustration of the kind of follow up studies you'd want for other things in this space if you thought, hey, this might work for this, let's do it in a larger setting where we're testing something much more specific, where we're doing much less P hacking. Uh, that's kind of how science should work. It doesn't often doesn't totally.
+
+Perry: [00:36:57] The power of replication is, is, is so huge.
+
+Emily: [00:37:00] I mean, we do know that light affects mood, which is different from red light therapy affecting mood. I mean, I know because this winter is very depressing for many people.
+
+Perry: [00:37:08] Oh yeah. Yeah. For seasonal affective disorder. Yes. Uh, light box Therapy has clearly been shown to improve mood.
+
+Emily: [00:37:15] But it is not red. It's white.
+
+Perry: [00:37:17] It is not red. It's multi spectrum. Like the sun.
+
+Emily: [00:37:19] Like the sun. Um, so another thing that I see a lot is, uh, in the sports people is red light for muscle recovery. You know, I'm going to sit under a red light thing after my workout. Yes. No. Should I buy that? Probably. Yes. Right. I should buy it. I'm going to buy it. I'm actually ordering it right now.
+
+Perry: [00:37:38] I mean, if I told you it would make your long runtime faster. I know you're going to get your credit card out right now. So again, I think the depth of the tissue is the key biological plausibility indicator. Here. Again, even the infrared light therapy is only getting about five millimetres below the skin. So if you're talking about stuff that's deep and you know, five millimeters is well, a quarter of an inch, right? Like this is, this is really not getting very deep. So if you're talking about any sort of deep tissue stuff, it's just not plausible that the light gets there. There are muscles on the surface, and there are joints that are sort of in the surface. Even that I think is probably too deep. I will say that if you look, you'll see some randomized trials in some athletes where they did see like, for example, one trial in 40 healthy subjects saw that they could do more reps after being given some of this red light therapy, as opposed to when they hadn't been given the red light therapy. You've pointed this out plenty of times. Reps is totally susceptible to placebo effect, right? You just believe in yourself and you can do more. I'm not very compelled by that. There's a nice negative trial, which looked at people doing eccentric bicep curls to exhaustion and compared a variety of different light sources, and there was no difference across any of these groups. So it doesn't really make sense to me for exercise. It just doesn't get deep enough. That's basically the bottom line. There are, I think, a couple other things that we can just quickly knock out that I've seen online.
+
+Emily: [00:39:19] Things we can reject.
+
+Perry: [00:39:20] Yeah, I think we just have to cross them off the list. Uh, so testosterone.
+
+Emily: [00:39:26] No fat fat loss. No.
+
+Perry: [00:39:29] Although although where are you shining the red light for the testosterone that actually.
+
+Emily: [00:39:33] It seems like a source of sunburn. I don't know, that feels like things could go very poorly.
+
+Perry: [00:39:38] We'll talk about that when we talk about safety.
+
+Emily: [00:39:41] Fat loss is a no. This is not this is not going to give you better fat loss.
+
+Perry: [00:39:45] Yeah. So taken all together before we move on to sort of the safety issues is like maybe for things that are very superficial, basically we're left with maybe some skin, maybe some hair.
+
+Emily: [00:39:57] Maybe, but very, very small effects. I mean, I think we always want to think about, you know, is it likely that this is the like life changing, you know, is this the difference between a full luscious head of hair and baldness is the difference between looking like you're 60 and, you know, is this going to turn you into a 30 year old? No. Could there be some very marginal effect where when your partner squints at your face really, really carefully, maybe it looks a little bit different for them. Maybe. Also, why are they doing that? And so I think those are the like that. For me, it's just like a, like maybe it's something there, but also it's definitely not something important.
+
+Perry: [00:40:37] Okay.
+
+Emily: [00:40:38] So then there are two other like sort of downsides, I think are we're talking about here. So one is the question of just like, is this safe? Like, let's say I, you're like, yeah, I hear you, Emily, but my partner does squint at my face a lot and I really want to get these small improvements. Should I be concerned about safety?
+
+Perry: [00:40:53] Yeah. Again, one of the problems is there's a million of these devices online. And and it can be really hard to know what to get. We can talk about that in a second. But one aspect of safety is just like. These are electronic devices that may be manufactured in less than safe conditions, and things can spark and catch on fire and stuff like that. That's sort of the generic like, don't buy these things from Htmu bit of warning, but biologically, there's some concern here too. Even in the petri dish studies, they found what's called a biphasic response. Depending on how much red light they put on these cells, it seems like at the lower level, at kind of the right level, you increase ATP production and the cells kind of do their thing a little bit better. If you exceed that, you start to generate what are called reactive oxygen species. You're essentially like goosing your mitochondria too much, and it causes these inflammatory oxygen molecules to be created, which can actually kill the cells. So this is a mechanism that is one of the ways that light can actually hurt you. It can cause inflammation and things like that. And so there's this therapeutic window where like, there's the right amount and there's too much, and we don't really know what that is. So I would say if you were going to use this, you probably don't want to like leave it on your face overnight or whatever you're doing. The second thing is, as you alluded to, is heat. So these things give off a lot of heat. In fact, one of the complaints I saw in some of the products online is that they're loud, which I didn't really realize, but they're loud because they have fans in them that are, you know, blowing off the heat from all the LEDs that are going through them. So they've got the fan blowing. That heat is potentially damaging, particularly if it's right up against your skin. It's also one of the mechanisms that these things might work.
+
+Emily: [00:42:44] It could be how it works, right.
+
+Perry: [00:42:46] We talk about muscle strain. It's like, oh yeah, the light doesn't get to your muscle, but.
+
+Emily: [00:42:50] Just warm like a heating pad. Yeah, we have that. I have one of those.
+
+Perry: [00:42:54] It's a heating pad. Might work. Yeah, exactly. And it's a lot cheaper to get a heating pad. But. But too much heat can cause, can cause problems. And so generally these things are pretty safe. But but there are some theoretical concerns that people should be aware of.
+
+Emily: [00:43:06] I think the much bigger problem is these things are incredibly expensive.
+
+Perry: [00:43:09] Oh my God.
+
+Emily: [00:43:10] Led lights are cheap. So if you just go to, you know, Home Depot and you get some LEDs, like that's that's nothing. Uh, but these masks are like, I mean, this stuff is really expensive.
+
+Perry: [00:43:21] Thousand $1,500. And I tried to like, I was like, how much could this possibly cost to make? And I know it's not just LEDs, which cost like a cent to maybe $0.50 each, but like, I know there's like some, probably some circuit boards and stuff in there, but there's no way these things cost $1,000 to make. I think these are all drastically inflated.
+
+Emily: [00:43:43] Cost plus pricing. Uh, it's the cost plus the marketing budget. And that is most of it. Most of it is the marketing budget. So, I mean, I think there are some of these devices that are sort of FDA cleared, which I think makes people feel like they are more legitimate. That does not defend the pricing, though.
+
+Perry: [00:44:05] No, FDA clearance has nothing to do with pricing. But if people are. Again, if you are looking for something. This is one way to distinguish one product from another. So an FDA cleared device is one that has gone through Pre-marketing approval from the FDA. It's not that high a bar. They just have to prove that they're substantially similar to an already approved device. So it's called a predicate device. They have to show safety in some manufacturing parameters. So at least you kind of know that like they went through a process. It's not a total scam. They also if they are FDA cleared, then get the ability to make health claims, which are those, you know, you've seen on, on non FDA cleared devices, right? This is not intended to diagnose, prevent, cure or treat any disease. So devices that haven't gone through the FDA can't say that. So you'll see the Non-fda cleared face mask that say promote, you know, facial.
+
+Emily: [00:45:07] Wellness.
+
+Perry: [00:45:07] Facial wellness. But they can't say like, we'll treat acne or like, we'll treat rosacea. It doesn't mean they don't work per se, but that FDA clearance is something you could potentially look for. But it comes at a premium.
+
+Emily: [00:45:21] Yeah. All right, Perry, red light therapy smash or pass.
+
+Perry: [00:45:27] I am passing at the current price. I do think someone invents something to put on my scalp that costs, like 100 bucks and actually works. I might, I might do it. How about you, Emily? Smash or pass?
+
+Emily: [00:45:44] Uh, I'm a pass on this. I think that the effects are not big enough. And I think the likely actual effects, if you really got good ones, would be even more minuscule than the ones we estimate in the trials. And so I'm a pass. Save your money. Spend it on Botox if that's what you want. That's my feeling.
+
+Perry: [00:46:06] Roxanne, you don't have to put on the red light.
+
+Emily: [00:46:11] You're really going to make that work? You're going to make it work. So that is it for red light therapy. Your mailbag. Question of the week after the break.
+
+Mailbag: [00:46:24] Hi, Emily. And Perry, this is Adrianne from Minneapolis. And I have a question I've always wanted to know the answer to. And that is the illusion or the reality of period syncing. I'm wondering if it's the kind of thing where like, if I live with two female roommates and all of our periods seem to line up, is that a real thing with some kind of scientific basis? Or is it just like frequency illusion where we are all thinking about blue Volkswagens and so we see them all the time? Um, thanks for your help.
+
+Emily: [00:46:58] Ah, this is an interesting question. People ask this a lot.
+
+Perry: [00:47:00] So before you get into it, do you know what the teenagers call this now?
+
+Emily: [00:47:04] Oh God. What do they call it?
+
+Perry: [00:47:05] They call it getting Bluetooth. Have you heard that?
+
+Emily: [00:47:09] Oh I did, someone did tell me that. That's so weird. Yeah, it's like I'm gonna Bluetooth you my bike.
+
+Perry: [00:47:16] Because it's like you're connecting your. You're syncing up, right? Like, anyway, modern times.
+
+Emily: [00:47:20] I don't know. How do you even know that?
+
+Perry: [00:47:22] I have a 16 year old daughter.
+
+Emily: [00:47:24] 16 year old daughter. Okay. Fair enough. I think it's nice that you know that. Uh, so there was some early research that suggested that people who live in a household together. Um, I think it was based on dorms would have periods at the same time, but then basically further, more detailed research shows that in fact, this is not true. People do not sync their cycles. I mean, of course, if you have a dorm of 20 girls, many of them will have their period at the same time, because your period is seven days, typically 5 to 7 days out of a 28 day cycle. So you could easily feel synced because everyone has their period at the same time as some other person. But it is not like a it's not a true syncing in that way, your periods not moving around to match other people's. And I think it's not surprising because I don't know what the evolutionary reason for that would be. Like. Why would it be beneficial for everybody to be fertile at the same time? That almost seems like the opposite of what you would want, right?
+
+Perry: [00:48:25] Yeah, I don't know. I always hear like pheromones and stuff like that. There's an interesting mathematical correlate here, which is that in any system where, where there's periodicity, where there's things that are happening at recurring time points, but the periods are slightly different. They will sync over time and sync over time. So you see this if you're in traffic and you all have your left blinker turned on, right, and everyone's kind of blinking at slightly different rates because car manufacturers can't get it together. By the way, side note, car manufacturers, can we all blink at the same rate? Okay, they all blink at different rates. If you kind of follow it, you'll see that like they kind of are blinking and then they'll sort of sync up and you'll feel like, oh, we're all blinking. And then it kind of desyncs again. So that's just a phenomenon of periodicity that could also be at play here.
+
+Emily: [00:49:10] Which would totally work here because of course, some people cycles are.
+
+Perry: [00:49:13] A little bit.
+
+Emily: [00:49:13] Different cycles. Normal cycles can range from 21 to 35 days. So you everybody's got a different blinker. That's totally fascinating. You knew a lot more about this than I thought that you would. I will say I want to give you credit.
+
+Perry: [00:49:23] I am a man for all seasons.
+
+Emily: [00:49:26] You're a Renaissance man. That's that's all there is. All right. That's it for us for today. Uh, stick with us next week and we'll ask what's the deal with microplastics?
+
+Emily: [00:49:39] Wellness actually is produced in association with iHeartMedia. Our senior producer is Tamar Avishai. Our executive producer at iHeart is Jennifer Bassett. Our theme music is by Eric Deutsch. And our content is for educational purposes only.
+
+Perry: [00:49:54] If you like the show, help other people find us. Leave a rating and review on Apple Podcasts or your podcatcher of choice, and help us spread the word about the show. You can follow us on Instagram at Wellness Pod. And don't forget, we want to hear from you. Head over to wellness FM and leave us a question for our mailbag, or suggest a topic for a future show.
+
+Emily: [00:50:15] We'll let the influencers have the last word.
+
+Influencer: [00:50:17] They make you wear goggles. Watch what happens to your vision. After a week to 14 days of being in a red light therapy bed without eye protection. If you don't have a marked improvement in your in your vision, I'd be very surprised.
+
+Joe Rogan: [00:50:28] So what is the negative aspect of. Why do they tell you to cover your eyes?
+
+Influencer: [00:50:31] Well, because you know, and I guess the bright light, if you're staring directly at one of those lights, if you have some kind of damage to your rods or cones or your macula, your retina. I mean, if you had eye pathology, um, which you would know about, then there might be some, some downside consequences.
