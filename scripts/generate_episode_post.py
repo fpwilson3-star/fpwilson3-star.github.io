@@ -240,10 +240,23 @@ def build_episode_html(data, date_iso, date_display):
 def update_podcast_index(slug, headline, date_iso, date_display, meta_desc):
     index_path = Path('podcast/index.html')
     if not index_path.exists():
-        return  # Created separately; shouldn't be missing
+        return
 
     content = index_path.read_text(encoding='utf-8')
-    new_entry = f"""      <div class="media-item">
+
+    # Extract existing entries between <!-- EPISODES-START --> and the next blank line / closing tag
+    entry_pattern = re.compile(
+        r'      <div class="media-item">.*?</div>\n      </div>\n',
+        re.DOTALL
+    )
+    existing_entries = entry_pattern.findall(content)
+
+    # Remove all existing entries from content
+    for entry in existing_entries:
+        content = content.replace(entry, '')
+
+    # Build new entry
+    new_entry = f"""      <div class="media-item" data-date="{date_iso}">
         <span class="media-date">{date_display}</span>
         <div>
           <div class="media-outlet"><a href="/podcast/{slug}.html">{headline}</a></div>
@@ -251,7 +264,25 @@ def update_podcast_index(slug, headline, date_iso, date_display, meta_desc):
         </div>
       </div>
 """
-    content = content.replace('<!-- EPISODES-START -->', f'<!-- EPISODES-START -->\n{new_entry}')
+
+    # Migrate any existing entries that lack data-date by extracting date from media-date span
+    all_entries = existing_entries + [new_entry]
+    def entry_date(entry):
+        m = re.search(r'data-date="([\d-]+)"', entry)
+        if m:
+            return m.group(1)
+        m = re.search(r'<span class="media-date">([^<]+)</span>', entry)
+        if m:
+            try:
+                return datetime.strptime(m.group(1).strip(), '%B %d, %Y').strftime('%Y-%m-%d')
+            except ValueError:
+                pass
+        return '0000-00-00'
+
+    all_entries.sort(key=entry_date, reverse=True)
+
+    sorted_block = ''.join(all_entries)
+    content = content.replace('<!-- EPISODES-START -->', f'<!-- EPISODES-START -->\n{sorted_block}')
     index_path.write_text(content, encoding='utf-8')
 
 
