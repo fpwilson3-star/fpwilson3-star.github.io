@@ -1,0 +1,278 @@
+Transcript
+Perry: [00:00:01] Hey everybody, just a quick correction from last week. At the end of the episode in the mailbag, we were talking about colon cancer screening. And I said that the Cologuard test is done yearly. That's not right. It's done every three years. The Fit testing, which is another form of stool based testing, is the yearly colon cancer screening test. Thanks so much to amazing doctor Clay Ackerley for pointing that out for us. Now on to the episode.
+
+Emily: [00:00:24] Hi, Perry.
+
+Perry: [00:00:25] Hi, Emily.
+
+Emily: [00:00:26] Nice to see you.
+
+Perry: [00:00:27] You too.
+
+Emily: [00:00:29] Which has more protein. Cup of cottage cheese or a cup of Greek yogurt.
+
+Perry: [00:00:33] Oh. Why are you doing this to me? I am going to say a cup of cottage cheese with low confidence. Excellent.
+
+Emily: [00:00:40] One score of one. Okay. Second question. High demand for what product led to whey protein being primarily the source of protein for protein shakes?
+
+Perry: [00:00:54] Parmesan cheese.
+
+Emily: [00:00:56] Generally, cheese is the correct answer. All right. Score of two. Okay. Very hard. Last question. There is a new protein product called a David protein bar. It has a lot of protein. The company that makes it introduced a second product to expand their line. What is that second product?
+
+Perry: [00:01:16] It's got to be Goliath. No.
+
+Emily: [00:01:22] And that's it. No. They left that on the table. The new product is frozen cod. Oh, and that's all you need to know about protein.
+
+Perry: [00:01:33] Wow. So I in anticipation of this episode for the first time, really ever tracked everything I put into my body. Everything I ate for a few days because I had no idea how much protein I was taking in. And I will tell you two things. Number one, I don't like writing down everything that I eat. Um, it's annoying. It's hard to search for. I don't know what portion sizes are and it makes me feel guilty. And two, the amount of protein I intake from day to day varies wildly and depends almost entirely on whether my kids are having pasta for dinner or not.
+
+Emily: [00:02:12] What was your protein number?
+
+Perry: [00:02:14] So the highest day I had was 150g, and the lowest day I had was 60g.
+
+Emily: [00:02:21] Wow, that is a lot of variation.
+
+Perry: [00:02:23] Yeah.
+
+Emily: [00:02:24] I eat exactly the same amount of protein every single day.
+
+Perry: [00:02:27] I think that may say everything anyone needs to know about the two of us. Should we dig into this?
+
+Emily: [00:02:34] We should. I'm Emily Oster, I'm an economist and a data expert.
+
+Perry: [00:02:41] And I'm Perry Wilson. I'm a medical doctor.
+
+Emily: [00:02:44] It's Thursday, April 9th, 2026. And this is Wellness, Actually.
+
+Perry: [00:02:49] Because you're getting a staggering amount of health and wellness information nowadays from every source imaginable. And some of it is awesome.
+
+Emily: [00:02:57] And some of it is, well, actually bullshit. Fortunately, we're both people who know how to read studies, how to parse the data, and can tell you what's worth thinking about and what you can safely ignore.
+
+Perry: [00:03:10] But before we dig in, a note that this podcast is for educational purposes and should not be construed as medical advice. We don't know your unique situation, so talk to your doctor for personal health decisions.
+
+Emily: [00:03:21] This week we're asking what's the deal with protein? Perry and I will give the official smash or pass, and then we'll get to your question of the week. But first, let's do the health news roundup after the break.
+
+Emily: [00:03:45] And now for the health news of the week. Perry. There was a lot of GLP one news this week. New GLP one drugs approved. Some new research on dosing. What is your favorite piece of GLP one news for the week?
+
+Perry: [00:04:03] I mean, I think it's got to be the approval of the new oral GLP one pill. Um, it is the hardest thing to pronounce the generic name orforglipron or for terrible or for the brand name is Fount, which is a little bit easier from Lilly. Um, is now FDA approved for people with obesity or overweight with at least one comorbid condition. Um, this is a GLP one drug interacts with GLP one receptor but it's not a peptide. Go back to the peptide episodes to hear about...
+
+Emily: [00:04:36] What is a peptide?
+
+Perry: [00:04:37] Fount is a small molecule that does interact with the receptor but not the way the peptide does. So it's its own new thing.
+
+Emily: [00:04:46] And the weight loss on this oral is a little bit less than in the studies than we've seen with something like Zepbound. So maybe more like 13% rather than about 20, which is what you're seeing with Zepbound. But obviously oral dosing far, far easier for many people than injection based dosing.
+
+Perry: [00:05:05] Yeah, I think this lowers the barrier so much. I anticipate this will be used pretty broadly right now. For cash pay patients they're pricing this at like $350 a month. That's still pretty pricey. But you know most insurance plans will cover this. If you have, you know, an appropriate condition.
+
+Emily: [00:05:23] Where do they come up with these names is my main question. Like who thought orforglipron was a good even as a generic, I don't love it.
+
+Perry: [00:05:32] There are actually weird rules like for generic names like they have to have certain combinations of letters depending on what type of drug they are. So I suspect the like g l, I, p in there has to be in there for some reason and then things get kind of thrown together.
+
+Emily: [00:05:45] But you can't just be like skinny pill, skinny pill.
+
+Perry: [00:05:49] Skinny Riz or something. That can be a brand name. Patent pending. Trademarked.
+
+Emily: [00:05:56] Don't take it. Uh, second piece of GLP one news, which I think was not very surprising, but there is a retrospective case series that suggested that people can keep weight off in a maintenance phase with reduced frequency dosing of GLP ones. In the case of the of this case series. They were talking about dosing every other week rather than every week. This isn't very surprising since everyone is already doing this anyway, sometimes with the permission of their doctor and sometimes not. But I think it is the first of what's likely to be a more rigorous set of studies. Looking at what is the long term maintenance approach to GLP ones. Since we know people go totally off them, they regain a lot of weight, but most people don't want to stay on the higher dose forever. So I think we'll see more of that as this becomes a just a more mature market and a more mature set of science.
+
+Perry: [00:06:54] Yeah. Couldn't agree more. Good to see a little bit of data coming through, but I agree, not super newsy, but it's good to know at least that there weren't, you know, crazy adverse effects and that people kept the weight off with that reduced dosing.
+
+Emily: [00:07:06] All right. Two other small things that I want to get your thoughts on. One is that benzyl alcohol has been named the allergen of the year by the American Contact Dermatitis Society.
+
+Perry: [00:07:19] Um, congratulations benzyl alcohol. And to all the nominees.
+
+Emily: [00:07:24] I was wondering who were the other nominees? Uh, who are the other nominees for allergen of the year? Uh, what is this? Why do people do this?
+
+Perry: [00:07:34] I think it's I have this, like, passion for our very small, insular groups of people that care a lot about their very small, insular thing, like I love like niche conventions where they're talking about like, you know, new shoelace design or something and people are having these heated arguments, but, um, so contact dermatitis, this is important. I don't mean to make fun, but having an allergen of the year is kind of funny. Contact dermatitis is a rash you get on your skin from it being in contact with a potential allergen. And what the Contact Dermatitis Society is trying to get us all to talk about by labeling benzyl alcohol as their allergen of the year, is that this is not a widely recognized allergen, although it is quite common. So this is an alcohol that's kind of like a floral, pleasant, flowery smell. And so it's added to a lot of like fragrances and beauty products, particularly to give that kind of like floral fragrance. Um, and it's not tested for in the standard skin testing for dermatitis. And so if you know, you're one of the people that gets like weird reactions on their skin to something. And even if you've been to a doctor and maybe gotten some patch testing that hasn't revealed a particular allergen, you know, think about benzyl alcohol.
+
+Emily: [00:08:58] Think about benzyl alcohol. It's having a moment. Um, I also love niche societies. As an economist, we, you know, we have our own niche societies here and it's, it's a delight.
+
+Perry: [00:09:10] Absolutely. Uh, another niche thing that is, I guess getting quite a bit less niche right now is kratom. And I might not be pronouncing that correctly. Kratom. Kratom is a substance that you can buy at like gas stations and stuff like that. It's not illegal as of yet, but calls to poison control have gone up by about 20 fold over the past 15 years or so from this substance. What it is, is a chemical that is a partial agonist of the mu opioid receptors. And that means that it binds to the same receptors as things like heroin and morphine. It's a partial agonist. So it's not quite as strong, which is I think, why it hasn't risen to the level of like a national crisis yet. It has some weird dosing effects where like low doses cause sedation, but higher doses cause agitation. Bit of a strange drug, but want to call it out there. You probably just in general should not be taking anything that you buy at the gas station.
+
+Emily: [00:10:15] I don't disagree with that, I will say. You know, I saw this in the CDC's MMWR, which is a great publication that I enjoy. And they are tracking changes in exposure from 2015 to 2025 and looking at the increase in exposure. And they have this number, there's a 1,200% increase in exposure reports, which of course over this ten year period, which of course is a lot, but it does start at 258 and goes up to 3500. So it's worth remembering. You know, there are 330 million people in America. Not all of them are purchasing kratom at the gas station. But this is still a fairly small number. Although the percent increase is very large.
+
+Perry: [00:11:02] So yeah, getting more popular. Don't take it.
+
+Emily: [00:11:05] Getting more popular. And I agree, purchasing psychoactive substances at the gas station to take is probably just not something that you need to be doing. So don't do that. Pass on that. You can buy gum if you need anything. Purchase some gum.
+
+Perry: [00:11:18] Sugar free.
+
+Emily: [00:11:18] Gum. All right, so that's it for the Health News of the week. When we come back we will talk about protein.
+
+Perry: [00:11:28] So Emily, I'm old enough to have lived through like multiple macronutrient fads. I remember the low fat craze and then the low carb phase.
+
+Emily: [00:11:39] Bacon only bacon only.
+
+Perry: [00:11:41] Keto thing. Bacon only. These were the happiest days of my life, you know? Um, it was good. But like, clearly we are in the protein phase right now, right? This is, this is protein's time.
+
+Emily: [00:11:55] It's protein's moment, uh, at least one of its moments. You know, I could be drinking protein coffee right now that I could make with protein water, and I could have protein popcorn on the side. And that seems notable because in the past, you've really only been able to get protein out of regular protein sources and not out of your water, but now you can get it in your water. And I think the question is, is that good? Is that good?
+
+Perry: [00:12:21] Is that good? Let's figure it out. My personal scale: protein in water. I like that metric. If it is in your water, then it is having a moment. Um, caffeine maybe had its moment too. And now that I can get caffeinated water, um, my metric is Costco. So I don't know if you've been in Costco, but that like snacky aisle that you walk down to get the bulk snacks for your kids' lunches and stuff, but I do and I.
+
+Emily: [00:12:48] We don't have a Costco near here, unfortunately, which is very sad.
+
+Perry: [00:12:52] Well, in my Costco, the entire aisle is protein, like it says protein on every single snack thing. Um, and they know what they're doing. So yes, it is the protein era. Is that good?
+
+Emily: [00:13:07] Is that good? So let's before we get into is that good or how much? And I think people have some pretty basic questions like, do I actually need as much as people say, and could I have an infinite amount of protein? But let's start at the beginning, because I think in all of these conversations, there is a moment when you almost don't want to ask, like, what? What is this? You know, when you're like snacking on your protein powder, you got to start at the top. So let me start by asking you just what is protein?
+
+Perry: [00:13:35] Yeah, such an important question. What is protein? Okay. We often talk of the three macronutrients. So carbohydrates, which is sugars and starches, fats which are fats and oils and things like that. And then this protein thing and protein is far and away the most interesting of the macronutrients for a number of reasons.
+
+Emily: [00:13:57] It seems so like judgment that seems so judgmental. Okay. All right. Convince me. Convince me. I love carbohydrates, so I'm not really sure that I believe you.
+
+Perry: [00:14:05] Here's why they're interesting. Carbohydrates are really simple. You know, they're sugars or they're sugars that are stuck to other sugars. It's like building a tower of Lego blocks with the same shape. You know, all the way up. That's all you can do. Fats are somewhat similar—carbohydrates and fats both store energy and get broken down into energy, which your body can use. And only two things—water and carbon dioxide. So you completely excrete all the product of fat metabolism and carbohydrate metabolism by breathing. And I guess peeing if you want to get rid of the excess water. Now, proteins are really complicated. So you go back to high school biology. You'll remember that proteins are comprised of these different amino acids. And there are really kind of 20 common amino acids that humans use. There are 22 total. If you really search, you can find an extra two amino acids, but they're basically 20 amino acids, which are the different Lego pieces that you can put together in any different combination you want to make any different protein you want, which is why proteins make up all of the stuff of our body. You know, your skin is protein and your muscle is protein and your hair is protein or products of protein.
+
+Perry: [00:15:17] And it's incredibly complicated. And when you break down protein, you don't just get water and carbon dioxide. You get water, carbon dioxide and other stuff, amino acids and ammonia, which is highly toxic. And that's something that we might have to come around to. Now, of course, your body has ways to deal with that toxic stuff. We can metabolize protein, but it's pretty interesting. The other interesting thing about all these amino acids is that nine of them are what are called essential, and essential amino acids are amino acids that you cannot synthesize in your own body from any chemicals that exist naturally in your body or from other amino acids that you take in. In other words, these are amino acids that if you don't get them into your body, you will die. Nine of them are like that. So nine amino acids, nine components of protein act similarly to vitamins such that if you didn't have enough and you don't need a ton, but if you didn't have enough, it would be fatal. And that's not the case for carbohydrates or fats. In general, you need some carbohydrate and some fat to sustain life, but it doesn't particularly matter which one or which source. That's why they're so interesting.
+
+Emily: [00:16:32] All right, so fine. They seem interesting. Another way to say this is that I could, in principle, live on carbohydrates and protein with almost no fat or very little fat, and I could also live on fat and protein with very little or no carbohydrates, but I could not live on carbohydrates and fat without some protein.
+
+Perry: [00:16:55] That's absolutely right. And there is a condition of pure protein malnutrition. So these are people who have adequate caloric intake from carbohydrates and potentially fats, but not enough protein. It's called kwashiorkor. But where you have seen it are those, um, if you remember those old advertisements of this like, quote unquote, starving kids in Africa with the big bellies, so that big belly is filled with a fluid leaking from the liver because there's no protein in the body to retain that fluid. It's called ascites. And that is not starvation, not pure starvation. It is protein specific starvation. So there is a disease syndrome associated with pure protein malnutrition. I will say that you also die if you only eat protein. And there are cases of this, you go into ketoacidosis. If you don't have any sugar or fat at some point. And, uh, this has been reported in some very rare people who have been living like exclusively on highly lean muscle, like rabbit meat. So there are people living in the wilderness who only ate rabbits for 30 days or something. And you can actually die of that as well.
+
+Emily: [00:18:07] Don't you think? At that point, you'd also have scurvy.
+
+Perry: [00:18:10] You would almost certainly have scurvy. But I think it takes a bit longer.
+
+Emily: [00:18:13] To get scurvy. Yeah. Okay, we can do another episode on scurvy. Fascinating.
+
+Perry: [00:18:18] Yeah.
+
+Emily: [00:18:18] Not a lot of people.
+
+Perry: [00:18:19] Scourge of our time.
+
+Emily: [00:18:20] Certainly not a lot of people have it. But if you have it, it's not good. Um, okay, so back to the protein. So protein is the thing that we, we need, we need a good, solid amount of. Because of these amino acids, particularly the nine amino acids. Is any type of protein going to give us the nine essential amino acids?
+
+Perry: [00:18:43] Short answer is yes. We don't have to worry about this too too much. And I think this can provided you an adequate total amount of protein. Most stuff you're going to get out there is comprised of enough variation in amino acids that you'll cover your bases. But this leads to the, I think, central question that we're all asking ourselves. Certainly I am, since I started writing down what I'm actually eating from day to day, which is wait a second. How much protein am I supposed to have? So, Emily, I want to turn this to you. How much protein does the government say we need to have? And then I want to know how much protein you have.
+
+Emily: [00:19:22] Okay, so I will tell you that I hate this question, and I feel like it is the first question. People are like, how much protein should I have? And I think that that question is like fundamentally, really, really flawed. So I will tell you what the government says. The government has a recommended daily allowance and it is 0.8g/kg per day. So that's about a third of a gram of protein per pound. So if you're a person who weighs like 180 pounds, that would say you should have about 65g of protein a day. That is actually not that much. And most people in the US get that amount. So I looked in preparation for this discussion, I looked at the NHANES data, which is the National Longitudinal Representative Study, and they asked people about their diet and they calculate their protein. And the average woman in that study getting about 75g of protein a day, the average man is getting a little over 100. So that is actually plenty of protein based on the government recommendations.
+
+Perry: [00:20:24] And that recommendation, correct me if I'm wrong, is essentially based on these calculations of like, if you fall below this for a sustained period of time, you will actually like get into worse health or potentially have malnutrition.
+
+Emily: [00:20:38] Yeah. So this comes out of the recommended daily allowance, which is a number that the government has designed in order to tell basically an institutional like if you had an institutional population, you know, you were like feeding people at a jail and you were controlling like how many calories you would have available and how much protein and how many micronutrients they have, these numbers of which, you know, this is like, this is one of them. And the idea is that this is going to like, this would be enough for people to be healthy and like lead a healthy institutional lifestyle. That's the basic idea.
+
+Perry: [00:21:19] Let's say I want to do a little bit more than be a healthy, uh, healthy member of some institution.
+
+Emily: [00:21:26] Let's sort of say like 65g. If you're a person of 180 pounds, like 65, 60g of protein a day is actually not that much. So a cup of Greek yogurt has 12g of protein. Chicken breast, a sort of standard sized chicken breast, has probably 30g of protein. So this is like you could get to 60g of protein pretty easily, which is not surprising that most people are there. The question then is like, is that enough? And this is the discussion, like sort of out in the world where people are telling you, look, we're people influencers, you know, fitness enthusiasts will say, you know, 0.8g/kg is nowhere near enough. A number that often gets thrown around is like one gram per pound of body weight. So that would mean for someone of 180 pounds rather than having 65g a day, you should have 180g a day, and that's a lot more than 60.
+
+Perry: [00:22:19] Obviously, that is a ton.
+
+Emily: [00:22:22] Ton of protein. There is a ton of protein. And I think the core question for people is like, is that something I need to be prioritizing in part because like, that's work—to particularly get 180g of protein while also not consuming like 400 billion calories is challenging, right? When people say, get all this protein, they don't mean like, and also get an equivalently larger number of carbohydrates and fat. They mean like prioritize protein relative to those. And that takes effort, right?
+
+Perry: [00:22:51] So if we are pursuing that kind of goal, and I tried it a little bit, I tried to think to myself, and it does take planning. It's like, okay, wait, what am I going to have for lunch? And how am I going to get all this protein in? And you're looking for foods that are, you know, have per calorie, have a lot of protein in them. And one rule I sort of saw that does work out fairly nicely is that if you take the grams of protein in a food and you multiply it by ten, and that's more than the calories in the food, then it's like a high protein food. So for example, if there's ten grams of protein in a 100 calorie portion, then that's a high protein food and that works out to about 40% protein per calorie, which is like that seems about right to me, but it's actually quite hard to even all those protein bars and stuff at Costco, like don't necessarily get to that level.
+
+Emily: [00:23:45] Yeah, I think so. I think we should talk about how to get to that level, but I think we should also, we should start by talking about like, what are the scenarios in which you would want to get to a higher level of protein? Because I think, again, getting back to the question of, of like, rather than asking what is the right amount of protein, I think the first question people should say is like, what is their goal? What is your goal? And I think there's a few different goals people have.
+
+Perry: [00:24:08] Let me give you my goal. I want to know about building muscle. I'm in my mid to late 40s and I'm hitting the gym and the guys there are, I will say very into protein. Um, so what's the evidence there—is protein supplementation good for muscle? It makes sense, right? Protein supplementation is the building block of muscle. That's what I learned in biology.
+
+Emily: [00:24:42] This is the place where I think the evidence is most clear that protein is key to building muscle. And if you are either a person in your mid to late 40s who is looking to build some muscle or—and I think this is important—if you're an older person who is trying to maintain muscle mass, it's hard to build muscle when you're in your 60s and 70s, but you can maintain muscle, it's really important for like not falling down. And we have a fair amount of good evidence, particularly in these older populations, that having a higher amount of protein relative to these recommendations, having more protein can maintain muscle mass and can improve people's health. But, and this is, I think, the most important thing, it is not just eating the protein. You also have to exercise, right? Like we talk about the protein, like you eat the protein and then it magically turns into muscle. That's not how it works. You eat the protein and you do resistance training, some kind of exercise. And those together make more muscle. So if you're going to go to the gym and stand there and watch the other guys while you eat a protein bar. Nothing will happen except you will just be a person who's eating a protein bar.
+
+Perry: [00:25:55] It's such a good point. And I will say that biologically, when your body breaks down that protein into its constituent amino acids, there are two pathways that those amino acids can go down. One pathway is those amino acids get incorporated into a new protein, like a muscle fiber. The other pathway is that those amino acids get further broken down into sugar, and you get calories out of it. Um, and your body is more than willing to get calories out of anything you put into it. If you're not using it for some other purpose. So absolutely, you got to actually use it. Do you have any opinion about this? Like, should I be doing protein supplementation before workout after workout? Is that superstition?
+
+Emily: [00:26:34] Um, I have a lot of feelings about that. In general, it doesn't matter. So most people, uh, it actually doesn't matter much in the data. This is a place where we have pretty good data because it's actually very easy to study people who are doing endurance sports or any kind of sports because they love to be studied and they're looking to optimize their protein intake in various ways because they're lunatics. Um, and so when you look at those populations, it doesn't matter what time—when you have people tell you, you have to have your protein shake within like 30 minutes after a workout. It's just not supported by the evidence. You want to kind of have it within a day. But if we're thinking about over the course of a day, it doesn't matter whether you get all your protein, even like all at once versus in multiple chunks doesn't seem to impact the performance.
+
+Perry: [00:27:24] That's been something people have been worried about for a long time. Was this idea that there's like protein overflow. Like if you took too much in at once, the you wouldn't use it and the excess wouldn't get used appropriately. Not much evidence for that.
+
+Emily: [00:27:36] Not much evidence for that. Certainly over a course of like a 24 hour period.
+
+Perry: [00:27:41] I want to move on from muscle because there's some other interesting protein stuff out there. But before we do, we should probably talk about the specialist of the amino acids, which is leucine. So leucine is this amino acid that, unlike all of its 19 brethren that are found in protein, has a signaling effect in muscle. So in your body, there are all sorts of signals that your body reads to know how to grow and how to change. And muscle has a signaling receptor for leucine. And it seems like leucine may be the thing that muscle uses to know that there's a lot of protein around, right? Like, how does your muscle know it's safe to sort of build more muscle? And there's some evidence that the signaling molecule for muscle reading your nutritional status from a protein perspective is this particular amino acid leucine. Um, because of that, you see leucine supplements out there. We've started to see a few leucine supplement studies in terms of muscle building with mixed results. But I wanted to bring it up. There's not a good natural source of leucine beyond anything else that has a lot of protein. So like chicken breast has plenty of leucine in it. Beans have leucine. Cottage cheese has leucine. Wherever you're getting your protein, you're getting your leucine. But supplementation is always different, right? Because now we're talking about something that's processed. You're getting supraphysiologic doses and we're starting to see that. Have you had people coming to you talking to you about leucine yet, or is this still on the edge?
+
+Emily: [00:29:13] I think this is still on the edge. And people ask me a lot about protein in general, but even it's interesting. So I consume, as people will learn if they listen to this podcast more, I consume a lot of endurance sports content, and even there you will see some discussions of leucine supplementation, but I think not as much as you would get in like the bodybuilding space. My guess is in the bodybuilding space, this gets a lot of discussion because the core there is muscle building.
+
+Perry: [00:29:41] Yeah, yeah. Um, so keep an eye out for that. Um, we might end up talking about leucine again in the future if we ever get to rapamycin and aging. But speaking of aging, the aging brain. So I'm willing to concede that to build muscle, you probably need to have adequate protein intake. Are there recommendations before we move on? Sorry, can you give me a number like—is my 150 that I had that day a good target for me? Clearly more than the 60 I had when I just ate mac and cheese.
+
+Emily: [00:30:17] I mean, I think a number that a lot of people talk about is 2g/kg or 1.6g/kg. So that would put people in more like, you know, somebody like you—you're more like 120.
+
+Perry: [00:30:29] Less than a gram per pound.
+
+Emily: [00:30:30] A little less than a gram per pound. A gram per pound is a lot of protein. But I think many of these things go for 1.6.
+
+Perry: [00:30:36] All right. So I need to find some good ways to get more protein into me. Yeah. All right. So let's talk about brains. A lot of studies of protein supplementation have focused on more older people, elderly people, particularly the frail elderly with some interesting results. One I pulled out of the ether here a little bit was a trial called the Pro Muscle Trial. Um, smallish study, 65 frail elderly people who were randomized to get supplementation with milk protein. I'm not sure if milk protein is different than just whey protein, but it was described as milk protein 30g a day in two doses versus just a placebo. Emily, you'll be happy to hear that both groups got resistance training.
+
+Emily: [00:31:21] You have to do resistance, okay.
+
+Perry: [00:31:23] Of course. Yes. They both got resistance training, but the group randomized to the protein supplements at the end of the trial, which was a couple months, had 1.3kg additional lean body mass and had a one point improvement on the short physical performance battery, which is sort of a variety of exercise based tests. So not like amazing, but, you know, a nice randomized trial we like to see that seem to work. No particular difference in their cognition or memory.
+
+Emily: [00:31:57] That would be consistent with by the rest of my reading of this, which is that the impacts on dementia and so on are small or zero. I think what's, what's sort of interesting and nuanced about that is my sense from other pieces of data, is that staying like active and engaged with the world is very good for your cognition. So if consuming more protein and doing some resistance training makes you able to walk around more and, you know, pick up your grandkids and not be bedridden, that could actually be good for your cognition just because it enables activities which are themselves good for cognition. So is there a mechanistic effect through the protein affecting your brain? Maybe not. Is there a causal effect because it goes through these other pathways? Maybe there is.
+
+Perry: [00:32:44] I like the off target effects, the knock on effects. Let's move on to the third scenario that I like to think about when I'm thinking about protein intake, which is can it help me lose weight? Um, so protein, I have been told, is good for satiety. It's a little harder to break down certainly than like a simple carbohydrate, which is going to give you that boost of energy and then be gone. And then you're hungry five minutes later. So I can make a biologic plausibility argument that proteins will help you lose weight. Do you think—does a higher protein diet really help you lose weight? All else being equal, calorically speaking.
+
+Emily: [00:33:22] Look, maybe a little bit in the short term. Um, a very core fact about diets is that they mostly don't work in the long term. Most dietary changes can cause people to lose some weight in the short term. And then mostly they gain it back in the slightly longer term. To the extent that protein causes you to feel more full and makes it easier for you to stick to the diet, then okay, that could make it more effective. But this is not a game changer. I mean, and I also find this discussion at this point, like if people want to lose significant amounts of weight, they should go on a GLP one. And that's just what it is.
+
+Perry: [00:34:06] I tend to agree with you. I think all the successful diets tend to be transient, and they all share one thing in common, which is that it makes it harder to eat food. And so, you know, if you look at Atkins or something, you know, these keto diets, like it just is harder. You have to think more about what you eat. You have to plan a little bit more. And I think high protein diets, my personal experience as I've started to look around and like get more protein into the food I eat is the same thing. I'm like, oh, no, I can't eat that. You know, those chips are not, you know, there's no protein in there. And I need to find a source that gets my protein. So I think whenever you make it difficult for people to eat, you're always going to lose some weight. I mean, I will say there's a, just to pull out a randomized trial, you know, there is some evidence of weight loss. There's a 2010 study which randomized men with diabetes to a 35% protein diet versus a 15% protein diet. They were both calorie restricted. So that's another thing you have to account for. Like as you said, Emily, if you eat more protein, but by eating more protein, you're eating 30% more calories. You're definitely not going to lose weight, right? But in this calorie equalized environment, the men who are randomized to the protein had about a three kilogram extra weight loss after four months. This is not impressive in a world that has GLP ones, I understand. But as we said, not everyone has access to GLP ones. Everyone has access to protein, we hope.
+
+Emily: [00:35:40] Agreed. I will say there is an addendum here in the GLP one space, which is to the extent that people are on a GLP one, you know, that makes you eat less. And as we said at the top, protein continues to be very important. And so to the extent that you are on a GLP one and trying to lose weight and do not want to lose muscle mass, you do need to prioritize getting a larger share of your calories from protein, because you basically want to keep your protein more similar to where it was and drop other things. And I think that can be a challenge for people when they're sort of not hungry and they just kind of don't want to eat anything. It's not just eating less, it's changing the balances of food.
+
+Perry: [00:36:22] This is what I want to hear from you as we wrap this up. Um, my wife has Terminator vision for food. Like she can look at a plate of food and tell you like, how many calories, how many grams of fat, how many grams of protein. I don't know if all women have this. I'm not sure if it's built in.
+
+Emily: [00:36:38] We developed it. We've developed it—all women in our mid to late 40s, we developed this a long time ago. And we're retaining that skill. Yeah.
+
+Perry: [00:36:46] Like I will take a package that has the nutritional information and she will be able to do it. It's very impressive. I cannot do that. I know that intellectually I'm like, oh yeah, chicken. That's good. But let's say I decide, you know what, I'm going to go for it. I'm going a gram per pound, a lot of protein. I don't think I can make it. What are your tips for me? And maybe I'll make it even simpler. Is there any way to do this short of me buying in bulk some can of protein powder, whether it's whey powder or soy powder or, you know, wheat germ, whatever it is, and adding it to things and making shakes. Or can I do this with food as it exists in reality?
+
+Emily: [00:37:27] So wheat germ doesn't have a lot of protein, so don't prioritize.
+
+Perry: [00:37:31] Wheat gluten, sorry.
+
+Emily: [00:37:33] Oh good lord. Um, okay, so, uh, so I will say, I think for most people, if you are attempting to get something like a gram per pound of body weight, which again, is a lot, uh, even for a pretty small person is a lot, uh, you will need to use some kind of protein powder, something, some kind of thoughtful approach, which probably involves supplementation with not real food. You know, think about like a protein shake. You know, whey protein shake probably has can, you know, can have 25g of protein. That's like a whole chicken breast pretty much. And it's just hard for people to consume enough whole foods to get that kind of protein without also adding a lot of fat and carbohydrates. So I will say, you asked me at the top, how much protein do you eat in a day? I do eat about a gram of protein per pound of body weight. So that's about 130ish grams of protein a day. And the only way that I can achieve that is by consuming like a large protein shake in the morning.
+
+Perry: [00:38:39] And what is the protein? Is it whey protein typically?
+
+Emily: [00:38:41] It's just whey protein. Yeah. Just whey protein.
+
+Perry: [00:38:45] All right.
+
+Emily: [00:38:45] All right. So now here's my question for you. We have revealed that I'm a crazy person who drinks, who eats, consumes a lot of protein. And I should say, I just, I want to say the reason that I consume a lot of protein, getting back to these questions of like, why are you doing this? Is that I take myself too seriously with sports. I'm like a pretend elite athlete. A person who pretends to be an athlete, and I. So I run a lot and I consume a lot of protein in service of that. So that is my reasoning.
+
+Perry: [00:39:13] So not for everyone.
+
+Emily: [00:39:14] But not for.
+
+Perry: [00:39:15] Everyone, for people like you.
+
+Emily: [00:39:17] People, crazy people. Yeah. So here's my question. Can you have too much protein and what would happen?
+
+Perry: [00:39:24] So yes, as a medical doctor, yes you can. Um, so a couple of things.
+
+Emily: [00:39:30] You're a kidney doctor.
+
+Perry: [00:39:31] I'm a kidney doctor specifically. So, um, so yeah, I mean, first of all, if you only had protein to the exclusion of all other macronutrients, you die. We talked about this. Very difficult to do unless you're only eating rabbit meat. So I'm not too worried about that. But from a kidney standpoint, the data is quite compelling that more protein intake puts more stress on the kidneys. And I'm pausing on the word stress because what exactly do I mean by that? We measure kidneys, filter the blood, and we can measure the rate at which they filter the blood in milliliters per minute. And for a healthy person, it's about 100ml per minute, which means that you're cycling through your entire blood volume dozens and dozens of times a day with your kidneys cleaning that, which is great. Acute protein intake increases that filtration rate. So from 100 to 110, 120ml per minute. And you might think great. You know, like that's more filtration. Now of course the reason your kidneys are doing that is because unlike carbohydrates and fat, proteins are metabolized into ammonia. And ammonia needs to be excreted. It's excreted as this thing called urea, which is where urine gets its name. But urea is the way that urine excretes ammonia. You have to increase filtration to get rid of the ammonia load.
+
+Perry: [00:41:00] There is data in people with kidney disease that low protein diets protect the kidneys in the long term. That's been well established. In fact, up until about ten years ago, we would routinely recommend people with kidney disease to decrease their protein intake for just this reason. Nowadays, I don't do that in part because of what we've talked about. I'm also worried about their muscle mass and their health and their ability to move around and get exercise. And I don't like telling people to restrict, but I certainly don't tell my patients with kidney disease to like supplement protein. And the reason it seems that your kidneys are better off when they're not stressed like this, when they're not forced to increase filtration, is that there's a finite amount of tread on the tire. And at least for people with underlying kidney disease, forcing them to run at 110% or 120% capacity just stresses them out more and you lose kidney function faster. What I don't know is that that's true for people without any kidney disease. We don't have long term data of very high protein intake to suggest if that alone, in the absence of other diseases, is going to affect kidney function, but it clearly does in people with underlying kidney disease.
+
+Emily: [00:42:15] I think the other piece of the we will never know the answer to your last question, I think because the kind of people who are consuming very high amounts of protein are also very different, mostly healthier, but just very different in other ways. So we would never really be able to compare the people who are having 2.5g of protein per kilogram, like these very high levels to lower levels because you're just going to find they're different in all kinds of other ways.
+
+Perry: [00:42:40] Yeah. There's a very hypothetical other risk, which I will just say that protein does have signaling effects, including that leucine thing that signals muscles to grow in the context of muscle. We like growth, but there are other parts of the body that we don't want to grow. And so your cells and your body are kind of constantly under balanced signals saying, grow, divide, like fill in the space, you've got to heal—that kind of stuff. Muscles get bigger, you know, fat cells grow, like all those kind of things. And signals that say, no, no, no, stay quiet, stay where you are. We know when those signals get out of hand and excessive growth signaling occurs, that that is a step towards cancer development. And leucine. This particular amino acid stimulates a molecule called mTOR, mammalian target of rapamycin, which is a known cancer promoting chemical in the blood. Now it also promotes muscle growth. And there are many steps to getting cancer beyond just like, oh, your level of mTOR might be a little bit too high. So I'm not as worried about this as I am about kidney function and very high protein intake. But, you know, for interest of completeness, we should say that growth in and of itself is not universally a good thing.
+
+Emily: [00:44:01] Okay.
+
+Perry: [00:44:02] That is a ton of information about protein. Let's let's wrap this up. Uh, Emily, protein smash or pass?
+
+Emily: [00:44:11] I think this question is unfair. You need protein for life. So in that sense, I would say I'm going to smash it as an essential element of not being dead. I will say if the question is, do I smash getting even more protein than you're getting now? I think for most people I'm a pass on that. How about you?
+
+Perry: [00:44:34] I'm, I think a soft smash on this question of getting extra protein. You know, I think probably we should be more cognizant of the protein we take in. Um, if we can get some extra protein, especially if we're replacing carbs in our diet. I'm down for that. Certainly, I think my one concern actually is that we really should be getting as much protein as possible from plant based sources so we don't tank our fiber intake, which is something we'll talk about in future episodes, especially when we look at the rising incidence of colon cancer. So cautious smash. But you don't have to go crazy about it.
+
+Emily: [00:45:11] I feel like you're putting too many caveats into your smashes. We have to be committed in future episodes. Commit to smash or pass. There's no soft smash.
+
+Perry: [00:45:23] All right, fine.
+
+Emily: [00:45:24] That's it for protein. Your mailbag question of the week after the break.
+
+Mailbag: [00:45:33] Hi, Emily. And Perry. My name is Natalie, and I'm from Boston. I have been listening to the podcast, and I heard you say that there's a lack of evidence on the efficacy of shockwave therapy. I've received this treatment a couple of times for instances of tendinosis, and I was really pleasantly surprised. Of course, I'm willing to accept the possibility of the placebo effect, but my cursory search of the literature did turn up a few studies that seem to support shock wave treatment. I would love to hear your thoughts on this. Thank you so much. Bye.
+
+Emily: [00:46:02] Shock wave therapy. Yes. So I have spent a lot of personal time, Perry, looking into this because I had a hamstring injury. Hamstring tendinopathy. And I was told that shock wave therapy would help. For those of you who are not deep in the well of this activity, what this involves, at least in the sports context, is somebody taking a probe and some gel and delivering acoustic waves into your tissue. It's quite uncomfortable. And the idea is that it boosts your cell metabolism and generates better repair. I will say I did look into the data before I did this, and there is some reasonable randomized data suggesting that this improves healing speed in some tendinopathy related injuries. Things like Achilles tendinitis, tennis elbow, rotator cuff—actually your rotator cuff, Perry, it might help with that. And I will say it really helped with my hamstring, although it's very painful, like there's a person doing this and they're like, what's your pain level? And I was like, oh, it's like a four. He's like, great, we're going for a seven. And then they just like, turn it up until you're like, ah!!!
+
+Perry: [00:47:15] Compared to that, my hamstring feels great.
+
+Emily: [00:47:17] Exactly. Afterwards you're like, oh, thank God it's over. Um, so a little bit of positive evidence on this.
+
+Perry: [00:47:23] Yeah, we use it for kidney stones actually. I mean, this is sort of different, but, um, you know, for small enough kidney stones, you can send the shockwaves in and they kind of break up like an opera singer shattering a glass with her voice. And then you pass the little pieces out, which is, I guess better than going up and retrieving them yourself. Do you want to know a little interesting physics?
+
+Emily: [00:47:45] Yes, always.
+
+Perry: [00:47:47] So an ellipse has two foci. That's like how you define an ellipse. Two focuses, two points inside the ellipse. And every point along the outer edge of the ellipse is equidistant—the sum of the distances between those foci is constant. That's what defines an ellipse. And any time anything that goes through one focus bounces off the edge of the ellipse, it will go through the other focus. And so for extracorporeal shock wave lithotripsy, they put the sound emitting device, the ultrasound device at one focus of the ellipse, and then they curve the ellipse—it's like a half ellipse, a shell. So that sound bounces off and all of it gets focused into the other focus of the ellipse, which is somewhere inside your body. Isn't that kind of neat?
+
+Emily: [00:48:36] That is incredibly interesting. And physics is very neat, I think. No. Okay. So one question I think many people have about the shock wave therapy is like, is this just placebo? Because of course, we know the placebo effect is one of the best effects. And it's hard to know if something is real or sham. But actually, in a lot of these studies of shock wave therapy, they do placebo sham shock wave therapy on people. I'm not really sure how that works and is it less painful. So we always have to be careful about placebo effects. On the other hand, my hamstring feels much better, so I guess I don't care why is my fundamental answer.
+
+Emily: [00:49:16] All right, that's it for this week. Join us next week when we'll ask what's the deal with continuous glucose monitors. Wellness, Actually is produced in association with iHeart media. Our senior producer is Tamar Avishai. Our executive producer at iHeart is Jennifer Bassett. Our theme music is by Eric Deutsch. And our content is for educational purposes only.
+
+Perry: [00:49:38] If you like the show, help other people find us. Leave a rating and review on Apple Podcasts or your podcatcher of choice, and help us spread the word about the show. You can follow us on Instagram at pod. And don't forget, we want to hear from you. Head over to wellness FM and leave us a question for our mailbag, or suggest a topic for a future show.
+
+Emily: [00:49:59] We'll let the influencers have the last word.
+
+Influencer: [00:50:01] This is why I'm jacked and you're not. It's because I eat meals like this. Ground beef and whole eggs. Pure protein and healthy fats. Zero carbohydrates. This is what I wish that people understood. If they just cut out carbohydrates for two weeks, I'm talking 0g to 20g of carbs per day. They would lose 10 lbs instantly. It's that easy.
