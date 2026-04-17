@@ -1,0 +1,279 @@
+Emily: [00:00:01] Hi, Perry.
+
+Perry: [00:00:02] Hi, Emily.
+
+Emily: [00:00:04] Um, so I brought some props for our episode today.
+
+Perry: [00:00:07] This will do great on an audio primarily podcast.
+
+Emily: [00:00:11] If people are watching on YouTube, uh, you will see that for our episode, I brought creatine gummies. I have sour cherry, I have sour apple and I have watermelon.
+
+Perry: [00:00:27] Amazing. Are these your creatine gummies?
+
+Emily: [00:00:29] Okay, I'll tell you how I got these creatine gummies. I mentioned creatine on Instagram. And all of a sudden many people wanted to send me creatine. And so a lot of creatine has been arriving at my house because I'm an Instagram influencer. For in secret.
+
+Perry: [00:00:46] Um, Emily, can you mention an Nvidia RTX 4090 graphics card on Instagram?
+
+Emily: [00:00:55] Everyone, Perry would love to talk about your Nvidia blah blah blah blah blah graphics card on here. Thank you so much.
+
+Perry: [00:01:05] It's important for all of our wellness. That's that's I'm excited to hear whether you are partaking in the creatine, but I suppose we should look at the data first.
+
+Emily: [00:01:14] We're going to find out.
+
+Perry: [00:01:15] Let's do it.
+
+Emily: [00:01:18] I'm Emily Oster. I'm an economist and a data expert.
+
+Perry: [00:01:21] And I'm Perry Wilson. I'm a medical doctor.
+
+Emily: [00:01:24] It's Thursday, April 2nd, 2026. And this is Wellness, Actually.
+
+Perry: [00:01:29] Because you're getting a staggering amount of health and wellness information nowadays from every source imaginable. And some of it is awesome.
+
+Emily: [00:01:38] And some of it is, well, actually bullshit. Fortunately, we're both people who know how to read studies, how to parse the data, and can tell you what's worth thinking about and what you can safely ignore.
+
+Perry: [00:01:51] But before we dig in, a note that this podcast is for educational purposes and should not be construed as medical advice. We don't know your unique situation. So talk to your doctor for personal health decisions.
+
+Emily: [00:02:02] This week we're asking what's the deal with creatine? Perry and I will give the official smash or pass. And then we'll get to your question of the week. But first, let's do the health news roundup after the break.
+
+Perry: [00:02:26] And we're back with the Health News of the week coming up first, Emily. Uh, President Trump says, quote, it's possible he will withdraw the nomination of Casey Means for Surgeon General. Given the lack of Republican support. You may remember we discussed the nomination of doctor means, uh, on this podcast and I think brought some much needed attention to the fact that she doesn't actually practice medicine and is a wellness influencer and had a confirmation hearing in which she declined to. Advocate for vaccination for measles. Does wellness actually have some real political clout? Now, that is my that is my question. Are we. What's moving. Washington, D.C..
+
+Emily: [00:03:12] It is possible, but I would say unlikely. However, you never know. And I think this is not very surprising given where the conversation has landed. You know, over the past couple of months, I think the appetite for moving away from vaccines has somewhat waned. Um, this is a little bit separate from the Casey Means confirmation hearing. But I do think as we have seen more cases of measles, for example, it's become like less palatable to be like, who cares about vaccines? It's like, well, actually children are dying, so maybe people should care about them. And I think we've seen increasingly inside the administration from Jay Bhattacharya, from the Republican senators, a feeling of like, okay, you know, enough is enough. Like, let's try to get back towards having more vaccines and appointing someone as surgeon general who has refused in the confirmation hearings to say that she supports vaccines is kind of part of that. So I suspect that the nomination will be withdrawn because I just don't think there's Republican support. Bill Cassidy has had enough of this. Thanks. Also, in the camp, of all the ways in which we're positively influencing the world, I noticed after last week's Stem cell episode, there was a BMJ article about stem cells and heart attack that was retracted. Uh, tell me more, and what role did you specifically play in this?
+
+Perry: [00:04:45] Yeah. I mean, once again, the curse of Wellness, Actually, like, woe be unto you who is mentioned on this show because bad things will happen. The BMJ is the British Medical Journal. It used to be called the British Medical Journal. It is now officially just the BMJ. Because they're hip. Um, but a very well respected journal. In 2025, there was a report of in that journal of a randomized trial of people who had heart attacks and were getting a cardiac catheterization. So they, you know, they put a little wire into the heart to open up the blood vessel that is blocked. And the intervention, a placebo controlled intervention, was to inject some stem cells that were isolated from Wharton's jelly, which is, um, for lack of a better word, the goo that's inside the umbilical cord. Okay. It's like a yeah, it does have a fair amount of mesenchymal stem cells in it. Please go back to last week's episode if you want to hear more details about that. Um, and what this study claimed to show was that the rate of heart failure was significantly lower in the people who got this special stem cell injection. So it was sort of a thought like, oh, you're putting in these. These stem cells, they're going to differentiate into heart tissue and become, you know, protect the heart in the long term. This is biologically plausible, as we often say. And it was, you know, by reports, a well done trial. Unfortunately, it turns out that there were significant data irregularities that were subsequently revealed when the data was analyzed. And the full article has now been retracted. The BMJ stopped short of saying it was fraudulent, but it does just remind all of us that no one study is ever definitive because you never really know. You always need replication in this kind of thing.
+
+Emily: [00:06:30] Yeah, and I should say that retraction of a study in a paper is actually pretty unusual. So it's not certainly it can be retracted if it is fraudulent, but generally this means it is fraudulent or it is wrong. You know, papers are updated over time and sometimes you will look back and say, well, we weren't quite right about that. But to actually retract a paper means, you know, the the paper is not right. Something was wrong. And how this was done. Not. We have learned more later, but like the way this paper was done was not right. So it's a it's a more extreme change than just, you know, the literature has evolved.
+
+Perry: [00:07:02] Yeah, absolutely. So wellness actually skepticism around stem cells is proven correct yet again. Um, our last news item is, I think a good one for to put your economist hat on. Emily, I know we don't get to use that hat as often as we would like in the podcast, but a new study came out looking at childhood sugar intake and the genetic risk for obesity and how those things interact using a really cool natural experiment. So can you walk me through this, uh, this new paper?
+
+Emily: [00:07:32] Yeah. So this paper uses a, a technique that economists call natural experiments where you want to think about this as the world has experimented for you. And so in this particular case, they're using sugar restrictions post World War Two. So in the UK, After World War Two, there was a long period of time in which there were restrictions on how much sugar you could buy because of worries about not having enough. And then at some point in the middle of 1953, they relax those sugar restrictions and you were allowed to buy more sugar. And the result of that was that kids ate a lot more sugar. And pregnant people ate a lot more sugar in like October 1953 than in August 1953. And so they're using that sharp timing to look at whether being exposed to higher levels of sugar, either in utero or in early childhood, is associated with higher risks of metabolic disease later. This paper actually follows on an earlier paper where they show that kids who have higher sugar exposure in this period have higher risks of diabetes later in life. And so here they're showing higher risks of obesity. And also like that that interacts with your genetic predisposition to to obesity. So it's a really interesting paper. I think it does give a little bit of caution about very high levels of sugar exposure in early childhood. I will say, you know, parents will come to me and be like, oh my God, does this mean I can't like, I one time I gave my child a piece of cake and like, have I ruined them forever? Like we're talking here about, you know, a lot of sugar exposure. Clearly some is okay, but it is one of the dietary things we probably want to be a little more cautious about with kids than, than some others.
+
+Perry: [00:09:19] Yeah. I think this paper also does a nice job reminding us that like a lot of obesity is genetic. Um, and, and so, you know, they can look at the, because this comes from the UK Biobank, which is this big amazing genetic cohort study. They can look at the genetic risk factors for obesity and they can see, you know, it's very clear that certain genes and patterns of genes increase the risk for obesity. Um, and, but that lower sugar intake in childhood can kind of modify that risk. Not all the way. So it wasn't even like these people who are at high risk genetically for obesity didn't become obese because they were born during the rationing period. You know, many of them still did, but the disparity in BMI was somewhat lower than would have been predicted by genetics alone.
+
+Emily: [00:10:02] So yeah, I mean, it's a very the UK Biobank is an extremely important data source because of the way I think it will continue to help us understand over time, the intersection between genetics and behavior and how our behaviors turn on and off genes, which is an exciting area of research that hopefully we'll talk about more.
+
+Perry: [00:10:23] Absolutely. That's it for the Health News of the week. When we come back, what's the deal with creatine? Okay. I want to start with an influencer telling us just how important creatine is.
+
+Influencer: [00:10:43] Creatine should be now mandatory in everybody's toolkit, just like brushing your teeth or exercising. I think everybody should be supplementing with creatine prior to being diagnosed with Alzheimer's. You've got this 30 year period of all these stages, and one of those stages is subjective cognitive impairment, which is the first stages of Alzheimer's disease. Right? Sometimes your thinking's not up to scratch or you've forgot where you put your keys or you're getting slower reaction times. These are all cognitive functions. They start to decline. Then you've got mild cognitive impairment, which is a pre-dementia state, and that lasts around 20 years. So it's during these states that you need as much brain energy as you can. And we can get that from creatine.
+
+Emily: [00:11:24] Okay, so Perry, I like this influencer quote because I think that it illustrates what for me is the core point that we will get to with creatine as we move through this, which is this person starts with something that I think is an overstatement, but is is true in some sense, which is that there are some things where we see benefits of creatine. And then she kind of immediately goes to like creatine prevents Alzheimer's, which is way on the edge of, of what we think. So it's such a good example of the kind of like, let's take something that's real and like make it matter for, for everything. So, um, absolutely. It's a good entry.
+
+Perry: [00:12:03] This is, you know, we like to give people little, um, little hints that they're being influenced as opposed to being provided with real data. And one of those hints is taking an extreme position. It's very engaging to be like this supplement creatine like is necessary for literally everyone. And as important as brushing your teeth and like you're staking out a position so extreme that you kind of have to pay attention to it. And we just need to tell everyone that's never true. There's, there's literally even brushing your teeth.
+
+Emily: [00:12:36] Is as important as brushing your teeth. You should brush your teeth. But even if you don't do that, like it's probably okay occasionally, but still, you should brush your teeth.
+
+Perry: [00:12:44] Yeah. So let's dig in. There's there's a lot here, but let's start like just at the beginning, right? Like, so what is the, what is creatine like? Why are people talking about creatine? I see it from a lot of bodybuilders and stuff. What's your take on creatine?
+
+Emily: [00:13:00] I mean, I think the first thing.
+
+Emily: [00:13:01] To just tell people is like literally creatine is an amino acid. It is an amino acid that you consume in food.
+
+Perry: [00:13:08] It's a derivative of an amino acid. I only say because we did the.
+
+Emily: [00:13:13] Peptide.
+
+Perry: [00:13:14] Episode.
+
+Emily: [00:13:14] We said, okay, doctor, I'm a real doctor. I went to medical school, blah, blah, blah. No, go ahead please.
+
+Perry: [00:13:20] Uh, no, because we said there's 22 amino acids like, you know, people use and creatine is not one of them. It's a derivative of an amino acid. But yes, by all means, continue.
+
+Emily: [00:13:30] You consume creatine in food, primarily in meat and seafood. Uh, and you store it in your muscles. And it is helpful for making the muscles work, particularly in an anaerobic way. I think the core thing that's relevant for this question of supplementation is that your muscles can generally store more creatine than most people can get in meat, and most people can get through their food. So when people supplement with creatine, it like ramps up the stores of creatine in their muscles. And in principle, that can then help you, uh, when you are exercising in particular ways at very high levels. That's kind of the core thing. So do you exercise to failure on a frequent basis? Perry.
+
+Perry: [00:14:16] No, but I've done it.
+
+Emily: [00:14:18] What does it mean to exercise to failure?
+
+Perry: [00:14:21] Have you ever exercised? Have you ever done an exercise?
+
+Perry: [00:14:24] I feel like I exercise.
+
+Emily: [00:14:25] To failure every like three days, but I don't. I'm not sure that I know what that means.
+
+Perry: [00:14:29] Okay. Um, exercising to failure literally means that you're doing an exercise, let's say push ups, and you just continue to do push ups and do push ups and do push ups until your muscles give out. They literally fail. And I think it might be worthwhile to talk about physiologically, like what is happening there, because that might be the best way to understand how creatine works. So if you do push ups and you keep going and you don't do like I'm going to do 20, I'm going to do 30, I'm going to do you just keep going, going, going until your arms. What will happen? Have a pillow under your face because your arms will literally stop working and your face will smash into the ground. And there's nothing you can do about this. This has happened to me. But bodybuilders will do these types of exercises to failure. What's happening in the muscle when your muscle is contracting? Is the muscles using energy and the energy currency of all the cells in your body is ATP? You've probably heard us mentioned that before, but think of it as like cash spending cash in terms of, you know, what cells can use for energy. There's a problem and that's that cells can't store very much ATP. It's unstable. It's hard to keep it in its activated form. So it's like they've got some cash in their pocket, but it's not enough to, you know, go on a huge spending spree.
+
+Perry: [00:15:46] That's sort of how I think about ATP. Um, for most cells that's not a problem because they use a little energy to like whatever they're doing there. You know, your gut cell uses some energy to absorb some glucose or whatever. And then it's done for a while and it chills out and builds up more ATP. No issues. But there are some cells in your body that use energy like a lot in over a period of time. And muscle is definitely the biggest one. And that includes your heart muscle, but you know your skeletal muscles as well. If all they had to use for that energy was ATP, then after about three seconds of muscle contraction, all the ATP in a muscle cell is gone and the muscle fails. And that means it just goes slack and your face smashes forward into the pillow that you put under you when you're doing push ups. That's not compatible with moving around or lifting up anything. You can't have only two seconds of muscle contraction. So what creatine is, is a store for phosphates that can regenerate ATP. So remember you can't. You can only have so much cash in your wallet. You can't have too much ATP in a cell, but you can have lots of creatine. That's your bank account, more or less. And so as your ATP is being used up, creatine in the form of creatine phosphate is regenerating ATP. So you're taking cash out of that.
+
+Emily: [00:17:03] It's like the it's the ATM. It's your your cell has an ATM.
+
+Perry: [00:17:07] Exactly, exactly. And as you pointed out, most of our muscle cells based on a typical Western diet actually can hold more creatine than they have. And what that means is that if you build up your store of creatine by creatine supplementation, in theory, you have this extra amount in your ATP bank account that you can extract upon. So it's a little different. People often say creatine is like energy for your muscle. It's more like the presence of creatine allows your muscle to bank energy when it's not being used, so that it can pull it out again when it is being used. It's almost acts more like a battery or a rechargeable battery, but you still have to do the recharging. Creatine does not have calories in it. Creatine monohydrate, right? So it's not energetic itself, but it's a place to store energy in your muscles. There's one other set of cells that do tend to be active a lot and use a lot of ATP.
+
+Emily: [00:18:06] Which is your brain, right?
+
+Perry: [00:18:07] That's up in your brain. So that's why you see a lot of muscle and brain talk for creatine.
+
+Emily: [00:18:11] Yeah. All right. So let's start with the muscle talk and then move to the brain talk. Because the muscle talk is in some ways a much easier conversation.
+
+Perry: [00:18:21] Totally.
+
+Emily: [00:18:21] So the thing we know, I think with incredibly high certainty is that if you are doing a lot of body building related exercise, creatine supplementation can improve your performance. We have hundreds and hundreds of randomized controlled trials of people doing body building activities, which will show that creatine supplementation, on average, increases the time to failure. So allows you to do more of those push ups before you smash your face in the in the pillow. And this is this has been used by bodybuilders for, you know, decades. I mean, this is like a very standard bodybuilder activity.
+
+Perry: [00:19:07] Talk to me for a second because this will come up again. You said randomized controlled trials. Why in a study that's looking at something like muscle strength, muscle performance, whatever your your metric is, why is a control randomization and control like a placebo control so important? Because there's plenty of studies that aren't placebo controlled, particularly when we look at the brain. So why does that matter when you're talking about things like muscle strength and function?
+
+Emily: [00:19:32] Yeah. I mean, I think the core thing is that actually a lot of your muscle strength and function is what you think you can do, right? So if you sort of in general, like, let's back up in general, we like randomized controlled trials because we treat people the same. And the only thing that's different is what thing we're giving them. In this case, it's actually really important that not only are we choosing at random who's getting the creatine, but that we are also doing something to the other group that makes them think they're getting the creatine, or that they might be getting the creatine, right? Because if I tell you, hey, I gave you this like amazing substance that's going to make you be able to do more push ups, you will be able to do more push ups, even if what I have given you is literally like a flower or something, or just like nothing. I guess flower would help. But like, if I just give you nothing and I tell you this helps you do push ups, you will do more push ups. Like that's how our brain is, which is cool.
+
+Perry: [00:20:25] Yeah, it's kind of amazing. It's like, um, it's like Dumbo with the the feather. Remember? He has the feather that can make him fly. And then at the end he loses the feather. But it turns out he could fly all along, remember?
+
+Emily: [00:20:37] Right. I do remember. I do remember, and I that movie makes me sad and so sorry. Thank you for. Please never bring it up again. And so yeah, so the placebo effect is like one of our best. It's like one of our best effects. It really works very well. But if you want to evaluate the impact of creatine on any of these things, you need to sort of turn off the placebo effect by having a true double blind, randomized, placebo controlled trial in which you people don't know what group they're in. And in the case of these bodybuilders, we have that because it's, of course, it's easy. It's we can come back to this in other settings, but it's really easy to experiment on athletes. Like that's a great population for experimentation. They love to first of all, they love to be informed. They love you tell some athlete, like, I had a randomized controlled trial of something which might improve your performance. It's like, where do I sign up? Right? And, and the second thing is often what you're looking at in the outcomes is really easy to define and is short term, right? So you can run one of these studies in like a few days. You give some people creatine, you give them some people and some other powder. You ask them to do a bunch of push ups with a pillow under their face, and then that's it. That's your that's your paper. And that's so much easier than like, I'm going to treat this and I'm going to see whether you develop dementia like 50 years from now. That's just a much harder thing to study.
+
+Perry: [00:21:55] Yeah. And that's one of the reasons we have so many studies. And you'll always hear almost every influencer I looked at talking about creatine opened with like it's the most studied supplement in the history of mankind, which I couldn't find any reference for. Like I'm not entirely, I think vitamin C and like, I think I'm not sure if that's true, but it has been studied a lot. I'll give them that.
+
+Emily: [00:22:14] But as of 2003, in some review, there are like five, there's like a review with 500 papers. And that's like 25 years ago. So I and this has only become more popular. So I think it's a very highly studied. I'm not sure we don't count paper. It's not like the. That's not a metric, an official metric. How many papers have been written on something. But anyway.
+
+Perry: [00:22:31] Yeah, no, definitely not the best metric, but let's put some let's put some numbers to it so we could pick from a lot of papers. Sometimes the best thing to do when there are a lot of papers, and especially a lot of randomized controlled trials, is to look at a meta analysis, which is a single paper that combines the results from multiple papers to kind of give you an average. It's sort of the idea that every paper is going to have little errors going one way or another, and you kind of average them out to get an estimate that's more more true. And so one that caught my eye because probably it speaks to my age is a recent meta analysis appearing in the journal nutrients, looking at creatine supplementation with resistance training on muscle strength gains in adults under 50 years of age. So, so there's quite a lot of research in older adults for muscle function and falls and things like that, which is interesting. But you know, I'm not quite there yet and I'm more interested. Like for me personally, I want to go to the gym and like, look a little better and feel a little stronger and I'm otherwise healthy. And so I was very curious to see like, okay, what can I expect from creatine? So this study compared creatine supplementation and resistance training to placebo plus resistance training. And they looked at upper and lower body strength. And basically they found that the people randomized to creatine could lift an extra 4.4kg on the bench. That's what like about ten extra pounds.
+
+Emily: [00:24:02] Ten pounds
+
+Perry: [00:24:03] Yeah, yeah, 10 pounds on the bench press and 13kg on the leg press. So, you know, maybe 25, 30 pounds on the leg press. That's not nothing. I mean you're not Arnold all of a sudden, but that's real. What do you think?
+
+Emily: [00:24:17] Yeah. I mean, I think that seems real. And I also wouldn't there's two things I would say about that. So one is I would not dismiss the old people evidence. I actually think that's the other piece of evidence here, even though, you know, you're not we're not yet older adults, but actually the other really strong piece of evidence around creatine is the benefits on falls and on mobility for older for older adults. But in both those populations and in the like, the setting you're talking about, it's actually very important this be combined with resistance training. So just taking a bunch of creatine and doing nothing will not matter. The thing that creatine is helping you do is helping your muscles exercise closer to failure, which allows your muscles to break down more and then allows them to build back more. So we want to be very clear on this, even on the well-established muscle stuff, that it is not just taking creatine, it is taking creatine and doing some strength training at the same time. That is really important.
+
+Perry: [00:25:15] And honestly, not only doing whatever strength training you normally do, the the benefit derives from the fact that you should be able to do slightly more. We don't want anyone to hurt themselves. We want you to ramp up slowly. And if you know you can afford like a personal trainer to even work with you to get there. That's amazing, I certainly can't. Um, you do have to be careful, but. Right. Creatine isn't magic. It allows you to do a little more work, but you've got to do the more work if you want to see the improvement.
+
+Emily: [00:25:45] All right. So that's on muscles I want because it's my deep passion to say very briefly if you are an endurance athlete. So this is like there's also an active discussion around people who do sports that are not like bodybuilding sports. And the evidence for creatine supplementation in like running and cycling is less compelling for reasons that I think make sense with the biology. So, you know, you asked about sort of exercising to failure. It is rare even in, you know, pretty intense, like even in like long distance running to exercise to the kind of failure you have described, it does happen. You will see people at the end of a marathon, like sort of Unable to control their body line.
+
+Perry: [00:26:31] And.
+
+Emily: [00:26:31] Like crazy, just sort of like crawling across the finish line, like. But that's not common. Uh, that's not common. And so the kind of thing that creatine would help with is like just, it's less obvious. It would be helpful there. I will say a lot of endurance athletes do take low levels of creatine because like, why the hell not? Um, just in case it might help because we're, we're insane. But the evidence isn't as isn't as strong.
+
+Perry: [00:26:56] I'm so tempted to ask you if you take it, but but we're going to wait until smash or pass. Oh, you do. Okay. I should have.
+
+Emily: [00:27:02] 100% because someone once said that it might make me faster. Have we learned nothing about my psychology? Someone suggested.
+
+Perry: [00:27:11] All you need to do is say you can run faster, longer, and Emily will do a little.
+
+Emily: [00:27:15] Bit. A little bit faster or longer. I'll do it. Absolutely. Yes.
+
+Perry: [00:27:20] So so let's while we're while we're sticking on effects, I mean, we've got, of course we have to talk about like how you get creatine and stuff, but, but maybe let's go on to the brain because, you know, I think the data for muscle is great, but what I'm hearing from a lot of people and especially online, even that first influencer is talking about creatine for Alzheimer's disease and things like that. Um, we'll get to general brain effects for a second, but I'd like to play a quote from an influencer for you. Um, you're not going to be as surprised at this as I was.
+
+Influencer: [00:27:53] There is a supplement that reversed memory loss in people with Alzheimer's disease in a new double blind, placebo controlled trial right here in the United States. And very few doctors are talking about it. If you are new to my channel, hi, my name is Robert Love. I'm a neuroscientist and I have a medical clinic in Florida where we are reversing Alzheimer's in our patients. This study was released June 4th or June 5th of 2025. Kansas Medical School did a double blind, placebo controlled trial in adults with Alzheimer's disease. Half the adults got creatine, half the adults got a placebo. Here's what they found. The adults who took creatine actually improved their memory in this study. Now the thing is, they give them a very large dose of creatine. The dose they gave them was 20g a day. Most people are taking 3 to 5g a day, maybe ten grams a day. These people took 20g a day. There were no serious side effects, in fact, really no side effects at all if taking 20g a day. So the people did not feel bad and they improved their memory. Now, creatine is one of the most studied supplements on on the planet. Lots of research specifically on athletes for muscle health. Women. This is especially important for you. Women. You make less creatine than men do. Creatine is involved in in the in the process of energy. Basically, it helps make ATP. And so think about it, when you make more ATP, the creatine, some of it can get into the brain and that can help your brain make more energy and that can improve brain function.
+
+Emily: [00:29:21] So yeah.
+
+Perry: [00:29:23] Emily, I was doing the research for this, um, this episode, and I was looking into the literature about creatine and the brain and I put together all my notes, but then of course, I went to the influencers. I wanted to see what people were saying. And here's someone saying like, there's a, you heard the words randomized, placebo controlled trial of creatine for Alzheimer's disease. And it showed that it fixed their memory problems. And I was like, huh, how did I miss that? Like, that's a big deal. How did I miss that trial? And this is a, this influencers like a doctor, they have a clinic down in Florida, like it's always Florida, but you know, whatever. So I did a little bit of sleuthing and I actually found the study that this influencer was talking about from the context clues, the number of patients, the university it was sent out of, etc., I found it and, um, it's not a randomized trial. It's, there's no randomization, it's not placebo controlled. It's just 20 people with Alzheimer's who got some memory testing and then went on creatine and then got some more memory testing. And there was some modest improvement in memory from before and after. But remember, we've already talked about the importance of randomization and placebo controls. So I know how you'll feel about this. But I'm still having trouble with the influencer world. Like you can just say anything. Like is there, are there no rules?
+
+Emily: [00:30:48] What I think is interesting about this one, of course, yes, there are no there are no rules. Um, but what was interesting about this was it's so specific. Like often in these influencer things, you'll hear, you know, there's a new exciting study that says that creatine works for Alzheimer's, but to be sort of specifically wrong is actually quite dangerous because of course, like anybody who found this study would be like, oh, well, it's actually not a double blind, placebo controlled, randomized trial. It's not a it's not a randomized trial of any sort. It's just a like a study of some people. So I think it's dangerous to be too specific with your lies in the internet. Um, but at any rate, there is not a double blind, placebo controlled, randomized trial of patients with Alzheimer's that shows effects of creatine, full stop. There is not.
+
+Perry: [00:31:31] There's not. And while we're on the subject of the neurodegenerative diseases, um, you know, this is a, again, a place for, for the reasons we talked about because brain cells do use ATP at a rate that is, um, is faster than your typical cells. It makes sense to test these things. I'm so glad that people are evaluating especially a relatively benign supplement like creatine for degenerative neurologic diseases. But to give you like the data on this, there's a large randomized trial, 1700 people with early Parkinson's disease, they were all within five years of diagnosis. This is coming from the Journal of the American Medical Association. In 2015. They were given creatine monohydrate ten grams a day for a minimum of five years. This is a placebo controlled randomized trial. I mean, what an amazing study, right? Yeah.
+
+Emily: [00:32:23] And that's actually, I mean, to actually to run a study like that is extraordinary.
+
+Perry: [00:32:27] Extraordinary.
+
+Emily: [00:32:28] Really, really impressive.
+
+Perry: [00:32:29] Yeah. Kudos to the authors. The study was stopped early for futility. So, um, when we run trials, especially trials that are expensive, like this one would have been and that go on for a long time will have an independent statistical board that looks at the data at some specified time points and says, is it possible that if you continue this study, you'll see a signal of benefit or at this point, based on the data we have, like, unless every single person who gets creatine does amazingly well, you're not showing benefit. So you might as well stop now. It's no longer ethical to continue this trial. So super impressive. No effect in Parkinson's disease. Uh, and then there's another relatively large trial in this space. 550 adults with Huntington's disease. They were getting creatine monohydrate titrated up to 40g a day. We'll talk about the dosing, but that is an incredibly high dose, also placebo controlled. Um, and, uh, and also halted for futility. So not a panacea.
+
+Emily: [00:33:30] I will say on the other side, there is a much smaller meta analysis from 2018 where they put together a number of small trials in the end totals, like fewer than 300 people, but looking at just general cognitive performance, uh, and there, you know, maybe they get a little bit of a signal on short term memory. You know, this is not in a, in a diagnosed population. The results are pretty weak and they only show up for a small number of outcomes. And they mostly show up for vegetarians, which, you know, could be because they don't get enough meat, or it could be because you're cutting the data enough to find a group where it matters for. I don't really know. So putting all this together, I would say Certainly the evidence for brain impacts is far, far, far, far, far weaker than the evidence for muscle impacts.
+
+Perry: [00:34:29] I agree. You know, in terms one of the issues with the brain, it's like muscles pretty easy to study. You know, it's like how much can you bench? Like that's a very reasonable metric, but like how well your brain works is really hard. You know, we think about memory, but if you look at detailed neurocognitive testing, that happens in a lot of these trials. It's, it's memory, it's attention, it's executive function. You know, there's all these sort of components, many of which overlap with each other, some of which we don't fully understand, all of which have scores on scales that are impossible to explain to anyone. And it's very hard to say like a global estimate of like, it makes your brain better. You're right. If there was one thing that keeps kind of standing out in these smaller trials of, you know, older adults, it's probably memory. I mean, did you did you find that as well? Like if we were.
+
+Emily: [00:35:21] Short term memory. It's kind of short term memory issues, which which is something a lot of older adults struggle with. And so that sort of comes out most consistently in these trials. It's also a relatively straightforward thing to measure as opposed to, you know, measuring someone's executive function is much harder than measuring their short term memory, which you more or less do by telling them a bunch of words. And then a little later, at the end of the study being like, do you remember what those words were? So there's a series of pretty standard tests for that. So I guess the other thing I would say about this is like, there's an interesting link with mobility and exercise and not falling down and the brain, right? So one, one thing that could be true is like you take creatine and you do some resistance training. And so then you don't fall down and then you end up interacting more in the world. And that's actually really good for your brain. So there's a whole set of interacting things when we talk about the elderly, wear. Anything that improves your ability to do the activities of daily life is likely to improve your brain, because your brain is benefiting from doing the activities of daily life.
+
+Perry: [00:36:29] Absolutely. So let's talk a little bit about how people get creatine. Okay, so let's say that people say this sounds pretty good. I want to bench a little bit more. So all you have to do if you want to get creatine is post on Instagram and say.
+
+Emily: [00:36:44] People.
+
+Perry: [00:36:45] Send it like, I like creatine and apparently it shows up at your house. Why doesn't this work for me?
+
+Emily: [00:36:49] I don't know. We're going to remind people.
+
+Perry: [00:36:51] Combined, Emily and I have over 500,000 Instagram followers.
+
+Emily: [00:36:59] It's so it's so true. It's so true.
+
+Perry: [00:37:02] Um, all right. Uh, so creatine, as you pointed out, comes from, uh, meat. But because meat is muscle and animals are just like us and they have, um, they have creatine in their muscles as well. Vegetarians are people who potentially aren't ingesting creatine in that way as much, which is why some of the data restricted to vegetarians looks a little bit better for creatine supplementation. I should say that creatine is not an essential nutrient. So essential nutrients are things that you must ingest or you die, right? Like vitamin C, if you don't, you get scurvy, you die, etc.. Creatine is synthesized by your body. It's synthesized in the liver and the kidney, but probably not as much to sort of saturate how much your muscles can take. They really can take quite a bit of creatine. And as you pointed out, even meat eaters are probably not fully saturating their muscle with creatine.
+
+Emily: [00:37:53] Yeah. So when people talk about taking a creatine supplement just to like get to brass tacks, there's kind of two approaches to this. So for people who are doing, um, who are taking this for bodybuilding, the approach tends to be to take a lot for a short period of time, like as you know, 30, For even 40g of creatine a day for some period of time, and then return to a maintenance dose. For most people who would take this to kind of just generally improve their overall muscle functioning and so on, the typical dosage would be something like five grams a day as like a regular. Just to take five grams a day.
+
+Perry: [00:38:36] That's probably even a bit more than the average person needs. What will happen is that you you pee out the excess, so you know, you can think about whether it's worth it to you. It's not going to be harmful to take more. Um, those big bulky loading doses be a little careful with. If you've never done this before, there are some GI effects. You get some rumblings in your tumblers with creatine even at the five gram dose. So if you have a sensitive stomach, be a little careful when you start out.
+
+Emily: [00:39:05] And there's a lot of ways to get creatine. There's creatine in powder, there's creatine in water. There's creatine in gummy form. This creatine pills is like a lot of different, a lot of different options.
+
+Perry: [00:39:16] Most of what you'll see is creatine monohydrate. All of the data that we talked about today was creatine monohydrate. There is this other form of creatine out there called creatine, ethyl ester or something like that that they argue is absorbed better. There's no data on it. And there doesn't seem to be a reason to spend extra money on that.
+
+Emily: [00:39:32] All right. So two two downside questions people often have here. One is does creatine make you retain water. So this is like I take a bunch of creatine and then I'm all of a sudden like a bloated water bag. True or false? True.
+
+Perry: [00:39:50] True. Oh, yeah. Absolutely. Absolutely. So what? Creatine is getting taken up by your muscles. And water will flow from parts of your body that have less dissolved stuff in it to parts of your body that have more dissolved stuff in it. That's osmosis. And so water will move into your muscle cells. When you start taking creatine, as the creatine concentration in your muscle cells build up, and that actually swells your muscles a little bit. Like it's not, you're not stronger, but it does kind of like maybe add a little definition. The studies show, you know, you're talking about two kilograms, so 4 to £5 in the first week or two of creatine supplementation of water weight. So be aware of that. Um, and it does persist as long as you supplement creatine. So like if you, if you're just doing your five grams a day, like you'll, you'll get that initial weight and you'll just sort of stay at that extra water weight. If you stop the creatine, then you'll have what's called diuresis and you'll, you'll lose some of that water. So, you know, don't, don't freak out. You're going to gain a couple of pounds. Um, and it's just water.
+
+Emily: [00:41:01] Second question. Is it bad for my kidneys? Your kidney doctor?
+
+Perry: [00:41:04] Oh, I love this question. Um, can I tell a story? Can I tell a patient story?
+
+Emily: [00:41:08] Do you love the kidney so much? Yeah. Please tell a patient story.
+
+Perry: [00:41:11] I am a fellow, a kidney fellow at the University of Pennsylvania. And this woman comes in and consults. She's like this 85 year old Russian grandma. Whatever you're picturing. That is correct. That is how she looked. Okay. And she comes in and she has a creatinine value of ten. Now, creatinine is a blood test that we use to assess kidney function. Creatinine is a metabolite of creatine. So the creatine that's in your muscle breaks down and forms creatinine at sort of a steady rate because everything breaks down and your kidneys excrete the creatinine fine as your kidney function worsens because they can't excrete as much, the creatinine in your blood goes up. So the higher your creatinine is, the worse normal creatinine is around one. Just to keep things simple. A level of creatinine of ten is like your kidneys aren't functioning at all. You need to be on dialysis.
+
+Emily: [00:42:08] You're dead. Dialysis. Right?
+
+Perry: [00:42:11] Transplant. This is terrible. So I'm waiting for her to come in. I'm ready to, like, have a conversation with this 85 year old Russian grandmother. It's like, okay, I need to admit you to the hospital today. We're going to start dialysis. We'll get you on the. She's probably too old for transplant, like it was going to be a whole thing. And she walks in and she looks great. She's just spunky old small lady. And I'm looking at her other laboratory parameters and like her potassium is fine, which is very unusual for someone with advanced kidney disease. The acid base balance in her blood is totally stone cold. Normal, like it didn't make sense. So I'm talking to her and it comes out eventually as I'm asking her about her diet, that she has a trick to staying healthy in life. And what she does is she takes a giant pot roast essentially at the beginning of the week and boils it and boils it and boils it and boils it until there's basically nothing left. She takes out all the like gristle and whatever's left, and then she takes that boiled stuff and she boils it and boils it and boils it until she has a thick slurry of like, meat, meat, juice, okay. And she drinks like a cup of this thick slurry of meat juice. A day to stay strong and virile. And what was happening is she was ingesting just Herculean amounts of probably creatine, but also creatinine, because the act of cooking is going to break down the creatine from the meat into creatinine as well. So she was she was ingesting this huge amount of creatinine. Most people, um, muscles produce about a gram of creatinine a day. So if you make a gram of creatinine, you pee out a gram of creatinine, you stay in balance. Everything's hunky dory. She was clearly taking in about ten times that because her serum creatinine values, she was totally fine. She had no kidney dysfunction whatsoever. So no, there is no risk of kidney dysfunction with creatine, however.
+
+Emily: [00:44:14] Sorry. Did you tell her to stop doing this or. This was, like, totally fine.
+
+Perry: [00:44:18] She seemed fine, but I did. I did tell her. I was like, listen, every time you get your blood tested.
+
+Emily: [00:44:24] They're going to tell you that your kidneys are failing.
+
+Perry: [00:44:26] Freak out. Um, so yes, creatine supplementation will increase your creatinine in your blood. And that is our marker of kidney disease. So when you get your blood tested, if you're supplementing creatine, it will be higher. And, uh, certain doctors who are less informed might worry about that. Um, there's no evidence it harms your kidneys directly. Um, there is another blood test for kidney function called cystatin C, which won't routinely get run, but you can ask for, um, and that's independent of creatine and creatinine and whatever. So like if you really want to know for sure, if you're nervous and you're on creatine, just ask for Cystatin C it's an approved test and you can get like a better estimate of kidney function.
+
+Emily: [00:45:11] That's a great story. I before we end, I want to end with the bad news for you, uh, which is that creatine, although influencers will tell you it does. Creatine is actually not affect your hair loss.
+
+Perry: [00:45:25] Or my hair growth.
+
+Emily: [00:45:27] Or your hair growth. There is some discussion of both hair loss and hair growth.
+
+Perry: [00:45:31] Talk to me about this. I mean, I'll take no effect on hair any day, although I'd love hair growth if you can give me some of that.
+
+Emily: [00:45:39] There is sort of one small study that suggests that maybe creatine would increase testosterone and then lead to possible hair loss. But then there's many other studies which show there is no effect on any of these things. And so, um, but also no effect to the other direction. So sorry.
+
+Perry: [00:45:57] Yeah, there are some observational studies too, which are interesting that correlate creatine and hair loss. And we always love to talk about confounders, which are like third variables that explain an observed association. And there are a couple of things here I can speak from personal experience. One is that as men age and start to worry about their like muscles and, you know, have a little more time, maybe after the kids are older to go to the gym and start taking creatine is also the age in their life when like the hair is not as thick as it used to be. And then in the slightly more sinister side, you know, creatine is used extensively in the bodybuilding community. And there are other substances that are used rather extensively in the bodybuilding community that certainly do result in hair loss, like the androgenic steroids. So that's another thing that is often not disclosed when taking a survey about your supplement use and your hair loss.
+
+Emily: [00:46:55] Indeed. All right. I think that's it for creatine. Uh, let's do the smash or pass Perry. Smash or pass on the creatine.
+
+Perry: [00:47:04] Uh, So full disclosure smash. I take my five grams of creatine in gummy form, uh, a day, and I'm going to just whether it's placebo or not, I take it I go to the gym and I'm doing it for muscle. And if it helps my memory, that's great, but I'm not sure that it does. Emily smash or pass?
+
+Emily: [00:47:26] Smash. I also take my creatine every day. I even got my husband to take it. It's the only weird supplement thing I managed to encourage him to to do. And yeah, I tend to take it in powder form five grams a day. And I also am feeling I'm maybe relying on the placebo effect, but it's totally fine.
+
+Perry: [00:47:46] Okay, I tried powder form. How do you what do you put it in?
+
+Emily: [00:47:50] Hot water.
+
+Perry: [00:47:51] Just a cup of hot water. Doesn't it taste gross?
+
+Emily: [00:47:53] No, I don't think it tastes bad. The. I understand some people feel this way. I the creatine that I typically consume, which is. Thorne. Creatine does not taste bad. I don't think it tastes like anything.
+
+Perry: [00:48:04] To me, it tastes super bitter. I get whatever they sell at Costco because, um, not an ad, by the way, but Costco, if you're listening. Uh, I love you. Um, I get whatever they sell there, but it is very bitter. And I used to put it in my coffee and then I, like, missed the fact that I enjoyed it.
+
+Emily: [00:48:21] It makes your coffee sad.
+
+Perry: [00:48:23] Yeah, yeah. And I don't like sad coffee. I like happy coffee. So I'm on gummies now.
+
+Emily: [00:48:27] I will say these creatine, these creatine gummies are actually really delicious. Also not an ad, but they are, uh, they are good. So if you don't like the way the powder tastes, I recommend gummies.
+
+Perry: [00:48:36] All right, uh, after the break, we will get to your question of the week.
+
+Mailbag: Hi Emily and Perry. This is Elizabeth from Boston. So as my elder millennial heart is mourning James Van Der Beek, I’m realizing that I should be close to scheduling my first colonoscopy. I’m 42. Is it time yet? Thanks!
+
+Emily: [00:48:58] So the recommendation is to start for somebody with sort of typical risk factors is to have a first colonoscopy or a first colon cancer screening at 45. So that is the standard age. So if you are 45, now is the time. Uh, if you are younger than 45 and you have significant risk factors, that could be the time, but you really do want to start this. I mean, colon cancer screening is not as bad as you think. You can talk more about that if you want. Uh, but it is great.
+
+Perry: [00:49:28] I'm going to go. I'm going to go. Actually, I also.
+
+Emily: [00:49:31] Thought it was great. Okay. I actually thought it was great.
+
+Perry: [00:49:33] Is awesome.
+
+Emily: [00:49:36] So just just to be clear. When you have a colonoscopy, like a lot of, I think a lot of people find this very scary. But the procedure, the worst part of this is you drink some terrible tasting drink and then you poop for a bunch of times. You're actually totally fine. You know, you can't eat that much for a day. And then you go and you take this amazing propofol like nap and it's so nice. And then they wake you up and you're done, and then you go home and take another nap and eat something. And it's it's great.
+
+Perry: [00:50:04] Yeah, right. It's great. Nothing. Nothing to worry about. Um, 45 for, uh, for people of average risk. Talk to your doctor if you're at higher risk. If you had a family member that had colon cancer, you should start screening ten years before the age that they were diagnosed. Or if you have other high risk factors, the recommendation is age 40. Um, colon cancer is occurring with increasing incidence in younger people. Uh, that is something we'll talk about in some more detail in the future. Um, but yeah, get it done.
+
+Emily: [00:50:33] And I will say that that when you are 45, many people face a choice about getting a colonoscopy or using Cologuard, which is a system where you poop in a box and you send it off and it tests for markers that could be associated with, uh, that could predict colon cancer. Cologuard is very good at detecting colon cancer and advanced adenomas. A colonoscopy is better at, uh, is is much better at sort of earlier stage stuff. And so it's a little bit of a trade off for people depending on your risk factors. One thing I think many people are not aware of, I will just say is if you do the cologuard and you screen positive, your insurance may not cover the colonoscopy afterwards. And so that is something to find out before you do this. It's like a weird thing about diagnostic versus screening. And so that is true for some insurances.
+
+Perry: [00:51:23] Oh, interesting. And cologuard you have to do every year.
+
+Emily: [00:51:27] Cologuard you have to do every year and colonoscopy, if everything is good in principle, you could go ten years between them. All right. That's it for us today. Stick with us next week when we will ask what's the deal with protein? Well, this actually is produced in association with iHeartMedia. Our senior producer is Tamar Avishai. Our executive producer at iHeart is Jennifer Bassett. Our theme music is by Eric Deutsch, and our content is for educational purposes only.
+
+Perry: [00:51:56] If you like the show, help other people find us. Leave a rating and review on Apple Podcasts or your podcatcher of choice, and help us spread the word about the show. You can follow us on Instagram at pod. And don't forget, we want to hear from you. Head over to wellness.fm and leave us a question for our mailbag, or suggest a topic for a future show.
+
+Emily: [00:52:18] We'll let the influencers have the last word.
+
+Influencer: [00:52:20] As you know, we have more than 20 flavors of creatine. If you don't know what flavor to pick, here are the top five flavors from the last 30 days. And number one, as usual, we have pink lemonade. And number two, we have puckin blue razz. If you like sour flavors, you are going to love this one. And number three, we have pina colada. And number four we have raspberry watermelon. And number five we have glacier gummies. There's a new flavor on the way which mimics the white monster energy drink. I cannot wait for that one to go live.
