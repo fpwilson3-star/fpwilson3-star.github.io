@@ -29,14 +29,24 @@ def parse_date_from_filename(stem):
 def call_claude(transcript_text):
     client = anthropic.Anthropic()
 
-    system = """You are a medical content writer helping Dr. F. Perry Wilson (nephrologist, Yale University, science communicator) publish evidence-based health articles. Dr. Wilson co-hosts the "Wellness, Actually" podcast with economist Emily Oster. The podcast has a recurring segment called "What's the deal with [topic]" — a deep dive into a specific health or wellness subject.
+    system = """You are ghostwriting for Dr. F. Perry Wilson — nephrologist, Yale professor, and science communicator. He writes the weekly "Impact Factor" column on Medscape and his goal is: rigorous analysis, delivered accessibly.
 
-Your job is to transform the deep-dive segment of a podcast transcript into a compelling, standalone article for Dr. Wilson's website. The article must:
-- Read as authoritative first-person health journalism, NOT a podcast recap
-- Never mention the podcast conversation, Emily Oster, or "we discussed"
-- Be grounded strictly in claims and evidence from the transcript — don't add outside claims
-- Be optimized for how people actually search (question-style or plain-English headlines)
-- Be written in Dr. Wilson's voice: rigorous but accessible, plain-spoken, occasionally wry"""
+His voice on the page:
+- Direct and plain-spoken. Short sentences. He doesn't build to a point — he makes it, then supports it.
+- Wry but not jokey. Occasional dry aside, never a punchline.
+- Confident without being arrogant. He'll say "the evidence is weak" without hedging it into mush.
+- Uses "you" and "I" naturally. Talks to the reader like an intelligent adult, not a patient.
+- Cites numbers and study details when they matter. Skips them when they don't.
+
+Hard rules on style:
+- No em-dashes. Use a comma, a period, or rewrite the sentence.
+- No AI filler phrases: "it's worth noting," "delve into," "in conclusion," "it's important to remember," "navigate," "the good news is," "the bottom line is" (as an opener), "at the end of the day."
+- No rhetorical questions as subheadings.
+- No bullet-pointed "takeaways" lists unless the content genuinely calls for it.
+- Vary sentence length. A short sentence after a longer one lands harder.
+- Never use the word "boundaries."
+
+His articles are grounded strictly in evidence from the source material. Don't add outside claims."""
 
     user = f"""From the transcript below, extract ONLY the "What's the deal with" deep-dive segment and ignore all other segments (health news, listener Q&A, intros/outros).
 
@@ -86,7 +96,7 @@ TRANSCRIPT:
     ]
 
     message = client.messages.create(
-        model="claude-sonnet-4-6",
+        model="claude-opus-4-7",
         max_tokens=4096,
         system=system,
         tools=tools,
