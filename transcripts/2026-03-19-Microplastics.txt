@@ -1,0 +1,275 @@
+Perry: [00:00:01] Emily, I have a very important and very difficult challenge for you today.
+
+Emily: [00:00:06] I'm ready.
+
+Perry: [00:00:07] I am going to give you a word, and you have to tell me. You have to distinguish whether this is a type of plastic or a spell from the Harry Potter universe. Okay. Are you ready?
+
+Emily: [00:00:21] I'm actually I know a lot about Harry Potter, so I think I'm going to be really good at this.
+
+Perry: [00:00:25] Okay, but do you know a lot about plastics? Let's find out.
+
+Emily: [00:00:29] Less than I know about Harry Potter. But I'm optimistic.
+
+Perry: [00:00:31] All right, let's try it. First one. Avifors.
+
+Emily: [00:00:34] Plastic.
+
+Perry: [00:00:35] Incorrect. That is a Harry Potter spell that transforms objects into birds.
+
+Emily: [00:00:40] What?
+
+Perry: [00:00:42] Let's try again. Evalca
+
+Emily: [00:00:42] Spell.
+
+Perry: [00:00:45] Sorry. That is a type of plastic. Ethylene vinyl alcohol copolymers that's used in food and medical packaging. How about Lupital?
+
+Emily: [00:00:55] That is a spell.
+
+Perry: [00:00:56] That is a plastic thermoplastic. It's used in automotive, electronic and medical devices. You're not doing too well, but you're going to pull it out here. Langloc.
+
+Emily: [00:01:08] Spell.
+
+Perry: [00:01:09] That is a spell. Yes.
+
+Emily: [00:01:11] Nice.
+
+Perry: [00:01:11] It is a jinx that makes you unable to speak. Langloc. Okay. Grilamid
+
+Emily: [00:01:16] Plastic.
+
+Perry: [00:01:19] Very good. A high performance nylon used in sporting goods. Two more. Vectra.
+
+Emily: [00:01:24] Plastic.
+
+Perry: [00:01:25] Awesome liquid crystal polymer for thin walled electronics and aerospace applications. And lastly, Ferula.
+
+Emily: [00:01:33] Plastic.
+
+Perry: [00:01:37] That is a spell. It is a bandaging charm if you are wounded. Point being, there's a lot of plastics out there.
+
+Emily: [00:01:46] I thought your point was going to be, I'm terrible at this, but thank you for making the point more neutral.
+
+Perry: [00:01:52] I you know, you might need a bandaging charm after that performance, but, um, yes, I wanted to bring this up because plastics are everywhere. They are ubiquitous. They are in all the products we use. And of course, according to recent research, they are also inside of us.
+
+Emily: [00:02:11] And we're going to find out whether that's actually a problem when we do our deep dive later today.
+
+Perry: [00:02:15] Microplastics. Stick with us.
+
+Emily: [00:02:20] I'm Emily Oster, I'm an economist and a data expert.
+
+Perry: [00:02:23] And I'm Perry Wilson. I'm a medical doctor.
+
+Emily: [00:02:25] It's Thursday, March 19th, 2026. And this is Wellness, Actually.
+
+Perry: [00:02:31] Because you're getting a staggering amount of health and wellness information nowadays from every source imaginable. And some of it is awesome.
+
+Emily: [00:02:39] And some of it is, well, actually bullshit. Fortunately, we're both people who know how to read studies, how to parse the data, and can tell you what's worth thinking about and what you can safely ignore.
+
+Perry: [00:02:52] But before we dig in, a note that this podcast is for educational purposes and should not be construed as medical advice. We don't know your unique situation, so talk to your doctor for personal health decisions.
+
+Emily: [00:03:03] This week we'll ask life in plastic. Is it fantastic? As we explore what's the deal with microplastics? Perry and I will give the official smash or pass. And then we'll get to your question of the week. But first, let's do the health news roundup after the break.
+
+Perry: [00:03:32] Okay. Welcome back. This week in Health News. Emily, I want to start with the FDA. You may remember back to that infamous press conference on autism, where President Trump appeared and said that pregnant women should avoid taking acetaminophen or Tylenol because it causes autism. At that same conference, FDA Director Marty McCarey said that a therapy might exist called Leucovorin, which according to him, quote, could benefit 20, 40, 50% of kids with autism. You know, that's a that's a huge number and a huge statement to make for a therapy that's already FDA approved. For other indications it's available. It can be bought today. Well, as of a couple of days ago, the FDA did indeed approve leucovorin, but for an incredibly rare genetic condition that limits the delivery of folate to the brain. Folates a form of B vitamin. This condition affects less than 1 in 1,000,000 people in the United States, so maybe a couple hundred. And they do indeed have an autism like syndrome. But this is a far cry from 50% of people with autism. So what do you make of this disconnect between what gets said in the press and what gets passed by the FDA?
+
+Emily: [00:04:53] So I think this is a good example of where an early stage finding was translated to mean more than it did, partly for political reasons, and partly because the fact that people would like there to be a better treatment for autism. So Leucovorin did show some had shown some initial promise in some kids with autism, particularly around speech issues. And so there was sort of some early stage, very small scale, not really randomized evidence that suggested that this could be something to explore. But I think the bulk of the very good evidence, as the FDA pointed out, is not not consistent with that. And it isn't really clear what the mechanism would be. So in terms of treating the particular folate condition in this very small number of people, it's clear what the mechanism is. But in general, there's not a lot of reason to think that this would this would be helpful. So I think it's a, it's a good example of where there was kind of an unfortunate interaction between people really wanting there to be a simple answer to something and a politically expedient, uh, set of claims. I mean, they had promised a cure and an answer to autism by September, and it was getting to be the end of September. And this was what was on the table. It's kind of how I read it. I'm curious if people will continue to experiment with this on their own. I mean, there's not much to keep parents from asking for this for their children because it is approved even if they don't have this condition. My guess is we will still see a fair amount of that, I think.
+
+Perry: [00:06:30] Absolutely. Absolutely. Yeah. I mean, leucovorin, I mean, it is it's it's not that dangerous a drug. It is a sort of modified form of folate basically. And as you said, it's already FDA approved for other indications. So you can get it off label. And I think people, um, people are desperate and desperate people will try what is available. Can't really blame them for that.
+
+Emily: [00:06:50] Yeah. All right. Next up, I want to ask you about ChatGPT and whether it's replaced you yet in particular, nature this week has suggested that ChatGPT is actually not great at triaging actual medical emergencies. And so I'm curious what you made of these findings and whether I mean, there's a much more interesting question, broader, interesting question about what is the role of AI in medicine. But let's keep to the narrower question of ChatGPT as a triage mechanism.
+
+Perry: [00:07:23] Yeah, yeah, yeah. And medicine is a little bit big. Um, first of all, let me just say, Emily, that is such a deep and insightful question. I'm sorry. I was trying to be ChatGPT.
+
+Emily: [00:07:34] That's not how ChatGPT would say it. Like, wow, that's a great question.
+
+Perry: [00:07:39] You've cut to the center of this challenging issue. Um, don't use ChatGPT to tell you whether to go to the emergency room or not. That's that's what this study says. And, you know, to some extent, like, yes, probably everyone kind of knows this deep down in their heart. But my actual concern is that there are a lot of sort of edge case medical conditions that really are an emergency, but that people might not think are an emergency. And those are the times where you might go to AI, right? Like if you have crushing substernal chest pain, you're probably not going to ChatGPT and being like, should I go to the ER? Right. Like, someone's going to get you to the emergency room. And in this study, things like that got triaged appropriately by ChatGPT. The stuff that didn't were the cases. And these were all cases made by clinicians. Like they were designed to be things that if a clinician heard, they would send you to the emergency room and the cases where it really failed, which were emergencies, should have gone to the emergency room and got under triaged in about half of cases were conditions, for example, like, um, diabetic ketoacidosis, where the symptoms are things like, you know, fatigue, vomiting, Excessive urination.
+
+Perry: [00:08:50] Wear. A non-medical person might convince themselves that, okay, that's, you know, I've got the flu or something like that. And indeed ChatGPT was saying, oh, let's see how it goes in 24 to 48 hours. A similar case was a case with impending respiratory failure, where it's like, you've got to get to the emergency room and ChatGPT, about 50% of the time said, let's give it some time. What's really interesting is that it could be gaslit a little bit. So if in the prompt they use the same symptoms, but they added a sentence that was like, um, my family says I'm overreacting or like my family says everything's fine and I look good. It would actually be less likely to say that you should go to the emergency room. So it's sort of it'll be like, okay, well, as long as people around you think that things are okay, it's okay.
+
+Emily: [00:09:34] Okay, so here is the issue with this that I have. And not to say that I think we should be using AI for our triage, but when I talk to pediatricians about the question of whether you should bring your kid to the doctor, one of the core questions people ask is how does your kids seem? That is the most important pediatrician question. If you say, my kids had a fever for two days, the fever is 104. The question they ask is does the fever come down with treatment? And how does your kid seem? Do they seem very sick? And so if you said actually they don't really seem that sick. That's like a really important piece of information. So I'm sort of wondering here whether there's something in the construction that's almost like a little too negative on the AI.
+
+Perry: [00:10:15] I see what you're saying, but the fact is that these cases are designed that like, no rational actor would tell you to wait it out, right? No matter what the people around you are saying, like the, the kids are a little bit different, for one, because their symptoms can often seem quite a bit more extreme than adults are used to. So like a fever of 104 in an adult is like, what is crazy? And something really bad is happening. A fever of 104 a kid is like Sunday night, right? Like that's nothing. So so there is that issue. The thing that like I kept coming back to with this is that I actually hate the. You should probably go to the doctor right now. Like default of the world. Like anytime anything gets posted online or like any question gets asked, there's this very kind of, I think medico legal thing, which is like, even when the person's clearly okay to be like, yeah, it's fine, but why don't you go get checked?
+
+Emily: [00:11:07] Check with your doctor.
+
+Perry: [00:11:08] Check with your doctor, go get checked out. Like there's that default because God forbid you miss something. And I was actually surprised that ChatGPT didn't just, like, jump to the like. Oh, yeah, go to the er, go to the er, go to the er conclusion. So I think there is a spot here, it's got to be better than this. But um you know, given how overburdened our healthcare system is, the truth is there are plenty of people in the emergency room right now who could be managed just fine at home or could wait it out 24 hours. And that's a tough triage decision to make. We're not ready to have AI do it yet. But you know, maybe we'll get there. Maybe, maybe.
+
+Emily: [00:11:43] Okay. Last thing that we wanted to talk about was a new study about pain during sexual activity. Do you want to you want to tee this one up?
+
+Perry: [00:11:52] I this study came across my desk and I'm like, I had that experience looking at the data that I was like, oh my God, am I living in a parallel universe? Like, this is so bonkers out there that I don't know what to make of it. And then I had the second thought that this is me being a man, being the problem. And so, so, Emily, I need you to weigh in on this. Let me give you the details here. So this is a survey study of college students. It was just published in the International Journal of Sexual Health, 263 college students who were reporting on their sexual activities, specifically asking about pain with various types of sexual activity. So non-penetrative sex, penetrative sex, etc.. And the key takeaway from this is kind of crazy, to give you a sense of the numbers here, looking at the key table of the individuals who reported being engaging in penile vaginal intercourse. 91% of women reported pain, 49.1% of men reported pain. And those numbers are pretty similar across the board, 51% of college men reported pain from non-penetrative sexual activity, 45% of women reported pain from non-penetrative sexual activity. And so I saw this. The theme of this paper was actually they're trying to not stigmatize discussion of pain in this space, particularly for men, because men were much less likely to report to their partner that they were experiencing pain than than women were. Um, and sure, that's important. Communication is important, but just like on the surface, these numbers seem really high. Emily. Or am I a man that like, doesn't, you know, isn't thinking about this the right way?
+
+Emily: [00:13:33] So yes, I agree with you. I think these numbers are very surprising. I find the numbers for men actually Particularly surprising. Um, maybe I am biased by the fact that I mostly talk to women who have recently had children, but pain during sex is quite common postpartum and sort of somewhat more common for women. I think quite a lot more common than for men. The fact that half of men are reporting pain during sexual intercourse, even for non-penetrative sexual activity, I'm not really sure. I don't I'm not a man. I don't really know what this is. Um, so I find that part confusing. I will say that this is a pretty small sample and I am wondering about the recruitment strategy. So, you know, if you did this on a nationally representative sample of college students, I would be really surprised if you told me I went to a college and I told people I'm doing a study about pain during sex and or about discomfort during sex. And here are some questions. Maybe I'm not as surprised that you've pulled in a set of people who have a particular who are coming to you because they have something to say. So for me, this is maybe a little bit more of a, of a kind of, well, what's your sample question? Rather than, you know, I have totally misunderstood people's sexual behavior, but.
+
+Perry: [00:14:53] Well, I mean, their point is, of course, that men don't talk about it as much, that there's like a stigma associated with this. I also should point out this isn't pain every time you have sex. The question was worded like, you know, do you ever have pain when you have sex, which will tend to inflate numbers a little bit, but this is good to talk about, right? Like, you know, if you have a sexual partner, this is not something you should not be suffering in silence. I promise sex will be better with better communication.
+
+Emily: [00:15:23] Totally could not agree with that more.
+
+Perry: [00:15:25] And that's it for the health news of the week. After the break, we'll ask what's the deal with microplastics? All right, we are back. And today we are trying to figure out what the deal is with microplastics. I mean, we hear about this everywhere. Plastics probably not a good thing. It's certainly not good for the environment. What effect does it have on us? But Emily, before we get into it, we've got to define our terms. What is a microplastic? What does that even mean?
+
+Emily: [00:16:00] So a microplastic is just a small plastic, as the name would suggest. I mean.
+
+Perry: [00:16:06] A Latin scholar, I see.
+
+Emily: [00:16:08] Exactly. These are tiny plastic particles that happen when you decay larger plastic particles. So think, you know, a water bottle or carpeting or any of the enormous number of things in our world that are created by plastics. Those things are whether they decay, they, they give off little teeny pieces of plastic. And so a microplastic is a plastic particle that's less than five millimeters in diameter. People will sometimes also talk about nanoplastics, which are less than one micrometre. And you want to think about it like there's a microplastic, which is what you know, and then eventually the microplastics come off and then they turn into nanoplastics. And that is kind of happens over time.
+
+Perry: [00:16:54] Yeah, like little flakes. I've seen people, you know, this started as an environmental like concern, like before it got into people, you know, scientists were looking at like the ocean and lakes and filtering water and pulling out all these tiny pieces of plastic out of the water. I've seen those videos, which are sort of disturbing.
+
+Emily: [00:17:11] And fish eat them. Yeah, they're all over fish. So there's like a lot of evidence. I mean, I think there's an important place to start in this discussion, which is sometimes when we talk about this health stuff, you sort of come to the end and be like, well, it's really not actually a big deal at all. This is a place where it's definitely true that relative to 50 years ago, there's way more plastic in the world. And because it decays over time, there's way more microplastics. It's also pretty clearly true. That's not good. No one's going to go out there and be like, hey, it's great that the fish are full of tiny pieces of plastic. Like, that's awesome. I think the question for us today is really going to be like, how problematic is this? And how, how should people think about it in their lives? Not like, is it awesome that fish are full of plastic because you know.
+
+Perry: [00:17:55] Yes, clearly not. But like everything, right? Are we going to worry about this? Would you rather have a fish that has a bunch of plastic in it, or a fish that has a bunch of mercury in it? Like there are environmental toxins all over the place. And, you know, some of them get sort of more attention than others.
+
+Emily: [00:18:10] Yeah. And we should also say plastic has brought a lot of important things to people in the world. So it's not an all bad activity. It is part of why we are not dead. Most of the time.
+
+Perry: [00:18:22] That's a that's a great point. We probably can't completely do without plastics.
+
+Emily: [00:18:26] Exactly. Okay, so one question people will have when they when they start with this, which is why would these plastics be a problem? So if we accept that they're, you know, they're in fish, maybe they're in people. We'll talk about to the. To what extent? But isn't this just like an inert substance? Isn't this just kind of not important? Why? Why am I worried? Am I basically. Am I just pooping it out? Why am I not just pooping this out? Perry.
+
+Perry: [00:18:51] Yeah, it's a good point because we think of plastic really as kind of the fundamental thing that doesn't react with anything else, right? It's like why we store our food in plastic containers. I mean, it's also light and it doesn't break like glass and stuff like that. But, but you know, we do, we have lab tests that are in plastic and things like that. It's just supposed to be inert. In fact, the reason we have microplastics is because the plastic doesn't break down into its constitutive molecules very readily. That being said, the human body is more than willing to interact in bad ways with things that are chemically inert. Doesn't just have to be a chemical reaction. And I think maybe the prototypical example of this is asbestos, which is an inert fiber. Your body doesn't it doesn't cause a chemical reaction in your body, but it is quite irritating. And your white blood cells will see those things and ingest them. And of course, that can lead to cancer. Mesothelioma is the cancer associated with asbestos exposure. So we know the body doesn't like is not a chemistry lab. It's much more sophisticated than that. And there's, you know, quite clear evidence in the lab that exposing cells and tissues to microplastics can cause them to do bad things, particularly on the inflammatory side. So if you take a bunch of white blood cells in a petri dish and you sprinkle some microplastics on there, the white blood cells will see them and start releasing, you know, what are called cytokines and chemokines, which are these inflammatory molecules that basically say like, there's a problem here.
+
+Emily: [00:20:21] Listen, I got to stop you for this because one of the wellness influencer terms, this is slightly off topic, but one of the things you hear about all the time is inflammation, right? Like am I? I'm so afraid of being inflamed. Why is this a problem? Why am I so concerned about being inflamed?
+
+Perry: [00:20:37] So there's there's good inflammation and bad inflammation. When you have an injury or an infection, your immune system targets cells and antibodies and stuff to that area and does inflammation. And what inflammation is, is an offensive set of chemicals to destroy the thing that is there. Um, now if that thing is a bunch of bacteria or something like that, then great. And your body releases those chemicals to destroy the bacteria. It does do some damage to, to your own cells as well, but that's sort of a risk. You're willing to take these substances when they're nicely targeted to an injury or an infection, work quite well when they are flowing throughout your body. We do know that they can cause significant problems in the long term. Certain markers of inflammation, like C-reactive protein, if they are higher in your blood, you have a higher risk of atherosclerotic cardiovascular disease. There is this sense that there's good inflammation and then inflammation run amok, and there is stuff that we do to ourselves that promote inflammation that aren't giving ourselves infections.
+
+Emily: [00:21:43] So just to like dramatically simplify, if there are a lot of tiny plastic particles around, it is possible that our body will be like, ah, that's like a thing I need to go fight. And that that will cause there to be a lot of these inflammatory markers around in our blood. And that might be bad for our heart because our body's kind of overreacting to this plastic situation.
+
+Perry: [00:22:04] And inflammation is supposed to be transient, right? It's supposed to be like while you heal your wound while you cure your infection, and then you're supposed to go back to baseline. But if you're sitting kind of above baseline for a long period of time, it really can have adverse effects. But the problem with the microplastic literature, as I dug into it is there's a lot of these studies in a petri dish, and then there's very few poor quality studies translating this into a human body. And like the difference is really, really big between those two things. You can mess with cells a lot in a petri dish.
+
+Emily: [00:22:39] Yeah. So for me, this is also where I landed in the microplastics debate. And I think it's sort of important to help people kind of separate two things. So one is maybe maybe three things. So one is the question of like how much microplastics are in people's bodies. Could that be bad based on what we know from the lab? And the third is like, is it bad given those two things together? And I feel like in the, the, what's been complicated for people in this literature, and I think we should separate those three things, is that we talk a lot about the first thing, how much microplastics are there? We talk a lot about the second thing. You know what happens if you feed a mouse exclusively a diet of microplastics for its whole life? Like how is that going? And then, and then we sort of assume things about the third thing. And so let's talk about the first two and then talk about the third, right?
+
+Perry: [00:23:29] Yeah. I mean, just to echo that, I was like, laughing out loud when I was digging into the literature at how many when you are searching for like, human effects of microplastics, the ratio of review articles and perspective pieces versus like hard data articles was obscene. And there are all these review articles like, oh, you know, it probably causes cancer. And you're like, oh, it does. Let me read what you say. And it's like, well, if you put it in a petri dish, it causes inflammation. And we know that inflammation might cause cancer. And therefore maybe in humans it causes cancer. It's like, okay, that's not evidence. That's, you know, connecting dots that you haven't proven are connected yet. It's, it's quite frustrating.
+
+Emily: [00:24:08] I like in review articles when you it's like, this might cause cancer and you're like, and then it's like citation and you're like, oh, good, I'd like to read the citation. Then you click and then it's another review article in which they say that it's like, come on man.
+
+Perry: [00:24:19] Yeah. Give us something to work with here.
+
+Emily: [00:24:22] This is like, now we're in the weeds of like stuff I don't like about literature. But let's talk about that first question, uh, which is, you know, how like we're going to put these three things together and get to the last thing that people care about? But let's unpack. Are there microplastics everywhere?
+
+Perry: [00:24:36] Plastic is everywhere. We've talked about it. It's a ubiquitous part of our lives. But but microplastics come from a bunch of different sources, right? Emily. So, like, what are the major ways that microplastics get into us into humans?
+
+Emily: [00:24:49] So basically, to get the microplastics into us, we have to actually come in. You don't tend to absorb stuff like that through your skin very much. So it's really kind of stuff you eat and stuff you breathe or, or inhale. So the major sources for people are stuff in your diet and then like dust. So in your diet, we can find microplastics everywhere. There's this one study and I honestly think this is an over. I'm not totally sure I believe this, but there is one study of tea bags in Canada which has like these tea bags or just like basically exclusively made of microplastics.
+
+Perry: [00:25:24] Right? They forgot to put the tea in. They just filled the bag with microplastics.
+
+Emily: [00:25:29] They just literally put microplastics. But that's not all. Tea. Yeah, it's just this particular, I think.
+
+Perry: [00:25:34] Yeah, I saw this too. This was a study that had the amount of microplastics in a cup of tea, like a hundred fold higher than in any other source, which is.
+
+Emily: [00:25:43] But if you put aside this particular terrible tea situation, generally, most of the people's microplastic exposure is, is through indoor dust. So there's just a lot of plastics in indoor dust. There's a lot of plastics in your house. And they kind of were indoor spaces and they sort of decay and you and you inhale them. And then, uh, you know, of the diet stuff, plastic bottles, drinking out of plastic bottles is kind of the biggest thing. And then tap water. So it's, it's sort of stuff you drink and stuff you breathe is the biggest set of issues. You can generally find microplastics in a lot of foods and people store microplastics in their fat. So human fat has a lot of microplastics, but we're not eating human fat. So that's not like a dietary source. Not usually.
+
+Perry: [00:26:25] Yeah, I should hope not. But it sounds like you're. I mean, these are hard things to kind of. Let's say I'm going to be concerned about microplastics. Like don't breathe dust is going to be a tricky one for me, right?
+
+Emily: [00:26:35] Yeah. I think that's actually an important point from the practical, practical standpoint here is even if we get to the end of this conversation and we say, this is something you should be, you should be worried about, it's actually not entirely clear how people could really change their behavior to, to affect this. And such a large share of your exposure is just going to be through through breathing. But in general, yeah, microplastics are around your, you're getting them in, which leads to the question of whether they stay, which I will ask you, which is to what extent do we actually know that people are retaining these microplastics in their bodily tissues? Why don't they just poop it out, as I've asked you several times, and I don't feel like I've gotten a straight answer.
+
+Perry: [00:27:16] Here, I'll give you a straight answer. They do poop it out. In fact, when you when you measure microplastics in people, one of the highest concentrations of microplastics is in feces. Stool is in poop, and that's likely because you are getting it in the stuff you eat and it is just passing through you. This is a bit of a problem of size. So you mentioned earlier that microplastics are anything that's five millimeters or less. And to give people a sense like five millimeters is like like a pencil eraser size. This is. It's like micro kind of, but not really, you know, like if I swallowed a pencil eraser, which might be made of plastic, like it's passing right through me, right? You're going to that's going to be okay. You get down to the nanoplastic scale where these things are so tiny that they can, you know, go between cells and stuff like that. There's going to be a lot higher absorption. And clearly there is absorption because there have been plenty of studies looking at human tissues and measuring microplastics in them. You can, you know, depending on the measurement method, you get numbers that are a little bit all over the map. But just to give, just to give a sense of where things kind of stand. There have been quite a few studies now that show a reasonable accumulation of microplastics in the placenta. There's been a number of studies looking at microplastics in the kidney, which kind of makes sense because the kidneys are the major filtering organ of the blood. And so if anything is going to kind of pick up those little tiny micro and nanoplastics, the kidney would make sense. You can find microplastics in the lungs. There's a study showing microplastics in small concentrations, but in breast milk, some in testicles, some in the intestines. So it's really kind of everywhere you look. And perhaps most concerningly, but also, most controversially, microplastics in the brain.
+
+Emily: [00:29:15] Um, let me ask you before we on the way to get into microplastics in the brain, I want to ask you. So you said there's microplastics in in the kidney. Now your kidney. Doctor. I'm curious how we know that. Like, if you see, you must see people's kidneys, like after they're dead. Presumably. Sometimes.
+
+Perry: [00:29:33] I mean, are slides prepared from them? Sure.
+
+Emily: [00:29:35] Can you, like, see the microplastics? How do you know that? There's microplastics in people's kidneys.
+
+Perry: [00:29:41] There are multiple ways to measure, so. But yes, you can see them. So under a microscope you can see little irregularly shaped things that don't belong there. And essentially those are microplastics. And in certain tissues you can see even an inflammatory reaction around them. Or you can find them inside white blood cells like the cells have kind of eaten them or something like that in an attempt to break them down as a foreign body. But some are even too small to see under a typical light microscope. And then there are other methods, like mass spectroscopy, where you literally you burn the tissue and the gas that comes out, like you burn it with a laser and then the gas that comes out, you sample and measure the chemicals in the gas that comes out. And you can kind of say, oh, look, there's polyethylene there, which must have come from plastic. And but this is a problem with the literature. It's like, it's, it's really hard to quantify. Most of the data is in units of like pieces per milligram. Like how many pieces did we count in this milligram of tissue, which is such a sort of random thing to me. Like I want, like I want a grams per milligram, I don't know, milligrams per milligram.
+
+Emily: [00:30:53] Yeah. So I think it's interesting because those numbers don't have any meaning. But the thing, a thing that I think has really stuck with a lot of people in this literature is this paper that said that there's a spoon worth of plastic in your brain. Yeah. This is because it's like one thing to be like, there's pieces. I saw them, the mass spectroscopy, blah, blah, blah. But this is like now in my mind, there is an actual spoon. And in my head, of course, it's shaped like a spoon. You know, it's like somewhere in here.
+
+Perry: [00:31:21] Yeah, yeah, yeah, like someone, like, shoved it right up your.
+
+Emily: [00:31:24] Someone shoved it right up. It's like, right in there. You know, I could be eating with it, but that feels, I think, to a lot of people like both very tangible. It is a lot. And my understanding is it's probably not true.
+
+Perry: [00:31:41] Let's talk about it for a second. Yeah, I think we got.
+
+Emily: [00:31:43] To get into this because this is like, yeah, we got to do the brain.
+
+Perry: [00:31:45] This is the paper. So so this is a paper that appeared in Nature Medicine. Um, obviously got a lot of press. I think the like plastic spoons worth of plastic in, in your brain just. Yeah, it's very hard for health reporters, including myself, because I wrote about this when it came out to resist totally.
+
+Emily: [00:32:03] The headline writes itself. I mean, obviously.
+
+Perry: [00:32:06] A headline writes itself. Let me give you just the data that was in the paper. And then, Emily, you tell me why you're skeptical here. Um, so the way the study worked was it was an autopsy based study. So University of Arizona. I think they have like a brain repository that where people have donated their brains after they died over a period of time. And the authors sampled brain tissue from the frontal lobe, the sort of important frontal part of the brain. And they measured nanoplastics here, so incredibly small pieces using mass spectroscopy. So that's that shooting a laser and vaporizing the thing and measuring what comes out of the vaporizer. And they compared this to the microplastics and other tissues. And to give you some numbers here, I'm not even going to say the units, but because they don't make much sense. But I'll give you the numbers. So like in the kidney of these patients or in the kidneys they examined, there was like 500 units of microplastics per gram. And in the brain there was about 5000 units of microplastics per gram. So not only is it in the brain, but they were like, it's in the brain a lot like more than everywhere else. They also showed that that concentration increased over time. So between 2016 and 2024, the amount of microplastics in the brains that they had had increased. And they also showed that brains with dementia had higher levels of microplastics than brains without dementia. And you sort of put that all together, and then you start to get like the real ick that I'm hurting myself by drinking a plastic water bottle.
+
+Emily: [00:33:42] Yeah. And I think the, the thing that was maybe on a technical level, more surprising here was people had thought that the microplastics would not be so prevalent in the brain because we have a blood brain barrier, which is supposed to protect your brain. Your brain is like more important than your kidneys. No offense to you as a kidney doctor, but.
+
+Perry: [00:34:03] It's okay, I agree.
+
+Emily: [00:34:04] We're like, your body's like more interested in protecting your brain. And it was sort of the, the idea that these probably nanoplastics were able to kind of get through the blood brain barrier and populate the brain at these incredibly high levels was disturbing. I think is out of place.
+
+Perry: [00:34:19] Yeah, but but there's pushback, right? So what's the pushback?
+
+Emily: [00:34:22] There's a lot of pushback. So I think that the pushback here is, is really related to how hard this is to measure. So again, you're, you're vaporizing this with a laser and seeing what comes out. But the two criticisms that have come up when people have talked about this are one, is it actually microplastics as opposed to something else that you are misinterpreting the chemical signal of? For example, fat may be more similar to plastics than other things. And because there's a lot of that kind of tissue in the brain that could lead you to think that it's microplastics when actually it's fat. And when we think about trends over time, since fat like obesity has gone up over time, that actually could relate to some of the trends. I think that's one thing people have raised. And a second is just that it's really, really hard to control this carefully in the laboratory. And people have raised some questions about this particular study and whether they did a good job. This is an example of something where it's so surprising, like it was so surprising to so many people that you really probably would want to do it again. And if it were easier to do, someone would have done it again right away. The issue is now it's both hard to do. You need a lot of brains from dead people who have agreed to let you vaporize their brains for plastic or whatever. And that's just so I think there's a bunch of reasons why. This is why it's been hard to replicate, even though there are a lot of people who think this is probably not right.
+
+Perry: [00:35:49] Yeah, I think that's such an important thing. I always teach my students, I'll say this a million times, no one study is definitive, right? Like replication is so important because of these issues. Like you don't get all the data in a paper, right? You get the sort of filtered data that the scientists are putting in their paper. And there's ethics about this and stuff, but you don't get to see inside their lab. You don't get to see what's happening. So it really is important to get replication to put another spin on this. The total amount of microplastics that they calculated would be in the full brain was about a half of a percent of the entire brain. Like the weight of the brain, 0.5% of that, which to some neurologists is incredibly high. Like they're like that level, that amount of plastic. Like, you know, half of a percent throughout the brain is not something we would miss. We would, you know, we would clearly see it. And it's so much higher than other tissues that it just kind of doesn't seem plausible on the face of it. But, you know, I guess we'll see.
+
+Emily: [00:36:48] I guess we'll see. All right. So let's, let's just establish whether it's a spoon or a small spoon, a teaspoon ladle of plastic in your brain that there are plastics in our bodies. And then there's these sort of two other things. So one is, you know, do we have good evidence that in laboratory kind of cell settings, plastics are bad? And my read of that is, yes, that there's a lot of evidence that if we take labs, either mice or cells or organoids, which are like, you try to make like tiny pieces of human organs and you expose them to a lot of microplastics. All kinds of bad stuff happens to them. Yes, yes. Fertility issues in mice.
+
+Perry: [00:37:30] Yeah. But like contextually speaking, this is also true of like everything we do to cells and mice and stuff in the lab like this will come up again and again, which is, you know, if you take a model organism or you take a cell in a petri dish and you sort of stress it out with like whatever you're going to pour on top of it, you know, whether it's microplastics or whether it's like, you know, roundup pesticide or whatever you do, you're going to get a reaction out of those cells. It's similar to, you know, this particular dye, food dye causing cancer or something like that, right? It's like that is the baseline. Again, we always talk about biologic plausibility. Is it plausible that there's a problem? Sure. We have some evidence. The floor of evidence, which is like if you soak a cell in microplastic, it isn't happy about it, but the wellness world tends to run with that and like go. Conclusion. Conclusion conclusion. Conclusion. Microplastics cause cancer. Only drink out of like a wooden bowl from now on, right? And we actually need to tie those together and we haven't tied those together very well yet. But maybe, Emily, we can talk about some of the areas that people have said microplastics affect. So I think we talked about the brain. We're not too sure what's going on in the brain yet. Um, but other things that have come out or that people claim about microplastics are like obesity, for example. So, so do we think that microplastic intake is causal like leads to obesity?
+
+Emily: [00:39:05] I don't think so. All of the literature that I have. So let me let me say I've read a bunch of this literature, and it tends to associate levels of microplastic consumption or, you know, eating from takeout containers that have a lot of microplastics with obesity. And the problem is that that is an associational study, not a causal study. And so the fact that people who are exposed to more microplastics are also more likely to be obese could easily, for example, be explained by microplastic exposure from containers that are more likely to contain processed foods, which we know is associated with obesity. So there's just like so difficult to learn from that kind of evidence. I just think that's I just think that evidence is all such complete garbage.
+
+Perry: [00:39:58] I saw my favorite graph recently, which looked at the rate of obesity between 1976 and 2019, and the rate of plastic production between 1976 and 2019. It was like, look, they're both going up. It's like, okay, guys, you know, there's a lot of things that have gone up since.
+
+Emily: [00:40:16] A lot of other things.
+
+Perry: [00:40:17] A lot of 76. Um, but.
+
+Emily: [00:40:19] Even like the thing that's amazing about that is like you could draw an interesting causal story there. You'd be like, as it's being more easy to make plastics actually, that has contributed to like things about our food system. So it could be that there's a like, in a weird way, there's a causal link between plastics and what it has made possible with the food system and obesity, but it's not through microplastics. Yeah. Even if that goes for causal, it wouldn't be for this reason is what I'm saying.
+
+Perry: [00:40:47] Anyway, it's such a good point.
+
+Emily: [00:40:48] The other place I think that that people talk a lot about this is infertility.
+
+Perry: [00:40:52] Yeah.
+
+Emily: [00:40:52] Um, and so, you know, we see microplastics in sperm, we see microplastics in the placenta and people worry about fertility rates. And I will say in mice, evidence, again, very high exposure to microplastics in mice does seem to interfere with reproduction. What is your read of that literature in people?
+
+Perry: [00:41:13] Uh, again, very clear that there are microplastics in the placenta. Um, and in fact, it's one of the tissues that they see more microplastics than in some other tissues for reasons that aren't entirely clear to me, because the placenta is not like a filtering organ, like the liver or the kidneys are, although maybe it is some kind of interface that, you know, makes microplastics more prone to be there. The question is, does it matter? And it's been very difficult to show that there's a link between the microplastic content in the placenta or microplastic exposures and birth outcomes, which is the important thing that, you know, we we care about here. What do you think, Emily? I mean, this is, this is your your wheelhouse.
+
+Emily: [00:41:58] Yeah, I think, you know, I don't think that there's any compelling evidence of particularly important effects here. I mean, and I guess this this gets into where I end up on basically all of these things, you know, cardiovascular disease, dementia, etc.. Like, is it possible that there is at some level of microplastics in effect? Yeah, I think so. Is it likely that there's an effect at the levels that we see people being exposed? I don't think we have any evidence of that. And all the literature on this is very, very poor. And to the extent you're seeing a correlation, almost certainly like nearly all of that correlation is driven by other differences across people and not by the microplastics.
+
+Perry: [00:42:42] Yeah. Sometimes it's helpful to imagine imagine two people like the ultimate microplastic consumer and then the ultimate like non microplastic person, not because they're deliberately trying to avoid them, but like what is sort of the image you have? And if I think of like, you know, who's not getting many microplastics? Well, it's like this, this guy out in a log cabin in the woods who's like, you know, hunting and fishing and eating whole foods and, you know, doing that kind of stuff. And like whittling his own Ziploc bags from a cherry tree. And then, you know, I think of the like microplastic consumer and you have someone who's, you know, yeah, eating a lot of takeout and all that kind of stuff. And those are all what we call confounders. Those are all problems when you're trying to tie microplastics to something, because the type of people who have more microplastics in them are different than the type of people who have less microplastics in them. And those differences can matter in terms of all sorts of health outcomes.
+
+Emily: [00:43:37] Yeah. So, I mean, I think I am very skeptical of claims that exposure to microplastics are an important part of people's health. So like, is it possible they are a little bit of it maybe. Is it likely that this is a very important driver of various problems that people have in their health? The answer is I think no, I agree.
+
+Perry: [00:43:56] I think this isn't the biggest problem we face health wise. But I also always like to look at like, okay, maybe it's not, but are there easy steps? Like, if I care? How easy would it be to change this? And as we've been talking, you know, you've told me about dust being a major contributor of microplastics. Like, all right, I'm not going to change that. But it feels like if you believe the tea study, right? Like, okay, maybe I'll, I'll just make tea using tea leaves and a stainless steel tea filter. That's pretty easy. Do you think there's like some easy stuff we should be doing? I don't know, should I have a Stanley water bottle? Like low hanging fruit here?
+
+Emily: [00:44:33] So I think there's the lowest hanging fruit is avoiding, uh, like non reusable water bottles. So like plastic water bottles are among the higher microplastic giver offers. They are also not very good for the environment. And so there's a kind of double whammy positive of just trying to, you know, not be neurotic and never, ever use disposable plastic water bottles. But thinking a little bit about, you know, limiting those. I think that's that is the simplest thing. I think for most people that would change their microplastic exposure. Some. And almost every other change you would make is totally unrealistic. Like don't breathe.
+
+Perry: [00:45:14] Yeah, yeah, yeah. We don't recommend that in the medical spheres. I think for me. Yeah, I think I can use a reusable water bottle. I think when I'm reheating my takeout food in the microwave. Like maybe I'll transfer it to a bowl that is not plastic before I reheat it in the plastic thing. I don't know, that's easy.
+
+Emily: [00:45:34] Sure. Yeah. I mean, I again, I think that's that could be easy. I think you have to ask the question like what is easy for you? And maybe that's also a question about reusable water bottles. I think we could say like, here are two things you could do. Use fewer disposable water bottles and don't microwave your takeout. And then you can think about, you know, how feasible are those changes for you?
+
+Perry: [00:45:54] I like it. All right, let's bottom line this thing, Emily. Microplastics smash or pass, or actually, I should probably say avoiding microplastics. Smash or pass.
+
+Emily: [00:46:06] I'm a pass on this because I think that in the space of things people can do with their limited attention and time for their health. Trying to avoid all sources of microplastics is not a very good use of that limited time and energy. So, you know, if someone said, I'm going to use fewer single use water bottles. Sure. I think that's a good thing to do for the environment in general. But from my taste, I think people could think less about microplastics for their own health.
+
+Perry: [00:46:38] I am going to smash this one. I'm going to smash. Avoiding microplastics primarily for Mother Earth. I think we all should be using less plastics. And I you know, I don't think everything can be avoided, but like, am I going to maybe not reheat my leftovers in the plastic container, maybe use my, um, you know, aluminum water bottle a little bit more based on what I've seen so far. Yeah, that's that's a change I can make, change I can live with.
+
+Emily: [00:47:04] Okay. It's our first disagreement.
+
+Perry: [00:47:07] Is it over?
+
+Emily: [00:47:09] I think it's over. I feel like we did a good. I feel like we did a good job on that. Respectful disagreement.
+
+Perry: [00:47:14] Okay.
+
+Emily: [00:47:16] All right. That's it for microplastics. Your mailbag question of the week after the break.
+
+Mailbag: [00:47:26] Hi, Emily. And Perry, this is Rachel from Philadelphia. And I have a question about my weight, specifically how I'm ever supposed to trust what the scale says. It's always fluctuating by a few pounds, and I really can't figure out where those pounds are coming from. I feel like my eating habits really aren't changing that much. How often should I be weighing myself and when is a good time of day? First thing in the morning. Later in the evening. I'm really just trying to get an accurate idea. Thank you.
+
+Perry: [00:47:56] Awesome question. I love this question because people get really obsessed with weight. It's part of their daily habit. They get on that scale and on a day to day basis, there's a ton of stuff that makes your weight fluctuate, and none of it is like the fat content in your body. The primary driver of day to day fluctuation in weight is water, so water is very heavy. A liter of water weighs 2.2kg, which is about £5 almost. That's a big swing. And you drink water based on how much salt you intake. So the more salt you eat, the more reflexively, the more water you go for. That's you can experience that, you know, after having Chinese food or something. It is literal water weight. That is what is driving day to day weight changes. The only utility of that is to look at large trends over time, to get a sense of what's happening with fat, mass, muscle mass, etc.. Emily, do you weigh yourself every day?
+
+Emily: [00:48:49] I don't weigh myself every day, but I'm going to tell you something that's interesting about water and salt, which is one of the things that I sometimes do before short distance races is take sodium bicarb, which is just a really, really, really high dose of baking soda, which gives you a tremendous amount of sodium, like, like a billion times, not a billion, but like a lot, like a lot of sodium. And it's good for performance in various ways, but it also makes you incredibly thirsty and it makes you retain like an enormous amount of water. And so if you weigh yourself in the morning after a race, after you have taken sodium bicarb, it's like a substantial amount of weight gain that's sort of like fades out over time. I did once experiment by weighing myself every day for like 4 or 5 days after, and it took a few days to kind of come come back to normal.
+
+Perry: [00:49:38] Yeah. This is classic physiology. They teach you in med school.
+
+Emily: [00:49:41] So if you are tracking your weight over time, there are a few different ways you could do it. You could weigh yourself every day and just look for overall trends over time. I tend to think that that makes people who are trying to lose weight very anxious. And so I don't think it's like a generally recommended thing to do. But certainly there are some medical circumstances in which it would make sense. If you are going to weigh yourself every day, try to do it at the same time.
+
+Perry: [00:50:07] Yeah. Typically we tell people in the medical field, people who should weigh themselves every day are typically people with heart failure, where we really are managing that fluid status. That's so important, and we're using it not to see what they're fat or muscle mass is. We're using it to assess water weight. So if you don't have heart failure, no need to weigh yourself every day. We do tell people, if you want consistent results, do it first thing in the morning after you pee.
+
+Speaker 6: [00:50:31] That's it for us today. Stick with us next week when we'll ask what's the deal with stem cell therapy?
+
+Emily: [00:50:37] Well, this actually is produced in association with iHeartMedia. Our senior producer is Tamar Avishai. Our executive producer at iHeart is Jennifer Bassett. Our theme music is by Eric Deutsch, and our content is for educational purposes only.
+
+Perry: [00:50:52] If you like the show, help other people find us. Leave a rating and review on Apple Podcasts or your podcatcher of choice, and help us spread the word about the show. You can follow us on Instagram at pod. And don't forget, we want to hear from you. Head over to seifm and leave us a question for our mailbag, or suggest a topic for a future show.
+
+Emily: [00:51:14] We'll let the influencers have the last word.
+
+Influencer: [00:51:16] Microplastics. Here's a public service announcement. If you go get a cup of coffee and it's in a paper cup, the entire paper cup is plastic. When they put the hot water in there, you're drinking a cup of plastic. They're already showing that it's disrupting hormones. It's disrupting mitochondrial. It's disrupting infertility, infertility, like they're finding plastics in people's testicles anyway. So finding a detoxification while your body is detoxifying in a sauna helps push it all out.
