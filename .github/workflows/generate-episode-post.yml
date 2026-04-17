@@ -1,0 +1,70 @@
+name: Generate Episode Blog Post
+
+on:
+  push:
+    paths:
+      - 'transcripts/*.txt'
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+      pull-requests: write
+
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 2
+
+      - name: Find new transcript
+        id: find_transcript
+        run: |
+          if [ "${{ github.event.before }}" = "0000000000000000000000000000000000000000" ]; then
+            TRANSCRIPT=$(git show --name-only --format="" HEAD | grep '^transcripts/.*\.txt$' | head -1)
+          else
+            TRANSCRIPT=$(git diff --name-only ${{ github.event.before }} ${{ github.sha }} | grep '^transcripts/.*\.txt$' | head -1)
+          fi
+          if [ -z "$TRANSCRIPT" ]; then
+            echo "No new transcript found, skipping."
+            exit 0
+          fi
+          echo "transcript=$TRANSCRIPT" >> $GITHUB_OUTPUT
+
+      - name: Set up Python
+        if: steps.find_transcript.outputs.transcript != ''
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Install dependencies
+        if: steps.find_transcript.outputs.transcript != ''
+        run: pip install anthropic
+
+      - name: Generate blog post
+        if: steps.find_transcript.outputs.transcript != ''
+        id: generate
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+        run: python scripts/generate_episode_post.py "${{ steps.find_transcript.outputs.transcript }}"
+
+      - name: Create Pull Request
+        if: steps.find_transcript.outputs.transcript != ''
+        uses: peter-evans/create-pull-request@v6
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+          branch: episode-post/${{ steps.generate.outputs.slug }}
+          commit-message: "Add episode post: ${{ steps.generate.outputs.headline }}"
+          title: "New episode post: ${{ steps.generate.outputs.headline }}"
+          body: |
+            ## Auto-generated episode article
+
+            **Source transcript:** `${{ steps.find_transcript.outputs.transcript }}`
+
+            Review the generated article before merging. You can:
+            - Read the rendered HTML by browsing to the file in this PR
+            - Edit any file directly on GitHub before merging
+            - Update the podcast links to point to the specific episode once you have them
+
+            Merging will publish the post live on fperrywilson.com.
+          draft: false

@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Wellness, Actually — Episode Articles | F. Perry Wilson, MD</title>
+  <meta name="description" content="Evidence-based health articles by F. Perry Wilson, MD MSCE, drawn from the Wellness, Actually podcast. Fact vs. fiction on GLP-1s, supplements, sleep, and more.">
+  <meta name="author" content="F. Perry Wilson">
+  <link rel="stylesheet" href="../css/style.css">
+  <link rel="canonical" href="https://fperrywilson.com/podcast/">
+  <meta property="og:title" content="Wellness, Actually — Episode Articles | F. Perry Wilson, MD">
+  <meta property="og:description" content="Evidence-based health articles by F. Perry Wilson, MD MSCE, drawn from the Wellness, Actually podcast.">
+  <meta property="og:type" content="website">
+  <meta property="og:url" content="https://fperrywilson.com/podcast/">
+  <meta name="twitter:card" content="summary">
+  <meta name="twitter:site" content="@fperrywilson">
+  <meta name="twitter:title" content="Wellness, Actually — Episode Articles | F. Perry Wilson, MD">
+  <meta name="twitter:description" content="Evidence-based health articles by F. Perry Wilson, MD MSCE.">
+</head>
+<body>
+
+  <nav class="nav" id="nav">
+    <div class="nav-inner">
+      <a href="/" class="nav-logo">F. Perry Wilson<span>,</span> MD</a>
+      <ul class="nav-links" id="navLinks">
+        <li><a href="/#about">About</a></li>
+        <li><a href="/#podcast">Podcast</a></li>
+        <li><a href="/podcast/">Articles</a></li>
+        <li><a href="/#book">Book</a></li>
+        <li><a href="/#writing">Writing</a></li>
+        <li><a href="/#media">Media</a></li>
+        <li><a href="/#lab">Lab</a></li>
+      </ul>
+      <button class="nav-toggle" id="navToggle" aria-label="Toggle navigation">
+        <span></span><span></span><span></span>
+      </button>
+    </div>
+  </nav>
+
+  <div style="max-width: 860px; margin: 100px auto 80px; padding: 0 24px;">
+
+    <div class="section-header" style="margin-bottom: 48px;">
+      <p class="section-label">Wellness, Actually</p>
+      <h1 class="section-title">Episode Articles</h1>
+      <div class="section-rule"></div>
+      <p style="margin-top: 20px; font-size: 1.05rem; color: var(--color-muted); max-width: 600px;">
+        Evidence-based deep dives on health and wellness topics — drawn from the
+        <a href="/#podcast">Wellness, Actually</a> podcast with Emily Oster.
+        Each article stands on its own as a guide to the evidence.
+      </p>
+    </div>
+
+    <div class="media-list">
+<!-- EPISODES-START -->
+    </div>
+
+    <div style="margin-top: 48px; padding-top: 32px; border-top: 1px solid #e0d9d0; text-align: center;">
+      <p style="font-size: 1rem; color: var(--color-muted); margin-bottom: 20px;">Listen to the full podcast on your favorite platform</p>
+      <div style="display: flex; gap: 12px; flex-wrap: wrap; justify-content: center;">
+        <a href="https://podcasts.apple.com/us/podcast/wellness-actually-with-emily-oster-perry-wilson-md/id1633515294" target="_blank" rel="noopener noreferrer" class="btn btn-primary">Apple Podcasts</a>
+        <a href="https://open.spotify.com/show/5igTryEwHMmAJfODAFKp3W" target="_blank" rel="noopener noreferrer" class="btn btn-outline">Spotify</a>
+        <a href="https://www.iheart.com/podcast/1119-wellness-actually-with-em-99325147/" target="_blank" rel="noopener noreferrer" class="btn btn-outline">iHeart</a>
+      </div>
+    </div>
+
+  </div>
+
+  <footer class="footer">
+    <div class="footer-inner">
+      <p class="footer-name">F. Perry Wilson, MD MSCE</p>
+      <div class="footer-links">
+        <a href="https://fperrywilson.medium.com/" target="_blank" rel="noopener noreferrer">Medium</a>
+        <a href="https://www.medscape.com/index/list_12471_0" target="_blank" rel="noopener noreferrer">Medscape</a>
+        <a href="/podcast/">Episode Articles</a>
+        <a href="https://podcasts.apple.com/us/podcast/wellness-actually-with-emily-oster-perry-wilson-md/id1633515294" target="_blank" rel="noopener noreferrer">Podcast</a>
+        <a href="https://twitter.com/fperrywilson" target="_blank" rel="noopener noreferrer">X / Twitter</a>
+      </div>
+    </div>
+  </footer>
+
+  <script>
+    const nav = document.getElementById('nav');
+    window.addEventListener('scroll', () => nav.classList.toggle('scrolled', window.scrollY > 20));
+    const navToggle = document.getElementById('navToggle');
+    const navLinks = document.getElementById('navLinks');
+    navToggle.addEventListener('click', () => navLinks.classList.toggle('open'));
+    navLinks.querySelectorAll('a').forEach(l => l.addEventListener('click', () => navLinks.classList.remove('open')));
+  </script>
+
+</body>
+</html>
