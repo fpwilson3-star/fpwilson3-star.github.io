@@ -47,33 +47,58 @@ Then write a standalone article with this structure:
 4. "Bottom line" section summarizing the takeaway
 5. A single closing sentence (not a section) that naturally leads into: "I covered this in depth on Wellness, Actually — listen below."
 
-Return ONLY a JSON object with these exact fields (no markdown fences, no extra text):
-{{
-  "headline": "SEO-optimized article headline",
-  "slug": "url-friendly-slug",
-  "meta_description": "150-160 character meta description for search results",
-  "episode_title": "The podcast episode title as it would appear (e.g. What's the deal with creatine?)",
-  "article_html": "Full article body HTML using only <p> <h2> <ul> <ol> <li> <strong> <em> tags"
-}}
+Call the create_article tool with your result.
 
 TRANSCRIPT:
 {transcript_text}"""
+
+    tools = [
+        {
+            "name": "create_article",
+            "description": "Publish the generated SEO article for the episode",
+            "input_schema": {
+                "type": "object",
+                "properties": {
+                    "headline": {
+                        "type": "string",
+                        "description": "SEO-optimized headline (how someone would Google this topic)"
+                    },
+                    "slug": {
+                        "type": "string",
+                        "description": "URL-friendly slug, e.g. does-creatine-actually-work"
+                    },
+                    "meta_description": {
+                        "type": "string",
+                        "description": "150-160 character meta description for search results"
+                    },
+                    "episode_title": {
+                        "type": "string",
+                        "description": "Podcast episode title, e.g. What's the deal with creatine?"
+                    },
+                    "article_html": {
+                        "type": "string",
+                        "description": "Full article body HTML using only <p> <h2> <ul> <ol> <li> <strong> <em> tags"
+                    }
+                },
+                "required": ["headline", "slug", "meta_description", "episode_title", "article_html"]
+            }
+        }
+    ]
 
     message = client.messages.create(
         model="claude-sonnet-4-6",
         max_tokens=4096,
         system=system,
+        tools=tools,
+        tool_choice={"type": "tool", "name": "create_article"},
         messages=[{"role": "user", "content": user}],
     )
 
-    raw = message.content[0].text.strip()
+    for block in message.content:
+        if block.type == "tool_use":
+            return block.input
 
-    # Strip markdown fences if Claude wrapped the JSON anyway
-    fence_match = re.search(r'```(?:json)?\s*(.*?)\s*```', raw, re.DOTALL)
-    if fence_match:
-        raw = fence_match.group(1)
-
-    return json.loads(raw)
+    raise RuntimeError("Claude did not call create_article tool")
 
 
 def build_episode_html(data, date_iso, date_display):
