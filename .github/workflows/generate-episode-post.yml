@@ -4,6 +4,12 @@ on:
   push:
     paths:
       - 'transcripts/*.txt'
+  workflow_dispatch:
+    inputs:
+      transcript:
+        description: 'Transcript file path (e.g. transcripts/2026-04-09-protein.txt)'
+        required: true
+        type: string
 
 jobs:
   generate:
@@ -17,16 +23,18 @@ jobs:
         with:
           fetch-depth: 2
 
-      - name: Find new transcript
+      - name: Find transcript
         id: find_transcript
         run: |
-          if [ "${{ github.event.before }}" = "0000000000000000000000000000000000000000" ]; then
+          if [ "${{ github.event_name }}" = "workflow_dispatch" ]; then
+            TRANSCRIPT="${{ inputs.transcript }}"
+          elif [ "${{ github.event.before }}" = "0000000000000000000000000000000000000000" ]; then
             TRANSCRIPT=$(git show --name-only --format="" HEAD | grep '^transcripts/.*\.txt$' | head -1)
           else
             TRANSCRIPT=$(git diff --name-only ${{ github.event.before }} ${{ github.sha }} | grep '^transcripts/.*\.txt$' | head -1)
           fi
           if [ -z "$TRANSCRIPT" ]; then
-            echo "No new transcript found, skipping."
+            echo "No transcript found, skipping."
             exit 0
           fi
           echo "transcript=$TRANSCRIPT" >> $GITHUB_OUTPUT
