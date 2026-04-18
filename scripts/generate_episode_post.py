@@ -9,6 +9,7 @@ import sys
 import os
 import json
 import re
+import html as htmlmod
 from datetime import datetime
 from pathlib import Path
 
@@ -57,6 +58,11 @@ Then write a standalone article with this structure:
 4. "Bottom line" section summarizing the takeaway
 5. A single closing sentence (not a section) that naturally leads into: "I covered this in depth on Wellness, Actually — listen below."
 
+Then generate 4 to 6 FAQ pairs:
+- Questions: phrased exactly the way someone would type them into Google. Mix of the highest-intent queries a reader would have after reading this article (safety, dosing, mechanism, common myths, practical how-to).
+- Answers: 2 to 4 sentences each, grounded strictly in the article you just wrote. Reuse the same numbers, study names, and caveats. Plain text only — no HTML tags. No em-dashes.
+- Cover the angles most likely to appear in Google "People Also Ask" boxes; do not repeat the headline as a question.
+
 Call the create_article tool with your result.
 
 TRANSCRIPT:
@@ -88,9 +94,23 @@ TRANSCRIPT:
                     "article_html": {
                         "type": "string",
                         "description": "Full article body HTML using only <p> <h2> <ul> <ol> <li> <strong> <em> tags"
+                    },
+                    "faqs": {
+                        "type": "array",
+                        "description": "4 to 6 FAQ pairs for the episode. Questions in natural Google-search form; answers are plain text (2 to 4 sentences) grounded strictly in the article.",
+                        "minItems": 4,
+                        "maxItems": 6,
+                        "items": {
+                            "type": "object",
+                            "properties": {
+                                "question": {"type": "string"},
+                                "answer": {"type": "string"}
+                            },
+                            "required": ["question", "answer"]
+                        }
                     }
                 },
-                "required": ["headline", "slug", "meta_description", "episode_title", "article_html"]
+                "required": ["headline", "slug", "meta_description", "episode_title", "article_html", "faqs"]
             }
         }
     ]
@@ -111,12 +131,56 @@ TRANSCRIPT:
     raise RuntimeError("Claude did not call create_article tool")
 
 
+def render_faq_jsonld(faqs):
+    if not faqs:
+        return ''
+    payload = {
+        "@context": "https://schema.org",
+        "@type": "FAQPage",
+        "mainEntity": [
+            {
+                "@type": "Question",
+                "name": f['question'],
+                "acceptedAnswer": {"@type": "Answer", "text": f['answer']}
+            }
+            for f in faqs
+        ]
+    }
+    body = json.dumps(payload, indent=2, ensure_ascii=False)
+    indented = '\n'.join('  ' + line for line in body.split('\n'))
+    return f'  <script type="application/ld+json">\n{indented}\n  </script>\n'
+
+
+def render_faq_section(faqs):
+    if not faqs:
+        return ''
+    items = []
+    for f in faqs:
+        q = htmlmod.escape(f['question'])
+        a = htmlmod.escape(f['answer'])
+        items.append(
+            '      <details style="border-bottom: 1px solid #e0d9d0; padding: 16px 0;">\n'
+            f'        <summary style="font-weight: 600; cursor: pointer; font-size: 1.08rem;">{q}</summary>\n'
+            f'        <p style="margin-top: 12px; line-height: 1.75;">{a}</p>\n'
+            '      </details>'
+        )
+    return (
+        '\n    <section aria-labelledby="faq-heading" style="margin-top: 56px; padding-top: 32px; border-top: 1px solid #e0d9d0;">\n'
+        '      <h2 id="faq-heading" style="font-family: var(--font-display); font-size: 1.8rem; margin-bottom: 24px;">Frequently asked questions</h2>\n'
+        + '\n'.join(items) + '\n'
+        '    </section>\n'
+    )
+
+
 def build_episode_html(data, date_iso, date_display):
     headline = data['headline']
     slug = data['slug']
     meta_desc = data['meta_description']
     article_html = data['article_html']
     episode_title = data['episode_title']
+    faqs = data.get('faqs') or []
+    faq_jsonld = render_faq_jsonld(faqs)
+    faq_section = render_faq_section(faqs)
 
     return f"""<!DOCTYPE html>
 <html lang="en">
@@ -183,7 +247,7 @@ def build_episode_html(data, date_iso, date_display):
     ]
   }}
   </script>
-</head>
+{faq_jsonld}</head>
 <body>
 
   <nav class="nav" id="nav">
@@ -219,7 +283,7 @@ def build_episode_html(data, date_iso, date_display):
     <div style="font-size: 1.08rem; line-height: 1.85;">
       {article_html}
     </div>
-
+{faq_section}
     <div style="margin-top: 56px; padding: 32px; background: #f3ede6; border-left: 4px solid var(--color-accent); border-radius: 0 4px 4px 0;">
       <p style="font-family: var(--font-mono); font-size: 0.75rem; text-transform: uppercase; letter-spacing: 0.12em; color: var(--color-accent); margin-bottom: 8px;">Wellness, Actually Podcast</p>
       <p style="font-size: 1.05rem; margin-bottom: 20px;"><strong>"{episode_title}"</strong> — Listen to the full episode, including the week's health news and listener Q&amp;A.</p>

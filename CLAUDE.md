@@ -69,7 +69,9 @@ When given a podcast transcript, write a Medium-style article for the episode. T
 
 ### Episode page HTML template
 
-Each episode page `<head>` must include the full SEO block below. Replace `{{TITLE}}`, `{{DESCRIPTION}}`, `{{SLUG}}`, and `{{DATE}}` (format: YYYY-MM-DD) for each article:
+Each episode page `<head>` must include the full SEO block below. Replace `{{TITLE}}`, `{{DESCRIPTION}}`, `{{SLUG}}`, and `{{DATE}}` (format: YYYY-MM-DD) for each article.
+
+The generator script also produces a visible FAQ section (collapsible `<details>`) and a matching `FAQPage` JSON-LD block, grounded in the article body. Question text in the visible section must exactly match `mainEntity[*].name` in the schema — that parity is required for Google FAQ rich-result eligibility.
 
 ```html
 <title>{{TITLE}} | F. Perry Wilson, MD</title>
