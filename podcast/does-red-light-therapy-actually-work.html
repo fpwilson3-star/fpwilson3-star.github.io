@@ -16,12 +16,19 @@
   <meta name="twitter:site" content="@fperrywilson">
   <meta name="twitter:title" content="Does red light therapy actually work? What the evidence shows">
   <meta name="twitter:description" content="Red light therapy is sold for wrinkles, hair loss, muscle recovery, and mood. Here's what the evidence actually shows, and where the claims fall apart.">
+  <meta property="og:image" content="https://fperrywilson.com/images/wellness%20actually%20cover.png">
+  <meta property="article:published_time" content="2026-03-12">
+  <meta property="article:author" content="https://fperrywilson.com">
+  <meta property="article:section" content="Health">
+  <meta name="twitter:image" content="https://fperrywilson.com/images/wellness%20actually%20cover.png">
   <script type="application/ld+json">
   {
     "@context": "https://schema.org",
     "@type": "Article",
     "headline": "Does red light therapy actually work? What the evidence shows",
     "datePublished": "2026-03-12",
+    "dateModified": "2026-03-12",
+    "image": "https://fperrywilson.com/images/wellness%20actually%20cover.png",
     "author": {
       "@type": "Person",
       "name": "F. Perry Wilson",
@@ -34,6 +41,17 @@
     },
     "description": "Red light therapy is sold for wrinkles, hair loss, muscle recovery, and mood. Here's what the evidence actually shows, and where the claims fall apart.",
     "url": "https://fperrywilson.com/podcast/does-red-light-therapy-actually-work.html"
+  }
+  </script>
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+      {"@type": "ListItem", "position": 1, "name": "Home", "item": "https://fperrywilson.com"},
+      {"@type": "ListItem", "position": 2, "name": "Episode Articles", "item": "https://fperrywilson.com/podcast/"},
+      {"@type": "ListItem", "position": 3, "name": "Does red light therapy actually work? What the evidence shows", "item": "https://fperrywilson.com/podcast/does-red-light-therapy-actually-work.html"}
+    ]
   }
   </script>
 </head>
@@ -129,9 +147,7 @@
       </div>
     </div>
 
-    <div style="margin-top: 40px; padding-top: 24px; border-top: 1px solid #e0d9d0;">
-      <a href="/podcast/" style="font-family: var(--font-mono); font-size: 0.85rem; color: var(--color-accent); text-decoration: none;">← All episode articles</a>
-    </div>
+    <div id="episode-nav" style="margin-top: 40px; padding-top: 24px; border-top: 1px solid #e0d9d0; display: flex; justify-content: space-between; align-items: center; flex-wrap: wrap; gap: 12px;"></div>
 
   </article>
 
@@ -156,6 +172,7 @@
     navToggle.addEventListener('click', () => navLinks.classList.toggle('open'));
     navLinks.querySelectorAll('a').forEach(l => l.addEventListener('click', () => navLinks.classList.remove('open')));
   </script>
+  <script src="../js/episodes.js"></script>
 
 </body>
 </html>

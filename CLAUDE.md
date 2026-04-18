@@ -57,6 +57,70 @@ Put them in `images/` and reference with relative paths.
 - Push to main and changes go live automatically
 - Domain: fpwilson3-star.github.io (with future CNAME for methodsman.com if desired)
 
+## Transcript to Article Workflow
+
+When given a podcast transcript, write a Medium-style article for the episode. Then:
+
+1. Identify every specific study mentioned (by finding, paper, trial name, or author)
+2. For each one, use WebSearch to find the most likely matching paper
+3. Link the study inline using Markdown (e.g., `[a 2023 RCT in NEJM](https://...)`)
+4. Only include a link if confident in the match — silently skip any that can't be found
+
+### Episode page HTML template
+
+Each episode page `<head>` must include the full SEO block below. Replace `{{TITLE}}`, `{{DESCRIPTION}}`, `{{SLUG}}`, and `{{DATE}}` (format: YYYY-MM-DD) for each article:
+
+```html
+<title>{{TITLE}} | F. Perry Wilson, MD</title>
+<meta name="description" content="{{DESCRIPTION}}">
+<meta name="author" content="F. Perry Wilson">
+<link rel="stylesheet" href="../css/style.css">
+<link rel="canonical" href="https://fperrywilson.com/podcast/{{SLUG}}.html">
+<meta property="og:title" content="{{TITLE}}">
+<meta property="og:description" content="{{DESCRIPTION}}">
+<meta property="og:type" content="article">
+<meta property="og:url" content="https://fperrywilson.com/podcast/{{SLUG}}.html">
+<meta property="og:image" content="https://fperrywilson.com/images/wellness%20actually%20cover.png">
+<meta property="article:published_time" content="{{DATE}}">
+<meta property="article:author" content="https://fperrywilson.com">
+<meta property="article:section" content="Health">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:site" content="@fperrywilson">
+<meta name="twitter:title" content="{{TITLE}}">
+<meta name="twitter:description" content="{{DESCRIPTION}}">
+<meta name="twitter:image" content="https://fperrywilson.com/images/wellness%20actually%20cover.png">
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Article",
+  "headline": "{{TITLE}}",
+  "datePublished": "{{DATE}}",
+  "dateModified": "{{DATE}}",
+  "image": "https://fperrywilson.com/images/wellness%20actually%20cover.png",
+  "author": {"@type": "Person", "name": "F. Perry Wilson", "url": "https://fperrywilson.com"},
+  "publisher": {"@type": "Person", "name": "F. Perry Wilson", "url": "https://fperrywilson.com"},
+  "description": "{{DESCRIPTION}}",
+  "url": "https://fperrywilson.com/podcast/{{SLUG}}.html"
+}
+</script>
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "BreadcrumbList",
+  "itemListElement": [
+    {"@type": "ListItem", "position": 1, "name": "Home", "item": "https://fperrywilson.com"},
+    {"@type": "ListItem", "position": 2, "name": "Episode Articles", "item": "https://fperrywilson.com/podcast/"},
+    {"@type": "ListItem", "position": 3, "name": "{{TITLE}}", "item": "https://fperrywilson.com/podcast/{{SLUG}}.html"}
+  ]
+}
+</script>
+```
+
+### After publishing a new episode page
+1. Add it to `podcast/index.html` inside `<!-- EPISODES-START -->` (newest first)
+2. Add it to `sitemap.xml` with the correct `<lastmod>` date
+3. Add it to `js/episodes.js` EPISODES array (oldest-first order) — this powers the automatic prev/next nav on all episode pages
+
 ## Key Links
 - Medium: https://fperrywilson.medium.com/
 - Medscape: https://www.medscape.com/index/list_12471_0

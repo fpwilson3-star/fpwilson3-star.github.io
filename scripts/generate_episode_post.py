@@ -118,7 +118,6 @@ def build_episode_html(data, date_iso, date_display):
     article_html = data['article_html']
     episode_title = data['episode_title']
 
-    # Escape curly braces in JSON-LD to avoid Python format issues
     return f"""<!DOCTYPE html>
 <html lang="en">
 <head>
@@ -133,16 +132,23 @@ def build_episode_html(data, date_iso, date_display):
   <meta property="og:description" content="{meta_desc}">
   <meta property="og:type" content="article">
   <meta property="og:url" content="https://fperrywilson.com/podcast/{slug}.html">
+  <meta property="og:image" content="https://fperrywilson.com/images/wellness%20actually%20cover.png">
+  <meta property="article:published_time" content="{date_iso}">
+  <meta property="article:author" content="https://fperrywilson.com">
+  <meta property="article:section" content="Health">
   <meta name="twitter:card" content="summary_large_image">
   <meta name="twitter:site" content="@fperrywilson">
   <meta name="twitter:title" content="{headline}">
   <meta name="twitter:description" content="{meta_desc}">
+  <meta name="twitter:image" content="https://fperrywilson.com/images/wellness%20actually%20cover.png">
   <script type="application/ld+json">
   {{
     "@context": "https://schema.org",
     "@type": "Article",
     "headline": "{headline}",
     "datePublished": "{date_iso}",
+    "dateModified": "{date_iso}",
+    "image": "https://fperrywilson.com/images/wellness%20actually%20cover.png",
     "author": {{
       "@type": "Person",
       "name": "F. Perry Wilson",
@@ -155,6 +161,17 @@ def build_episode_html(data, date_iso, date_display):
     }},
     "description": "{meta_desc}",
     "url": "https://fperrywilson.com/podcast/{slug}.html"
+  }}
+  </script>
+  <script type="application/ld+json">
+  {{
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+      {{"@type": "ListItem", "position": 1, "name": "Home", "item": "https://fperrywilson.com"}},
+      {{"@type": "ListItem", "position": 2, "name": "Episode Articles", "item": "https://fperrywilson.com/podcast/"}},
+      {{"@type": "ListItem", "position": 3, "name": "{headline}", "item": "https://fperrywilson.com/podcast/{slug}.html"}}
+    ]
   }}
   </script>
 </head>
@@ -204,9 +221,7 @@ def build_episode_html(data, date_iso, date_display):
       </div>
     </div>
 
-    <div style="margin-top: 40px; padding-top: 24px; border-top: 1px solid #e0d9d0;">
-      <a href="/podcast/" style="font-family: var(--font-mono); font-size: 0.85rem; color: var(--color-accent); text-decoration: none;">← All episode articles</a>
-    </div>
+    <div id="episode-nav" style="margin-top: 40px; padding-top: 24px; border-top: 1px solid #e0d9d0; display: flex; justify-content: space-between; align-items: center; flex-wrap: wrap; gap: 12px;"></div>
 
   </article>
 
@@ -231,6 +246,7 @@ def build_episode_html(data, date_iso, date_display):
     navToggle.addEventListener('click', () => navLinks.classList.toggle('open'));
     navLinks.querySelectorAll('a').forEach(l => l.addEventListener('click', () => navLinks.classList.remove('open')));
   </script>
+  <script src="../js/episodes.js"></script>
 
 </body>
 </html>
@@ -286,6 +302,25 @@ def update_podcast_index(slug, headline, date_iso, date_display, meta_desc):
     index_path.write_text(content, encoding='utf-8')
 
 
+def update_episodes_js(slug, headline):
+    """Append new episode to js/episodes.js EPISODES array (oldest-first order)."""
+    js_path = Path('js/episodes.js')
+    if not js_path.exists():
+        return
+
+    # Derive a short nav title: strip trailing punctuation detail after "?"
+    nav_title = headline
+    content = js_path.read_text(encoding='utf-8')
+
+    # Don't add if already present
+    if f"'{slug}'" in content or f'"{slug}"' in content:
+        return
+
+    new_entry = f"    {{ slug: '{slug}', title: '{nav_title}' }},\n"
+    content = re.sub(r'(\n  \];\n\n  const linkStyle)', f'\n{new_entry}\\1', content)
+    js_path.write_text(content, encoding='utf-8')
+
+
 def update_sitemap(slug, date_iso):
     sitemap_path = Path('sitemap.xml')
     content = sitemap_path.read_text(encoding='utf-8')
@@ -335,10 +370,11 @@ def main():
     output_path.write_text(episode_html, encoding='utf-8')
     print(f"Written: {output_path}")
 
-    # Update index and sitemap
+    # Update index, sitemap, and episodes nav
     update_podcast_index(slug, headline, date_iso, date_display, data['meta_description'])
     update_sitemap(slug, date_iso)
-    print("Updated podcast/index.html and sitemap.xml")
+    update_episodes_js(slug, headline)
+    print("Updated podcast/index.html, sitemap.xml, and js/episodes.js")
 
     set_output('slug', slug)
     set_output('headline', headline)

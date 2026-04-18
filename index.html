@@ -517,7 +517,7 @@
         const data = await res.json();
         
         if (data.status === 'ok' && data.items && data.items.length > 0) {
-          const articles = data.items.slice(0, 6);
+          const articles = data.items.sort((a, b) => new Date(b.pubDate) - new Date(a.pubDate)).slice(0, 6);
           grid.innerHTML = articles.map(item => {
             const date = new Date(item.pubDate).toLocaleDateString('en-US', {
               year: 'numeric', month: 'short', day: 'numeric'
