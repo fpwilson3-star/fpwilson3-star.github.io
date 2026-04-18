@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Wellness, Actually — Episode Articles</title>
+    <link>https://fperrywilson.com/podcast/</link>
+    <atom:link href="https://fperrywilson.com/podcast/rss.xml" rel="self" type="application/rss+xml"/>
+    <description>Evidence-based health articles by F. Perry Wilson, MD MSCE, drawn from the Wellness, Actually podcast.</description>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 18 Apr 2026 12:56:04 +0000</lastBuildDate>
+    <item>
+      <title>How much protein do you actually need?</title>
+      <link>https://fperrywilson.com/podcast/how-much-protein-do-you-actually-need.html</link>
+      <guid isPermaLink="true">https://fperrywilson.com/podcast/how-much-protein-do-you-actually-need.html</guid>
+      <pubDate>Thu, 09 Apr 2026 00:00:00 +0000</pubDate>
+      <description>A Yale nephrologist breaks down the evidence on protein intake: how much you need, what it does for muscle and weight loss, and when more is too much.</description>
+    </item>
+    <item>
+      <title>Does creatine actually work? What the evidence says about muscle, memory, and your kidneys</title>
+      <link>https://fperrywilson.com/podcast/does-creatine-actually-work.html</link>
+      <guid isPermaLink="true">https://fperrywilson.com/podcast/does-creatine-actually-work.html</guid>
+      <pubDate>Thu, 02 Apr 2026 00:00:00 +0000</pubDate>
+      <description>Creatine is everywhere right now. Here&#x27;s what the randomized trials actually show about muscle gains, brain benefits, kidney safety, and hair loss.</description>
+    </item>
+    <item>
+      <title>Do Stem Cell Injections Actually Work? What the Evidence Says About Regenerative Medicine Clinics</title>
+      <link>https://fperrywilson.com/podcast/do-stem-cell-injections-actually-work.html</link>
+      <guid isPermaLink="true">https://fperrywilson.com/podcast/do-stem-cell-injections-actually-work.html</guid>
+      <pubDate>Thu, 26 Mar 2026 00:00:00 +0000</pubDate>
+      <description>Regenerative medicine clinics sell stem cell injections for knees, wrinkles, and more. Here&#x27;s what the data actually shows, and what you&#x27;re really getting.</description>
+    </item>
+    <item>
+      <title>Are Microplastics Actually Harming Your Health?</title>
+      <link>https://fperrywilson.com/podcast/are-microplastics-actually-harming-your-health.html</link>
+      <guid isPermaLink="true">https://fperrywilson.com/podcast/are-microplastics-actually-harming-your-health.html</guid>
+      <pubDate>Thu, 19 Mar 2026 00:00:00 +0000</pubDate>
+      <description>Microplastics are in our food, our dust, and apparently our brains. But does the evidence actually show they&#x27;re hurting us? A doctor breaks down what we know.</description>
+    </item>
+    <item>
+      <title>Does red light therapy actually work? What the evidence shows</title>
+      <link>https://fperrywilson.com/podcast/does-red-light-therapy-actually-work.html</link>
+      <guid isPermaLink="true">https://fperrywilson.com/podcast/does-red-light-therapy-actually-work.html</guid>
+      <pubDate>Thu, 12 Mar 2026 00:00:00 +0000</pubDate>
+      <description>Red light therapy is sold for wrinkles, hair loss, muscle recovery, and mood. Here&#x27;s what the evidence actually shows, and where the claims fall apart.</description>
+    </item>
+    <item>
+      <title>GLP-1s for Weight Loss: What the Evidence Actually Shows</title>
+      <link>https://fperrywilson.com/podcast/glp-1-weight-loss-evidence.html</link>
+      <guid isPermaLink="true">https://fperrywilson.com/podcast/glp-1-weight-loss-evidence.html</guid>
+      <pubDate>Thu, 05 Mar 2026 00:00:00 +0000</pubDate>
+      <description>A nephrologist&#x27;s honest look at GLP-1 drugs like Ozempic and Zepbound: weight loss, muscle loss, weight regain, side effects, and what we still don&#x27;t know.</description>
+    </item>
+    <item>
+      <title>Do Cold Plunges and Saunas Actually Work? What the Evidence Shows</title>
+      <link>https://fperrywilson.com/podcast/cold-plunges-saunas-health-benefits.html</link>
+      <guid isPermaLink="true">https://fperrywilson.com/podcast/cold-plunges-saunas-health-benefits.html</guid>
+      <pubDate>Thu, 26 Feb 2026 00:00:00 +0000</pubDate>
+      <description>A Yale physician breaks down the real evidence on cold plunges and saunas, from athletic recovery to cardiovascular health, detox claims, and safety.</description>
+    </item>
+    <item>
+      <title>Do peptide injections like BPC 157 actually work?</title>
+      <link>https://fperrywilson.com/podcast/do-peptide-injections-actually-work.html</link>
+      <guid isPermaLink="true">https://fperrywilson.com/podcast/do-peptide-injections-actually-work.html</guid>
+      <pubDate>Thu, 19 Feb 2026 00:00:00 +0000</pubDate>
+      <description>Peptides like BPC 157 and the &quot;Wolverine stack&quot; are everywhere on social media. Here&#x27;s what the evidence actually shows, and where the real risks are.</description>
+    </item>
+    <item>
+      <title>Are sperm counts really declining, and should you care?</title>
+      <link>https://fperrywilson.com/podcast/are-sperm-counts-really-declining.html</link>
+      <guid isPermaLink="true">https://fperrywilson.com/podcast/are-sperm-counts-really-declining.html</guid>
+      <pubDate>Thu, 12 Feb 2026 00:00:00 +0000</pubDate>
+      <description>Sperm counts have dropped over the past 50 years, but the cause isn&#x27;t cell phones, soy, or laptops. Here&#x27;s what the evidence actually says.</description>
+    </item>
+  </channel>
+</rss>

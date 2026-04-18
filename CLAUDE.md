@@ -1,8 +1,9 @@
 # F. Perry Wilson — Personal Website
 
 ## Overview
-This is a static personal website hosted on GitHub Pages at `fpwilson3-star.github.io`. 
-Previously at methodsman.com (which now redirects here).
+Static personal website hosted on GitHub Pages. Canonical domain is
+`https://fperrywilson.com` (apex, no `www`). The repo's `CNAME` file controls
+this. Previously at methodsman.com (which now redirects here).
 
 ## Site Structure
 ```
@@ -74,21 +75,30 @@ Each episode page `<head>` must include the full SEO block below. Replace `{{TIT
 <title>{{TITLE}} | F. Perry Wilson, MD</title>
 <meta name="description" content="{{DESCRIPTION}}">
 <meta name="author" content="F. Perry Wilson">
+<link rel="icon" href="/favicon.ico" sizes="any">
+<link rel="apple-touch-icon" href="/images/apple-touch-icon.png">
+<link rel="alternate" type="application/rss+xml" title="Wellness, Actually — Episode Articles" href="/podcast/rss.xml">
 <link rel="stylesheet" href="../css/style.css">
 <link rel="canonical" href="https://fperrywilson.com/podcast/{{SLUG}}.html">
 <meta property="og:title" content="{{TITLE}}">
 <meta property="og:description" content="{{DESCRIPTION}}">
 <meta property="og:type" content="article">
 <meta property="og:url" content="https://fperrywilson.com/podcast/{{SLUG}}.html">
-<meta property="og:image" content="https://fperrywilson.com/images/wellness%20actually%20cover.png">
+<meta property="og:site_name" content="F. Perry Wilson, MD">
+<meta property="og:image" content="https://fperrywilson.com/images/og-podcast.jpg">
+<meta property="og:image:width" content="1200">
+<meta property="og:image:height" content="630">
+<meta property="og:image:alt" content="Wellness, Actually podcast — with Emily Oster and F. Perry Wilson, MD">
 <meta property="article:published_time" content="{{DATE}}">
 <meta property="article:author" content="https://fperrywilson.com">
 <meta property="article:section" content="Health">
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:site" content="@fperrywilson">
+<meta name="twitter:creator" content="@fperrywilson">
 <meta name="twitter:title" content="{{TITLE}}">
 <meta name="twitter:description" content="{{DESCRIPTION}}">
-<meta name="twitter:image" content="https://fperrywilson.com/images/wellness%20actually%20cover.png">
+<meta name="twitter:image" content="https://fperrywilson.com/images/og-podcast.jpg">
+<meta name="twitter:image:alt" content="Wellness, Actually podcast — with Emily Oster and F. Perry Wilson, MD">
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
@@ -96,7 +106,7 @@ Each episode page `<head>` must include the full SEO block below. Replace `{{TIT
   "headline": "{{TITLE}}",
   "datePublished": "{{DATE}}",
   "dateModified": "{{DATE}}",
-  "image": "https://fperrywilson.com/images/wellness%20actually%20cover.png",
+  "image": "https://fperrywilson.com/images/og-podcast.jpg",
   "author": {"@type": "Person", "name": "F. Perry Wilson", "url": "https://fperrywilson.com"},
   "publisher": {"@type": "Person", "name": "F. Perry Wilson", "url": "https://fperrywilson.com"},
   "description": "{{DESCRIPTION}}",
@@ -114,12 +124,28 @@ Each episode page `<head>` must include the full SEO block below. Replace `{{TIT
   ]
 }
 </script>
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "PodcastEpisode",
+  "name": "{{TITLE}}",
+  "url": "https://fperrywilson.com/podcast/{{SLUG}}.html",
+  "image": "https://fperrywilson.com/images/wellness-actually-cover.jpg",
+  "partOfSeries": {"@type": "PodcastSeries", "name": "Wellness, Actually", "url": "https://fperrywilson.com/podcast/"},
+  "author": [
+    {"@type": "Person", "name": "F. Perry Wilson", "url": "https://fperrywilson.com"},
+    {"@type": "Person", "name": "Emily Oster"}
+  ]
+}
+</script>
 ```
 
 ### After publishing a new episode page
 1. Add it to `podcast/index.html` inside `<!-- EPISODES-START -->` (newest first)
-2. Add it to `sitemap.xml` with the correct `<lastmod>` date
-3. Add it to `js/episodes.js` EPISODES array (oldest-first order) — this powers the automatic prev/next nav on all episode pages
+2. Add it to `sitemap.xml` with `<changefreq>yearly</changefreq>` and the correct `<lastmod>` date
+3. Add it to `js/episodes.js` EPISODES array (oldest-first order) — powers the prev/next nav on all episode pages
+4. Run `python scripts/build_rss.py` to regenerate `podcast/rss.xml`
+5. Pre-render the prev/next nav server-side inside `<div id="episode-nav">` (see existing episode pages), so crawlers follow the internal links without running JS
 
 ## Key Links
 - Medium: https://fperrywilson.medium.com/

@@ -126,21 +126,30 @@ def build_episode_html(data, date_iso, date_display):
   <title>{headline} | F. Perry Wilson, MD</title>
   <meta name="description" content="{meta_desc}">
   <meta name="author" content="F. Perry Wilson">
+  <link rel="icon" href="/favicon.ico" sizes="any">
+  <link rel="apple-touch-icon" href="/images/apple-touch-icon.png">
+  <link rel="alternate" type="application/rss+xml" title="Wellness, Actually — Episode Articles" href="/podcast/rss.xml">
   <link rel="stylesheet" href="../css/style.css">
   <link rel="canonical" href="https://fperrywilson.com/podcast/{slug}.html">
   <meta property="og:title" content="{headline}">
   <meta property="og:description" content="{meta_desc}">
   <meta property="og:type" content="article">
   <meta property="og:url" content="https://fperrywilson.com/podcast/{slug}.html">
-  <meta property="og:image" content="https://fperrywilson.com/images/wellness%20actually%20cover.png">
+  <meta property="og:site_name" content="F. Perry Wilson, MD">
+  <meta property="og:image" content="https://fperrywilson.com/images/og-podcast.jpg">
+  <meta property="og:image:width" content="1200">
+  <meta property="og:image:height" content="630">
+  <meta property="og:image:alt" content="Wellness, Actually podcast — with Emily Oster and F. Perry Wilson, MD">
   <meta property="article:published_time" content="{date_iso}">
   <meta property="article:author" content="https://fperrywilson.com">
   <meta property="article:section" content="Health">
   <meta name="twitter:card" content="summary_large_image">
   <meta name="twitter:site" content="@fperrywilson">
+  <meta name="twitter:creator" content="@fperrywilson">
   <meta name="twitter:title" content="{headline}">
   <meta name="twitter:description" content="{meta_desc}">
-  <meta name="twitter:image" content="https://fperrywilson.com/images/wellness%20actually%20cover.png">
+  <meta name="twitter:image" content="https://fperrywilson.com/images/og-podcast.jpg">
+  <meta name="twitter:image:alt" content="Wellness, Actually podcast — with Emily Oster and F. Perry Wilson, MD">
   <script type="application/ld+json">
   {{
     "@context": "https://schema.org",
@@ -148,7 +157,7 @@ def build_episode_html(data, date_iso, date_display):
     "headline": "{headline}",
     "datePublished": "{date_iso}",
     "dateModified": "{date_iso}",
-    "image": "https://fperrywilson.com/images/wellness%20actually%20cover.png",
+    "image": "https://fperrywilson.com/images/og-podcast.jpg",
     "author": {{
       "@type": "Person",
       "name": "F. Perry Wilson",
@@ -171,6 +180,24 @@ def build_episode_html(data, date_iso, date_display):
       {{"@type": "ListItem", "position": 1, "name": "Home", "item": "https://fperrywilson.com"}},
       {{"@type": "ListItem", "position": 2, "name": "Episode Articles", "item": "https://fperrywilson.com/podcast/"}},
       {{"@type": "ListItem", "position": 3, "name": "{headline}", "item": "https://fperrywilson.com/podcast/{slug}.html"}}
+    ]
+  }}
+  </script>
+  <script type="application/ld+json">
+  {{
+    "@context": "https://schema.org",
+    "@type": "PodcastEpisode",
+    "name": "{headline}",
+    "url": "https://fperrywilson.com/podcast/{slug}.html",
+    "image": "https://fperrywilson.com/images/wellness-actually-cover.jpg",
+    "partOfSeries": {{
+      "@type": "PodcastSeries",
+      "name": "Wellness, Actually",
+      "url": "https://fperrywilson.com/podcast/"
+    }},
+    "author": [
+      {{"@type": "Person", "name": "F. Perry Wilson", "url": "https://fperrywilson.com"}},
+      {{"@type": "Person", "name": "Emily Oster"}}
     ]
   }}
   </script>
@@ -327,7 +354,7 @@ def update_sitemap(slug, date_iso):
     new_entry = f"""  <url>
     <loc>https://fperrywilson.com/podcast/{slug}.html</loc>
     <lastmod>{date_iso}</lastmod>
-    <changefreq>never</changefreq>
+    <changefreq>yearly</changefreq>
     <priority>0.7</priority>
   </url>
 """
