@@ -183,24 +183,6 @@ def build_episode_html(data, date_iso, date_display):
     ]
   }}
   </script>
-  <script type="application/ld+json">
-  {{
-    "@context": "https://schema.org",
-    "@type": "PodcastEpisode",
-    "name": "{headline}",
-    "url": "https://fperrywilson.com/podcast/{slug}.html",
-    "image": "https://fperrywilson.com/images/wellness-actually-cover.jpg",
-    "partOfSeries": {{
-      "@type": "PodcastSeries",
-      "name": "Wellness, Actually",
-      "url": "https://fperrywilson.com/podcast/"
-    }},
-    "author": [
-      {{"@type": "Person", "name": "F. Perry Wilson", "url": "https://fperrywilson.com"}},
-      {{"@type": "Person", "name": "Emily Oster"}}
-    ]
-  }}
-  </script>
 </head>
 <body>
 

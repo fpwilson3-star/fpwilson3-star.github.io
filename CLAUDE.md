@@ -124,20 +124,6 @@ Each episode page `<head>` must include the full SEO block below. Replace `{{TIT
   ]
 }
 </script>
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "PodcastEpisode",
-  "name": "{{TITLE}}",
-  "url": "https://fperrywilson.com/podcast/{{SLUG}}.html",
-  "image": "https://fperrywilson.com/images/wellness-actually-cover.jpg",
-  "partOfSeries": {"@type": "PodcastSeries", "name": "Wellness, Actually", "url": "https://fperrywilson.com/podcast/"},
-  "author": [
-    {"@type": "Person", "name": "F. Perry Wilson", "url": "https://fperrywilson.com"},
-    {"@type": "Person", "name": "Emily Oster"}
-  ]
-}
-</script>
 ```
 
 ### After publishing a new episode page
