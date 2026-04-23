@@ -1,0 +1,229 @@
+Perry: [00:00:01] I am going to start over. Full disclosure I am doing this podcast on an empty stomach. I have had nothing to eat yet today.
+
+Emily: [00:00:13] I think that's terrible. I literally have had three meals already. It's 10:30 in the morning. I've had three meals. And what do you think your glucose is?
+
+Perry: [00:00:24] Well, so people always have this idea that there's this like, oh my, my glucose is low. I'm hypoglycemic, you know, and that's why I'm angry or I'm confused or whatnot. But the beautiful thing about the human body, assuming all physiology is normal and you don't have diabetes and you're not taking exogenous insulin, is that you've got plenty of glucose going around, you have glycogen in your liver that is stored and rapidly converted to glucose. And even when you run out of glycogen, you have fat stores and things like that that can be liberated to give you some glucose. And so I feel great. And yes, I [00:01:00] am staring at this box of Thin Mints that is right next to me. Just in case.
+
+Emily: [00:01:07] Just in case. I will say you did have to start the cold open twice, and I think maybe you should take a gel or a thin mint to kind of pep you up.
+
+Perry: [00:01:17] I think we should do the experiment the next time I say something stupid.
+
+Emily: [00:01:20] Eat a thin mint.
+
+Perry: [00:01:21] I'll eat a thin mint and then we'll see.
+
+Emily: [00:01:26] I'm Emily Oster, I'm an economist and a data expert.
+
+Perry: [00:01:29] And I'm Perry Wilson. I'm a medical doctor.
+
+Emily: [00:01:31] It's Thursday, April 16th, 2026. And this is Wellness, Actually.
+
+Perry: [00:01:37] Because you're getting a staggering amount of health and wellness information nowadays from every source imaginable. And some of it is awesome.
+
+Emily: [00:01:45] And some of it is, well, actually bullshit. Fortunately, we're both people who know how to read studies, how to parse the data, and can tell you what's worth thinking about and what you can safely ignore.
+
+Perry: [00:01:58] But before we dig in, a note [00:02:00] that this podcast is for educational purposes and should not be construed as medical advice. We don't know your unique situation, so talk to your doctor for personal health decisions.
+
+Emily: [00:02:09] This week we're asking what's the deal with continuous glucose monitors? Perry and I will give the official smash or pass, and then we'll get to your question of the week. But first, let's do the health news roundup after the break.
+
+Perry: [00:02:33] And we are back with the Health News of the week. Emily, I want to start with, um, a really interesting article that came to us from the New York Times showing that birth rates are on the decline overall, but with some nuance that I think you might be able to walk us through. So can you tell me about what's going on with birth rates?
+
+Emily: [00:02:57] Yeah. So globally birth rates are declining. [00:03:00] This has gotten a lot of discussion in the last few years. Um, we are seeing many countries with far below replacement which includes the US. Replacement fertility is about 2.2 births per woman. Uh, and so the kind of headline finding on this is that the fertility rate in 2025 fell to a new low. And that is being driven largely by very big declines in fertility among younger people. So the teen birth rate has totally cratered in the past 20 years, which I just want to be clear, is good. Like it's good 15 to 19 year olds broadly is not the group you want to be having the most babies. And then for older cohorts it's going up. So births among 45 to 54 year olds have increased about 83% since 2007. So we're kind of seeing a shift, and that's making it a little hard to know exactly where completed fertility will end up. I think the truth is they will end up having fewer kids. Because if you wait until you're 45 to start having children, you're not going to have as many children. It's going to be harder. So there's a lot of complexities here.
+
+Perry: [00:04:26] Can I just tell you, I don't know if I've ever told you that I have three recurring nightmares, like three genres.
+
+Speaker 3: [00:04:33] They were going to say three children.
+
+Emily: [00:04:34] And then but. Maybe. It's the same, I don't know.
+
+Perry: [00:04:36] One is about the first kid. Okay. My three recurring nightmares. One, I have the thing where, like, your teeth are falling out like that very uncomfortable thing. Two, we're in college and it's final exam, and I realized I have not gone to class all year, and I have no idea what's going on, which is kind of accurate from my college experience. And then my third is that I'm having another baby. I'm [00:05:00] 46 years old and my wife tells me like, oh, we're having another baby. Um, and I can just say for very good surgical reasons, uh, this is not possible for me. Um, thankfully, but I still have that dream. So 45 to 54 year olds having some babies. Good for you, I salute you. Uh, it terrifies me at this point.
+
+Emily: [00:05:24] Yeah. Uh, same same here. But I think, I mean, it's a very interesting demographic shift, and we are going to have to wait and see where this ends up. But my instinct is it will end up with fewer kids overall. Even if it is maybe not as many fewer as you would have anticipated without taking into account the movement in time. Okay, shifting gears significantly. Last week, there was a report that the CDC and in particular Jay Bhattacharya, the head of both the CDC and the NIH has [00:06:00] delayed a publication in the Mortality and Morbidity Weekly Report, which is a CDC publication. He's delayed a report that was calculating Covid vaccine effectiveness against hospitalization, and this got some attention as potentially politically motivated. He said it was because he doesn't like the methods. What do you think?
+
+Perry: [00:06:24] Okay, well, so the Morbidity and Mortality Weekly report by the CDC, something we've referenced before on this podcast, it's a wonderful source for sort of up to the minute, or at least the past month, disease epidemiology in the US and sometimes abroad. And they will periodically report on vaccine effectiveness, which is like, how good was last year's vaccine? Um, we talked on a prior episode that last year's flu vaccine, for example, not a great one. We didn't have a great flu vaccine. It was like 30% effective at preventing hospitalizations. This report showed that last year's Covid vaccine was about 50% effective at preventing [00:07:00] hospitalizations, which means, you know, all else being equal, that you were half as likely to end up in the hospital if you had been vaccinated as if you hadn't been vaccinated. That report passed the scientific review group at the CDC, but according to The Washington Post, was held up by Doctor Bhattacharya for, quote, methodologic concerns. The methodology used is called a test negative case control design. It basically looks at people who have infections that show up with respiratory infections. So it could be flu, it could be a bad cold, could be Covid, who knows? They get tested and they assess their vaccination status. And you basically find that if you are vaccinated for Covid, that thing you showed up with is much less likely to be Covid than if you weren't vaccinated. That's how it works. This design has been used for [00:08:00] years and years and years.
+
+Emily: [00:08:01] Very common design.
+
+Perry: [00:08:03] Very common design, and even was recently in the Morbidity and Mortality Weekly Report when they reported on flu vaccine effectiveness. And theoretically it's the exact same analysis. So I don't see why it's bad for the Covid vaccine, but it's not bad for other vaccines.
+
+Emily: [00:08:19] I find this decision so interesting because you're totally right. This method is used all the time. And so this singling out the Covid vaccine and saying, we're going to pull this report for Covid when we just published the same exact thing for flu seems totally politically motivated, particularly coming out of an administration that has generally been very skeptical of the Covid vaccine, even though they did develop it. On the other hand, I think this method is very poor. And I share a lot of his concerns about this method. And so I'm sort of very [00:09:00] interested in what was behind his decision. And I will just like, shameless plug—I am interviewing Jay on April 24th at a National Academies panel. We can put the registration link in the show notes, and I'm going to ask him about this exact question.
+
+Perry: [00:09:16] Please ask him. Yeah. It is not a perfect design. It's not a randomized trial. Obviously, we don't do randomized trials once we confirm that a drug or vaccine works because it's unethical to randomize people to placebo. There are other methods to assess vaccine effectiveness. But as you point out, this is the one that we use.
+
+Perry: [00:09:33] It's the one that we use. So I look forward to your hard hitting questions for Doctor Jay. Um, okay. Turning now to the great state of California. Laws in California tend to have the effect of propagating across the US because it's such a huge market, and California is [00:10:00] soon to be mandating that their corn tortillas get supplemented with folic acid. So, Emily, as you know, folate is one of the supplements that gets added to like wheat flour and stuff like that all across the country. Um, there's some important public health implications, but it was actually news to me that the cornmeal and corn flour that is used for tortillas doesn't have folate added. So, Emily, I assume you're a fan of folate.
+
+Emily: [00:10:28] I am a fan of folate. Yeah. I mean, when we look at prenatal vitamins, a lot of the stuff they put in there is not useful, but folic acid or folate is in fact a very well established evidence based way to prevent neural tube defects. And not everybody gets prenatal vitamins at the range that they should. So it's very important that people get folate or folic acid in food, and in particular in Hispanic communities. Corn tortillas, cornmeal is a more common source of carbohydrates than flour. [00:11:00] And so I think this is a directionally good idea. RFK was not a fan, but he hasn't exactly said why. He said it was insanity. But I wasn't totally clear on why.
+
+Perry: [00:11:16] That it was insanity.
+
+Emily: [00:11:17] Insanity, and it is targeting the poor, which is actually true, but like in a positive way. So I'm not really sure what the objection is to this. I mean except that the tortilla makers who have to add something which costs money, but other than that, yeah.
+
+Perry: [00:11:36] Yeah, yeah. Okay. That's it for the Health News of the week. After the break, what's the deal with continuous glucose monitors? And [00:12:00] we're back to talk about what's the deal with continuous glucose monitors. To start us off, Emily, I'm going to play you a clip of our friend Casey Means. She's been mentioned multiple times on this podcast. Casey Means talking to Andrew Huberman about continuous glucose monitors.
+
+Casey Means: [00:12:28] The purpose of the glucose monitor is curiosity. It's essentially an MRI for how all of our different dietary and lifestyle strategies are creating this readout of glucose in our body, which I think can be really interesting.
+
+Perry: [00:12:41] So. Emily. CGM simply put, is an MRI of glucose.
+
+Emily: [00:12:48] No, that's not—I don't know what does that mean.
+
+Perry: [00:12:51] It's just it's an MRI of glucose. MRIs are fancy and complicated.
+
+Emily: [00:12:56] An MRI is a giant machine, Perry. Which [00:13:00] images. It's okay.
+
+Perry: [00:13:02] I thought you'd like it.
+
+Emily: [00:13:03] I didn't like it.
+
+Perry: [00:13:04] You know, continuous glucose monitors are things that measure glucose. And we're going to talk a little bit about how they do that and why you might want that, but I thought it would be good to play that clip right off the bat, because it sets the tone for what we see in a ton of influencer marketing and social media. Um, you've got the music in the background. You've got these sort of medical and scientific terms like MRI getting thrown about. And yet contextually, I'm not entirely sure what she's saying. Like, is there a statement of fact there that we can hang our hat on and ask for some evidentiary support?
+
+Emily: [00:13:45] What I think is interesting about that statement—I think we're going to come back to—is she starts by saying the purpose of continuous glucose monitors is curiosity. I actually think that is a big piece of why many people outside of diabetics use this. And one of the things I'm going to push a little bit more later is that self-tracking should be in the service of a decision, probably not just in the service of curiosity. It should be in the service of a decision or an action, because this isn't maybe something you need to be curious about unless you are going to use it for something. But we can get into that more. I will say I was at a race a couple of weeks ago, and there were a bunch of people, a lot of athletes wearing these on their arms.
+
+Perry: [00:14:39] Yeah, I'm seeing them more and more.
+
+Emily: [00:14:40] I see them a lot.
+
+Perry: [00:14:41] Yeah, I was on vacation last week and I saw them like by the pool. And, you know, as a physician, I've seen these for a long time, but typically just in patients with diabetes—originally just in patients with type one diabetes. And then you can see how this market has grown. For people who might not be as familiar, continuous [00:15:00] glucose monitors are these patches that you can stick on your body. Um, typically they'll go on the back of the arm or sometimes the belly. Um, they have a small wire in them that sticks into the skin and can sense the glucose content of the interstitial fluid—the fluid that percolates throughout your body. These used to be prescription devices that your doctor would write you a prescription for if you had diabetes, to help monitor your blood sugar. These were really a godsend for people that were doing fingersticks frequently because fingersticks hurt and it's annoying. So, you know, you just stick this thing on. It measures it through an app. But as of, I think 2024, the FDA had approved an over-the-counter version, which anyone can use. And that caused this explosion in the wellness space [00:16:00] of people without diabetes using these devices for all sorts of purposes that we'll get into.
+
+Emily: [00:16:08] Yeah. So I actually think it's worth backing up just one more step into talking about why you might care about your glucose and how glucose is sort of operating in the body. Um, so I'm going to ask you, because you're the doctor—when I eat, it turns into glucose. And why would I care how much of that there is?
+
+Perry: [00:16:30] Yeah. Glucose is the sort of energy currency of the body basically, right? You put things into your body and by and large, proteins and carbohydrates are going to turn into glucose. Fats can also turn into glucose eventually, although it takes a few more steps, and your cells literally burn glucose to make energy. It takes a glucose molecule and turns it into carbon dioxide and water. I don't know if you ever remember from like sixth grade science class—you could take [00:17:00] some sugar and add chemicals to it, and it off-gases carbon dioxide and things like that. It's the same stuff that's happening in your cell.
+
+Emily: [00:17:07] My science class was much better than mine, but okay. Fair enough. Go ahead.
+
+Perry: [00:17:10] Um, and so yeah, I mean, you need glucose to survive. I think what's relevant to continuous glucose monitors is that glucose is kept in a very narrow range in your blood because glucose itself can be toxic. So it's necessary, but it's also sort of evil, and things that are necessary and yet evil tend to be regulated in very narrow bands in the human body. And it's insulin that does that. Your blood sugar—normal blood sugar, let's say, is 90mg per deciliter—corresponds to about a teaspoon's worth of sugar being dissolved in your blood at any given time. So that's not much, right? Put a teaspoon of sugar in your coffee this morning—that's all the sugar in your blood, which should tell you how much is [00:18:00] going on in your body to pull it out of your blood and put it into cells and put it into storage and make glycogen, which sits in the liver as like a warehouse for glucose if you need it in the future. And so it's highly, highly regulated. And when it becomes dysregulated, that's what we call diabetes. And obviously that's one of the major chronic health conditions of our time.
+
+Emily: [00:18:21] Great. Okay. So the idea behind these CGMs is that they will tell you in more real time what your blood sugar is. And let's sort of get the diabetes piece of this out of the way, because I think this is a place where it's very clear this innovation has made huge strides for people living with diabetes. So one of the core issues, whether you have type one or type two diabetes, is monitoring where your blood sugar is, so you can both think about which foods cause your blood sugar to rise above levels that are safe, and [00:19:00] make sure your blood sugar doesn't fall too low. For people with type one diabetes, they need to dose with insulin or possibly get more sugar if their blood sugar drops too low. Before continuous monitoring, you're taking fingersticks very frequently. That is both unpleasant, time consuming, and also subject to quite a lot of noise. This is effectively a way to be continuously pricking your finger without the pain and discomfort. And so we have a lot of evidence that for type one diabetes, this is clearly very beneficial and especially for kids—lowers the risks of hypoglycemia, improves anxiety in parents. We just have a lot of evidence from RCTs that people are spending more time in the appropriate range, that their A1C's are going down. Like all of the metrics you would have for [00:20:00] successfully managed diabetes are improved with this kind of monitoring.
+
+Perry: [00:20:07] Yeah. I mean, it is a slam dunk. For type one diabetics, it is pretty darn close. One of the cool things for people with type one diabetes is that some of the prescription continuous glucose monitors actually integrate with insulin pumps. So not only is it measuring the glucose in your interstitial fluid, which lags behind the blood by about ten minutes, but it can also control how much insulin is being released by the pump. You put those two things together and you basically have a pancreas. I mean, it's not perfect, but that's more or less what the pancreas is doing. And it's been a total game changer.
+
+Emily: [00:20:50] The other piece of this is in people with type two diabetes, even if they are not insulin dependent—or even people with prediabetes—there [00:21:00] is some evidence that this can help people basically manage their food intake in a way that keeps their blood sugar more even, because you're getting a continuous set of feedback. Different foods raise people's blood sugar different amounts. There's a kind of general sense that refined carbohydrates raise your blood glucose quite fast, and slow-processing carbohydrates or protein raise it more slowly. But that's not true for every individual in exactly the same way. And so these are a way for people to kind of both get real time feedback, but also figure out what works for them. And there's some evidence that can help people keep their blood sugar in the range that you're looking for—something like 70 to 140 over the course of a day.
+
+Perry: [00:21:52] Right. And for people with prediabetes, CGMs have been shown in some studies to delay or even prevent the progression [00:22:00] to full blown diabetes, which is obviously an important outcome. And so for these people with disorders of insulin metabolism—from prediabetes to diabetes—a window into how that system is working can help you engage in behavioral changes to keep things working well for longer. But where the rubber meets the road is: what about all the people for whom the system is already working as intended? Is there marginal benefit there? And the vast majority of people who are using these over-the-counter continuous glucose monitors are really those types. So, you know, I think what people really want to know is: okay, I'm not diabetic, I don't have pre-diabetes, I don't have the metabolic syndrome, but I see these things out there and there's influencers online telling me [00:23:00] that I need to use this to lose weight, I need to use this to get my muscles better.
+
+Emily: [00:23:05] I think a lot of the messaging is even much more specific than that. It's not like, this is going to help you lose weight or get your muscles better. It's more like, you should use this to not have glucose spikes and to keep your glucose—there's this idea that the optimal glucose is a flat line at 90. All the time, somehow. Like we should all be navigating our diets so our line is flat at 90 all the time.
+
+Perry: [00:23:36] Oh my gosh. Yeah. So so important. No. And actually, as I was researching this I was looking at some of these things, you see all these people being like, I had no idea how much my glucose spiked after I did X, Y, or Z. And I think there's even like the onomatopoeia of the word spike—it just sounds bad, right? Pointy, sharp. We don't like spiking things. Um, [00:24:00] but I wanted to dig into the literature a little bit just to check my priors and be like, wait, is that bad? Like, is it bad that after you eat something that has a lot of carbohydrates in it, the glucose level in your blood goes up. And of course, it turns out that, well, of course the glucose level in your blood goes up when you eat carbohydrates, because that's—
+
+Emily: [00:24:20] What they do.
+
+Perry: [00:24:21] That's what they do and that's what you want them to do.
+
+Emily: [00:24:24] So for people who are thinking about this, let's just level set. What is it that one acquires in doing this? So you can go on the internet and you can purchase from a couple of different companies—Abbott makes one, Dexcom makes one. You can purchase one of these monitors. You can purchase it for like a long term subscription, or you can actually buy them for like 50 bucks. You can get this for two weeks and it's like a two week single use monitor and they ship it to you. And I've done this so I can tell you.
+
+Perry: [00:24:55] Tell me what happens.
+
+Emily: [00:24:56] They ship you a little thing. You stick it in your arm. [00:25:00] It doesn't really hurt. It's like a tiny needle. It goes into your arm, it sticks on your arm, and it links up to an app. And the app will tell you in something close to real-ish time kind of how your blood glucose is moving around. And that's it. Then you look at that app at different times and use it for some kind of decision making. And there's a little line and that's it.
+
+Perry: [00:25:25] Okay. One of the problems we have in research where we have frequently sampled data—take a hospitalized patient's blood pressures measured every 15 minutes if they're in the ICU—is always the question of like, how do I collapse that into a meaningful number? Like when it comes to a bunch of glucoses, is it the high that matters? Is it the low? Is it the variation? Are the apps breaking that down or is it just, here's your line and it turns red when it's above 140? [00:26:00]
+
+Emily: [00:26:00] Yeah, it's more of the second thing I would say. In this use case, they are generally not trying to provide people with much beyond, here's how your glucose changes around the day. And I think the idea is in principle, you could combine this with activity or food consumption tracking and then see, you know, when I eat rice or when I eat cookies, my glucose goes up more. And when I eat eggs, it doesn't go up as much. And that would be in some way informative, to again, achieve this goal that I don't think anyone health-wise really should be achieving, of a flat glucose. So that's the kind of idea of the app. There's some [00:27:00] summary measure—like they'll be like, your glucose is fine.
+
+Perry: [00:27:03] I want a green box or something like that. There are of course companies now, including a company founded by Casey Means who we played at the beginning of this episode, which will not only sell you a repackaged continuous glucose monitor from one of these companies, but coupled with their own app that is supposed to use AI and give you all sorts of health advice. And this is part of the problem with access to too much data. We have so many ways to monitor ourselves—it started just with step counts, but now we have our heart rate variability and our sleep quality and potentially continuous glucose monitoring. That's really outpaced our knowledge of what to do with that information, which is why these people who are selling you, like, we're going to use this to give you the answer about your health are fundamentally [00:28:00] lying, because that data just doesn't exist yet. Like you can make recommendations about eating healthier and that's fine. But we don't really have outcomes.
+
+Emily: [00:28:20] Yeah. So I think this is the real question for the data. I think it's kind of two questions. So one is, when we look at trials of people in the general population who use these—which is actually not a huge space—we don't really see much evidence that the use of these improves outcomes very much. Would you say that's your read of the data?
+
+Perry: [00:28:42] In people without diabetes? Right. Yes. That is my read. In terms of hard health metrics, there's not much.
+
+Emily: [00:28:50] But I think there's a second question, which is: is this predictive? So one there's like a policy question, which is if you gave everybody a CGM, would they be less likely [00:29:00] to have diabetes? And I think the answer is probably no, at least from what we know so far. The second question is, as a person who's concerned about your health, could you learn something from this that would be predictive—that would say, well, you actually are at a higher risk for diabetes relative to your demographics because something is going on with your blood sugar. And I think that's like, in some ways, the data there is a little bit more complicated. There's a study from the Journal of Diabetes Research which looks at non-diabetic people using CGMs, and some of them develop diabetes. There are of course strong predictors here of age and BMI. But there's also some evidence that people who spend more time in a high blood sugar range above 130, there's some predictive capacity. It's not very good, but it [00:30:00] does sort of suggest that maybe these could pick up something about insulin resistance. That would be a little bit predictive. That's the best case argument.
+
+Perry: [00:30:09] Yeah. So but this is a classic correlation versus causality issue that we often face in this podcast. There are multiple studies which show that among people who do not have diabetes, response to an oral glucose tolerance test—which is literally like, you come in fasting, we measure your blood sugar, we give you a really sweet drink, and we measure how high your glucose goes up—the people who go up higher in that test are more likely to go on to have diabetes. It could be that spending time at high glucose values flogs your pancreas enough such that you start becoming insulin resistant. It also could be that what we're doing with all this testing is just identifying the type of person who already [00:31:00] has some insulin problems, and the test is revealing that you have some subclinical insulin resistance. And the reason that this matters is because if those spikes of glucose you're seeing on your glucose monitor are causing downstream bad effects like diabetes, then limiting those spikes will limit the downstream effects of diabetes. And we should be telling people, oh yeah, you don't want those spikes. However, if the spikes are just a sign that you're at risk, you don't know that limiting it changes that risk profile at all.
+
+Emily: [00:31:45] And then you could say, okay, well, is there some other action that people should be taking if you knew you were at high risk? Would you want to be more cautious about various kinds of health choices? Now, of course, most of the people who are doing these things [00:32:00] as a recreational activity are already doing all the other things which are going to prevent diabetes. So I think it's a little bit tricky there.
+
+Perry: [00:32:07] But the way to tease this out is to do randomized trials. One tip for people who are looking at influencers in this space: any remarkable claim—just quickly Google the thing they're talking about along with “randomized trial.” You'll often get a better sense of the truth than whatever people are saying. I wanted to bring up a meta analysis—a summary of trials—that randomized people without diabetes to continuous glucose monitoring versus no continuous glucose monitoring. And this actually showed that the people who used the CGMs did have a lower mean blood glucose than the people who weren't assigned to use CGMs. This is a bit of a self-fulfilling prophecy—it's sort of like if you give someone a step counter, they end [00:33:00] up taking more steps.
+
+Emily: [00:33:03] Like a Hawthorne effect, basically. I'm watching you. You're watching you. You want to, at least in the short term, be incentivized to achieve whatever is the thing you're looking for.
+
+Perry: [00:33:14] Exactly. And so that's good, at least as like, okay, there's some conceptual basis here. But there's no difference in their body mass index at the end of the trial. And so this is an example of, yeah, okay, you got your mean blood sugar down a little bit because you were watching it like a hawk and you were kind of like, oh my God, no, I'm not going to eat that cookie because it's going to give me a spike. But in terms of something that maybe matters more in terms of outcomes, like your BMI, no effect.
+
+Emily: [00:33:43] Yeah. I guess my very simple takeaway is: if somebody came to me and they said, I'm thinking about getting one of these, the question I would ask is the same question I would ask if they told me, I'm going to get a very complicated blood panel with [00:34:00] like 100 things in it. Okay, but what will you be doing? What action will you be taking differently based on this information? And what's the information you're looking for? Is this going to deliver that? I think there are some situations in which this information could be valuable potentially. But that is the question, as opposed to just, I'm interested so I can see where this number is—which is like, okay, yes, when you eat things, it's going to go up; when you're hungry in the middle of the night, it's going to go down. I promise you will learn that. But like, then what?
+
+Perry: [00:34:33] Yeah. So what did you learn? Like, give me your personal story. You wore this thing for two weeks. How did it change your behavior? Why did you want it in the first place?
+
+Emily: [00:34:42] Okay, so I actually had a reason for this. One reason is I'm a person who enjoys self-tracking, and I was curious. But the main reason was that I had had, as part of a standard blood test, a glucose test, and my glucose even not fasted was quite, quite low. And so [00:35:00] there was a question of like, should I be worried? And so I wore this thing, and I learned two things. One is that my glucose is sometimes like below the bottom of the range—which is 55—and I'm frequently dropping like under the range. So I sometimes have very low glucose, but I also learned I have no symptoms of that. And my doctor was like, I don't know, some problem. That was an example of something where I was like, why did I know that? It's totally irrelevant. But I did learn one actionable thing, which was about how I respond to eating carbohydrates while I run—I respond quite a lot in a positive way. I could sort of see when I was running, when I took a gel—these running gels have a very concentrated amount of sugar, like 40g of carbohydrates—and so I started taking those earlier in my run. I moved my gel fueling timing from four, eight, twelve, sixteen to two, six, ten on the mileage. And that's [00:36:00] what I learned.
+
+Perry: [00:36:17] You've lost me at—oh, that's the number of miles. Jesus. Emily. Oh my God, you're such an athlete. Um, so when you say you timed it better, you're watching it and your glucose is kind of coming down as you run and then you're like, oh.
+
+Emily: [00:36:32] I didn't watch it while I was running because—
+
+Perry: [00:36:35] You would bump your head into something.
+
+Emily: [00:36:36] I could see basically that there was a reason that at three miles I was often feeling tired, which is that I could see my glucose was like at 50 or something. That is really interesting. And then even if I did nothing, this is part of the body system—even if I eat nothing, it will come back up. But if I took a gel at two miles rather than waiting to four miles, then [00:37:00] I could basically stave off that low point because the glucose would maintain at a higher range.
+
+Perry: [00:37:06] You're no doubt aware of this, but the fun physiology here—this hitting the wall physiology—is when you deplete all your liver glycogen stores. As I said at the beginning, there's actually very little glucose floating around your blood at any given time, like a teaspoon's worth. So obviously not enough to sustain a long run. But your liver converts glucose into glycogen—just sticks glucoses together—which can be quickly delivered back into the bloodstream and broken down into glucose. But there's a limited amount of it. And typically, depending on what kind of athlete you are and how much you've eaten and carbo loading and things like that, you'll deplete your liver glycogen in maybe 2 or 3 miles. And then you switch to what's called gluconeogenesis—creating glucose from other stuff, right? Breaking down protein, [00:38:00] breaking down fats. And you do feel that difference. You know, athletes like yourself probably know that feeling of, I'm running, everything feels fine, all of a sudden I'm dragging a little bit. And if you're very in tune with your body, maybe you know that you feel that coming and you take your glucose gel. But maybe if you're not, a CGM would be useful here.
+
+Emily: [00:38:20] And this is actually, in the endurance sports space, people use these for this exact reason—to sort of figure out what is the timing and approach to fueling that allows them to maintain a high level of glucose throughout a long distance endurance activity. The cycling peloton, the guys who ride the Tour de France, they were using these to try to optimize their fueling and then they got banned. And I always [00:39:00] feel like when something is banned in the cycling peloton, you know that it works, because these guys are looking for the 1%.
+
+Perry: [00:39:07] I, by that metric—but just to say it out loud—do we have any harder evidence than doping bans for endurance athletes in the use of CGM?
+
+Emily: [00:39:18] Is there any harder evidence than doping bans for anything? Um, yes, we have a little bit more harder evidence in sports. So they've done some stuff in cyclists and runners who are doing longer efforts. And they basically find that if you give people a CGM, it is helpful at optimizing their carbohydrate intake so they don't drop below 70mg. So there's a direct feedback—exactly the thing I described—which is for obvious reasons, if you use this to inform your fuelling, then you can do better at refuelling.
+
+Perry: [00:39:57] I think it's interesting though that the best use case [00:40:00] we've come up with so far for people without diabetes or prediabetes is not keeping your glucose from getting too high. It's actually—
+
+Emily: [00:40:08] Like getting too low.
+
+Perry: [00:40:09] It's watching out for getting too low while you're consuming a lot of glucose in your muscles.
+
+Emily: [00:40:15] Yes. That is maybe what we learn. Okay. I think the last thing I want to talk about here—to sort of put a pin in that—I think the question people can ask themselves is, what am I planning to do with this? And not everybody's going to have the I'm-running-for-two-hours version of this, but I think there are cases for saying, you know, I'm feeling really tired or really draggy at different times of the day—maybe there's some information in here that could be helpful.
+
+Perry: [00:40:46] It feels like though your point about a two week, $50 investment maybe being okay just to play around and get a sense of your body—I'm not feeling like, oh yes, and therefore you need the monthly subscription. [00:41:00]
+
+Emily: [00:41:02] No, I think there's almost no case for someone to do anything other than spend $50 for two weeks. And I think for most people, there's no case for that either. But the idea that you're going to endlessly wear one of these—I will say I wore this and like three days in I was like, okay, I've learned something. And then it fell off when I hit it with the laundry machine door at ten days in. And so then I was just like, well, that's probably enough information.
+
+Perry: [00:41:32] We should talk about some potential risks. Obviously it's breaking the skin, so there's some theoretical risk of infection. And of course, there's the risk of spending money, which you have other things to spend your hard earned money on—opportunity cost. But there is a new psychological condition. It has not yet made it all the way to the DSM, the Diagnostic and Statistical Manual, which lists all the official psychiatric conditions, but it's called orthorexia [00:42:00] nervosa. Have you heard of this?
+
+Emily: [00:42:02] Yeah. It's like an over-obsession with healthy eating behaviors.
+
+Perry: [00:42:09] Yeah, exactly. So orthorexia nervosa has been documented in several studies—again, not an official psychological diagnosis yet—but it's basically people who become so obsessed with, and continuous glucose monitors can play into this, maintaining that perfectly flat line that it starts to consume them. Every psychological condition that does end up in the DSM always has a criteria that's like, it interferes with your daily life. So there are people for whom things like CGMs, even sleep trackers—that's called orthosomnia—get so obsessed with perfecting those metrics that their relationships suffer, their jobs suffer. It's all they can think about. If you feel like you're that type of person, [00:43:00] do not put one of these on your body.
+
+Emily: [00:43:02] I agree. And I think the other piece of this is I do not think people should fear foods. There's a little bit of a space in the wellness influencer world—like, I wore a CGM and I learned that I can never eat rice because when you eat rice, your glucose spikes in this way. It's like, it's fine to eat chicken with your rice. But I worry that people will overinterpret basic variations in glucose that are totally normal.
+
+Perry: [00:43:39] And physiology.
+
+Emily: [00:43:41] And basic physiology—as some kind of like, I'm broken because my blood sugar went to 130 after I ate a bowl of rice, which is a totally normal, regular thing to have happen.
+
+Perry: [00:43:53] Yeah. And just to say, even larger spikes—well documented spikes up to [00:44:00] 160, 170, 190 after a meal, even up to 200 in healthy individuals—can be normal, depending on the amount of glucose that you ingest. And it doesn't mean that you're necessarily insulin resistant or broken in any way. It just means your body really efficiently broke down those carbohydrates and gave you a bunch of glucose. And then your body is going to do the thing that it does, which is take all that excess glucose and stick it in the liver in the form of glycogen, so that when you go on your run, you don't fall down flat.
+
+Emily: [00:44:29] Exactly. Okay. Perry, continuous glucose monitors for non-diabetic individuals. Smash or pass?
+
+Perry: [00:44:37] Pass on this one, I think. Save your money. I don't think you're getting much information from it. Focus on something else. How about you, Emily?
+
+Emily: [00:44:44] I think I'm also a pass. Even as a consumer. I think for almost no one is this really very useful. And I think a lot of the feedback that you would get from it, you could actually just get from paying attention to how you feel, which is actually more [00:45:00] important than what some number is on an app.
+
+Perry: [00:45:02] All right, that's it for continuous glucose monitors. Your mailbag question of the week after the break.
+
+Mailbag: [00:45:14] Hey, Emily and Perry, this is Adam from Parsippany, New Jersey. I had a question for you about statins and grapefruit. I've heard that you're not supposed to eat grapefruit while you're taking statins, and I didn't know—is it because they won't work as well? Is it that they're bad for you if you do? Uh, what's the deal? Thanks so much.
+
+Perry: [00:45:31] Yeah. A lot of people always wonder. You know, it's really weird that on certain medications, it's like, take this with food, take this without food, don't eat grapefruit while you're having this medication. It feels very specific and it is. And it all has to do with liver metabolism. So grapefruit and grapefruit juice contains something called a furanocoumarin, which inhibits one of the enzymes in your liver that's [00:46:00] responsible for breaking down some drugs, including some statins—called cytochrome P450. And so if that enzyme is inhibited, when you take a dose of that drug, it doesn't get broken down as fast and it can get to toxic levels more quickly.
+
+Emily: [00:46:15] So it's not just that it doesn't work, it's that it is actively dangerous.
+
+Perry: [00:46:19] Correct. Yeah. This is one of those things that makes drug levels higher, not lower. But there are other things that interact with the liver too that will increase the metabolism of certain drugs. The most famous one of those probably is the interaction between alcohol and Tylenol in the liver. Those are both metabolized by the same receptor, leading to something called the therapeutic misadventure. This is kind of fascinating and sad—when people try to overdose or commit suicide by taking Tylenol and alcohol together, the alcohol is competing [00:47:00] for the Tylenol receptor in the liver, the thing that breaks down the Tylenol. And it is the breakdown product of Tylenol that's toxic in high doses. And so by drinking while you did that, you paradoxically sort of saved yourself. We see that from time to time.
+
+Emily: [00:47:14] Yikes.
+
+Perry: [00:47:15] Okay, so don't do any of these things.
+
+Emily: [00:47:17] But to get back to the statins and the grapefruit.
+
+Perry: [00:47:22] This tangential—I'm going to have my thin mint.
+
+Emily: [00:47:26] Thin mint. Um, does this mean that if you go on a statin for life, you're never eating grapefruit again? That's it?
+
+Perry: [00:47:35] Um, well, now I'm chewing. Okay. This is—you need to ask that question longer.
+
+Emily: [00:47:43] I love grapefruits, can I never have them again if I'm on a statin?
+
+Perry: [00:47:49] No. The truth is, most of the studies of the pharmacokinetics of these drugs—pharmacokinetics is like the concentrations that drugs get to in your blood after [00:48:00] you take them—are based on people drinking double concentrated grapefruit juice in a significant quantity. And so probably a bit of grapefruit juice here and there is not going to cause a huge problem. And of course, statins aren't particularly toxic at higher doses anyway. So a lot of these risks are more theoretical, but they are there.
+
+Emily: [00:48:21] But if you were going to plan to be on a statin while also being on the grapefruit diet of the 1970s, which was exclusively grapefruit oriented, that would be a mistake.
+
+Perry: [00:48:30] That would clearly be a mistake.
+
+Emily: [00:48:32] Okay. News you can use, people. That's it for us today. Stick with us next week when we'll ask what's the deal with hormone replacement therapy? Wellness, Actually is produced in association with iHeartMedia. Our senior producer is Tamar Avishai. Our executive producer at iHeart is Jennifer Bassett. Our theme music is by Eric Deutsch, and our content is for educational purposes only.
+
+Perry: [00:49:00] If you like the show, help other people find us. Leave a rating and review on Apple Podcasts or your podcatcher of choice, and help us spread the word about the show. You can follow us on Instagram @wellnessactuallypod. And don't forget, we want to hear from you. Head over to WellnessActually.fm and leave us a question for our mailbag or suggest a topic for a future show.
+
+Emily: [00:49:21] We'll let the influencers have the last word.
+
+Influencer: [00:49:23] I am not a diabetic, but I decided to get my CGM because I wanted to find out what foods affect me. So here are some of the big things that I've learned in the past two weeks of wearing my CGM. The food to spike my blood sugar the most was—drum roll, please—sushi.
