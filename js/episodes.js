@@ -10,10 +10,8 @@
     { slug: 'do-stem-cell-injections-actually-work',       title: 'Do stem cell injections work?' },
     { slug: 'does-creatine-actually-work',                 title: 'Does creatine actually work?' },
     { slug: 'how-much-protein-do-you-actually-need',       title: 'How much protein do you need?' },
+    { slug: 'continuous-glucose-monitors-non-diabetics',   title: 'Do continuous glucose monitors actually work for people without diabetes?' },
     { slug: 'does-hormone-replacement-therapy-actually-work', title: 'Does hormone replacement therapy actually work? What the evidence says in 2026' },
-
-    { slug: 'continuous-glucose-monitors-non-diabetics', title: 'Do continuous glucose monitors actually work for people without diabetes?' },
-
   ];
 
   const linkStyle = 'font-family:var(--font-mono);font-size:0.85rem;color:var(--color-accent);text-decoration:none;';
