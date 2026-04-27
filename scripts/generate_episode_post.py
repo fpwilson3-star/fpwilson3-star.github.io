@@ -260,6 +260,7 @@ def build_episode_html(data, date_iso, date_display):
         <li><a href="/#writing">Writing</a></li>
         <li><a href="/#media">Media</a></li>
         <li><a href="/#lab">Lab</a></li>
+        <li><a href="/#course">Course</a></li>
       </ul>
       <button class="nav-toggle" id="navToggle" aria-label="Toggle navigation">
         <span></span><span></span><span></span>
