@@ -256,7 +256,6 @@ def build_episode_html(data, date_iso, date_display):
       <ul class="nav-links" id="navLinks">
         <li><a href="/#about">About</a></li>
         <li><a href="/#podcast">Podcast</a></li>
-        <li><a href="/podcast/">Articles</a></li>
         <li><a href="/#book">Book</a></li>
         <li><a href="/#writing">Writing</a></li>
         <li><a href="/#media">Media</a></li>
