@@ -14,6 +14,8 @@
     { slug: 'does-hormone-replacement-therapy-actually-work', title: 'Does hormone replacement therapy actually work? What the evidence says in 2026' },
     { slug: 'does-testosterone-replacement-therapy-actually-work', title: 'Does testosterone replacement therapy actually work? What the evidence says about TRT' },
 
+    { slug: 'does-bovine-colostrum-actually-work', title: 'Does bovine colostrum actually do anything? A doctor reviews the evidence' },
+
   ];
 
   const linkStyle = 'font-family:var(--font-mono);font-size:0.85rem;color:var(--color-accent);text-decoration:none;';
