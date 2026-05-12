@@ -62,10 +62,29 @@ Put them in `images/` and reference with relative paths.
 
 When given a podcast transcript, write a Medium-style article for the episode. Then:
 
-1. Identify every specific study mentioned (by finding, paper, trial name, or author)
-2. For each one, use WebSearch to find the most likely matching paper
-3. Link the study inline using Markdown (e.g., `[a 2023 RCT in NEJM](https://...)`)
-4. Only include a link if confident in the match — silently skip any that can't be found
+1. **Fetch the episode script from Google Drive** (see Drive structure below) — it contains inline links to studies and news articles already sourced by the hosts. Use these links preferentially.
+2. Identify every specific study mentioned in the transcript (by finding, paper, trial name, or author)
+3. For studies not already linked in the script, use WebSearch to find the most likely matching paper
+4. Link the study inline using Markdown (e.g., `[a 2023 RCT in NEJM](https://...)`)
+5. Only include a link if confident in the match — silently skip any that can't be found
+
+### Google Drive episode scripts
+
+Episode scripts live in a shared Google Drive folder and contain pre-sourced links for every study and news item discussed. The Drive path is:
+
+```
+14. Wellness, Actually
+  └── 1. EPISODES
+        └── [##. Date - Topic]   (e.g. "8. 4.2.26 - Creatine")
+              └── SCRIPT - [Topic]   ← inline links are here
+```
+
+To fetch the script for an episode:
+1. Search Drive for the episode folder: `title contains '[topic]' and mimeType = 'application/vnd.google-apps.folder' and parentId = '1qhx8vF3m6Gd9eYUEntLoeAtaVgZ7N-Si'`
+2. Search for the script inside it: `title contains 'script' and parentId = '[episode folder id]'`
+3. Read the file content — links appear inline next to the topics they reference
+
+The script may also contain news item links, Instagram influencer posts, and other context useful for the article. The raw notes never need to be published or committed to the repo.
 
 ### Episode page HTML template
 
