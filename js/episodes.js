@@ -16,6 +16,8 @@
 
     { slug: 'does-bovine-colostrum-actually-work', title: 'Does bovine colostrum actually do anything?' },
 
+    { slug: 'do-psychedelics-actually-work', title: 'Do Psychedelics Actually Work for Depression, PTSD, and Addiction? What the Evidence Says' },
+
   ];
 
   const linkStyle = 'font-family:var(--font-mono);font-size:0.85rem;color:var(--color-accent);text-decoration:none;';
