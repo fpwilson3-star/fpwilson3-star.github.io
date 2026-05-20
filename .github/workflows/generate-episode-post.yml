@@ -47,13 +47,14 @@ jobs:
 
       - name: Install dependencies
         if: steps.find_transcript.outputs.transcript != ''
-        run: pip install anthropic
+        run: pip install anthropic google-api-python-client google-auth
 
       - name: Generate blog post
         if: steps.find_transcript.outputs.transcript != ''
         id: generate
         env:
           ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+          GOOGLE_DRIVE_CREDENTIALS: ${{ secrets.GOOGLE_DRIVE_CREDENTIALS }}
         run: python scripts/generate_episode_post.py "${{ steps.find_transcript.outputs.transcript }}"
 
       - name: Create Pull Request

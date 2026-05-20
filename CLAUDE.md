@@ -60,31 +60,35 @@ Put them in `images/` and reference with relative paths.
 
 ## Transcript to Article Workflow
 
-When given a podcast transcript, write a Medium-style article for the episode. Then:
+There are two paths into this workflow, and both must source hyperlinks from the same place:
 
-1. **Fetch the episode script from Google Drive** (see Drive structure below) — it contains inline links to studies and news articles already sourced by the hosts. Use these links preferentially.
-2. Identify every specific study mentioned in the transcript (by finding, paper, trial name, or author)
-3. For studies not already linked in the script, use WebSearch to find the most likely matching paper
-4. Link the study inline using Markdown (e.g., `[a 2023 RCT in NEJM](https://...)`)
-5. Only include a link if confident in the match — silently skip any that can't be found
+- **Automated path (default).** When a transcript is pushed to `transcripts/`, the GitHub Action `.github/workflows/generate-episode-post.yml` runs `scripts/generate_episode_post.py`. That script (a) fetches the vetted episode SCRIPT doc from Google Drive via service-account credentials, (b) passes the script content into a single Anthropic API call, and (c) instructs the model to use ONLY those URLs for hyperlinks. If Drive is unavailable or no script is found, the article ships without hyperlinks rather than guessing.
+- **Interactive path.** When a human asks Claude Code to write or fix an article, follow the same rule: pull the SCRIPT from Drive, use only its URLs, and never WebSearch or guess. Mislinks on a doctor's site are worse than missing links.
+
+Steps either way:
+
+1. **Fetch the episode SCRIPT from Google Drive** (see structure below). It has pre-sourced URLs for every study, trial, and clip discussed.
+2. Identify every specific study mentioned in the transcript (by finding, paper, trial name, or author).
+3. For each study, look it up in the SCRIPT. If found, link the relevant phrase inline using its URL. If not found, leave it as plain text.
+4. **Never fabricate, guess, or WebSearch for URLs.** Trust on this site depends on every link being one the host vetted.
 
 ### Google Drive episode scripts
 
-Episode scripts live in a shared Google Drive folder and contain pre-sourced links for every study and news item discussed. The Drive path is:
+Episode scripts live in a shared Google Drive folder. Drive structure:
 
 ```
 14. Wellness, Actually
-  └── 1. EPISODES
-        └── [##. Date - Topic]   (e.g. "8. 4.2.26 - Creatine")
-              └── SCRIPT - [Topic]   ← inline links are here
+  └── 1. EPISODES          (folder id: 1qhx8vF3m6Gd9eYUEntLoeAtaVgZ7N-Si)
+        └── [##. M.D.YY - Topic]   (e.g. "8. 4.2.26- Creatine", "14. 5.14.26 - Psychedelics")
+              └── [Topic] - SCRIPT     ← inline links are here
 ```
 
-To fetch the script for an episode:
-1. Search Drive for the episode folder: `title contains '[topic]' and mimeType = 'application/vnd.google-apps.folder' and parentId = '1qhx8vF3m6Gd9eYUEntLoeAtaVgZ7N-Si'`
-2. Search for the script inside it: `title contains 'script' and parentId = '[episode folder id]'`
-3. Read the file content — links appear inline next to the topics they reference
+To find the script for an episode:
+1. Find the episode folder by searching the EPISODES folder for a name containing the date string `M.D.YY` (e.g. `5.14.26`) or the topic word.
+2. Inside that folder, find the doc whose name contains `SCRIPT` (it's a Google Doc; export as `text/plain` to read URLs as-is).
+3. The script also contains news-item links, social posts, and other context. Those are fine to use too, but everything else stays in the script, not in the repo.
 
-The script may also contain news item links, Instagram influencer posts, and other context useful for the article. The raw notes never need to be published or committed to the repo.
+The GitHub Action authenticates to Drive via a Google Cloud service account whose JSON key is stored in the `GOOGLE_DRIVE_CREDENTIALS` repo secret. The service account email must be granted Viewer access to the EPISODES folder.
 
 ### Episode page HTML template
 
