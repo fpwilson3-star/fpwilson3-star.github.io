@@ -1,0 +1,937 @@
+Perry Wilson:
+Before we get started, a brief correction from last week when I was talking about the photic sneeze response.
+I said that there was crosstalk between the optic nerve and the ophthalmic nerve.
+Oh my gosh, you guys.
+Of course it was the optic nerve and the trigeminal nerve.
+So sorry about that.
+I'm sure you were all asking you know who got fired after that episode, but let me come on again.
+Emily Oster:
+So Perry, we went to college together, and when we were in college, how frequently did you do psychedelics?
+Perry:
+I am embarrassed to admit that I have never done a psychedelic.
+I.
+Emily:
+No mushrooms.
+Perry:
+No mushrooms, no LSD, no DMT, no ketamine.
+I know I was like not.
+Emily:
+Even.
+Perry:
+Not even, not even.
+I was pure PCP all the time.
+That's it for me.
+Angel Dust was the drug of choice.
+Emily:
+Bath shelves and nothing.
+Nothing.
+Perry:
+That explains why my only way of getting in and out of the dorm was by crashing through the window you remember.
+Emily:
+I think an even more embarrassing so I also perhaps we are not the best people to do an episode on psychedelics.
+I've also never done any psychedelics.
+And for me, I think it's even more embarrassing because I once in high school I went to a three day fish con.
+Perry:
+Oh my God.
+Emily:
+Like and I still have.
+You probably did.
+Perry:
+You probably got enough LSD on you that you tripped a little bit, just like by proxy.
+Emily:
+Yeah.
+So we can use that.
+That can be.
+That's our our main experience is proximity to LSD use.
+That's as good as it's gonna get.
+Perry:
+I think we're the perfect people for this, to give a real unbiased stake on what the data says about psychedelics.
+Let's do it.
+Separating Fact from Fiction in Health and Wellness
+I'm Emily Oster.
+I'm an economist and a data expert.
+Perry:
+And I'm Perry Wilson.
+I'm a medical doctor.
+Emily:
+It's Thursday, May 14th, 2026 and this is Wellness actually.
+Perry:
+Because you're getting a staggering amount of health and Wellness information nowadays from every source imaginable, and some of it is awesome.
+Emily:
+And some of it is, well, actually both.
+Fortunately, we are both people who know how to read studies, how to parse the data, and can tell you what's worth thinking about and what you can safely ignore.
+Perry:
+But before we dig in, a note that this podcast is for educational purposes and should not be construed as medical advice.
+We don't know your unique situation, so talk to your doctor for personal health decisions.
+Emily:
+This week we're asking what's the deal with psychedelics?
+Perry and I will give the official Smasher Pass and we'll get to your question of the week.
+But first let's do the health news roundup after the break.
+The Latest on Hantavirus: Risk and Transmission
+And now for the health news of the week.
+We covered this last week, but I think we got to go back to hantavirus.
+Perry, give us what is happening with the hantavirus now.
+Perry:
+Yeah, it's a developing situation.
+So just FYI, you're listening to this, the earliest you're listening to this is May 14th, but it we're recording this on Tuesday, May 12th.
+So at this point the cruise ship is largely evacuated.
+People have returned home and including about 20 or so to the United States.
+The current status is that there are seven or eight people on the cruise ship who have tested positive for hantavirus with another couple developing symptoms that don't have test results back yet.
+I think the thing I want to think about now is looking at this particular virus, Andy's virus, and the risk for human transmissibility.
+All of these people are being quarantined for six weeks because there's quite a long latent period of this particular infection.
+So you might not develop symptoms for that period of time.
+There's a New England Journal of Medicine study from 2018 that catalogs a human outbreak of Andy's virus in Argentina.
+And what had happened was someone got infected, they got their wife infected, the original infected person died at the funeral, like 10 people got infected and that, and then they finally realized what's going on, never got put in quarantine and the outbreak stopped.
+So this was the primary epidemiologic evidence for person to person spread.
+And Emily, we've talked about the basic reproduction number before.
+This is the average number of people that an infected person spreads the virus to.
+And in that, in that outbreak, they calculated it to be about two.
+Any number greater than one means, you know, you can do the math like if one person had spread it to more than one person, it it can spread.
+That's without quarantine.
+And then once things were put in quarantine, obviously it dropped below 1 and everything went back to 0.
+One bit of positive news, this this is likely not spread when people are asymptomatic, in contrast to COVID.
+By the way, Covid's basic reproduction number prior to vaccination was like 10.
+So just.
+Emily:
+Measles is 12, so this is at a very different scale even.
+Perry:
+Very different scale.
+People are using the term airborne for this.
+I don't think that's correct.
+It looks like this is potentially spread by droplets, which are things like from, you know, coughing, spit, saliva, which yes, it comes out of your body and goes into the air, but it's heavier than air, so it falls to the ground as opposed to like spreading through air vents and stuff like that like coronavirus would.
+The risk remains very low, but we're watching.
+Emily:
+Yeah, people are watching.
+I mean, I think it is worth, like, a lot of what I have seen on Twitter is people being like, Oh my God, should I be afraid for my children?
+And like, like, they're the the pandemic epidemiological risk of this remains incredibly low.
+And so, you know, it is something that people are going to watch, but it is not something you should be, you know, thinking too much about in a terrified way, in my view.
+Yeah.
+Perry:
+That's correct, but we'll give you updates as they come.
+Emily:
+In we'll keep you updated.
+Perry:
+All right, moving on.
+FDA Director Under Pressure for Vape Approvals
+The shake up at Health and Human Services continues potentially.
+Now it looks like FDA Director Marty Makary is in the hot seat.
+There's been multiple reports last week that Trump had potentially signed off on a a measure to fire him and then that didn't happen.
+But now new reports are saying, Oh, no, he still might be.
+Emily, what's going on at FDA and what are we seeing here?
+Is this more backlash against the Maha agenda?
+Emily:
+I don't know that it's more backlash against the Maha agenda.
+I mean, it's always very hard to tell what's happening inside the administration.
+The latest thing I saw it again, it's Tuesday the 12th, was that Marty Mccary has said he is not going to leave or he is not.
+No one's asked him to leave.
+And so he's not planning to leave.
+It seems like some of the reporting suggested that part of the problem is he has been unwilling to follow through on some of the requests of the administration, including a request to approve fruit flavored vapes.
+He didn't want to approve fruit flavored vapes because it seemed like they would be appealing to children, which seems right to me.
+But the administration wanted fruit flavored vapes and I think they have now been approved.
+So I'm I'm not sure.
+I mean, as generally people who are threatened to leave the administration are not long for this world of the administration.
+And so my guess is, you know, by the time we meet again next week, he will be out.
+But fruit flavors vapes will perhaps be in.
+Perry:
+Yeah, that seems like just not a great idea.
+And also, like, what a weird thing for the White House to lobby.
+Like why do you know?
+Emily:
+Seemed like, you know, he was into approving Mint, but he didn't want to approve Mango and and that's it because you need a also who wants a mango?
+I'm sorry.
+We could like, get out of this.
+Like, why does your vape need to be mango flavored?
+Yeah.
+Perry:
+I'm not sure.
+Yeah, it doesn't.
+Emily:
+OK, last thing, I want to ask about a new study that said that GLP one drugs reduce the risk of breast cancer recurrence by like an astronomical amount, 70%, reducing all 'cause mortality by 91%.
+Debunking the GLP-1 Breast Cancer Study
+I think the phrasing for this would be amazing if true.
+So Perry, if true.
+Perry:
+If true, GLP one, drugs like Ozempic are the greatest breakthrough in breast cancer treatment in history.
+Like that's that's the magnitude of this kind of change.
+And so that should right away clue you in that this is not true.
+This is a study that came out in JAMA Network Open.
+It's not a randomized trial.
+It was a study that used administrative data to look at 800,000 women with breast cancer stage 1 to stage 3, so no metastatic disease, some of whom got GLP ones through their normal course of care and some who didn't.
+And the women who got GLP ones indeed had a 91% reduction in all 'cause mortality and a substantial reduction in breast cancer recurrence.
+Now, correlation isn't causation.
+We say that all the time.
+People who get GLP one drugs are different in lots of ways than people who don't.
+They tend to be wealthier, more educated, more access to care, all sorts of things that are going to also associate with better outcomes after breast cancer.
+The authors say, no, no, we controlled for this.
+We used a technique called propensity score matching to sort of take people that are on GLP ones.
+I know you won't like it.
+Take people on GLP ones and match them to kind of very similar people are not on GLP ones.
+That's all well and good.
+It's not perfect.
+But if you look at this paper, I actually, I have to say like, I, I was like, I don't understand how this got published at all.
+I'll give you some examples.
+If you look at table one, the description of these women, it says after a diagnosis of stage 1 to 3 breast cancer, 4% of them got a mastectomy and 2% of them got a lumpectomy, 6% got surgery after a diagnosis of breast cancer.
+That's treatable with surgery.
+Like that is not correct.
+And this is supposed to be a nationally representative sample.
+OK, Let's say maybe you believe that that's remotely possible.
+They report like 8% of them being estrogen receptor positive and 12% or something being estrogen receptor negative, leaving 80% to be some third type of like undefined estrogen receptor status.
+What all this is is missing data.
+And not a small amount of missing data, an enormous amount of missing data.
+Like most of these women, they couldn't figure out what their estrogen receptor status was.
+They didn't even know what kind of surgery they had.
+So when you say like, oh, we matched them, you can't match on data you don't have.
+In my kind of line of work where when we use electronic health record data, we typically draw the line at about 10% missing data before we start like saying, OK, we're probably getting out of over our skis and making any inference we'll sort of tolerate some 80% is ridiculous.
+So I'm sorry, I mean, GOP ones might be great, but like this, we don't know this.
+This side tells us nothing.
+Emily:
+Yeah, I think it's an interesting, it's an interesting example because we often talk about like one of the things you're looking for in a paper to know if it's a good paper or to evaluate is the size of the sample.
+And this is a case in which the sample size is very, very large, but the data is quite weak because it isn't electronic medical records, it's billing code data.
+So you don't actually know that like surprisingly don't know that much about people's about people's health.
+So it is a good example where I do think reasonably people could ask how could this study get published.
+And the answer is actually this is not a very good journal, honestly, I.
+Perry:
+Mean I have published in that journal but.
+Emily:
+But sorry.
+Perry:
+I've published in lots of journals.
+Emily:
+It's not.
+It's, well, I think people get, I will just say people get confused because there is a very good journal called JAMA, the journal of the American Medical Association.
+I've published and there are some very good.
+Yeah.
+OK, great.
+Now this is gonna be a list of Let's read Perry's CV.
+Perry:
+F Perry Wilson, dot.
+Emily:
+Com and then but then there is there are some sub journals in JAMA that are not as strong of which JAMA Network open is 1 and this paper is not very good.
+So GLP ones do not reduce the risk of breast cancer also cause mortality by 91%.
+Sorry.
+Perry:
+That's it for the health news of the week after the break.
+The Mainstream Rise of Psychedelic Medicine
+What's the deal with psychedelics?
+Emily:
+I've actually also published in JAMA.
+Perry:
+Oh, but you're not going to.
+You're not jumping in on that one.
+Emily:
+Come on, not going to mention it.
+Perry:
+And we're back.
+What's the deal with psychedelics, Emily?
+Psychedelic medicine is an incredibly new field, boosted on the backs of some really interesting data that we're going to talk about, and then a whole lot of influencers and marketing and amazing anecdotal stories.
+Emily:
+So I let me just say before we get into this, I think that this has really now stepped into more of the like the mainstream.
+You know, the daily, The New York Times podcast, which is a very serious podcast frequently about, you know, China and stuff, had a whole episode with a reporter who had sort of gone down to Mexico to do a have a psychedelic experience and to talked about like this being transformative for his relationship with some some childhood trauma.
+So I think this has gotten between that and Michael Poland's book and so on.
+I think this has gotten into the zeitgeist even beyond like influencers on the Internet who for sure are also talking about it.
+So good topic.
+Perry:
+Yeah, absolutely.
+How Psychedelics Alter Reality and Salience in the Brain
+And the way I want to kind of approach this is first like, let's do some science, let's talk about how psychedelics work, right?
+And then we'll kind of go and like if they work for various conditions, we'll hit on a few mental health conditions like PTSD and depression and addiction, which I think a lot of the data is really interesting.
+But then I think it's worth talking about, like, what about people who are otherwise healthy?
+Like are there potential benefits to, you know, supplementing, supplementing with psychedelics from time to time?
+Emily:
+It's not like vitamin D though.
+Don't, don't.
+It's not an unsupervised experience.
+Perry:
+I want to think about psychedelics, starting with neurobiology.
+And there are three functions that the brain does that psychedelics mess with.
+And I think if you understand those functions, you get why the psychedelic experience is the psychedelic experience.
+The first one is called reality testing.
+So have you ever noticed, Emily, that in real life when, like, your door bursts open and a goblin carrying machetes jumps through, you're like, that's probably not real.
+But if that happens in a dream, you're like, yeah, that's of course like these things happen, right?
+Emily:
+Right.
+Perry:
+Your brain is reality testing all the time when you're conscious and awake, it is getting stimuli from all over the place, not just the, you know, it's not just the things you see and feel and smell like tons of stimuli, but also just like random electrical firings in your brain that are happening all the time.
+And there's a whole system designed to like make sure that the inputs correspond with your knowledge of the world, right?
+Like things don't fly up into the air unexpectedly like all of those things.
+That's what reality testing does.
+It gets shut down during dreaming, which is why your dreams can be so believable even though bizarre things are happening.
+It is also shut down by psychedelics.
+And so all of a sudden all those inputs that normally your brain would filter out is like, that's not consistent with reality.
+It's like, yeah, sure, that makes sense.
+Sure, that tree can be melting, like, why not?
+So that's number one.
+Emily:
+So this is sort of like if I'm in my conscious mind and I out of the corner of my eye, I see something that looks like, you know, Buffalo running down the street.
+My brain is sort of like, well, that's obvious.
+Like is coding that's it's obviously not a Buffalo and I either look again or I just I'm like obviously it must have been a dog.
+Perry:
+It might not even raise to conscious awareness, like you might not even know that you saw a Buffalo out of the corner of your eye.
+Yeah, OK, great.
+The the second thing, and something I think is really interesting is technically known as salience, which is that your brain assigns a level of meaning to every experience you have.
+Like, is this important?
+So evolutionarily, salience is like, you ate some Berry and then you get like horribly sick and your brain will attach a little tag to that memory.
+Like, this is an important memory, right?
+Like this is meaningful.
+And those memories get processed differently.
+They get stored differently.
+So it's like, OK, in the future, you're not going to eat that Berry again.
+Whereas like walking from your car to your office every day, your brain processes that.
+And it's like, this is not important.
+Like, we don't need to remember this.
+This is nothing.
+Nothing important is happening right now.
+And this is really important because otherwise your brain gets full and you're like that guy in the Far side cartoon psychedelics ramp up the salience metric of everything that is happening, which is why if you're sitting quietly on your couch and nothing in particular is happening, but your brain is saying, like, this is really important, right?
+You have to like have some explanation for that cognitive dissonance.
+And one of the ways people explain that is they're like, I'm in the presence of something bigger than me, right?
+Like God is here or like an entity is here.
+Because this very banal thing sitting on your couch all of a sudden feels really, really important and meaningful.
+This lack of reality testing, an increase in salience is also seen in paranoid schizophrenia, which is why paranoid people have hallucinations.
+And also, you know, if you're just sitting there like watching TV and it's just a newscast, but your brain is saying this is incredibly important.
+You can see how you might jump to the conclusion like, oh, they're talking to me, right?
+This is about me, right?
+So in fact, the psychedelics, when they were originally discovered, were called psychotomimetics, like things that give you psychosis.
+But fortunately with the psychedelics, it is temporary.
+And with schizophrenia, obviously, it's permanent.
+So I think this is a good way to start thinking about like, what's actually happening here.
+From Ancient Rituals to Modern Psychedelic Compounds
+That is very cool.
+So these, the compound, I think one of the things that's interesting about psychedelics is that these compounds have been around and used for, I think probably all of human, you know, almost all of human history.
+So, you know, we associate in the kind of modern era, we associate this the LSD with I believe it was discovered by Albert Hoffman, but we associate it with Tim Timothy Leary.
+Timothy Leary.
+Thank you.
+Associated with Timothy Leary.
+But many of the compounds that are sort of used in some of these for psychedelics are from plants or mushrooms or whatever and have been in use presumably again for for millennia.
+Do we have a sense of what people use these for before?
+Like using it for PTSDI assume just for hallucinating because it's fun.
+Perry:
+I mean, in a lot of indigenous cultures, they're used for spiritual purposes.
+I think ayahuasca is, you know, maybe the one that people will be most familiar with, where the idea is to commune with something greater than yourself, you know, not just to like have a crazy trip And, you know, there is a whole social fabric around it and which is which is really interesting.
+And I think even potentially part of the therapeutic benefit that can occur with some of these is like what surrounds the experience.
+In fact, a lot of the studies we'll talk about like really need to couple the drug with something, whether it's like psychotherapy or something like that to kind of allow the effects to to take root.
+There's a lot of psychedelics out there.
+You've alluded to a few.
+So I think we should just sort of like.
+Maybe say a couple of them.
+I mean, we could list them.
+I don't know.
+You want to do you want to give us a rundown of like what you see people talking about Emily in terms of what psychedelics we mean?
+Emily:
+Yeah.
+So I think the there I would sort of say there's a couple of categories that I hear talked about a lot.
+SO1 is the kind of psychocybin.
+Perry:
+Psilocybin.
+Emily:
+Maybe I ibogaine where people talk about usage in a kind of like a true like tripping state.
+We see I think a lot of of discussion of ketamine.
+I would say ketamine is the one where I hear people both on the Internet and actually in my life talk about using ketamine.
+So if you hang out in LA at all, everyone will talk about how they're doing ketamine.
+Not literally everyone, but all the people that I've encountered recently in LA were, you know, were explaining like this as a sort of standard part of kind of a psychological treatment.
+And then MDMA, which is it's ecstasy, right?
+I mean, yeah, again, sort of not so much for the therapeutic uses, but almost like for relationship improvement.
+Perry:
+Interesting.
+Emily:
+Now that we're adults, I feel like everybody who talks to me about psychedelics is talking about it not for like this is going to make my rave more fun, but like, here's how I'm going to improve my marriage by doing ecstasy with my.
+Perry:
+Partner, OK.
+Emily:
+That's what it is to be 46, Perry.
+Perry:
+I I, I love this.
+I love this so much.
+So great.
+I think it's worth saying that the the hallucinogens like psilocybin, LSDMDMA all work in part on a specific receptor in the brain.
+The serotonin 2A receptor.
+Ketamine is not quite a hallucinogen.
+It doesn't work on that receptor.
+It's a what's called a dissociative anaesthetic.
+So that experience I, as I understand it for ketamine is, is more just like you're, you feel like you're not really in your body, like you're not kind of a participant in reality.
+So it's definitely an altered state, but it's not quite the same reality testing salience stuff that we talked about with the hallucinogens.
+So Emily, we, we've gone through kind of a big list of psychedelics.
+There are others that we, we won't even get around to mentioning because there's not as many studies on them.
+But I think one thing that I often hear is like people kind of draw a line between something like mushrooms, which it's like, oh, that's from nature, like, and, and ayahuasca, which is, you know, something that grows versus something like LSD or MDMA, which are synthesized chemicals.
+Potency, Legality, and Treatment Modalities of Psychedelics
+Do you think that safety goes along with the fact that something comes from nature versus a synthesized in a lab or like how do you, how do you think about these?
+Or do you not divide them at all?
+Emily:
+I think that most of that division is kind of fake in people's heads.
+I mean, these are all working on some.
+They're all like sort of chemical processes.
+They're working on a brain receptor and often on the same brain receptor as each other.
+It is true that the synthesized versions tend to be much more potent and a much smaller amount.
+And so I think there's a sense in which like, it's more difficult to take too many mushrooms than it is to take too much LSD because you could sort of pretty easily take like without realizing it.
+And the mushrooms like, you know, there's a little more processing of the experience.
+But up to that issue, I think these are very like, it's just a chemical.
+And so it's not like one of these is natural and one of them is not natural.
+They're just chemicals that are like produced in different ways.
+Can I tell?
+Perry:
+You you should say that ketamine.
+Emily:
+Is a schedule like most of these drugs are schedule one, which means they are not.
+They are not legal right outside of a research context I believe.
+And it's even really.
+Perry:
+Hard in research to get the approvals to do it.
+Yeah, ketamine is.
+Emily:
+Schedule 3 drug, which means it can be used in certain circumstances.
+Oh yeah, we use it all the time.
+Perry:
+For Oh my God.
+We use it for kids when they have broken bones.
+First time I Yeah, yeah.
+The first time I had a kid in the ER when I was a Med student, I guess.
+No, Yeah, I guess I must have been a Med student.
+Kid had a broken forearm, little kid, the poor guy.
+And you know, the orthopedic surgeon was going to come in and like reset it and put it in a cast and they gave the kid a little bit of ketamine.
+He like zones out, like not asleep, just like not not there.
+And they they like, you know, do his arm and everything and he was totally chill.
+It's really great.
+It's a great drug for me actually, now that I think.
+Emily:
+About it, they use ketamine all the time on the pit.
+Ketamine and Rock I believe is Doctor Robbie primarily.
+So for those of you who are not yourself, set a small child's arm.
+You can think about Doctor Robbie doing it.
+Awesome.
+Perry:
+Just a brief tangent on the MDMA for relationship status.
+There is a totally amazing study of octopuses where it's octopi.
+Emily:
+But fine.
+Oh, OK.
+Perry:
+I I believe it's Octopoda actually.
+Emily:
+Go ahead.
+All right.
+Perry:
+Current Biology 2018, they used these octopuses that are OK, the two spot octopus, which are notoriously antisocial and like attack each other and stuff like that.
+And they put them in a tank together.
+But there was MDMA like this ecstasy stuff in the tank and the octopuses like got gentle and were like stroking each other's tentacles and stuff like that.
+So when you say it's good for like a marriage, I am.
+I'm on board.
+Emily:
+OK.
+So there are many things one could say about the detailed chemical structures of these different of these different drugs.
+But I think much in some ways much more interesting and practical for people is the question of whether they are effectively used in treatment of various things and also the question of whether you would like to take them even if you are not looking for for treatment.
+So I would say we should turn to that.
+And I actually wanted to start with sort of two sort of big picture pieces of this, maybe 3.
+So 1 is that by and large, these medications are used not like you would use Tylenol or even, you know, a statin.
+Like it's not like somebody gives you a bottle of of you know, MDMA and everyday you you take and we can talk about micro micro dosing, but most of this is like a one time, a couple of times small number of treatments under the supervision of a doctor.
+Many of these things people are doing in other countries because the drugs are schedule 1.
+And so this is like a sort of pretty fundamentally different idea behind, you know, does this treat the following disease because it's not an ongoing kind of pill form treatment like we often talk about.
+Placebo Challenges and Ibogaine's Potential for PTSD
+I think the second thing is we've talked before about placebo effects.
+This is a place where placebo effects, I think are incredibly complicated even to conceptualize because we are talking about things that are happening in your brain, which is where a placebo effect also happens.
+And in these cases, it's almost impossible to double-blind.
+So you know these these trips when you talk about this, but people describe these as like the most meaningful experience of my whole life.
+It's hard to be like, well, do you know if you had like, how would they know if they had it or not?
+It's like 1.
+Are you sure it wasn't a?
+Perry:
+Really good sugar pill, right?
+It's like.
+Emily:
+You know, and, and I guess the third piece about placebos here is I'm not even, it may not even matter.
+I guess like the maybe the whole thing is a place.
+I'm not really sure how to conceptualize it, but it's worth thinking about.
+Almost none of this can be truly placebo-controlled the way we would placebo control a vaccine or a medication where you give people a sugar pill, you know, you see if they, there's cholesterol goes down and that's just like easy to understand and, and, and when.
+Perry:
+You're talking about mental health as we will be like placebo like if you like, if you tell me you're not depressed anymore, like I guess it worked OK, great.
+You know, like, as long as it as long as it works and it lasts.
+And yeah, so I thought maybe we start with PTSD.
+And the reason I want to start here is because this has gotten a lot of press recently because of President Trump meeting with Joe Rogan to specifically discuss psychedelics.
+And I'm going to play you a clip now of President Trump talking about ibogaine.
+It's called ibogaine treatment Ibogaine, remember the name.
+Is that pronounced relatively properly what you said?
+I don't want to get it wrong.
+Ibogaine because it's so important and experienced an 80 to 90% reduction in symptoms of depression and anxiety within one month.
+Can I have some please?
+I'll take some.
+I'll take whatever it takes.
+So first of all, does anyone else like whenever you hear ibogaine, are you like I spent the past few years building up an immunity to ibogaine powder.
+Is that does anyone know?
+OK, that's The Princess Bride.
+How are you describe it's iocaine powder.
+The Princess Bride.
+I know, but ibogaine always sounds like that.
+So, Emily, President Trump is referring to a paper in Nature Medicine that had, I mean, I have to say, pretty, pretty incredible effect sizes here for for ibogaine, for PTSD.
+Do you want to run us through that one?
+Yeah.
+So they.
+Emily:
+These guys are talking about a paper in Nature Medicine from 2024 in which they're looking at treatment for traumatic brain injury, which is unfortunately can be common in veterans and is associated with depression, anxiety, PTSD, other kinds of functional disorders.
+This has proven to be very difficult to very difficult to treat.
+They took 30 men with, I would say mild, mild traumatic brain injury and they, they treated them with magnesium ibogaine.
+The paper is not a, it's not a clinical trial.
+So it's not a randomized trial.
+They took these 30 people, they treated them all.
+And so again, we sort of, you know, it's hard to separate from what might have happened anyway.
+However, the improvements in functioning were really quite big.
+They have improvements in depression scales, improvements in PTSD, improvements in anxiety.
+And these are, these are pretty large, pretty large increases.
+I'm not sure exactly how we want to like size them, but they are all incredibly significant and a very difficult to treat area.
+Yeah, I mean if.
+Perry:
+You look, I'm like just looking at the graph with the paper.
+And of these 30 people, you have, yeah, you have like 28 of them with like who went from moderate PTSD to minimal PTSD, which is which is, which is amazing after a single dose of this ibogaine therapy.
+I think it's worth saying that, hey, it's just one paper.
+There was another ibogaine.
+It's not a randomized trial.
+There was another ibogaine study of PTSD that actually did not show quite a strong effect, still showed effects, but not like this dramatic.
+And so, and there's no randomized trials whatsoever.
+Basically, if you look, OK, if you look, you'll find one randomized trial of ibogaine.
+But it was a safety study.
+So they're randomizing just to dose.
+So it's not like there's a control or anything like that.
+This is clearly a great area for research.
+And I'm actually enthusiastic that the administration is considering rescheduling some of these drugs so that they can be easier to research.
+But you know, what we want in these types of trials is, yes, we, we want placebo controls, even though it's incredibly hard to control, but we also want longer term outcomes, right?
+Like a month is great, but you know, six months, a year, 2 years.
+What's the mental health of the people who got treated?
+Yeah.
+And I think that.
+Emily:
+There's a there's AI mean people have experimented with treatment with MDMA, with psilocybin, with ibogaine, like all three of these have come up in this treatment.
+Relaxing the rules about this would let researchers figure out things about randomizing, but also dosing and what is the best approach to dosing and how many times you need to do this?
+And does it need to re up every, you know, every six months or like what is the sort of treatment protocol?
+The other issue is of course, like when you only have three studies of something and they are all significant, one worries a little bit about like our, you know, did someone did actually 25 different studies of this get run and only three of them get published.
+That's where you need like pre registered large randomized controlled trials, which are only going to happen if these drugs are easier to use in a trial setting.
+Yeah, yeah.
+Perry:
+Absolutely.
+So we'll close the book on on PTSD, ibogaine, kind of interesting, some good data for MDMA and very preliminary data on psilocybin just to run through the the psychedelics that are being used here.
+Psilocybin's Promising Role in Treating Major Depression
+Let's move on to depression, though.
+Emily:
+Yeah, I, I.
+Perry:
+Mean this is obviously incredibly common and and a place where there are current therapies.
+Obviously there there are multiple therapies for depression, both pharmacologic and non pharmacologic.
+And so, but I think the public understands that, you know, that the standard of care right now for major depression disorder, which are the SSRIs are moderately effective and come with some side effects that people find not great.
+And so if you if you did have something else, you might be open to something else.
+Is that fair to say?
+Yeah, I think that's.
+Emily:
+Fair to say I mean I think the administration has has recently been quite negative RFK Junior has been quite negative on SSR is and I think that, you know that's probably some of his statements are overstated, but I think it is it is true that these have not proven to be a magic bullet for many people with depressions.
+They have been very helpful for for a large number of people, but not so amazing that we should not be looking for other approaches is how I would is how I would put it.
+And this is a place I don't know if you want to talk about my favorite thing here is the 2023 JAMA paper because Jama's such a great journal.
+Do you know the one time Perry published in That I Understand?
+Perry:
+That you've also published in in in JAMA.
+Emily, I do you want to tell us about?
+Emily:
+The large clinical trial in JAMA of Silas Ivan on which matter of us is an author, but we still like it.
+Perry:
+Yeah.
+So, so this is a study in 2023 which took 104 adults with major depressive disorder and randomized them to a single dose, 25 milligrams of psilocybin.
+And also, and I, as I said, this was important, 11 hours of psychological support, which included like preparation for the psilocybin dose support on the dosing day.
+And then after that, what they call integration, which is like processing the experience that you had.
+They did do a placebo control, 100 milligrams of niacin, which is, which is a vitamin.
+But at that dose it's going to cause some flushing.
+Now I don't think flushing is quite the same as a psilocybin trip, but it's not nothing at least.
+So they, you know, if you, if they didn't know what psilocybin was like to begin with, maybe they thought they were, they might have thought I just made them.
+Emily:
+Hot.
+Yeah, I don't know.
+Perry:
+But they also got that psychological supportive protocol.
+The, the primary outcome was a score, a depression score.
+And I, I, I won't go through the score, but I'll, I'll tell you it went down by 12 points, which was a highly significant difference.
+Like that is a clinically meaningful difference, a 12 point reduction in depression scores.
+And that was out at day 43, the sustained response rate, which meant like you, you're, you had sustained improvement in symptoms out that far at day 43 was 42% in the psilocybin group versus 11% in the niacin group.
+So this was, you know, a trial that said, OK, we've got something here.
+Yes, you're integrating it.
+But remember, it's only one.
+It's, it's a single dose at one time.
+There's a bit of biology here.
+These drugs that stimulate the serotonin 28 receptor might increase neuroplasticity, which means you can form new neural connections.
+So psychiatrists and psychologists are wondering if like that initial dose kind of like shakes up your brain a little bit.
+And then it's actually that integration phase where, you know, now the, the, the patient is sort of ready to make those cognitive changes that's going to improve their underlying status.
+So it's both the drug and then like which kind of shakes things up and then you kind of put things back together in a better way moving forward.
+That's all hypothetical obviously, but pretty, pretty exciting results.
+Yeah, I thought that was.
+Emily:
+Exciting.
+I mean, not everything in this space is as exciting.
+And in particular, there's a Nanjim paper from around the same time, which did a trial of psilocybin versus a standard antidepressant.
+Yeah, yes.
+Perry:
+An SSRI.
+This is a better control, like a better control.
+Emily:
+Not just flushing, but something is actually supposed to help depression.
+So the primary outcome in the paper does not show differences in efficacy.
+There are some secondary outcomes which do, although they test many of those.
+So I would say the results in this one were decidedly more mixed.
+But both of these together.
+Tell me, OK, you know, we're doing these trials with 60, you know, 60 or 100 people.
+We need to do these trials with 1000 people.
+And for depression, unlike, you know, PTSD, there, there certainly are 1000 people you could find with depression who one could experiment on.
+Absolutely.
+Perry:
+Absolutely.
+The the issue versus SSRI is like, you want to be a little skeptical when you hear people saying, you know, oh, these things blow SSRI's out of the water or like SSRI's don't work and psilocybin does.
+You know, the actual trial here says like, they're close.
+But again, there are other reasons that you might, you know, a single dose of psilocybin might feel a lot better to people than a daily dose of an SSRI going on forever with, you know, the attendant side effects that one might have with those.
+The sort of flip side, not the flip side.
+Exploring Psychedelics for Anxiety and Substance Use Disorders
+I always think of depression and anxiety together, the two most common psychological disorders affecting people in the United States.
+Anxiety when it comes to psychedelics always made me a little nervous just in principle.
+I I think because like the psychedelic experience, as I understand it can be anxiety inducing.
+In fact, some of the adverse events that were reported in some of those depression trials were like anxiety.
+And, and you can sort of imagine that if you're an anxious person already and then all of a sudden the walls are melting and you feel like you're like melting into the floor or whatever.
+Like maybe that's not great for you.
+But even here and I, I should say, like we don't have nearly as much data in anxiety yet as there is for major depression disorder.
+But I was looking at this 2016 study from the Journal of Psychopharmacology.
+Did you see this one, Emily?
+That seemed like there might be some use here.
+This was.
+Yeah.
+I mean they're.
+Emily:
+Treating high dose of.
+Perry:
+Psilocybin.
+Yeah, they're treating.
+Emily:
+People with cancer related anxiety and and depression.
+So it's a kind of combo group and they're giving them a fairly highly dose of silocybin, but it does seem to have improved anxiety, depression and they're kind of decreasing cancer related demoralization.
+That's from the the paper.
+So you know positive there not enough data to be.
+Perry:
+To be sure and I think if not enough data to.
+Emily:
+Be sure which is the tagline for this episode if you're an anxious.
+Perry:
+Person this is maybe not the the thing to jump right into quite yet the other big category before we get to just the you know, healthy people who are curious alcohol.
+Emily:
+Cigarettes addiction.
+Perry:
+So what Joe Rogan was talking about in when he was meeting with Trump actually was, was not Ibogaine's effect on on PTSD, but Ibogaine's effect on addiction.
+And like all things Joe Rogan, he has some story, like it's always an anecdote with him, which is like, he had this guy who was addicted to heroin and everything was horrible.
+And then, you know, single dose of ibogaine and cleaned himself up and we're off to the races again.
+There is no randomized trial for ibogaine whatsoever.
+There's some open label data, though.
+I found there's a study of 191 people who were using opioids or cocaine and they did show that a single dose of ibogaine diminished withdrawal symptoms and drug cravings at one month follow up.
+This comes from Frontiers and Pharmacology in 2018.
+You know, this is open label.
+There's no control here.
+It's a little hard to say.
+Any thoughts on ibogaine for addiction?
+I mean.
+Emily:
+Again, I think this is space where people are.
+It is very treatment resistant and so, but having something to try is interesting.
+We also worry that when people get to the point, at least in this case, I worry when you get to the point where you're like I'll try anything, I'm going to go to ibogaine.
+Maybe you are.
+That actually is a signal of sort of motivation to fix things.
+And so if you thought of this as like we're just going to assign this random, like we're going to assign this to people, it might it might show up differently.
+There's actually a bit better data for psilocybin in alcohol use disorder.
+I was trying to think this is from randomized trial data and we see you know a reduction sort of a larger reduction in heavy drinking days with psilocybin versus the in this case in versus like control used to have.
+Perry:
+Benadryl as a control in this, in this study, which is another, it's like, I kind of, it's sort of like, it's fun to imagine these scientists being like, what the hell are we going to use as a control?
+Like, let's give someone Benadryl.
+Like, they'll get a little tricky.
+Emily:
+Should we drive pepsid No no Benadryl like that?
+What makes you?
+Perry:
+Feel weird, but not too weird, yeah.
+Emily:
+Benadryl is a good one.
+And then, I mean, I wondered here about how large this effect is relative to GLP ones, which we're constantly talking about like, you know, like for the alcohol stuff, it seems like we're increasingly having some other other options.
+Psychedelics for Well-being and the Truth About Microdosing
+OK, Can we talk about healthy 40 somethings like us and whether we should have this experience?
+I, I I.
+Perry:
+Have to say I wrote about a a new article that just came out recently was looking at the effect of a single dose of 25 milligrams of psilocybin in healthy 40 somethings who were psychedelic Naive.
+So like I was like us.
+I was like spider man meme, like that's me.
+Like you know, who are these people 'cause all these prior studies, even the studies in healthy people in the past, like many of them are, are people who have had experiences with psychedelics.
+And so it's like maybe it affects your brain, but it already did affect your brain.
+Anyway, this is a super cool study.
+So psychedelic, Naive, otherwise healthy 40 somethings, they got 25 milligrams of psilocybin or 1 milligram of psilocybin, which is sort of a sub therapeutic dose, which they gave them first.
+And then they did Eegs of their brain and a functional MRI a month later.
+So the question was like, were there acute changes in your brain waves and then were there lasting changes one month down?
+Small study still 28 volunteers for this to your .27 of the 28 rated it as the single most unusual conscious state of their entire lives.
+Yeah, one guy didn't who's like awesome.
+Obviously the.
+Emily:
+Guy's having a lot of great stuff happening.
+You said it was in.
+Perry:
+The top five, I'm like in the top four I would be.
+Emily:
+Curious about what number 2 was?
+Yeah.
+Perry:
+So to, to break this down the EG findings really interesting.
+What they showed acutely was a reduction in alpha power, which is alpha is, are the waves that are sort of like, they're like the lid on your brain.
+They're the, they're like our self-control, almost like they, they sort of tamp down all the crazy stuff that's going on under the surface.
+So it's like calm, restful consciousness is alpha waves.
+That power goes down, which sort of means like the lid is off.
+And then the EEG complexity went way up.
+So, you know, so all of a sudden, just like the stuff that was coming out of the brain was much crazier than what had come out of the brain with a 1 milligram dose.
+Sounds right.
+Emily:
+It feels, I mean, it's so it makes me so curious.
+That's exactly.
+Perry:
+I was like, that sounds that sounds kind of amazing.
+Now one month later, they they did some stuff they didn't F MRI and honestly it didn't show very much like it didn't show like dramatic structural or functional changes in the brain.
+OK, which is different than what has been shown in some like depression related studies of psilocybin maybe because maybe if your brain is kind of like functioning normally to begin with, like I don't know what's going to change as much or something like that.
+But they didn't show that.
+But psychological well-being was significantly higher one month after the 25 milligram dose versus the 1 milligram dose.
+And they measured the day after you took the thing, they gave people a survey of insight.
+So they ask questions like, like, do you feel this experience LED you to think about yourself differently?
+Like there's, you know, have you learned important new ways of thinking about yourself and your problems?
+That's a measure of insight.
+And the people who had higher insight had higher well-being at the one month mark.
+So there's this little bit of like a mechanistic, like you take the drug, you kind of think about it, you think you work through some stuff, you kind of shake up your brain and then a month later you're doing better.
+But I can't tell you is because there's no like, yes, it's different than the 1 milligram dose, but like obviously that's not, it's a totally different experience, right?
+Like 25 milligrams is the most unusual conscious state of your entire life. 1 milligram, They had like no sensations whatsoever.
+You're feeling better a month later.
+Is that because something fundamentally about you has changed or like do you feel good a month after a nice vacation, right?
+Like, is it just the memory of this very cool, unusual experience just kind of like, breaks up the monotony of your life for a little bit?
+And does it even matter?
+I don't know.
+Yeah.
+Emily:
+I don't know.
+I mean, I think that what's So what I find so compelling about this is like I could not tell you right now.
+Now that's not sure I could tell you.
+But like if I think about like what is the single most like unusual and meaningful experience of my life, It is having it is birth of my children, like the experience of like producing a new person.
+It was not comfortable.
+It wasn't like a, you know, which I think is also true, but like it.
+It was a very unusual experience that I still could.
+I could tell you almost to the minute in both of the births like exactly what happened because your salience.
+Perry:
+System was revved so high and.
+Emily:
+Like I could, I usually like could tell you who would, you know, who was in the room at each of these moments exactly, exactly what happened.
+And so I'm, I'm so curious about, I, I find this whole thing very curious, like totally interested to have an experience like that where you didn't also have to push a person out of your vagina, which has some negatives in the long run.
+And you know, I mean positives also, you wouldn't be.
+Perry:
+Worried that, like, it would push the meaningfulness of those experiences down, right?
+You'd be like, yes, the birth of my children was the second most important thing that ever happened to me.
+The second and third.
+Emily:
+I mean sitting on a couch like.
+Perry:
+Staring at the.
+Emily:
+Here and sorry Emily kids.
+Perry:
+You're not that replaceable, I promise.
+Sorry kiddos.
+Emily:
+All right.
+Two other things before we end I think we should touch on.
+So one is I hear a fair amount about micro dosing, but my read which is like maybe I take a little bit of my mushrooms every single day to improve some aspect of well-being.
+My read is actually people have tried a a little bit of this and it doesn't work.
+Perry:
+Yeah, the the studies of micro and micro doses, you know, first of all, there's no great definition of this.
+Like in theory a micro dose should be a dose low enough that you don't experience the psychedelic effects.
+Like it, you're not supposed to feel much if you're really micro dosing.
+And I'm not sure that's how people are are doing it right.
+It's like.
+Emily:
+Yeah, you know, it's.
+Perry:
+It's like it's like I'm micro dosing wine by only drinking a glass.
+Like, well, that's not really so, But yeah, the studies that have looked at micro dosing, my read is that it does show some improvement in well-being on the day people micro dose, but it doesn't persist to the next day and it certainly doesn't persist in the long term, which also feels like drinking a glass of wine to me.
+So maybe that's what it is.
+Navigating Safety, Legality, and Our Psychedelic Verdict
+Yeah.
+Emily:
+Maybe.
+Or maybe it's just a placebo effect.
+It could definitely.
+Perry:
+Be the placebo effect, which is also what a glass of wine, which is to some extent there are some safety.
+Emily:
+Concerns we should run through People who are schizophrenic should not use these medications.
+They're also illegal.
+They're illegal.
+They're.
+Oh.
+Perry:
+Yeah.
+So that's worth I have to.
+Emily:
+Say.
+Perry:
+As I was reading all this stuff and especially about the healthy 40 somethings and it being this incredibly meaningful experience, I was like, you know, I'm curious, like I, I would probably want to try.
+And then I'm like, oh I have literally no idea like how to obtain a psychedelic like short have you been?
+Emily:
+To a fish concert?
+Have you been to a fish concert?
+Perry:
+Do they still?
+Emily:
+Exist.
+That's the.
+Perry:
+That's the but I think.
+Emily:
+That that relates to the second point, which is of course, like these drugs are illegal.
+And so if you decided you're just going to go out and like get yourself some, you know, psilocybin on the on the street corner and like do it, do it yourself.
+You don't know that that's what it what it is.
+And so, you know, please do not, do not do that.
+Yes.
+Perry:
+Adulterated stuff particularly.
+I mean, I guess mushrooms kind of look like mushrooms.
+But first of all, mushrooms are very scary because some mushrooms look like other mushrooms and some are toxic so there's don't eat just mushrooms.
+Emily:
+Don't eat mushrooms and and then.
+Perry:
+LSD is so potent like an amount of LSD the size of a grain of table salt is a real dose of LSD.
+It is 1000 times more potent than psilocybin at the serotonin 2A receptor.
+So that's that's fine if it's being like synthesized and careful and everything is proper.
+But like it does mean that you can't inspect it like you're trusting that whatever's not like dissolved on this piece of paper you're putting on your tongue is what people tell you it is.
+And yes, things absolutely get adulterated.
+So be careful out there.
+The psychedelics increase blood pressure a little bit.
+We should say that, you know, whatever, if you have blood pressure problems, be aware of that.
+And then, yeah, you want to be in a, you know, safe place.
+You're not going to be operating vehicles, folks.
+You got to be got to be careful.
+You got to be careful.
+Emily:
+All right, Perry, smash your pass on the psychedelics.
+I'm.
+Perry:
+Smashing psychedelics, I mean, as someone who's, again, as someone who's never done them, I think that the data for mental health is highly compelling.
+Obviously, I want to see more research here, but I'm so excited that that is potentially opening up that that a new door is opening for people who suffer from these conditions.
+Super exciting.
+You know, in terms of general Wellness, I'm mostly curious.
+Like, I don't I I don't certainly think it would ever become part of my, you know, Wellness routine, but like, I Am I gonna die never having experienced the single most unusual conscious state of my life?
+That doesn't seem like a good idea, Emily.
+I am also.
+Emily:
+A smash on this.
+I think I'd like to wait until we get a little.
+It gets a little more like, you know, regularized or regulated.
+Perry:
+Like so you know that it you're getting a safe amount or something?
+Yeah, yes.
+But I think.
+Emily:
+Definitely, you know, when I, I feel like when I was in, we were in college like pot was illegal, but now like there's a drive through like dispensary on my like on the highway.
+And I feel that when there is a drive through psilocybin treatment option, I I'm going to do it and and when.
+Perry:
+That happens.
+Should we do an entire Wellness Actually episode about?
+Emily:
+Our what happened and the different goblins I'm.
+Perry:
+Saying I'm saying during not during.
+OK.
+Emily:
+I think these things are like 10 hours long.
+I'm not sure that people's case for us live stream, but we can, we can edit it, we can edit it down.
+Perry:
+Sounds great.
+The Pros and Cons of Personal Health Tracking
+Your question of the week after the break.
+Emily:
+Hi, Emily and Perry, this is Meredith in Phoenix.
+And I have kind of a love hate relationship with tracking, you know, calories and steps and sleep.
+I think I'll love it and then I get kind of obsessed with it and then I hate it.
+So I have a question for you.
+What is your relationship with tracking?
+What do you guys each track?
+Thanks.
+All right, Perry, I would, I would venture this is a place in which we are almost polar opposites for people who otherwise share like a pretty similar like demographic lifestyle.
+Like you don't do any self tracking do you?
+Perry:
+I'm really trying to think here, what do I track on like a daily basis?
+Like I've been tracking our podcast rankings.
+So hey everyone, leave, leave a review and give us a A5 stars on Apple podcast sell my daily tracking.
+No, I don't weigh myself daily.
+I think my phone tracks my steps, but like I don't know what they are.
+I don't track calories.
+Yeah, I am not a a tracker, but Emily, how many different spreadsheets do you use to track?
+It's not 0.
+Emily:
+I'm just going to say it's not zero.
+I track a lot of things and I want to explain why because I generally don't think it's a good idea.
+I feel like this is a like don't do like do as I say that as I do.
+I think for almost no one is it a good idea to obsessively track a huge number of the things that you're doing?
+Because I think for a lot of people it makes it very anxious.
+Yeah, yeah, yeah.
+People always tell me like, OK, I'm tracking my sleep.
+But like, I woke up this morning and my sleep tracker said I didn't sleep good, but I felt like slept good.
+And now I'm like worried.
+Now I'm laying up at night worrying my sleep tracker is going to judge me for my like, lack of sleep.
+And that's really bad for your for your sleep.
+So I think for most people this there is like, no, people don't like it.
+It makes them anxious and there's not a lot of value.
+Like if you just said like I'm interested in like improving my health.
+Yeah, for the most part.
+Like you don't need to do any tracking for that.
+Why do I do this then, given I don't know what?
+Perry:
+You do give me like what The thing is that you track.
+Emily:
+So I have a whoop, which tracks my sleep and my recovery.
+I track the miles that I run and the workouts that I do.
+I track how much protein I get.
+Sometimes I track other macro nutrients.
+Right now I'm doing that because I wasn't eating enough and now I need to eat more for.
+So I'm tracking my macro nutrients, and that's probably it.
+OK All right.
+Yeah, that's not bad.
+It's it's a lot of different things, but I yeah.
+But I will say the two reasons I do this, other than being crazy, which is I guess the third reason is that I really like it.
+It's like a thing that like it's like a like, it's like a thing I enjoy.
+Like you're an economy.
+It's a weird.
+Perry:
+Thing to say, but it's like.
+Emily:
+I like it.
+It's Yeah, you're a numbers person.
+Perry:
+I'm a numbers.
+Emily:
+Person, I like data.
+I like I track.
+When my kids were babies, we would like track, you know, the diapers and the numb out of time they slept and all kinds of other stuff.
+Because like even though I realized it was useless, I just like thought it was fun And I care, as have previously mentioned 400 times on every episode of this podcast, I care tremendously about my athletic performance.
+And a fair amount of the tracking I do is in the service of like like trying to link like behaviors to performance outcomes.
+Perry:
+So that's it.
+Emily:
+But I don't think other I'm not.
+Maybe I'm just saying other people shouldn't do this so I can run faster than them.
+Perhaps that's this is a goal.
+Perry:
+Competitive.
+Emily:
+Advantage.
+I would not put it.
+Next Week: Methylene Blue & Podcast Credits
+Past you.
+All right, that's it for us today.
+Stick with us next week when we'll ask what's the deal with methylene blue?
+Emily:
+Wellness Actually is produced in association with I Heart Media.
+Our senior producer is Tamar Avishai.
+Our Executive producer at I Heart is Jennifer Bassett.
+Our theme music is by Eric Deutsch and our content is for educational purposes only.
+Perry:
+If you like the show, help other people find us, leave a rating and review on Apple Podcasts or your pod catcher of choice and help us spread the word about the show.
+You can follow us on Instagram at Wellness Actually Pod and don't forget, we want to hear from you.
+Head over to Wellness Actually dot FM and leave us a question for our mailbag or suggest a topic for a future show.
+We'll let the.
+Emily:
+Influencers have the last word.
+We found this one swimming naked in the Fermentarium.
+I am the lizard queen.
