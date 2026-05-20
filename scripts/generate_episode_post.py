@@ -14,12 +14,22 @@ from datetime import datetime
 from pathlib import Path
 
 
+EPISODES_FOLDER_ID = '1qhx8vF3m6Gd9eYUEntLoeAtaVgZ7N-Si'
+
+
 def parse_date_from_filename(stem):
-    """Extract date from filename like 2026-04-02-creatine, fallback to today."""
+    """Extract date from filename like 2026-04-02-creatine or 05-14-26-psychedelics, fallback to today."""
     parts = stem.split('-')
     if len(parts) >= 3:
+        # Try YYYY-MM-DD first (e.g. 2026-04-02-creatine)
         try:
             date = datetime.strptime('-'.join(parts[:3]), '%Y-%m-%d')
+            return date.strftime('%Y-%m-%d'), date.strftime('%B %-d, %Y')
+        except ValueError:
+            pass
+        # Try MM-DD-YY (e.g. 05-14-26-psychedelics)
+        try:
+            date = datetime.strptime('-'.join(parts[:3]), '%m-%d-%y')
             return date.strftime('%Y-%m-%d'), date.strftime('%B %-d, %Y')
         except ValueError:
             pass
@@ -27,7 +37,115 @@ def parse_date_from_filename(stem):
     return today.strftime('%Y-%m-%d'), today.strftime('%B %-d, %Y')
 
 
-def call_claude(transcript_text):
+def derive_drive_search_terms(stem):
+    """
+    From a transcript filename stem, return (date_string, topic_word) for Drive search.
+    Folder names look like '14. 5.14.26 - Psychedelics' so date format is M.D.YY (no leading zeros).
+    """
+    parts = stem.split('-')
+    date_str = None
+    topic = None
+    if len(parts) >= 4:
+        # MM-DD-YY-topic
+        try:
+            mm, dd, yy = int(parts[0]), int(parts[1]), int(parts[2])
+            if mm <= 12 and dd <= 31:
+                date_str = f"{mm}.{dd}.{yy:02d}"
+                topic = parts[3]
+        except ValueError:
+            pass
+        # YYYY-MM-DD-topic
+        if not topic:
+            try:
+                date = datetime.strptime('-'.join(parts[:3]), '%Y-%m-%d')
+                date_str = f"{date.month}.{date.day}.{date.year % 100:02d}"
+                topic = parts[3]
+            except ValueError:
+                pass
+    return date_str, topic
+
+
+def fetch_drive_script(stem):
+    """
+    Look up the vetted episode SCRIPT doc in Google Drive and return its plain-text content.
+    Returns None on any failure — caller must handle missing script as "no links available."
+    """
+    creds_json = os.environ.get('GOOGLE_DRIVE_CREDENTIALS')
+    if not creds_json:
+        print("[drive] GOOGLE_DRIVE_CREDENTIALS not set; skipping Drive fetch.")
+        return None
+
+    try:
+        from google.oauth2 import service_account
+        from googleapiclient.discovery import build
+    except ImportError as e:
+        print(f"[drive] google-api-python-client not installed ({e}); skipping Drive fetch.")
+        return None
+
+    date_str, topic = derive_drive_search_terms(stem)
+    if not topic and not date_str:
+        print(f"[drive] could not derive search terms from filename '{stem}'.")
+        return None
+
+    try:
+        creds = service_account.Credentials.from_service_account_info(
+            json.loads(creds_json),
+            scopes=['https://www.googleapis.com/auth/drive.readonly'],
+        )
+        service = build('drive', 'v3', credentials=creds, cache_discovery=False)
+
+        # Find the episode folder. Try by date first (most precise), then by topic word.
+        folder_id = None
+        folder_name = None
+        for term in filter(None, [date_str, topic]):
+            q = (
+                f"name contains '{term}' "
+                f"and mimeType = 'application/vnd.google-apps.folder' "
+                f"and '{EPISODES_FOLDER_ID}' in parents "
+                f"and trashed = false"
+            )
+            results = service.files().list(q=q, fields='files(id,name)', pageSize=10).execute()
+            folders = results.get('files', [])
+            if folders:
+                folder_id = folders[0]['id']
+                folder_name = folders[0]['name']
+                print(f"[drive] matched episode folder via '{term}': {folder_name}")
+                break
+
+        if not folder_id:
+            print(f"[drive] no episode folder matched date='{date_str}' or topic='{topic}'.")
+            return None
+
+        # Find the SCRIPT doc inside that folder.
+        q = (
+            f"name contains 'SCRIPT' "
+            f"and '{folder_id}' in parents "
+            f"and trashed = false"
+        )
+        results = service.files().list(q=q, fields='files(id,name,mimeType)', pageSize=10).execute()
+        scripts = results.get('files', [])
+        if not scripts:
+            print(f"[drive] no SCRIPT doc found inside '{folder_name}'.")
+            return None
+
+        script = scripts[0]
+        print(f"[drive] exporting script: {script['name']}")
+
+        # Export Google Doc as plain text. Native binary types would need files().get_media().
+        if script['mimeType'] == 'application/vnd.google-apps.document':
+            content = service.files().export(
+                fileId=script['id'], mimeType='text/plain'
+            ).execute()
+            return content.decode('utf-8') if isinstance(content, bytes) else content
+        print(f"[drive] script has unexpected mimeType {script['mimeType']}; skipping.")
+        return None
+
+    except Exception as e:
+        print(f"[drive] fetch failed: {e}")
+        return None
+
+
+def call_claude(transcript_text, script_text=None):
     client = anthropic.Anthropic()
 
     system = """You are ghostwriting for Dr. F. Perry Wilson — nephrologist, Yale professor, and science communicator. He writes the weekly "Impact Factor" column on Medscape and his goal is: rigorous analysis, delivered accessibly.
@@ -49,6 +167,29 @@ Hard rules on style:
 
 His articles are grounded strictly in evidence from the source material. Don't add outside claims."""
 
+    script_block = ""
+    if script_text:
+        script_block = f"""
+
+VETTED HYPERLINKS — EPISODE SCRIPT BELOW.
+The text below is the show script prepared by the host. It contains pre-sourced URLs for the studies, papers, trials, and clips discussed on the episode. These are the ONLY links you may use.
+
+Rules for hyperlinks:
+- When the article mentions a study, paper, trial, or clip that appears in the script below, link the relevant phrase using a standard HTML anchor: <a href="URL" target="_blank" rel="noopener noreferrer">linked text</a>
+- If a study is mentioned in the transcript but does NOT appear in the script below, mention it WITHOUT a hyperlink.
+- NEVER fabricate, guess, or infer URLs. NEVER use a search-engine URL. NEVER link to a site you have not been given.
+- Do not link the same source more than once in the article.
+
+EPISODE SCRIPT:
+{script_text}
+"""
+    else:
+        script_block = """
+
+NO HYPERLINKS AVAILABLE.
+You were not given the episode script for this transcript. Do not add hyperlinks to any study, paper, or trial in the article body. Mention studies in plain text. Never fabricate URLs.
+"""
+
     user = f"""From the transcript below, extract ONLY the "What's the deal with" deep-dive segment and ignore all other segments (health news, listener Q&A, intros/outros).
 
 Then write a standalone article with this structure:
@@ -64,7 +205,7 @@ Then generate 4 to 6 FAQ pairs:
 - Cover the angles most likely to appear in Google "People Also Ask" boxes; do not repeat the headline as a question.
 
 Call the create_article tool with your result.
-
+{script_block}
 TRANSCRIPT:
 {transcript_text}"""
 
@@ -93,7 +234,7 @@ TRANSCRIPT:
                     },
                     "article_html": {
                         "type": "string",
-                        "description": "Full article body HTML using only <p> <h2> <ul> <ol> <li> <strong> <em> tags"
+                        "description": "Full article body HTML using only <p> <h2> <ul> <ol> <li> <strong> <em> <a> tags. Use <a href=\"...\" target=\"_blank\" rel=\"noopener noreferrer\"> for any hyperlinks, and only with URLs drawn from the vetted episode script."
                     },
                     "faqs": {
                         "type": "array",
@@ -429,8 +570,15 @@ def main():
     transcript_text = transcript_path.read_text(encoding='utf-8')
     date_iso, date_display = parse_date_from_filename(transcript_path.stem)
 
+    print("Looking for vetted episode script in Drive...")
+    script_text = fetch_drive_script(transcript_path.stem)
+    if script_text:
+        print(f"Drive script fetched ({len(script_text)} chars). Hyperlinks will be added from it.")
+    else:
+        print("No Drive script available. Article will ship without hyperlinks.")
+
     print("Calling Claude to generate article...")
-    data = call_claude(transcript_text)
+    data = call_claude(transcript_text, script_text=script_text)
 
     slug = data['slug']
     headline = data['headline']
