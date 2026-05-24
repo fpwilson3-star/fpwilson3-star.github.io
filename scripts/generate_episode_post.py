@@ -104,7 +104,13 @@ def fetch_drive_script(stem):
                 f"and '{EPISODES_FOLDER_ID}' in parents "
                 f"and trashed = false"
             )
-            results = service.files().list(q=q, fields='files(id,name)', pageSize=10).execute()
+            results = service.files().list(
+                q=q,
+                fields='files(id,name)',
+                pageSize=10,
+                supportsAllDrives=True,
+                includeItemsFromAllDrives=True,
+            ).execute()
             folders = results.get('files', [])
             if folders:
                 folder_id = folders[0]['id']
@@ -113,7 +119,31 @@ def fetch_drive_script(stem):
                 break
 
         if not folder_id:
-            print(f"[drive] no episode folder matched date='{date_str}' or topic='{topic}'.")
+            # Distinguish "no access" from "name mismatch": can the SA see ANY episode folder?
+            visible = service.files().list(
+                q=(
+                    f"mimeType = 'application/vnd.google-apps.folder' "
+                    f"and '{EPISODES_FOLDER_ID}' in parents and trashed = false"
+                ),
+                fields='files(id,name)',
+                pageSize=5,
+                supportsAllDrives=True,
+                includeItemsFromAllDrives=True,
+            ).execute().get('files', [])
+            if not visible:
+                print(
+                    f"[drive] no episode folder matched date='{date_str}' or topic='{topic}', "
+                    f"AND the service account sees ZERO folders under EPISODES "
+                    f"({EPISODES_FOLDER_ID}). This is an access problem: grant the service "
+                    f"account Viewer on that folder."
+                )
+            else:
+                sample = ', '.join(f['name'] for f in visible)
+                print(
+                    f"[drive] no episode folder matched date='{date_str}' or topic='{topic}', "
+                    f"but the service account CAN see folders (e.g. {sample}). "
+                    f"This is a name-match problem, not access."
+                )
             return None
 
         # Find the SCRIPT doc inside that folder.
@@ -122,7 +152,13 @@ def fetch_drive_script(stem):
             f"and '{folder_id}' in parents "
             f"and trashed = false"
         )
-        results = service.files().list(q=q, fields='files(id,name,mimeType)', pageSize=10).execute()
+        results = service.files().list(
+            q=q,
+            fields='files(id,name,mimeType)',
+            pageSize=10,
+            supportsAllDrives=True,
+            includeItemsFromAllDrives=True,
+        ).execute()
         scripts = results.get('files', [])
         if not scripts:
             print(f"[drive] no SCRIPT doc found inside '{folder_name}'.")
@@ -136,6 +172,8 @@ def fetch_drive_script(stem):
             content = service.files().export(
                 fileId=script['id'], mimeType='text/plain'
             ).execute()
+            # Note: files().export does not accept supportsAllDrives; it works on any
+            # file the service account can read, including shared-drive content.
             return content.decode('utf-8') if isinstance(content, bytes) else content
         print(f"[drive] script has unexpected mimeType {script['mimeType']}; skipping.")
         return None
