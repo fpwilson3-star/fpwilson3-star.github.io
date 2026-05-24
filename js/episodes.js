@@ -18,6 +18,8 @@
 
     { slug: 'do-psychedelics-actually-work', title: 'Do Psychedelics Actually Work for Depression, PTSD, and Addiction? What the Evidence Says' },
 
+    { slug: 'does-methylene-blue-actually-work', title: 'Does methylene blue actually do anything? What the evidence says' },
+
   ];
 
   const linkStyle = 'font-family:var(--font-mono);font-size:0.85rem;color:var(--color-accent);text-decoration:none;';
