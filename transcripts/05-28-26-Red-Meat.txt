@@ -1,0 +1,357 @@
+Perry: [00:00:01] Before we get started, a brief correction from last week's Methylene Blue episode. My wife, the brilliant breast surgeon, informed me that I neglected to mention a very important use of methylene blue, which is that it is used for sentinel lymph node biopsy in all types of surgeries, where surgeons need to figure out where cancer may be spreading and along what path. So one more good use of methylene blue. Amidst the many bad uses that we talked about last week, let's get on with today's episode.
+
+Emily: [00:00:31] Okay, so Perry, I'm going to tell you a story about a colleague of mine at my old job who ate only meat.
+
+Perry: [00:00:39] Only meat.
+
+Emily: [00:00:40] Pretty much. Okay, so here's what happened. He was on a carnivore paleo meat diet, and his main snack food was I want you to imagine, you know, those like, um, ice pop things that your kids have that are like long plastic things that blue ice in the middle. And it's like a push pop. [00:01:00]
+
+Perry: [00:01:00] Yeah, yeah.
+
+Emily: [00:01:01] It was like that. But instead of the the blue ice, it was a meat slurry. Like, like a, like a like a beef tartare, but more of a, of a slurry. And you would just sort of like push it up and eat it. Okay. So that already was like, mm, he had the office next to mine. Then it's the summer and he goes out of town and he gets right before it's like quite hot and he gets a box of this stuff delivered right before he leaves.
+
+Perry: [00:01:32] Oh.
+
+Emily: [00:01:32] And they put it in his office over the course of the next few weeks, the smell just gets worse and worse and worse. And finally, it's like our offices are around this open space where like the graduate students work and it's just getting worse and worse and worse. And finally we call in security and they go in and there's just this box of like rotting meat slurry.
+
+Perry: [00:01:55] Did you think that someone had died? I would have been like, there's a dead body.
+
+Emily: [00:01:59] We thought it was [00:02:00] an animal. Like, we didn't think it was a dead person, but we thought there was an animal that had died. And then we opened it. And the security guys are like, there's a box of meat. And, um, I was mad. I was really mad.
+
+Perry: [00:02:14] I mean, I would be livid. We're going to talk about the benefits and risks of a red meat diet today. But boy, this is one I didn't think of. Um, keep your meat refrigerated. People.
+
+Emily: [00:02:27] Keep your meat slurries, guys. Your meat push up slurry pops. They need to be refrigerated. If you learn nothing else from this episode, it should be that. I'm Emily Oster, I'm an economist and a data expert.
+
+Perry: [00:02:40] And I'm Perry Wilson. I'm a medical doctor.
+
+Emily: [00:02:43] It's Thursday, May 28th, 2026. And this is wellness actually.
+
+Perry: [00:02:47] Because you're getting a staggering amount of health and wellness information nowadays from every source imaginable. And some of it is awesome.
+
+Emily: [00:02:55] And some of it is, well, actually bullshit. Fortunately, [00:03:00] we are both people who know how to read studies, how to parse the data, and can tell you what's worth thinking about and what you can safely ignore.
+
+Perry: [00:03:09] But before we dig in a note that this podcast is for educational purposes and should not be construed as medical advice. We don't know your unique situation, so talk to your doctor for personal health decisions.
+
+Emily: [00:03:20] This week we're asking what's the deal with red meat? Perry and I will give the official smash or pass, and then we'll get to your question of the week. But first, let's do the health news roundup after the break.
+
+Perry: [00:03:43] And we're back with your health news of the week. Emily running influencers are having a moment with peptides. What's going on here? This is your world.
+
+Emily: [00:03:55] Okay, so there's a fight going on between two running influencers, uh, [00:04:00] about use of peptides. So there is one running influencer who ran the Eugene Marathon, and he's not even really a running influencer. He's like a wellness guy influencer. And he ran the Eugene Marathon actually quite fast in like 239. He's 50. That's actually a very fast time. And he won his like old person age group or whatever, but he's not a professional athlete. But then ex post he, he revealed that he's been using BPC 157, which you may recall as being part of the Wolverine stack that is recommended by Joe Rogan.
+
+Perry: [00:04:35] And then the peptide episode on wellness.
+
+Emily: [00:04:38] Please listen to our peptide episode. And then another running influencer is an ultra runner. Influencer is very upset about this because BPC 157 is not sanctioned by WADA, which is the anti-doping agency. But this guy's view is like he's not a professional athlete. He's not in the doping pool. And the other [00:05:00] guy's view is you're cheating. And my view is there's no evidence that this peptide improves your performance. But I love the overlap of like endurance sports and peptides and influencers. It's just it's a dream.
+
+Perry: [00:05:13] Yeah. I mean, as more of this stuff gets out there with less and less data, these issues just, you can, you can impose whatever you want on the effects of these things because there's no one who can prove you wrong since there's no strong data. So you can say like, oh, this is the same as taking steroids, or you can be like, it's a fancy placebo. And it made me believe in myself. And you've got equal evidentiary support for both of those statements.
+
+Emily: [00:05:38] Totally. So anyway, that was my that was my thing. I am going to refrain from making us do an entire episode on a thing called the Enhanced Games, but we can discuss that at another time.
+
+Perry: [00:05:47] Oh, I saw that. Fascinating. Yes, absolutely.
+
+Emily: [00:05:51] All right. In less fun news, Please tell us what is going on with Ebola.
+
+Perry: [00:05:56] Yeah, I'd like to not have this be a news item every week, but [00:06:00] it is important. Um, the Ebola outbreak continues in the Democratic Republic of Congo right now. As of the recording, today is Tuesday, the 26th. When we're recording, you'll hear this a couple of days later. Um, there are about 1000 suspected and confirmed cases and 223 suspected deaths. The outbreak has spread into Uganda now with seven confirmed cases and one confirmed death. Um, one American has been infected. They were administering care to people in the Democratic Republic of Congo, tested positive and has been evacuated to Germany to a hospital there. Uh, obviously, we wish them the best. Um, I think one of the concerning things that has emerged this week is there's been several attacks against health centers in the Democratic Republic of Congo, um, that are, you know, ministering to this population. You know, one of the issues is apparently that the the cultural funereal practices are very [00:07:00] important in this part of the world. And health care workers have been limiting access to dead bodies to their families and loved ones, in part because in Ebola, deceased bodies are highly, highly infectious. This is transmitted by bodily fluids. And in fact, in prior outbreaks, 60 to 80% of the infections were attributed to funereal practices because their, you know, families will, like, bathe the bodies, even sleep near the bodies for several days at a time. There's really interesting public health work being done there to like work within the communities, work with religious leaders to try to, you know, educate the populace on, on safe, funereal practices here. But obviously, there's a lot of anger and mistrust in the populace as well, which is why you see these attacks, which, you know, it goes without saying, are a terrible thing to, you know, you're not going to reduce the spread of this if you attack the clinics that are isolating and treating people [00:08:00] as best they can.
+
+Emily: [00:08:01] This is a very. I hope we will not keep talking about this, but it is scary, but also very, very sad.
+
+Perry: [00:08:07] It is. Um, let's move on to less sad. More crazy. I think I read the wildest quote I've seen in a long time from a legitimate researcher. Um, so this comes from Doctor Glenn Jeffrey. He's at University College London. He's a mitochondrial researcher. So there we go. All of you playing the drinking game at home. We've now mentioned mitochondria. You have to take a shot. Um he's a mitochondrial researcher. And appearing on Huberman's podcast referred to LED lighting as an asbestos level crisis. Uh, bonkers statement to make. Emily. Why does he think the LED lights are as bad as asbestos?
+
+Emily: [00:08:53] Asbestos a a substance which, just to be clear, is well known to have caused many, many [00:09:00] cases of cancer in people over time.
+
+Perry: [00:09:03] Yes. Very difficult to treat cancer, mesothelioma.
+
+Emily: [00:09:06] Difficult to treat cancer. All right. So this researcher was working on LED lights, and he ran an experiment in which he exposed some people to LED lights with sunlight and some people with incandescent lights, like different kinds of lighting, some of which was more LED focused than, than others. And he showed some changes in the retina after two weeks of this exposure, and concluded that this might be related to the mitochondria. And as a result, it's as bad as asbestos. I will be frank. I can read the paper. The paper says, we did this thing with the light, and there was some small changes in retinal function. And that's an interesting thing to explore, but I'm failing to see the link. The jump between small changes to the retina, the. And then [00:10:00] cancer. Did you did you see it?
+
+Perry: [00:10:03] No, I the link as far as I can see. And this is like a theme that I keep seeing now that I'm exposed to like the wellness and influencer space is like, apparently you can just say like that, that that's where we are right now. And it's much more interesting to say this is an asbestos level health crisis than as expected when exposing people to different kinds of bright lights. There are subtle changes in the eye, right? Like this is like that doesn't get us talking.
+
+Emily: [00:10:31] I did not click on that. I did not.
+
+Perry: [00:10:33] Right. So, you know, anyway, for listeners, just like claims like this, you know, trustworthy science communication unfortunately is not that exciting because most evidence is somewhere in the middle and requires nuance and.
+
+Emily: [00:10:51] And most effects are small. I mean, I think that's the thing, like most things, if they have a positive effect or a negative effect, most of these effects are very small. [00:11:00]
+
+Perry: [00:11:00] Yeah. And also, I, you know, one of the things that he said was like, oh, you know, you should consider moving back to incandescent lights. And it's like, we've made so much. Like this is one area where technology, I think just completely fixed a problem. Like LED lights are so much better than incandescent. Totally.
+
+Emily: [00:11:18] They are better for the environment. Cheaper last longer.
+
+Perry: [00:11:22] Last way longer. It's a superior product in every possible way. Don't move us back to the dark ages. No pun intended.
+
+Emily: [00:11:32] That is it for the health news of the week after the break. What is the deal with red meat? Okay, Perry, let's talk about red meat.
+
+Perry: [00:11:44] I'm here for it. I am like a hack of a politician. I want to throw out some red meat to my listeners.
+
+Emily: [00:11:53] So I want to start with a short disclaimer, which is that we are going to talk here about red meat and its impacts on health and [00:12:00] varying sources of protein, and how nutrition relates to human health. We are not going to talk about climate. I know that a lot of people avoid red meat because of the impact of cows on climate, and we are not going to be talking about that today, not because it's not important, but because that's not the topic of today's podcast.
+
+Perry: [00:12:19] Excellent disclaimer.
+
+Emily: [00:12:19] There you go.
+
+Perry: [00:12:20] Yep.
+
+Emily: [00:12:21] Okay. Let's start with some some basic science. What makes red meat red? Trivia question for the doctor.
+
+Perry: [00:12:30] Myoglobin. In a word, myoglobin is a protein that lives in muscle cells and has a heme group in the middle, which is an iron containing group in the middle. And it provides oxygen to muscle cells, which need that oxygen so that they can run their mitochondria and contract and things like that. Differing amounts of myoglobin colors, muscles, differing shades of red. And so when we think about red meat, like [00:13:00] cows and pork and stuff like that, that's basically what you're seeing. It's the same heme group that comes in hemoglobin, which delivers oxygen to the rest of the body. But myoglobin is quite concentrated in muscle cells. It does lead to the question, of course, like why don't birds and chickens have myoglobin in their muscle fibers? And it turns out that birds don't use aerobic respiration to fuel their muscle movements. They use anaerobic respiration so they aren't using their mitochondria. They don't need an oxygen carrier in their muscle fibers and hence they have white muscle. And fundamentally that's what explains the color. But of course what's interesting to us is less like a why is it red and more. What are the nutritional differences writ large between, you know, a given amount of red meat and a given amount of non red or white meat. So we should probably dig in there.
+
+Emily: [00:13:55] I think we should start there because in general, when people are eating meat, this [00:14:00] is an important source of protein. Yep. And that is what people are mostly getting. That is the most important macronutrient people are getting out of of meat. And there are sources of protein that come from animals and some sources of protein that come from plants. And I think it's useful to do a little bit of a comparison for people about, you know, what are some common sources of protein and what do they deliver? So yeah, we can maybe think about beef, chicken, fish and tofu as being kind of representative of the, the kinds of, of meat, I would say.
+
+Perry: [00:14:35] For proteins of the apocalypse.
+
+Emily: [00:14:37] Lean ground beef, skinless chicken breast, salmon and tofu. Distinguishing features among these are. Beef has more calories than the other items because it has more fat. Yeah. Like that's like the for me, that's like the most crucial element of this is that that for a given [00:15:00] amount of protein, beef is going to have more calories because it has more fat and particularly more saturated fat. Mhm. Tofu is going to have sort of slightly less, much less fat, much less saturated fat. The lowest thing in saturated fat or fat in general is like skinless chicken breast. That's why that's everyone's favorite 1980s diet food. Mhm. But I, when I think about how we organize the questions about health here, it is really about around the fact that this is a higher calorie food because it has more fat. Is there more that you would say about the nutrients?
+
+Perry: [00:15:36] Um, I'd say a couple little other things, but yes, I think when it comes to health, we're talking not just about fat, but about saturated fat. And I think everyone's heard the term saturated fat. So we should, but we should actually define it like what it is and why we care. Um, and that is kind of the distinguishing feature of beef. As you say, there are a couple little other things that like micronutrients that are [00:16:00] worth describing. People won't be surprised to hear that beef has more iron in it than, um, than, than chicken and salmon, although actually tofu has quite a bit of iron as well. The other major thing that comes up all the time when we talk about carnivore based diets are heavily meat, protein based diets is that meat has no fiber, not not red meat, not chicken, not salmon. There's no dietary fiber in these. And insofar as dietary fiber is important for promoting colon health and reducing the risk of colon cancer, that is, the absence of fiber is something that we need to think about. So but maybe let's just start with saturated fat. Emily. Do you like. What do you think? Let me let.
+
+Emily: [00:16:43] Me push back on like, I think fiber is very important, but none of these things have fiber in them. So like if you said chicken doesn't have fiber either.
+
+Perry: [00:16:51] Uh, chicken doesn't have fiber either, right? I mean, like, but, but plant based proteins do. Right.
+
+Emily: [00:16:55] So plant based proteins have fiber. But is this is that people's most important source of [00:17:00] fiber? Mostly.
+
+Perry: [00:17:01] Well, it could be like if you're if you're sitting here and asking the question of my concern is getting adequate amounts of protein and how should I do it? By the way, call back to the what's the deal with protein episode like a plant based. Proteins would offer you fiber in addition to similar amounts of protein and less saturated fat than red meat.
+
+Emily: [00:17:21] Okay.
+
+Perry: [00:17:22] If you think that matters.
+
+Emily: [00:17:24] I think, okay, fine. I'm going to I think we're already getting a sense that Perry and I are not going to agree about everything here. I don't think this is that your protein sources are an important source of your fiber. But let's move on. Okay.
+
+Perry: [00:17:37] Let's talk about saturated fat.
+
+Emily: [00:17:39] Let's talk about saturated fat.
+
+Perry: [00:17:41] Yeah. Um, what makes saturated fat saturated? So, um, should we do a very quick chemistry?
+
+Emily: [00:17:49] Fat carbon chains.
+
+Perry: [00:17:50] Big long carbon chains. So fat is just a big long chain of carbons, you know, whereas sugars like the kind of sucrose that we eat are two carbons stuck together. So it's very [00:18:00] simple. And then glucose is just one carbon with some stuff attached to it. But you're getting their energy from there. And fat is like carbon, carbon, carbon, carbon, carbon, carbon. You can have different lengths of these carbon chains. And then you break those things down and you digest them. And that's how you get energy. The end of that long chain of carbon has a little acid on it, which is why people used to talk about fatty acids. We now just say fats. That's basically what we're talking about. It's all fatty acid now, saturated fats. The reason they're saturated is that their carbons are connected, are fully bound to hydrogen. So they only have single bonds to each other. And the practical upshot of that is that those long squiggly chains can pack very tightly together. And the way you notice that is that when something has more saturated fat, it will be solid at room temperature because the the fat can all kind of pack together. So if you're wondering like, like butter, um, or beef tallow or like coconut oil, right? Like, so there are more, there are [00:19:00] relatively more and less saturated fats and a hint as to what that is, is, you know, whether it's a liquid or not at room temperature. But like, that's a fun trivia fact, I guess. But the reason people care is because I'm curious if you'll agree with me on this. Emily, there is a clear and causal relationship between saturated fat intake and serum cholesterol levels.
+
+Emily: [00:19:25] Yeah, I think that's true.
+
+Perry: [00:19:27] Okay. All right. I just want to make sure you weren't, like, going to come out with like, well, actually. Okay, great. So saturated fat raises cholesterol, and higher cholesterol levels are causally linked to cardiovascular disease and stroke.
+
+Emily: [00:19:43] Right? What I think is interesting and is a great opportunity to get into some complaints I have are how we draw links between those things. So consumption of more saturated fat leading to higher cholesterol. On average, [00:20:00] people with higher cholesterol are more likely to have cardiovascular disease. I think the question is then if you change someone's diet from a low saturated fat to a higher saturated fat or vice versa, would that alter their cardiovascular risk? And that is the question that I think we want to talk about, because in the in the course of this discussion on red meat, I think the core question is whether a diet that has its meat source be higher in saturated fat is going to put you at higher risk for cardiovascular disease than a calorically equivalent diet with less saturated fat.
+
+Perry: [00:20:35] Right?
+
+Emily: [00:20:36] Okay. I want to take an opportunity to give some complaints about nutrition science at this moment.
+
+Perry: [00:20:43] Is this a good time for that? This is the perfect time.
+
+Emily: [00:20:46] Great. A lot of what we know about nutrition is based on studies which are very large, but in my personal view, terrible. Many of these studies, many of the studies you hear about, [00:21:00] you know, the difference in health outcomes for people who drink more coffee or drink more milk or dark chocolate or chocolate or chia seeds or blueberries or whatever is they most of that is based on getting data on people's diets and comparing the health outcomes for people who have one kind of diet versus another kind of diet. The problem is that those two groups are typically very, very different in many other ways that are not about their diet. Yeah. And it is extremely challenging for researchers to fully adjust for those factors. And I think people would be surprised at how much you can mess around with things to make stuff, show up in whatever way you want. So, for example, I once took the marquee study data source on diet, the Nhanes, uh, which is where we [00:22:00] survey many Americans thousands of.
+
+Perry: [00:22:02] Nationally representative survey sample.
+
+Emily: [00:22:04] National representative survey. And I showed that you can do something that looks very close, which actually is kind of the standard approach to analyzing diet. And you can show that consuming iceberg lettuce raises your BMI, but consuming dandelion greens lowers your BMI. Yeah. Now both iceberg lettuce and dandelion greens contain no calories. They are calorically free. Yeah. But the difference is that people who are poor tend to eat iceberg lettuce, and people who are rich tend to eat Dandy dandelion greens. And in fact, even though you see in these data sets, things like education and income, you don't see enough about them.
+
+Perry: [00:22:37] You can never adjust enough.
+
+Emily: [00:22:39] You can never adjust enough. And so in like my view is that basically all studies that rely on this kind of observational data to analyze nutrition are just trash. Honestly, that's my view that they're all trash.
+
+Perry: [00:22:54] Okay.
+
+Emily: [00:22:55] I'm gonna it's a, it's a hot take.
+
+Perry: [00:22:57] It's a hot take. And I'm not, I'm [00:23:00] not even that offended by your hot take. And I'm gonna, I'm gonna add one other problem to this body of literature, which is the food frequency questionnaire, where the Nhanes data and a lot of other data comes from a food frequency questionnaire is something that says over the past week, how many times did you eat bananas over the past month? How many times over the past year? How many times? Okay. Over the past week, how many times did you eat walnuts over the past month, over the past and so on and so forth. And there's about 110 different food items on the standard food frequency questionnaire. There are, of course, variance. Okay. What I can do with that data, if I have that on all the Nhanes people and I have outcomes on these Nhanes people I know who had heart attacks or whatever, at least maybe cross-sectionally I know what their BMI is, for example. Um, but in other data sets I might have longitudinal outcomes. I can take all of those 110 things on the food frequency questionnaire and test whether they, you know, statistically associate with heart attack, stroke, divorce rates, [00:24:00] whatever it is. And because there's 110 of them, several of them just by chance alone will be statistically significant. Five of them.
+
+Emily: [00:24:07] There's more at the 5% level. That's what that means. Okay. Go ahead.
+
+Perry: [00:24:10] Wait. There's more. People have taken those 110 items on the food frequency questionnaire and grouped them in weird ways. Sure. By macronutrients. Right? Like, okay, based on your answers, how much carbs do we think you get? But they've done it for like pesticide exposure, right? They'll say, okay, based on your food frequency questionnaires, how much pesticide are you probably taking in? Because we know that, like whatever, cucumbers have more pesticides than cherries or something like that. And now you have a new exposure called pesticide exposure, which is based on no measurement whatsoever except how you answered a survey. And you can link that to a bunch of different outcomes. And so there's a huge opportunity for kind of trolling through data and finding interesting things. They often get published because people love to talk about this stuff, right? Like it's relevant to everyone. We all have to eat. The one thing I do want to say is that while I agree [00:25:00] that randomized trials are the gold standard of evidence here, it is completely infeasible to randomize someone's diet for a long enough period of time to witness the effects of that diet on hard clinical outcomes. And so we'll talk about randomized.
+
+Emily: [00:25:21] Trials, trash than nothing.
+
+Perry: [00:25:23] I'd rather have trash than nothing. Yes, I think that I can, you know, take sort of triangulate from the these. I'm not going to call them trash. I'm going to call them, you know, less than ideal study designs to make inference. And because if we don't, then we're like, we're totally, what are we going to say? Like we don't know and we'll never know. So go crazy.
+
+Emily: [00:25:48] Yeah, that's I think that's fair. I guess for me, that makes it very important to look at the size of these impacts. So an example that people always give in this space when they want to argue [00:26:00] that we should use observational data, that it's good is smoking. They say, you know, well, in, you know, when the first evidence that smoking gave you lung cancer was from just comparing smokers to nonsmokers, and you know that if we had really trusted that evidence, then, you know, which later was confirmed by randomized trials. But if we really trusted that evidence, we would have, you know, told people to stop smoking earlier. And that's true. But in the smoking data, the excess risk of lung cancer was like 60 times. It was like a 66,000% increase in lung, not subtle. And it was not subtle. And so you could say, well, is it likely that the other differences across these people could drive this effect to be 60 times as big, especially given that it's a cancer associated with something that you're inhaling through a smoke? Like there's some biological plausibility. And the effect size was so big. I think where I get stuck in a lot of these things is we're saying, okay, we're comparing this kind of diet to this kind of diet or this food to this food. And the [00:27:00] increase in cardiovascular risk is like 7%. And it feels to me like I can, I can imagine we get a 7% increase from the many other differences across these people. And so like, maybe we look at the observational data, but the kind of observational data with tiny effect sizes tells me like this is it feels like zero.
+
+Perry: [00:27:21] Yeah. I mean, we may conclude that, um. The evidence isn't strong enough for you to seriously worry about. And like in terms of the mental energy you want to spend trying to get healthier. Like there are other areas where there's stronger evidence, like not smoking, right? If you are a smoker and are debating whether you should be eating red meat or chicken, don't worry about it. Quit. Stop smoking. Stop smoking. Yeah, totally.
+
+Emily: [00:27:45] All right. I feel like I literally I mean, this is a topic of my research. So I could literally talk about this for like an entire semester course, but maybe we should move on to.
+
+Perry: [00:27:55] As long as I can get a credit because, um.
+
+Emily: [00:27:58] Continuing medical [00:28:00] education credit first.
+
+Perry: [00:28:01] I need some of.
+
+Emily: [00:28:01] Those vent about my feelings. Okay. Um, all right, so with that as the background, I think that tells us the to, to step out of the weeds a bit. I think what this says is that it is actually quite difficult to answer this question. And part of the reason we see so much debate and discussion and disagreement about questions around nutrition, including red meat. Is that the data is not perfect or really very good for the most part.
+
+Perry: [00:28:32] Uh, yeah. So let's, let me let me draw a mechanism for you, um, and saying what we do have with high quality data. Let's start with cardiovascular disease because I think that's what people often think about. But we will get to cancer because that's sort of an emerging concern, um, from certain dietary habits. So in terms of cardiovascular disease, we do know from fairly high quality evidence that in randomized trials over a limited period of time, [00:29:00] yes, not over years and years and years, but over weeks to months, replacing a diet high in saturated fat with a diet lower in saturated fat reduces LDL cholesterol. So this comes from the Cochrane Collaboration, which is, many people would say, the gold standard of evidence synthesis groups. They performed a meta analysis of 50 something trials in this space and found this relationship to LDL cholesterol. It was stronger in people who had higher LDL cholesterol to begin with. So there's potentially some floor effect here. You can only there's only so much bang for your buck you can get by switching out saturated fats for unsaturated fats. And of course, you can get saturated fats from places that aren't red meat. But I think if we're really thinking about like a high red meat diet, that is an area of major concern is the saturated fats. So looks to me like it increases LDL.
+
+Emily: [00:29:58] I think that's right.
+
+Perry: [00:29:59] Or at least switching it out will [00:30:00] decrease LDL.
+
+Emily: [00:30:00] Yeah, that switching it out will decrease LDL. I think that seems that seems fair. I think the biological mechanism works. I think the evidence is reasonable. It's not. These effects are not like spectacularly large, but they are significant. Yep. In a statistical sense. Okay. And then what we would, I think would most want to know then is does that have any actual like health implications? Yeah. Right.
+
+Perry: [00:30:27] Like so. Okay. So we know. Go with me here. We know from randomized trial data that reducing LDL reduces the risk of cardiovascular events. Um, this is from statin trials, for example. Okay. So I know what you're going to say, but, um, you know, if reducing saturated fat intake reduces LDL and reducing LDL, albeit by some other mechanism, reduces cardiovascular events. [00:31:00] I'm comfortable saying. Probably reducing saturated fat intake will reduce the risk of cardiovascular events.
+
+Emily: [00:31:07] And I will say that, uh, if you look in the Cochrane Review trials that do try to look long term at saturated fat and cardiovascular events, you do see a small, marginally significant reduction in cardiovascular events with a diet. What you don't see is impacts on mortality. So although we see reductions in cardiovascular events, we do not see reductions in all cause mortality or cardiovascular mortality. So this relationship seems is more complicated to me than we might think. Yeah, I guess I think it would be a stretch to say that reducing your red meat intake or reducing your saturated fat intake would cause you to live longer. Maybe it's not a stretch to say it would reduce your LDL, and that [00:32:00] it might reduce your risk of cardiovascular events by a small amount.
+
+Perry: [00:32:04] Yeah. I mean, death is messy that you can unfortunately, you can die. You can die from many things. Um, and, uh, and so it's always harder to prove an overall mortality benefit. Certainly I'm not seeing anything that suggests that like enhancing red meat in your diet, is doing anything particularly wonderful for you systematically. And we should say, in terms of cardiovascular disease at least. And we should say, though, that the vast majority of real studies that look at red meat intake are using unprocessed, like lean red meat, like not lean, you know, but like, like red meat that you would buy in the refrigerator section of the grocery store. Not processed red meat. And I think we need to touch on this when we get to cancer, because there's a big difference between eating like a steak, you know, with its high saturated fat and, but high amount of protein and relatively little other [00:33:00] things and like a equivalent amount of processed salami or something like that. And we can talk about that.
+
+Emily: [00:33:08] Yeah, let's get into that. But I think here, here we are really talking about the like, again, kind of Switching out your red meat for a calorically equivalent amount of chicken.
+
+Perry: [00:33:24] Yeah, it's a way to slightly reduce your cardiovascular risk. There are probably there are probably better ways to reduce your cardiovascular risk.
+
+Emily: [00:33:30] Yeah. Like exercising or not smoking.
+
+Perry: [00:33:32] Yes. Yeah. Those are better. Um, but let's talk about cancer. Um, this is the concern I've heard most from people I've talked to about this. It's interesting. I feel like for my parents generation, like heart attacks and strokes were the thing that killed everyone. And they were very concerned about this. And I think to some extent, because we've gotten a better handle on cholesterol management, like that's less scary to our generation who thinks more about cancer and dementia. Uh, there has been a rise [00:34:00] in colon cancer diagnoses among younger and younger people in the United States. There's an interesting discussion about what the causes of that are, but it's certainly in the zeitgeist. People are thinking about this. Even the guidelines for colon cancer screening have recently changed to start at a younger age, to start at 45 instead of 50. Based on some of this data and most of the. Again, observational data would suggest that higher red meat intake does increase the risk of colorectal cancer.
+
+Emily: [00:34:33] Yes, most of the observational data would say that.
+
+Perry: [00:34:36] Yeah. Does that worry you?
+
+Emily: [00:34:40] No. I mean, like does it worry I am worried about the rise in colon cancer among younger people. Of course, do I. Let me think about how to how to say this. So do I think it is plausible that changes in dietary patterns have driven some of this rise [00:35:00] in colon cancer? Absolutely. I think people obesity rates have gone up. My guess is that explains a fair amount of this rise. Consumption of whole foods fiber in particular has gone down. My guess is that also explains something with the rise. Clearly something we need to understand much better. Some of the data that's come out about GLP one suggests that they reduce the risk of colon cancer, which I think points to at least the first of those mechanisms as being important. If you asked me, do I think that replacing tofu and chicken with a calorically equivalent amount of beef in your diet would raise your risk of colon cancer? I do not think that that is supported by the data. The observational data on this is just it's it's really weak. It's confounded by other aspects of people's diet. It's confounded by the fact that a lot of the ways people are eating red meat are ultra processed are. [00:36:00] Yeah. With Doritos, I mean, this feels to me like the data is so poor that if that's the question people are asking, I think absolutely, absolutely not. And I will say, let me just say one other thing, which is that we have one pretty large scale, long term health study that evaluated the risk of cancer with a with a low fat diet. It wasn't red meat specific specifically, but but evaluated low fat diet called the Women's Health. What is this sorry?
+
+Perry: [00:36:31] Women's health initiative. Dietary modification trial?
+
+Emily: [00:36:33] Yes, the Women's Health Initiative dietary modification trial. And that showed no impact of switching people to a low fat diet on cancer risk or basically anything, anything else. And, you know, that's that feels informative to me.
+
+Perry: [00:36:47] Yeah. I suspect this is true for unprocessed red meat. And I'm worried from a biological perspective on processed [00:37:00] meats. Um, there has long been, for example, a dramatically higher rate of gastric cancer in China than there is in the United States. Um, and thought to be driven by heavily, uh, preserved, you know, meat intake and protein intake. There have been a number of studies that show that these nitroso compounds, like you use nitrates to preserve, uh, to preserve meats and things like Slim Jims and stuff like that. There are studies in, you know, in petri dishes and stuff that, that do show that these, these compounds can damage cells and can affect the lining of the GI tract. And you can actually recover these compounds in stool in like the poop of people based on how much they take in. So, you know, I think, you know, having that nice steak is, is, is one thing. Having a bunch of Slim Jims is another thing. But you know, to your point, Emily, there's a certain type of person who can afford to have [00:38:00] the nice steak and they probably can afford a lot of other healthful things. And then there's a type of person whose major source of calories is going to come from that type of foods because they can't afford to eat the nice steak at the end. And that's going to be a major source of confounding.
+
+Emily: [00:38:15] Yeah, it's a major source of confounding. And I will say, you know, back to my point about sizing, if you look at like these meta analyses and you know, what's the size of the increase in risk, we're talking about like a 20% increase in risk, not a 400% increase or a 4,000% increase. And that that's not that big an effect. I mean, it feels big. It's like, wow, 20% increase, but it's actually magnitude quite small. And it could easily be explained by either other aspects of people's diet, other aspects of their exercise, smoking. I mean, we see like everything is different between groups that eat more and less red meat in these observational studies, everything, not just a few things, literally everything. Yeah. And I think that's, that's just really hard to fix.
+
+Perry: [00:38:59] It's, it's very [00:39:00] hard to fix. And diet is so culturally relevant. Like diet is just, it's so much a part of you. It is very hard to control anything here. Um, I want to move on to some other cancers, uh, particularly breast cancer, which is another, another obesity associated cancer as they are defined. But there's an interesting trial here, the Predimed trial, which I really like. This is about a 7500 participant trial who were randomized to, uh, sort of a Mediterranean diet, um, which, you know, is again, it's not really red meat. It's actually a lot of like fish and legumes and things like that. But it's a, it's a lower carb diet and a higher amount of meat protein, either with olive oil or nuts versus a control diet and the Mediterranean diet arms, which, you know, limit red and processed meat significantly had a 62% reduction in breast cancer incidence. Um, now, this wasn't the primary endpoint of the trial, but, you know, this is a hazard ratio [00:40:00] of 0.38. That's that's a relatively big effect size. You wanted some big effect sizes. This is a randomized trial. It's not just limiting red meat. It's also like olive oil and nuts and, and, and beans and all the other wonderful things from the Mediterranean diet that might be affecting things here. But it's, again, some evidence that the dietary red meat dominant dietary pattern may not be the best.
+
+Emily: [00:40:28] Yeah. I mean, I think we have the Mediterranean diet is one of our best tested diets. Like if you if you said, you know, I'm totally neutral, I don't care what I eat. Just tell me what's the best kind of diet for overall health that we have seen in the data? I think it is it is the Mediterranean diet. This has a lot of components, as you said, not just an avoidance of red meat. It's not that we have head to head tested that versus a version of that that has a higher red meat component. Yeah. Um, and I think that's, there's a limit to what we can conclude [00:41:00] from that.
+
+Perry: [00:41:00] Yeah. Yeah. Fair. There's a couple of things that people wanted us to dig in on here as they're thinking about red meat, I think I think people get the idea that, like, there's a difference between beef jerky and salami and like processed meats and the, the steak and unprocessed stuff. You get people like eating steak. It's quite pleasurable. Um, for a lot of people. One question I got asked a lot is the difference between like grass fed and non grass fed beef. Like, should we be paying a premium for this? Um.
+
+Emily: [00:41:33] I think it just, it tastes different. And I think this, this to me feels like you absolutely, absolutely are not going to get any evidence that is meaningful on this. What you're going to find is that grass fed beef is eaten by rich people. And rich people are doing better on their health for a lot of reasons. It's probably not the grass fed beef. Uh, but if that's a thing you want to spend your money on, and you like the way it tastes better and you feel better about it, like that's great.
+
+Perry: [00:41:58] It is a bit leaner. [00:42:00] Um, so again, yeah, I agree. You're not going to, it's not going to make a difference in your, in your long term health, but does have slightly less fat. Actually, in the research though, I found that in 2016 the US. What is it? Usda eliminated their definitions, like their inspection process for grass fed beef. So now it's it's via self-certification. So the, um, meat producers themselves get to tell you whether they're grass fed or not. They, unless you have seen.
+
+Emily: [00:42:30] The cow.
+
+Perry: [00:42:31] Eat.
+
+Emily: [00:42:31] Yeah. Unless you have seen the cow eat, you cannot be sure.
+
+Perry: [00:42:34] You cannot be sure. This is like a trust us bro, uh, type of situation. So let's touch on the carnivore diet because like, we kind of talked about dietary patterns. Certain dietary patterns have more red meat, but like, this is the apotheosis of being a meat eater, right? I am only going to eat meat. This isn't even paleo where it's like, we can have grains. This is meat exclusively and organ [00:43:00] meats exclusively.
+
+Emily: [00:43:01] It's like the I mean, it's. So I think what's interesting about the carnivore diet is its connection to the keto diet, which is something that we should spend an episode on, which is a diet with effectively no carbohydrates.
+
+Perry: [00:43:13] Extraordinarily low carbs. Yeah.
+
+Emily: [00:43:15] Had some interesting results on treating some diseases. It's like, that's an interesting diet. It's very, very hard to stick to because it's really, really restrictive. The carnivore diet is kind of a like a bro version of more relaxed bro version of that. It has almost no fiber. So I would be shocked. Shocked. I'm not I'm not saying I would be interested in this. I am kind of interested in how people's digestion is on the carnivore diet. I would imagine if fiber is nature's broom, I'm concerned.
+
+Perry: [00:43:47] Oh my God.
+
+Emily: [00:43:48] About what happens when.
+
+Perry: [00:43:49] People like.
+
+Emily: [00:43:50] Bro.
+
+Perry: [00:43:51] Bro, I haven't, I haven't pooped in two weeks, bro.
+
+Emily: [00:43:53] Exactly. I haven't pooped in two weeks, bro. And so, and you know, this is going to be a, this is a very extreme form of diet. And it's hard [00:44:00] to know often when we are eating something that is so extreme, like what that's going to do to our systems.
+
+Perry: [00:44:08] And just like evolutionarily, right? Like we're not carnivores. Humans are clearly omnivores. And in fact, you don't have to take my word for it. We don't contain the apparatus to synthesize certain things that only come from plants like vitamin C, vitamin C, for example. Um, some animals, carnivores actually synthesize their own vitamin C, so like tigers and lions don't get scurvy because they can make their own vitamin C and they don't have to eat fruits and vegetables and stuff. We can't. So we need to get vitamin C from other sources. Actually look to see if there's been case reports of people on the carnivore diet developing scurvy. I did find one case of a guy who was kind of he was living alone in a hut in Appalachia. I don't think he would have described himself as being on the carnivore diet, but he clearly was only eating meat, and he did develop scurvy.
+
+Emily: [00:44:59] There are some meats [00:45:00] that have vitamin C in it, like seal meat. That's what I learned from one of the many, many, many books I've read about people who die in Antarctica, which is my favorite book genre. Um, but it turns out eating like a penguins and seals have, uh, have vitamin C, right?
+
+Perry: [00:45:15] It was always kind of a mystery that like, how do you know Inuits who really have almost no plant intake, like not get scurvy? And yeah, that's part of it. Blubber has vitamin C, vitamin C is broken down by heat, though. So a lot of that comes from like eating stuff raw. Um, the organ meats that people who adhere to the carnivore diet, like liver does have some vitamin C in it. It's still very low. Like you've got to be eating a fair amount, but you know, this is.
+
+Emily: [00:45:42] Let's just say probably don't do this.
+
+Perry: [00:45:44] Don't do this. I'm not sure what it like it's of a theme of, do you remember when we were talking about declining sperm counts and we were sort of like, like, if you're not trying to get someone pregnant, right? Like, why do [00:46:00] you care about that? I don't know, there's some like relationship here that I see. I think this is a manosphere thing. I think this is a diet that's like, I'm a big tough guy and all I have to do is eat meat. And it's like, I don't care if I get, you know, colon cancer from, you know, or just severe constipation from, from not having any fiber or.
+
+Emily: [00:46:19] Really or.
+
+Perry: [00:46:20] Whatever.
+
+Emily: [00:46:20] Terrible scurvy, terrible.
+
+Perry: [00:46:22] Like, you know, guys eat a varied diet.
+
+Emily: [00:46:24] Uh, let's talk about beef tallow before we end because people love beef tallow. And if he really loves it, yeah, yeah. Sometimes people ask you like, what do I do with beef tallow? And it's just a it's another fat. You could cook with it. I think it has quite a high. Um, I think it's quite a high smoke point maybe making it good for cooking. I have one friend who's like a very serious chef and he said he has beef tallow in his fridge because it's useful for particular cooking, cooking sources. Um people do like to put it on their face as a moisturizer, [00:47:00] but it can clog your pores. I think so.
+
+Perry: [00:47:02] It's I would, I would imagine it can be.
+
+Emily: [00:47:05] Good as some other moisturizers that you might purchase from, say, CVS. So, you know, we have I would say this is a fat. You could use it to cook. Mhm. It's not a magic fat. It's just.
+
+Perry: [00:47:19] No, it's not particularly healthy. Um, there's a meta analysis of 54 randomized trials looking at LDL reduction through supplements of various types of fats. And all of the plant based oils reduced LDL more than beef tallow. But beef tallow was better than butter. Beef tallow raised your LDL less than butter. So. But like you've got a million choices for fats. I don't I don't particularly know. I mean, it tastes good actually. I mean, I think the reason to use beef tallow is it's actually quite tasty. Um, if you've ever had French fries deep fried in beef tallow, this isn't a good a healthy snack by any stretch, but they do. They do taste good. [00:48:00]
+
+Emily: [00:48:00] They do.
+
+Perry: [00:48:00] That's okay. We're supposed to get enjoyment out of life, right?
+
+Emily: [00:48:03] Totally. And I think that is I mean, that is an important point for me here because sometimes we will talk about sort of these, these products, like you'll say, well, you know, well, what's the reason to have steak if, you know, even if we only have a little bit of evidence that plant based sources reduce our LDL, and we can't really connect it to health outcomes, you know, why not do it? And the answer is like, well, I, I, that's not the diet I would most prefer. And food is something that we enjoy. And so that's actually a reason to, to do it.
+
+Perry: [00:48:34] Yeah, yeah, yeah, yeah. Life is for the living.
+
+Emily: [00:48:36] Life is for the living.
+
+Perry: [00:48:38] I've got to go to one more thing before we smash or pass this one. Emily. Because I had a feeling how this was going to shake out. I felt like Emily was going to look at all the observational data and be like, this is all crap. It's fine. You know, just be healthy. And, um, and then I was like, but I've got a trump card, because I'm going to scour the literature to find a study of endurance [00:49:00] athletes. Uh, and and see if I could show her that actually, if you're an endurance athlete, eating red meat is better. So I found a study, a huge study of 28 cross country runners who were randomized to their usual diet versus supplementing nine ounces of lean red meat a week times eight weeks. It's not that much, but it's the best I could find. They looked at about 800 different outcomes, like metabolic outcomes.
+
+Emily: [00:49:32] You get some things to be significant.
+
+Perry: [00:49:34] It's it's it's an insane amount. And actually, I was quite surprised at how few of these were statistically significant because like.
+
+Emily: [00:49:41] Just by chance.
+
+Perry: [00:49:41] You would, they measured so many things. But I do have one, um, women in the control arms hematocrit, which is their red blood cell concentration decreased by 3.8% over the eight weeks. And women who got randomized to have the lean red meat had a 14.8% increase [00:50:00] in their hematocrit. That's their red blood cell count. This is biologically plausible because red meat contains iron and and women as opposed to men. Certainly college age women, premenopausal women have ongoing iron losses due to menstruation. And maybe this is a decent source of iron to help mitigate the anemia that can come from that.
+
+Emily: [00:50:26] Yes. Actually, most of the serious endurance athletes that I know do eat, like do eat a reasonable amount of red meat or eat red meat because it is very common to be anemic and iron. The iron levels that are optimal for endurance performance are typically much higher. And particularly ferritin levels are much higher than would be sort of necessary for just being a person. And so people like to supplement with iron, but they also like to eat meat. But I will say that the [00:51:00] carnivore diet is not well suited for endurance athletes who primarily should be consuming carbohydrates.
+
+Perry: [00:51:07] Yeah. Not not when you have £10 of stool that you're carrying around on the run.
+
+Emily: [00:51:12] Very, very challenging to run if you if you have eaten exclusively liver.
+
+Perry: [00:51:18] Um, uh, iron is absorbed from myoglobin, uh, better than it's absorbed from plant based sources. Um, so like soy, I mentioned early on that soy has a fair amount of iron in it, but it isn't absorbed quite as well as from red meat. Um, that is mitigated somewhat by vitamin C intake. So if you really do want to avoid red meat, but get your iron through a natural source, you can soy plus something that contains vitamin C, so soy plus orange.
+
+Emily: [00:51:44] Or you can take a hematocrit, uh, iron pill, which comes with vitamin C.
+
+Perry: [00:51:48] Uh, you can also do that.
+
+Emily: [00:51:49] Yeah. That is mostly what people are doing. Okay. Perry, are you smashing or passing red meat? I'm so interested.
+
+Perry: [00:51:57] I am a pass [00:52:00] on processed red meat. I think it should be avoided. I think go ahead and eat unprocessed red meat if you enjoy it. But I wouldn't like target. I'm not going to smash it. I'm not going to say like, go out and have more of it. I think there are plenty of other good sources of protein that are probably better for you. So I guess I'm a pass. Emily. Smash or pass.
+
+Emily: [00:52:20] Yeah, I'm, I'm a smash. I think that again, I will say, I don't think eating a lot of processed food in general is very good. So let's put that aside. But on the on the red meat, I think that this can be a part of a balanced diet. And if it is something that people enjoy, they should consume it. I'm a I'm a smash.
+
+Perry: [00:52:43] All right. That's it for red meat. Your mailbag. Question of the week. After the break.
+
+Mailbag: [00:52:52] Hi, Emily and Perry. I'm Genevieve calling from Hudson, Ohio, and my question is, do Daith piercings really help with migraines? Um, [00:53:00] something to do with the pressure points? I would love to get one for the looks, but I just think it's interesting that people say they help with headaches. So thank you.
+
+Perry: [00:53:08] So this is an interesting question. Um, I'm going to disclose something here. Like I lack the part of your ear that gets a daith piercing like it is. I don't know if you can see on video here. Um, it is problematic because like earbuds don't stay in my ears. Like they have nothing to tuck into. So they just kind of kind of fall fall out. I did look into this. It is apparently a normal anatomical variant. So if you're like me and your earbuds always fall out and there's nothing to pierce in your inner helix of your ear. Um, I guess we should say that, right? A daith piercing is like that. Like inside of your ear. Helix piercing. Look it up. I think it looks kind of cool, actually. Oh, you don't like it?
+
+Emily: [00:53:52] It seems so painful.
+
+Perry: [00:53:53] Oh, definitely painful, but, you know. Yeah, it's better to look good than to feel good. You know, it's not.
+
+Emily: [00:53:57] No, I don't think that at all.
+
+Perry: [00:54:00] I [00:54:00] don't think anyway.
+
+Emily: [00:54:02] Does does it help with migraines.
+
+Perry: [00:54:04] I don't know uh no, I don't think so. Um. No, no. I mean, this is out there like people. People say it and they argue that, um, you know, maybe it's stimulating the vagus nerve or something like that, but there haven't been any rigorous studies, but even the sort of observational ones don't support any long term benefit.
+
+Emily: [00:54:23] But it could be the placebo effect, which is our favorite effect short term.
+
+Perry: [00:54:27] Absolutely. If you believe. Yeah. If you believe you're not going to get migraines, you will get less migraines. But those things do tend to wane over time. You sort of forget that that it's there.
+
+Emily: [00:54:38] Yes. The all of the evidence for this is like some people said it might help. Yeah.
+
+Perry: [00:54:45] Yeah, that's fine, but I but it does look cool. So go ahead and and and get it if you can tolerate the pain.
+
+Emily: [00:54:53] Do you have any weird body parts pierced?
+
+Perry: [00:54:56] I have entirely normal body parts pierced. No, I'm just kidding. I don't have [00:55:00] any. I don't have any. What's a weird body part? No, I don't, I have no piercings.
+
+Emily: [00:55:05] I mean unusual piercings. Do you have any tattoos?
+
+Perry: [00:55:09] I don't know, I don't have tattoos. I don't have.
+
+Emily: [00:55:11] No.
+
+Perry: [00:55:11] Tattoos. No. What about you? You don't have tattoos, I'm sure. Absolutely not.
+
+Emily: [00:55:17] Kidding me. I don't even have Botox. I'm afraid of needles. Forget about tattoos. Okay. All right, that's it for us today. Stick with us next week when we'll ask, what's the deal with cupping and dry needling? Speaking of needles, well, this actually is produced in association with iHeartMedia. Our senior producer is Tamar Avishai. Our executive producer at iHeart is Jennifer Bassett. Our theme music is by Eric Deutsch and our content is for educational purposes only.
+
+Perry: [00:55:49] If you like the show, help other people find us. Leave a rating and review on Apple Podcasts or your podcatcher of choice and help us spread the word about the show. You can follow us on Instagram at Wellness [00:56:00] Pod. And don't forget, we want to hear from you. Head over to wellness.fm and leave us a question for our mailbag or suggest a topic for a future show.
+
+Emily: [00:56:10] We'll let the influencers have the last word.
+
+Influencer: [00:56:12] I've eaten nothing but meat and butter for seven years. My husband thinks I'm absolutely insane for this, but I'm obsessed with eating cold meat. The flavor and texture gets better and the cold fat turns into this buttery frosting. I literally cook extra steak on purpose just so I can eat it straight out of the fridge. Am I the only one?
