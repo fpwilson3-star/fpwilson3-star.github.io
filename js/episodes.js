@@ -20,6 +20,8 @@
 
     { slug: 'does-methylene-blue-actually-work', title: 'Does methylene blue actually do anything? What the evidence says' },
 
+    { slug: 'is-red-meat-actually-bad-for-you', title: 'Is red meat actually bad for you? What the evidence really shows' },
+
   ];
 
   const linkStyle = 'font-family:var(--font-mono);font-size:0.85rem;color:var(--color-accent);text-decoration:none;';
