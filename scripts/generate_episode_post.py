@@ -213,7 +213,9 @@ VETTED HYPERLINKS — EPISODE SCRIPT BELOW.
 The text below is the show script prepared by the host. It contains pre-sourced URLs for the studies, papers, trials, and clips discussed on the episode. These are the ONLY links you may use.
 
 Rules for hyperlinks:
-- When the article mentions a study, paper, trial, or clip that appears in the script below, link the relevant phrase using a standard HTML anchor: <a href="URL" target="_blank" rel="noopener noreferrer">linked text</a>
+- Link EVERY study, trial, meta-analysis, or paper the article discusses that has a URL in the script below. Do not stop at one link. Most episodes have several vetted URLs and most should end up in the article. Before finishing, re-scan the script for every URL and confirm you used each applicable one.
+- Match each URL to the SPECIFIC study it belongs to in the script. The text immediately around a URL in the script tells you which finding it supports (e.g. a Cochrane link goes on the Cochrane sentence, the runner-study link goes on the runner sentence). Never attach a URL to a different study than the one it documents in the script.
+- Link the relevant phrase using a standard HTML anchor: <a href="URL" target="_blank" rel="noopener noreferrer">linked text</a>
 - If a study is mentioned in the transcript but does NOT appear in the script below, mention it WITHOUT a hyperlink.
 - NEVER fabricate, guess, or infer URLs. NEVER use a search-engine URL. NEVER link to a site you have not been given.
 - Do not link the same source more than once in the article.
@@ -310,6 +312,20 @@ TRANSCRIPT:
     raise RuntimeError("Claude did not call create_article tool")
 
 
+def clean_article_html(article_html):
+    """
+    Strip stray content-block artifacts the model occasionally prepends to
+    article_html (e.g. a serialized '[{"type":"text"}]'). The article body
+    always begins with an HTML tag, so drop anything before the first '<'.
+    """
+    html = (article_html or '').strip()
+    first_tag = html.find('<')
+    if first_tag > 0:
+        print(f"[sanitize] stripped {first_tag} chars of non-HTML preamble from article body.")
+        html = html[first_tag:]
+    return html
+
+
 def render_faq_jsonld(faqs):
     if not faqs:
         return ''
@@ -355,7 +371,7 @@ def build_episode_html(data, date_iso, date_display):
     headline = data['headline']
     slug = data['slug']
     meta_desc = data['meta_description']
-    article_html = data['article_html']
+    article_html = clean_article_html(data['article_html'])
     episode_title = data['episode_title']
     faqs = data.get('faqs') or []
     faq_jsonld = render_faq_jsonld(faqs)
