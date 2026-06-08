@@ -22,6 +22,8 @@
 
     { slug: 'is-red-meat-actually-bad-for-you', title: 'Is red meat actually bad for you? What the evidence really shows' },
 
+    { slug: 'do-cupping-and-dry-needling-actually-work', title: 'Do Cupping and Dry Needling Actually Work? What the Evidence Says' },
+
   ];
 
   const linkStyle = 'font-family:var(--font-mono);font-size:0.85rem;color:var(--color-accent);text-decoration:none;';
