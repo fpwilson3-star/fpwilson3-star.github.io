@@ -1,0 +1,350 @@
+F. Perry Wilson: We are in, uh, the lovely Yale Broadcasting Center here in New Haven, Connecticut. We have, uh, Ryan Makavoy, our Yale side.
+
+Emily Oster: Thank you, Ryan.
+
+F. Perry Wilson: Engineer, um, in the background here making us sound amazing, and of course, Tamar, our ever producer on the other end of the line. So cool.
+
+Emily Oster: This is so fun. Have a great time.
+
+F. Perry Wilson: We're talking about cupping and dry needling today. And I came into this knowing deep in my soul one thing being true, and that is that Emily clearly would never do dry needling because you have mentioned in at least six episodes so far that you're afraid of needles. And would never, like, do Botox or anything like that simply because you don't want someone injecting something into you. And then you kind of casually mention offhand, like, oh yeah, like I had needles in me that they were putting electric current through.
+
+Emily Oster: Right. I have done this where they stick the needles in and they put, like, jumper cables on them and they go like... Yeah. And then they get your muscle to contract a lot.
+
+F. Perry Wilson: Um, what muscle? Why were you doing this?
+
+Emily Oster: I was injured.
+
+F. Perry Wilson: Were they trying to extract information from you?
+
+Emily Oster: It was in the service of recovery.
+
+F. Perry Wilson: Were you in Eastern...
+
+Emily Oster: I can't remember. It was my very, uh, mean, uh, chiropractor who always fixes everything. His name is Dennis. Um, and I don't know, he said that, uh, this would fix my problem, and I feel like it did. Which is a comment about the rest of the episode.
+
+F. Perry Wilson: Okay, so I'm starting this episode incredibly surprised, also hearing that Emily has a chiropractor. I don't know what I'm gonna do with that. I'm going to take that in as we go into the break. We are going to talk about cupping and dry needling today. This is a two-for-one episode. Um, we'll start with cupping. Smash or pass cupping, then move on to dry needling, do the same thing. So I want to start with cupping, and I'm going to play you a clip from a sciency-talking influencer online, you know, saying like, "What is this cupping stuff that people are talking about?"
+
+(Audio clip plays)
+"So you've probably seen those dark circular bruises on people's backs before, and you're probably like, 'What is that and why are they doing that to themselves?' Although it looks painful, those bruises are actually a sign of healing. This is a therapy called cupping, and this is the science behind why so many people are getting it done for its amazing benefits. For over 3,000 years, cupping was an ancient practice that helped people accelerate their body's healing. The practice was documented in ancient Egypt and China, and it was also endorsed by Hippocrates. And so how cupping works is that it applies a gentle vacuum pressure upon the surface of the skin and tissues. And it's more than just pulling on your skin. Studies have shown that cupping dilates your blood vessels to improve circulation, removes metabolic waste by improving your lymphatic drainage, and supports the local immune function in that area. And past randomized controlled trials show that cupping is an amazing complementary therapy, helping people with chronic lower back or neck pain, fibromyalgia, and even migraines. And even better, cupping helps you fight stress by improving your body's parasympathetic tone and also regulating the stress hormone called cortisol. Key takeaway here is don't judge a book by its bruised cover. Cupping is one of those ancient practices fused with modern science that shows it accelerates your body's healing."
+
+F. Perry Wilson: Walk me through what do you think when you hear that off the top.
+
+Emily Oster: This is ridiculous. It's the same thing I think when I see—I mean, I just, like, that is my first reaction. My brother has this done actually.
+
+F. Perry Wilson: Oh, alright.
+
+Emily Oster: Um, and he's always showing up to family vacations with these, like, bruise... not bruises, but these things all over his...
+
+F. Perry Wilson: Oh no, they're bruises.
+
+Emily Oster: Okay. He's always showing up with all of these things all over himself, and, uh, I always just think it's ridiculous, and I make fun of him, as one does with one's siblings.
+
+F. Perry Wilson: Yeah, I mean, you should always make fun of your siblings, but, um, we do need to check what the evidence actually shows. I mean, one of the things when, um, our listeners are hearing that... um, there are things that often show up in this space that sound legitimate and kind of aren't. One is called the argument from antiquity, which, you know, he said, um, you know, for at least 3,000 years people have been doing this. Um, and implicit in that statement is like, well, it must work if people have been doing it for 3,000 years. And of course, there's countless counterexamples of things that people have done for a very long time, um, like bleeding people for diseases.
+
+Emily Oster: Had other ideas.
+
+F. Perry Wilson: Uh, you know, crushing witches under large stones and other things that they did for an awfully long time that probably weren't a good idea. So I always kind of when I hear the argument from antiquity, I kind of roll my eyes. I'm like, "Alright, but we can do better than that."
+
+Emily Oster: Yeah, I agree with that. I also... I want to take a step back on both cupping and dry needling because I think this is a place where we are going to have to engage aggressively with the placebo effect. So we talk about the placebo effect a lot. Just to be clear, the placebo effect refers to the fact that when you do something to someone or have somebody take something or tell them in some way something might make them better, even if you did nothing, even if the pill you give them is a sugar pill, even if the cups are not effective and do nothing, you are still likely to get people to respond because they think something's going to happen.
+
+F. Perry Wilson: Yeah.
+
+Emily Oster: And that is a very, very powerful effect, uh, and it works in ways that are, like, even more... this works even better than we think. Um, so one piece of this is that placebo effects tend to work better when people believe that they're going to work. So if you believe in something, it's more likely to show up as a placebo. Uh, the second thing, and this is I think my most interesting fact about placebo effects, is that you can get a placebo effect even if you tell someone it's a placebo. So if you tell someone, "I am giving you a sugar pill, but a lot of people find that it helps," even though there's nothing in this pill, you will get a placebo effect. Versus telling them, you know, versus not telling them that, right? Like, people can get the placebo effect even if they know it's fake.
+
+F. Perry Wilson: Right, and I think like that's... it's crazy.
+
+Emily Oster: So interesting. But what that means for this stuff is, or for any kind of attempt at a causal inference of some treatment, is you really need to generate a placebo feeling in everyone. So if you give people a vaccine, we give everybody a vaccine. We don't just give half the people a vaccine and tell the other people, "Well, you're in the control group." We give them a vaccine of something else so they think that they got the vaccine.
+
+F. Perry Wilson: Yeah. Or some different placebo or something like that. They have to believe.
+
+Emily Oster: Yeah. It is very difficult to do that kind of placebo-controlled trial with something where the result of the treatment is to end up with giant welts all over yourself because it's like, what is the fake welt? Yeah. You know, and it comes up in the needling stuff too, like, people have to know that they did this. And we can talk about how studies try to control for this. But for me, this whole space is, like, very wrapped up in the fact that it could just be all the placebo effect or a huge share of it.
+
+F. Perry Wilson: Yeah, when we talk about the studies, we'll try to flag when studies are, quote, "sham-controlled," which is the idea being that they do something to you, it's the equivalent of a placebo, but as you're pointing out, this is a case where that's very... like, how do you do that, right? And what... we'll talk about that and whether it's adequately controlled. The other thing I want to say about placebo effects is that there are certain, um, outcomes that are more amenable to placebo and some that are less so. Subjective outcomes, things like pain, mood, um, uh, energy, fatigue, things that you kind of self-report are quite susceptible to placebo effects. You know, things like death, LDL cholesterol, stuff like that, did you get this infectious disease... those are more objective and, and although there are actually some studies that even show placebo effects in those areas, they generally are not as strong as we'll see in this area. And so when you come to wellness things like cupping and dry needling, it's like a perfect storm of okay, is this placebo? Is something biological actually happening? Um, and there's one other whole set of things that we'll hit on here, as long as we're taking a 50,000-foot view before we really dive in, and that's something called co-intervention bias. So, um, a classic example of co-intervention bias: let's say I have a new blood pressure drug, and I'm going to test it against placebo. So I got a sugar pill and a new blood pressure drug. And I split my group in half, and half get the blood pressure drug, half get the placebo. And, um, but you know, in the group that gets the blood pressure drug, I call them once a week to check in to see if they're having any side effects. I know the placebo people aren't having side effects, it's a sugar pill, but I'm a little worried, so I'm going to call once a week and be like, "Hey, like, how you doing? You feel lightheaded? What's going on?" That interaction is another intervention, a co-intervention that is being applied just to one group. And so when you design these studies, you have to be really careful that you're not testing other things.
+
+Emily Oster: Right. So you actually need to call the placebo group and be like, "Are you having any side effects?" Like you've got to do the whole thing.
+
+F. Perry Wilson: And then they probably are because that's how the placebo...
+
+Emily Oster: Like, "Yes, actually, I feel my cup is very... I've been farting so much."
+
+F. Perry Wilson: 100%. When it comes to practices like cupping and dry needling and acupuncture and chiropracty and everything, there's a set of co-interventions that aren't just the cups going on you. You're in a nice dark room, there's, like, calm music playing, another human is there and, like, talking to you and putting their hands on your body. And these in and of themselves can have powerful biologic effects. Um, and psychological effects. And so we really have our work cut out for us to try to tease out the unique marginal benefit of, you know, adding a cup to this lovely, lovely other quiet room. Alright, so, uh, let's start with... for the uninitiated, there are basically three kinds of cupping. So please tell me what these are and why you don't want the one called fire.
+
+Emily Oster: You don't want fire cupping.
+
+F. Perry Wilson: You don't want fire cupping. Sounds awesome. I don't want wet cup.
+
+Emily Oster: Alright, let's start.
+
+F. Perry Wilson: Okay, most of the cupping you're going to see online is dry cupping. And what this is, is you... it is literally a cup, like a suction cup. You put it on a part of your body—you'll see people with it on their back, but like any place that it'll stick—and you suck the air out, typically with a little vacuum pump, and it sucks the skin up into it. Usually, the vacuum is quite strong, in fact strong enough to break the capillaries under the skin, which causes bleeding under the skin.
+
+Emily Oster: That's bruising.
+
+F. Perry Wilson: That's a bruise.
+
+Emily Oster: That's a bruise.
+
+F. Perry Wilson: That's what it is. Those cup marks are bruises. Um, that's called dry cupping. Wet cupping is the same thing, but the practitioner nicks the skin, um, before they put the suction cup on, so it actually...
+
+Emily Oster: Isn't this just bleeding? Isn't this just... Don't we have a thing called bleeding?
+
+F. Perry Wilson: We're getting real close now. We're real close. It's like a...
+
+Emily Oster: Where are the leeches? Could you put leeches on and then put the cup on top of the leech and then...
+
+F. Perry Wilson: I mean, that would not be good for the leech, I'm sure. If we go...
+
+Emily Oster: Yeah, I don't think the leech likes that.
+
+F. Perry Wilson: But, um, but yes. So that's... that's... now you're, like, sucking the blood out a little bit as you're, as you're sucking. Um, fire cupping is just kind of a cool and more dangerous way of creating the vacuum. So instead of a vacuum pump, what you do is you light a little piece of paper or, like, a... I think it's a cotton swab soaked in alcohol, you know. And you... so you light it, you put it under the, um, under the cup before it's on the person's body so hot air gets inside. And then you stick the cup on the person, and as the hot air cools, it contracts. Right? And that creates the... like a low-tech... it's just like a lower-tech version.
+
+Emily Oster: Lower-tech version. Um, why are people doing this? What is the point of this activity?
+
+F. Perry Wilson: Here's the argument you see. The argument is, and I've seen this many, many times, is like massage is good.
+
+Emily Oster: I agree with that.
+
+F. Perry Wilson: But in massage, we push on you. Okay, and it compresses things. And this is like massage, but the opposite. Like, we pull. It's going to open up your muscles. It is going to, like, stretch things out and let things kind of flow around and stuff like that. Okay, what do you think?
+
+Emily Oster: I mean, I think it seems ridiculous. I like... But you know, I guess that's what data is for. I mean, this feels... I might have said the same about massage, and I think we... again, well, we can talk about that in another episode. But, uh, but I guess this is a place where I'm not totally clear on the biological plausibility. And I think part of the issue is it's in a lot of these discussions, it's actually not at all clear, like, what is the outcome we're looking at, right? So it's a lot of these is like with toxins... Oh, yeah, we're doing... we're going to put this on, it's going to pull out the toxins. Like, that's not how... first of all, that's what your kidneys are... liver. You have all these organs, internal organs for dealing with the toxins. But also, just like, pulling on your skin is not... it's not like pulling out. That doesn't make any sense. It's a stupid idea. Really dumb for toxins, absolutely. So that's just bullshit. That's straight up bullshit. Nothing is coming out of your skin, even the wet needling when, like, a little bit of blood is coming out of your skin. Like, it's blood, your kidneys are going to filter way more blood. Um, I've said this before, but I'll say it again. The kidneys filter 100 milliliters of blood per minute. Right? All day long. That's a lot. That's a lot of blood. That cycles through your entire blood volume, like, 25 times a day. You're not getting that much out from, uh, uh, from wet cupping. And also, it's not like it gets cleaned and given back. And put it back. It's just like you just lose it. And it's like, and how would it know to take out the bad blood anyway? Right? Whatever. This is stupid. Um, but okay, so let's... I let's just put toxins aside. I want to go to musculoskeletal because I think that's where, like, the most biological plausibility is. And one of the videos I saw felt more like massage than the others. So you'll see videos where there's just like cups, cups, cups, cups, cups. Like someone's entire back is just lined with these suction cups. And yeah, there I'm like, that's what my brother does.
+
+Emily Oster: That's what your brother does. Okay.
+
+F. Perry Wilson: Um, and also, like, Michael Phelps does. Right? Like you see athletes that are doing this, etc. Um, then I saw a video where a person took a cup, they had kind of, um, I guess they had, like, lathered up the skin a little bit so they could make a seal. Uh, I think it was on the guy's leg, and they were moving the cup up and down the leg, so it was sucking and they were kind of moving it. And I was like, "Okay, that's massage with extra steps." Right? Like it feels a little bit like the arguments for foam rolling or something. Like basically some kind of, like, fairly aggressive, like, muscle interaction that sort of causes some muscle breakdown which then should come back better, which I think is the idea behind foam rolling, is my understanding.
+
+Emily Oster: Yeah, um...
+
+F. Perry Wilson: You know, I was thinking about massage versus cupping too. And like this argument that, oh, massage is compressing and cupping is whatever the opposite of compressing is, tensing. Um, and but then I was like, actually, you know what? Massage also, like, stretches. Like you're not just pushing straight down. Right? You're moving, which means, like, you're obviously you are pulling tissue aside and, like, letting stuff flow and whatnot. Um, so is this just a kind of massage?
+
+Emily Oster: I think there are ways to do this that it's just a kind of massage. And that's probably fine. Like if you're taking the cup and moving it around and not causing the, like, capillaries to break in the skin and causing big bruises, then maybe it's just a kind of fancy massage, and if it feels good, that's okay.
+
+F. Perry Wilson: Do we have any data that would suggest that this is good?
+
+Emily Oster: Uh, sure. There's always data.
+
+F. Perry Wilson: There's always data. Yeah, um, I want to talk, I think, about, uh, chronic non-specific low back pain. Everybody loves chronic non-specific low back pain. This is, like, a very common problem that people have. A hugely common problem. Um, and you know that trope that's like, "Doctors hate this?"
+
+Emily Oster: Okay, that's...
+
+F. Perry Wilson: Doctors do hate that. I hate this, yeah. And the reason I hate it is because I have no great treatments for chronic non-specific low back pain. I mean, I have, like, physical therapy and exercise and weight loss, but it's just... those things are hard for people to do. And it goes on and on and on. Um, okay, so I have a study here from the Journal of Physiotherapy, 2021. Um, dry cupping versus sham for chronic non-specific low back pain. We've got 90 people. 45 got dry cupping. 45 got sham, uh, cupping, um, for four weeks. And they followed up at eight weeks. And both groups had a modest improvement in chronic non-specific low back pain in the end, including the sham cupping group.
+
+Emily Oster: Right. And I will say this is...
+
+F. Perry Wilson: There was no significant difference in that study. And it's actually quite difficult to sham cup someone because, just like, people know if you are putting a cup on and sucking things out and they're ending up with, like, giant bruises versus just like someone put a cup on you. Like, people... these people are not idiots, you know. It's like...
+
+Emily Oster: So unless you're putting the cup on and then, like, coloring it in or something...
+
+F. Perry Wilson: I don't... like, I don't know, what is the thing you do to make people think that you gave them a somewhat painful, bruising... this is... I don't think this is comfortable.
+
+Emily Oster: It's not.
+
+F. Perry Wilson: It's not like a funsy. It hurts. It hurts, absolutely. Like, it's really sucking up.
+
+Emily Oster: This is an example where I don't even know why sham... I mean, I guess you had a little bit of the sham. You told it... maybe you told people, like, maybe if you never had this before and you had... is that... maybe that's the case? You never had this before, and you don't know what it's a thing to expect, and so you just think it's someone waving cups around over you. Like maybe then that's still... I mean...
+
+F. Perry Wilson: And anyway, didn't find anything. So I guess what they did here, just to give them some credit, is they they had special cups that had a little, like, valve in it, and so it would suck... like, they would put it on and they would apply the suction, and then, like, a few seconds later all the air would, like, leak back in. So you did feel a little bit, like, and then it would, like, deflate. So maybe that's why it didn't... it didn't work.
+
+Emily Oster: This is also not in a very good... I mean, a lot of these papers that try to talk about this aren't... actually not in very good journals. And I think that can be hard for people to tease out.
+
+F. Perry Wilson: Tease out, like, why is the Journal of, you know, this...
+
+Emily Oster: And the more... I feel some... the more words are in the title of the journal, the worse it is. Not always true. Uh, but it can be difficult to figure out is this really something where it got aggressive peer review and some real experts looked at it, or is it just, you know, you paid the journal $1,000 and they publish your paper? Which definitely there are many journals like that.
+
+F. Perry Wilson: Yeah, yeah, absolutely. I guess I mean, my feeling on this whole space is, like, it's very, very unlikely that this has anything but a tiny marginal impact. But if it is something that people like and they feel like it helps them, then maybe that's... maybe that's fine.
+
+Emily Oster: Well, that's what we always come down with placebo, right? Yeah, it's like if it's just... if it's just, you know, what... what's the harm? You know, you're spending some money. We'll go through some harms; there are some actually interesting case reports of harms. Um, but I do want to give one more uh, potential positive for for cupping, which is, um, which is in blood flow. Okay, so it would make sense maybe that if you, like, suction a lot, that, like, more blood would flow to that area. And that has been shown, um, with uh laser flowometry, uh, which is a technique to measure blood flow. Um, and pretty significant increases, um, in blood flow. Like 10 to 15-fold increases.
+
+F. Perry Wilson: Um, that does sound obviously like a lot. Like, oh my God, I'm increasing blood flow by 10 to 15 times in this local area of the...
+
+Emily Oster: And that's actually pretty similar to what happens if you were to, like, burn your skin or get a sunburn or any other injury. Like your body is pretty good at, um, recognizing when injury happens and directing a lot of blood flow to that area. Um, you know, maybe injuring an area of skin is good? Like in the long run, maybe it, you know... I don't know.
+
+F. Perry Wilson: For what? Well, for what? Um, for yeah, I got nothing. I don't know. I mean, yeah, I think to say like this injures you and then blood goes there to treat the injury, okay, sure.
+
+Emily Oster: Where have we gotten ourselves? A super system. But I'm not sure, like, I think we would want to see the second phase of okay, and then you feel better later, which is the part that's, that's missing, right? Um, and when we talk about that injury, the other thing I saw online about cupping is people interpreting the bruising, like, as if it means something. Right? So like this color bruising means your blood has more toxins, and this means less toxins, and stuff. And like you can inter... it's like if it's green, you're fucked. If it's a green bruise, like, just forget it.
+
+F. Perry Wilson: Yeah, yeah, or you're a Vulcan. Um, hello Tamar. Hello. Um, so, uh, so yeah, these are just... these are bru... like you can do this to yourself. You probably did. You ever kinda like sucked on your...
+
+Emily Oster: Absolutely. Yeah, until you, like, gave yourself a hickey.
+
+F. Perry Wilson: You call that a hickey. It's a hickey. It's like an adult... it's like a Dr. Hickey basically. It's a Dr. Hickey. Um, alright. Should we talk about risks?
+
+Emily Oster: Yeah, there are some risks. I think the first thing to say is it was when you cut into your skin you could get infected. So wet... something where you cut your skin and then you pull some of the blood out, like, this is always a risk for infection. And so there are cases of infection. And also just like anytime you're injured, there's anytime you cut yourself, there's a risk of infection. And that is part of the reason you shouldn't do that.
+
+F. Perry Wilson: Yes, um, you could also burn yourself if there was fire. You can burn yourself with fire and you can get infected if you cut yourself. So yeah, let's stick... let's stick with dry cup at best.
+
+Emily Oster: Yup. Uh, and then there are... there... you can get a hematoma, which Dr... Dr. Perry told me a hematoma is...
+
+F. Perry Wilson: Well, okay, so a hematoma is a bruise, but what this type of hematoma is a subdural hematoma, which is a bleed on the outside of your brain. Um, there have been three case reports I found in the literature of subdural hematoma from cupping. Um, these were people who are getting cupping on their necks. So like right at the base of the, uh, occipital bone here on the bottom of your skull and your neck for chronic neck pain. There are some very delicate blood vessels in there that go up into your brain. And, you know, I guess what had happened here is that when they sucked that up, they damaged those blood vessels. Again, that's what the marks are, it's broken capillaries. But in this case, these would have been, um, veins probably that broke and that bled under the skull and above the brain, which can compress the brain and is generally a bad thing. So you do want to be careful.
+
+Emily Oster: Alright, and, uh, if it's just bruises, are bruises dangerous?
+
+F. Perry Wilson: I mean, not really. Although, um, you can get iron deposits... like permanent staining of the skin from the iron in blood if bruises are bad enough. So there's some aesthetic risk there. Some people who are very prone to scar formation, like keloid formation, can get keloids from repeated, uh, cupping, which is also, um, you know, aesthetic but, like, probably not... probably not ideal.
+
+Emily Oster: Great. And, and certainly if you're talking about wet cupping, right? Scarring...
+
+F. Perry Wilson: Yes, scarring.
+
+Emily Oster: Yeah. You don't cut yourself, uh, you could get an infection, you get a scar.
+
+F. Perry Wilson: Okay. Perry, are you a smash or pass on the cupping?
+
+Emily Oster: I am, uh, passing on the cupping. Just get a massage, folks. It's alright.
+
+F. Perry Wilson: I am also a strong pass on a thing where you put hot needles...
+
+Emily Oster: And no hot... I'm a strong pass on hot cups and all the cups. All the cups. Hot cups, cold cups. No. Forget it. No, no bruising. Uh, but it's okay to be in your cups from time to time. That's an old-timey way of saying drunk.
+
+F. Perry Wilson: I think drunk.
+
+Emily Oster: Yeah, yeah. From... we can cut that out.
+
+F. Perry Wilson: That's from when Perry and I were in college and people were necking and giving each other hickeys.
+
+Emily Oster: Yeah, that's what we remember, kids. Remember hickeys, uh, from the '90s. They were great. They're coming back.
+
+F. Perry Wilson: They're coming back on your back. Let's move on to dry needling. Um, so, uh, I'm going to show you a video now. There's no audio here, Emily, but I wanted to... I just want you to describe what you're seeing. We'll put this on the YouTube, but like for people who are listening in audio, just talk me through what you're seeing.
+
+Emily Oster: Alright, so there's a guy, he's laying on his face. And someone is putting a needle into him. They're pushing it way far into his... aha... into his like a shoulder muscle and just moving it up and down like because stabbing... stab keeps going... the caption on this thing says, "still going"... okay, I'm done poking it down there. That's dry needling.
+
+F. Perry Wilson: Okay, so dry needling... yes, it's a... you put... you stick the needle in. It looks actually a bit like acupuncture. Um, quite, quite a bit like acupuncture. But the needle goes much further in. Uh, and is typically sort of, or at least in some cases, kind of moved around. Uh, there are kinds of dry needling that involve uh electronic stimulation where you stick in the needles and you hook up...
+
+Emily Oster: That's what you got.
+
+F. Perry Wilson: That's what I got. And you hook up a system to it and you, like, run some current through it and it, like, the muscles... uh, and that is also uncomfortable. Um, and so yeah, it's a... the idea, I think, is that you are damaging the tissue and that that then promotes healing. This is my general understanding of this is that is it is another way to try to in a targeted manner, like, tell your body, "Come over here and fix this up nice, because it's like we're having some problems with this, this area." That's my sense.
+
+Emily Oster: I think that's the generous interpretation of, of what's happening here.
+
+F. Perry Wilson: That's what the chiropractor said.
+
+Emily Oster: Okay. Um, I want to draw a distinction between wet needling... just like what do we... why dry needling? And the answer is that doctors uh inject substances into you all the time. Sure. Um, and so I don't know if you've ever had like a cortisone injection into joints or...
+
+F. Perry Wilson: Oddly, no.
+
+Emily Oster: Oh, okay. Um, I'm sure it's coming. It's coming, you know, or lidocaine injections or whatever. And so you have a hollow needle and you stick it in somewhere and you inject. That's a wet injection. Um, but people, I think appropriately asked when it came to things like cortisone injections in the knee, they're like, "Is it the cortisone that we're injecting, or is it just the fact that we're sticking a needle in there?" And some of the sham-controlled studies of wet injection, which just were like, well, we'll stick a needle in and not do anything.
+
+F. Perry Wilson: Also effect, right?
+
+Emily Oster: And so either it's called the placebo effect, guys, either it's a placebo... it's there's something about the needle itself. Um, and so now you have needles that are... I mean, some dry needling practitioners will use hollow needles, but oftentimes it's just a solid needle. Like, there's not even a... you're not pretending to inject anything. It's um, it's, it's that. There's another piece of this, which you sometimes hear, which is this idea like we're going to stick it in a muscle knot. So a lot of what people like to use dry needling for is, like, you know, releasing trigger points. So it's like there's sort of different ways to, to release these muscle trigger points. But this is like you stick it in. I think it's almost like people have in their mind like it's literally like a, like a shoelace knot. And if you like got something in there, the knot would, like, really... it didn't work for shoelaces either. But I think that... but if you look at the AI that people are putting out, there's so much AI on Instagram of, like, look what happens, and the needle goes in and like this like literal knot of a muscle dissolves. And it's like, okay, wait, if you're showing AI, then clearly you don't have any actual images of this.
+
+F. Perry Wilson: Yes. Um, I can... I went on such a deep rabbit hole...
+
+Emily Oster: Okay.
+
+F. Perry Wilson: ...about muscle knots. And I honestly don't know if I'm in a place where my natural social awkwardness is limiting my understanding of this.
+
+Emily Oster: Okay, okay.
+
+F. Perry Wilson: So trigger points is the medical term. It's associated with something called myofascial pain syndrome. A real syndrome of chronic muscular pain that seems to be exacerbated... there are like certain points in the muscle that are hypersensitive that are often linked to you know what the lay people would call knots. Like when you're giving someone a massage and you're like, "There's a knot, and I'm working out the knot."
+
+Emily Oster: Okay. I haven't given many massages in my life.
+
+F. Perry Wilson: Okay. Or receive them.
+
+Emily Oster: Okay. So so far it's going... the story is going good.
+
+F. Perry Wilson: See, uh, social... I just don't like being touched in that way.
+
+Emily Oster: Okay.
+
+F. Perry Wilson: But I will say, when I was like a theater kid in high school and there was just lots of massages going on, people would be like, "Ooh, you've got such a knot here." And I was like, "I don't know that I do." Like, there were tender part... like, obviously there were parts that hurt more or hurt less. And then when I was massaging people, they'd be like, "Oh, that's a knot." And like, I, I didn't know that I ever felt it. I was like, "Is this... is this a collective hallucination that there are actually, like, physical..." Like I felt bones, you know, you can feel like there are bones underneath, or like is there no such thing as muscle knots is what I'm asking. Or do I not... lack the human contact to understand this?
+
+Emily Oster: I think there... Okay, I don't really know what it would mean for... it's not like the muscle tied in a knot.
+
+F. Perry Wilson: I know that. I'm saying like, is there a lump? Like I feel bumps, but I think it's just like...
+
+Emily Oster: I don't think you're right. Because I, I think it is very clear if you that, like, you... if you are doing this even on yourself... like, and you... you... there are places where you can where I can feel... this is the closest Emily and I have ever gotten to giving each other massages... right here, where there's like a knot in my... I, I think this is a real thing, but I'm not sure.
+
+F. Perry Wilson: What I think this is a real thing.
+
+Emily Oster: Okay.
+
+F. Perry Wilson: I went deep enough in this to look at the imaging.
+
+Emily Oster: You looked at science, you didn't just... you're not just basing your information on, like, my things that happened to my leg last week, which is what I'm basing this on.
+
+F. Perry Wilson: So I was thinking biologic. If you, um... if you circle back to the creatine episode we were talking about, um, uh, exercising to failure. Which, which is this idea that, like, muscles can only contract until they run out of ATP and then they just... and you fall down flat on your face. So the idea that there's a knot in my muscle that's like continuously contracting seems biologically implausible to me.
+
+Emily Oster: Sure.
+
+F. Perry Wilson: And so then I looked at, like, MRI studies and ultrasound studies to see what the imaging correlates of a trigger point would be. So like, if, if I... if I using my hands feel a trigger point, like, how... what do we see on ultrasound or, or what do we see on, um, on MRI? Um, so there was an MRI study. These are small studies. So 10 people got an MRI. A practitioner palpated the trigger points and marked them and then looked for MRI, like... not blinded, like knowing where the trigger points were... looked for differences on the MRI scan between, uh, you know, the trigger point and other parts of the muscle. And they found like one difference on a very specific type of MRI, uh, spin called MTRPT2, which had a value that's meaningless to me but was 33 milliseconds versus 29 milli... to me for normal. So it wasn't like on MRI, like, this part of the muscle is bright white and this is black. Like, this is pretty subtle. Ultrasound did a little better. Um, nine people with myofascial pain syndrome and a known trigger point, the ultrasound found local areas of reduced vibration amplitude over the trigger point. Like, I guess it didn't... like it didn't jiggle as much as it should.
+
+Emily Oster: Um, I literally don't... I'm like, I'm not... I'm not... I'm, I'm just trying to, like, chase this data down. Maybe it's hard. But I guess I'm wondering, the premise of dry needling is that you're putting them in a specific place that matters, similar to acupuncture. Like, you're looking for the trigger point and you're putting the needle there. And maybe it doesn't... maybe you just need to be in the muscle, full stop.
+
+F. Perry Wilson: Yeah, I mean, I think that that is my read of, of the dry needling. I, I'm... I find your deep dive on this totally fascinating. I still think there are muscles, but that's... it's interesting. But I... my sense of of kind of the the broader picture of the dry needling is that a lot of it is you have a muscle or something which is sore or, like, needs attention. And this is a way to, like, bring more attention to it. And the thing is, there's a million different... in the sports space, there's like a million different ways that people think about doing this in an effort to, like, address sort of sore muscles in particular, not just trigger points.
+
+Emily Oster: Not just trigger points.
+
+F. Perry Wilson: So things like... I mean, I would put foam rolling in this category. Like, you know, I... there's a thing called muscle scraping. There's like a... you, like a muscle scraper. And you basically just like scrape, scrape, scrape, scrape, scrape on your muscle over the top of the skin. Over the top of the skin. And that... and the idea is like it, it like injures it, sort of injures it, but then it increases es the blood flow. And I think this is the same kind of space. Uh, which is different from the idea of I'm sticking a needle in and releasing a trigger point, which feels I agree un... unlike yeah... like maybe a little... it's not quite like we're we're finding energy meridians and, and... but it's it's it's close.
+
+Emily Oster: Okay. Um, as usual, let's go to the data. Is there any actual evidence that this, uh, that this improves things?
+
+F. Perry Wilson: Can I give you one more biologically plausible factor aside just increasing like telling your... telling your body that there's a problem here is that, um, pain dampens pain. So, um, if you like stub your toe, you might find you'll feel better if you actually like rub it, squeeze it, right? Or even if you, like, rub or squeeze another part of your body. Um, so you can overcome the pain signals in part of, uh, in part of your body by, like, engendering further pain.
+
+Emily Oster: Isn't that just a short-term... like, it's pretty short. It is like this feels like all all these things are should be looking for like I did this and then 4 days later I feel better.
+
+F. Perry Wilson: Yeah, yeah, yeah. And that's not... that's not you're hitting someone on the head and then they're like, "Oh yeah, my knee doesn't hurt that much now that you hit me in the head with a hammer." It's like, yeah...
+
+Emily Oster: Okay. I guess my point is it's not just distraction. It literally like the signal doesn't get to your brain.
+
+F. Perry Wilson: Um, okay, let's talk about the data. Um, we've got we got a lot of studies here. I mean, should we should we do shoulder pain because that's what I'm interested in? Let's do shoulder pain, and then we can do we can do knee pain because that's what I'm interested in problems.
+
+Emily Oster: Um, alright. Talk to me about, uh, let's see. This is a study from, um, the journal Pain Reports.
+
+F. Perry Wilson: Pain Reports. Exactly. High impact factor journal, which I find is, like, so... uh, so you know, this is a study with active and sham control groups. There's 20 people in each group. All these studies are super, super small. Uh, the there is a dry needling effect which is significantly different between the the, uh, active and the sham, uh, and the sham group. It's kind of on the, I would say on the margin of of significance. It's not, you know, it's not our most significant thing. But of course it's a very small, uh, it's a very small study. So you know, uh, I don't know, do we believe in sham? Is I feel like sham dry needling is easier than sham cupping because you put the needle in, like, in a less... like if you feel a little pinch in your skin, you could convince me that you're doing something right.
+
+Emily Oster: Yeah, I think it's... it feels easier to do this. And also, if you think, I mean, there's actually pretty good sham acupuncture, for example, which is where you like acupuncture in the the wrong places. Now, that's particularly easy because acupuncture is supposed to be about a specific location here. You have to do a general... generally the sham acupuncture, uh, uh, studies show that it works as well as regular acupuncture.
+
+F. Perry Wilson: That's definitely what... better than nothing. Better than nothing, but just the same as... Yeah, so yeah, I thought this was interesting. The again, the effects are fairly, they're fairly small, and they're not like wildly significant, they don't last like forever, so I don't know.
+
+Emily Oster: Um, the knee pain study is quite a bit bigger.
+
+F. Perry Wilson: It's big.
+
+Emily Oster: Yeah. Um, so this is coming to you from the Clinical Journal of Pain in 2018. Um, this is a study of 242, uh, participants with knee osteoarthritis. Um, half of them got six weeks of electrical dry needling, like the kind that you got, um, and uh uh manual therapy, which is just like, you know, massage and stuff like that, and exercise. And the other group just got manual therapy and exercise. Um, this had a pretty dramatic effect actually. Um, so in terms of, like, a significant improvement based on this global rating of change scale, 75% in the dry needling group had a successful outcome, um, compared to 18% in the just manual therapy and exercise group at 3 months. Um, of course, the problem here is that it's not... there's no sham control here. But still a pretty big effect size, I thought.
+
+F. Perry Wilson: This was an interesting... I mean, I think there's an interesting thing here which relates a bit to your point about co co-intervention. Which is like what they're doing here is they're doing this and they're doing exercise. And like they're do... they're sort of layering this on top of other things. And so one interpretation of what they find, which I'm not sure in the study they actually give me enough information to figure this out, but like if I think that the pain... that the dry needling is going to make it more possible for me to exercise. Like if this is going to improve my engagement with the exercise because I think I feel better, then you like layer on top of this... of the placebo effect, also the kind of like, "Well, the exercise is more effective because you're doing it more because you think it's going to work better." And then it's like both more exercise and more needling, right right right kind of shows up. So I I think there's a sort of like a like an additive place. I don't know, like, and we know exercise is good, right?
+
+Emily Oster: Well, it's like, um, not just placebo, I... we should probably consider this for its own episode, but, um, what's that, like, kinetic tape that people...
+
+F. Perry Wilson: KT tape. Yeah.
+
+Emily Oster: Yeah. I I haven't looked at the data yet, but I'm suspicious that that can do much. Um, but you're right. If just having it makes you feel like I can work out a little harder, maybe work out a little harder.
+
+F. Perry Wilson: Right. And that that actually does make you feel better.
+
+Emily Oster: Yeah. So I I that was my a little bit of my read of this, because the effects are very, the effects are very big. I mean, knee pain is known to be very, very susceptible to placebo effects. I mean, some of our very best placebo stuff is in, like, even knee surgery, where like you can show that, uh, that just cutting someone's knee open and telling them that they were in knee surgery is, like, basically as good as actual knee surgery.
+
+F. Perry Wilson: Right, right. Well, what happens after you get fake knee surgery is you get physical therapy, right? Regardless.
+
+Emily Oster: It's probably very good for your... yeah. Um, uh, totally. Yeah. So, I mean, again, I think with all of these things, like, it's... ah, is it the placebo? Like, and does it matter? That's always I always want to ask that with, like, would it like, does it matter? Like the thing that that is... unless if it's not Jane, we can get into harms. But if it doesn't ma... if it if there's no real harm...
+
+F. Perry Wilson: Yeah, we'll talk about harms, and, and there's cost. But also even in a good randomized trial, even with a sham control, um, what you almost never get is an active comparator control, which is: should I, like, given my, uh, knee pain, should I do dry needling or cupping or physical therapy or aqua therapy or... right? So you know, it's, it's actually not hard in a lot of the wellness space to find small studies that appear to be decently done that might suggest some benefit of a given intervention. Um, we've talked about publication bias. Like, you're probably not seeing all the studies that, you know, don't show an effect and all that kind of stuff. Um, but you know, the, the real question for you is: "Okay, I've got this problem. What's the best way to fix it?" And some of the... I in the end, I often come back to biologic plausibility. Like, I want the thing that is the most plausible and has the best data, as opposed to just anything that has data is good enough.
+
+Emily Oster: I also think this layers... your belief about this layers on top of these placebo effects, right? Because in some sense, like, the thing you should do if you thought there were a ton of things that were vaguely plausible but a lot... probably a lot of it was driven by effect... you should pick the one you believe in because that's the one where you're going to get the best...
+
+F. Perry Wilson: Faith is strong enough, exactly.
+
+Emily Oster: So it's like if you think dry needling is the thing that works, that's the one you should pick. If you think cupping is the thing that's worked, that's what you should pick. If you think like... you pick the one that you think... I mean, that's how you're getting, that's how you're getting your most effective...
+
+F. Perry Wilson: Listen, are you saying that people basically should stop listening to this podcast where we're like, "I don't know about this," and just go with their gut? Go with your gut!
+
+Emily Oster: No, no, it's like you need to keep listening so you have support for your gut. Okay. Uh, for your different knee pain problems. But you do have to think about risks. So let's talk about risks of dry needling. Generally the risks are fairly small. I mean, again, we sort of talked about cutting yourself and pulling blood out. Here you are sticking, you are sticking needles into yourself. There's, you know, there's bleeding, uh, you know, major events are pretty, are pretty rare. There are some pneumothorax risks which, uh, are more of a problem.
+
+F. Perry Wilson: Yeah. Which are more of a problem. So, um, I don't know if you knew this, but TJ Watt, the linebacker from the Pittsburgh Steelers...
+
+Emily Oster: I don't really follow football other than Taylor Swift related football news.
+
+F. Perry Wilson: Um, I think Taylor's okay. Um, in December of, uh, last year, he got taken to the hospital for, like, a lung issue, um, and what it turned out was that he had a pneumothorax from dry needling. Um, and so, uh, what a pneumothorax is, is a collapsed lung. And it's... it's... it's actually pretty interesting. So the way the lungs work is that, you know, you've got this diaphragm that sort of moves up and down, um, and the lungs are in the chest and there's essentially a vacuum between the outside of the lung and the inside of the chest wall. So as the diaphragm goes down, the only place air can go to fill that vacuum is into the lung. There's no path into the inside of the chest wall. Okay, but if you create a path into the inside of the chest wall and your diaphragm goes down, then air goes into the chest instead of in through your mouth and into the lungs. And that has the effect of just collapsing the lung as if it were, um, like a balloon. It's like a popped balloon. It pops a balloon. Um, and it... we get quite scared about this in medicine, um, sure. Because we do stick a lot of... You are using your lungs all the time, people need them, it turns out. And we stick a lot of needles in this area, particularly in people who are pretty sick. Like, um, we'll put in a central venous catheter for example, in the internal jugular vein, which is, you know, right here. Um, for those of you listening, I'm just like pointing to my neck. But, um, the top of the lung, the top of the pleura is pretty darn close. And we'll use ultrasound and stuff to make sure that we're not violating that space because then you get a pneumothorax, um, which you can fix, but you have to rein... you have to reinflate the lung. Um, I have had this complication. I...
+
+Emily Oster: Yep, I like... on yourself?
+
+F. Perry Wilson: No, um... No, no. Fortunately on someone I was trying to take care of. No, much worse. Um, I was dry needling myself and I just... No, I was, uh... I was putting a central line in the ICU in this, uh, this guy, very skinny, very little tissue above his lungs. To give myself a little bit of a defense here. And you know, this is a known complication. We consent people, we tell them that this is something that could happen. Um, and we always get an x-ray right after we put in one of these lines to make sure there's no pneumothorax. And it's like 3:00 a.m. in the ICU and I get the x-ray and it comes up, and I'm like... you know. And I had to call... it's embarrassing because you have to call surgery and, like, I'm a medical doctor and I'm like, "Hi guys, you know, can you, can you fix my problem?" And they come and they put in a chest tube and it's fine. But it's not great. And so what happened to TJ Watt is he was getting dry needling in the trapezius muscle right here in your neck, and you just go too deep, you hit the lung. That's... and of, uh, there was a report of the of a case series of 17 serious complications from, uh, dry needling. Um, and 15 of the 17 were pneumothorax. So your lungs are closer to the surface than you think. You really do have to be careful about this.
+
+Emily Oster: Right. So a little more careful if you're doing it up in your neck. Are you a smash or pass on dry needling, Perry?
+
+F. Perry Wilson: I'm... I, you know, I have never had it done. Uh, I am a, I'm a pass on this again. I, I, I don't think it's worth the potential risks. I still think getting a nice massage in a quiet dark room with some nice music playing is going to make you feel good. Emily, you had this done. It made you feel better.
+
+Emily Oster: Yeah, I'm a smash. I'm a smash, uh, I'm a smash if you believe in it. And I, I will say I, I, based on my experience, I believe in it, and so if I, if I had a similar related injury, I would probably do it again.
+
+F. Perry Wilson: Yeah, alright. Alright, that is it for...
+
+Emily Oster: But not in my neck. Not in my neck. Maybe not your back or anywhere where... just more legs. In my leg, I would do it in my legs. I'm smashing the legs. Not otherwise. That's it for cupping and dry needling.
