@@ -13,6 +13,9 @@ import html as htmlmod
 from datetime import datetime
 from pathlib import Path
 
+import build_rss
+import prerender_nav
+
 
 EPISODES_FOLDER_ID = '1qhx8vF3m6Gd9eYUEntLoeAtaVgZ7N-Si'
 
@@ -300,13 +303,21 @@ TRANSCRIPT:
     ]
 
     message = client.messages.create(
-        model="claude-opus-4-7",
-        max_tokens=4096,
+        model="claude-opus-4-8",
+        max_tokens=16000,
         system=system,
         tools=tools,
         tool_choice={"type": "tool", "name": "create_article"},
         messages=[{"role": "user", "content": user}],
     )
+
+    # A truncated response silently drops whatever the model was mid-writing —
+    # the FAQs went missing this way once. Fail loudly instead.
+    if message.stop_reason == "max_tokens":
+        raise RuntimeError(
+            "Claude hit the max_tokens limit and the article was truncated. "
+            "Increase max_tokens in call_claude() and re-run."
+        )
 
     for block in message.content:
         if block.type == "tool_use":
@@ -327,6 +338,128 @@ def clean_article_html(article_html):
         print(f"[sanitize] stripped {first_tag} chars of non-HTML preamble from article body.")
         html = html[first_tag:]
     return html
+
+
+def validate_links(article_html, script_text):
+    """Every href must appear verbatim in the vetted Drive script.
+
+    The prompt instructs the model to only use script URLs, but mislinks have
+    shipped twice — this makes the rule mechanical. With no script available,
+    the article must contain no links at all.
+    """
+    hrefs = [htmlmod.unescape(h) for h in re.findall(r'href="([^"]+)"', article_html)]
+    if script_text:
+        bad = sorted({h for h in hrefs if h not in script_text})
+    else:
+        bad = sorted(set(hrefs))
+    if bad:
+        sys.exit(
+            "ERROR: article contains link(s) that do not appear verbatim in the vetted "
+            "episode script:\n  " + "\n  ".join(bad) +
+            "\nRefusing to publish. Every hyperlink must come from the Drive SCRIPT doc."
+        )
+    print(f"[links] {len(hrefs)} link(s) verified against the episode script."
+          if hrefs else "[links] article contains no hyperlinks.")
+
+
+def strip_em_dashes(data):
+    """House style bans em-dashes; enforce it deterministically."""
+    count = 0
+
+    def fix(s):
+        nonlocal count
+        if '—' in s:
+            count += s.count('—')
+            s = s.replace(' — ', ', ').replace('— ', ', ').replace(' —', ', ').replace('—', ', ')
+        return s
+
+    for key in ('headline', 'meta_description', 'episode_title', 'article_html'):
+        if isinstance(data.get(key), str):
+            data[key] = fix(data[key])
+    for f in data.get('faqs') or []:
+        f['question'] = fix(f['question'])
+        f['answer'] = fix(f['answer'])
+    if count:
+        print(f"[sanitize] replaced {count} em-dash(es) with commas (house style).")
+    return data
+
+
+def fetch_episode_link(date_iso, episode_title=None):
+    """Find this episode's Apple Podcasts URL via the iTunes Lookup API.
+
+    Same API the update-podcast.yml homepage workflow uses. Matches by title
+    first; a date-proximity match is only accepted when the episode name
+    shares a topic word with the article's episode title, because episodes
+    can air on adjacent days and the nearest date alone can pick the wrong
+    one. Returns the episode URL, or None to fall back to the show page
+    (e.g. when the article is generated before the episode is live on Apple).
+    """
+    import urllib.request
+
+    def norm(s):
+        return re.sub(r'\s+', ' ', re.sub(r'[^a-z0-9 ]', ' ', s.lower())).strip()
+
+    boilerplate = {'what', 'whats', 'the', 'deal', 'with', 'and', 'for', 'about'}
+
+    def topic_words(title):
+        return {w for w in norm(title).split() if w not in boilerplate and len(w) >= 3}
+
+    try:
+        api_url = "https://itunes.apple.com/lookup?id=1633515294&entity=podcastEpisode&limit=200"
+        payload = json.loads(urllib.request.urlopen(api_url, timeout=30).read())
+        target = datetime.strptime(date_iso, '%Y-%m-%d')
+        episodes = []
+        for item in payload.get('results', []):
+            if item.get('kind') != 'podcast-episode' or not item.get('trackViewUrl'):
+                continue
+            try:
+                released = datetime.strptime(item.get('releaseDate', '')[:10], '%Y-%m-%d')
+            except ValueError:
+                continue
+            episodes.append((released, item))
+
+        if episode_title:
+            exact = [i for _, i in episodes if norm(i['trackName']) == norm(episode_title)]
+            if len(exact) == 1:
+                print(f"[episode] matched Apple episode by title: {exact[0]['trackName']}")
+                return exact[0]['trackViewUrl']
+
+        best = None
+        for released, item in episodes:
+            delta = abs((released - target).days)
+            if delta <= 3 and (best is None or delta < best[0]):
+                best = (delta, item)
+        if best:
+            name = best[1]['trackName']
+            if episode_title and not (topic_words(episode_title) & topic_words(name)):
+                print(f"[episode] nearest-dated episode '{name}' does not match topic "
+                      f"'{episode_title}'; using show link rather than risk a mislink.")
+                return None
+            print(f"[episode] matched Apple episode: {name} ({best[1]['releaseDate'][:10]})")
+            return best[1]['trackViewUrl']
+        print(f"[episode] no Apple episode within 3 days of {date_iso}; using show link.")
+    except Exception as e:
+        print(f"[episode] iTunes lookup failed ({e}); using show link.")
+    return None
+
+
+def render_episode_jsonld(episode_title, date_iso, episode_url):
+    payload = {
+        "@context": "https://schema.org",
+        "@type": "PodcastEpisode",
+        "name": episode_title,
+        "datePublished": date_iso,
+        "partOfSeries": {
+            "@type": "PodcastSeries",
+            "name": "Wellness, Actually",
+            "url": "https://fperrywilson.com/podcast/"
+        }
+    }
+    if episode_url:
+        payload["url"] = episode_url
+    body = json.dumps(payload, indent=2, ensure_ascii=False)
+    indented = '\n'.join('  ' + line for line in body.split('\n'))
+    return f'  <script type="application/ld+json">\n{indented}\n  </script>\n'
 
 
 def render_faq_jsonld(faqs):
@@ -370,7 +503,7 @@ def render_faq_section(faqs):
     )
 
 
-def build_episode_html(data, date_iso, date_display):
+def build_episode_html(data, date_iso, date_display, episode_url=None):
     headline = data['headline']
     slug = data['slug']
     meta_desc = data['meta_description']
@@ -379,6 +512,15 @@ def build_episode_html(data, date_iso, date_display):
     faqs = data.get('faqs') or []
     faq_jsonld = render_faq_jsonld(faqs)
     faq_section = render_faq_section(faqs)
+    episode_jsonld = render_episode_jsonld(episode_title, date_iso, episode_url)
+    show_apple_url = ('https://podcasts.apple.com/us/podcast/'
+                      'wellness-actually-with-emily-oster-perry-wilson-md/id1633515294')
+    apple_url = episode_url or show_apple_url
+    episode_title_html = (
+        f'<a href="{episode_url}" target="_blank" rel="noopener noreferrer" '
+        f'style="color: inherit;"><strong>"{episode_title}"</strong></a>'
+        if episode_url else f'<strong>"{episode_title}"</strong>'
+    )
 
     return f"""<!DOCTYPE html>
 <html lang="en">
@@ -445,7 +587,7 @@ def build_episode_html(data, date_iso, date_display):
     ]
   }}
   </script>
-{faq_jsonld}</head>
+{episode_jsonld}{faq_jsonld}</head>
 <body>
 
   <nav class="nav" id="nav">
@@ -484,9 +626,9 @@ def build_episode_html(data, date_iso, date_display):
 {faq_section}
     <div style="margin-top: 56px; padding: 32px; background: #f3ede6; border-left: 4px solid var(--color-accent); border-radius: 0 4px 4px 0;">
       <p style="font-family: var(--font-mono); font-size: 0.75rem; text-transform: uppercase; letter-spacing: 0.12em; color: var(--color-accent); margin-bottom: 8px;">Wellness, Actually Podcast</p>
-      <p style="font-size: 1.05rem; margin-bottom: 20px;"><strong>"{episode_title}"</strong> — Listen to the full episode, including the week's health news and listener Q&amp;A.</p>
+      <p style="font-size: 1.05rem; margin-bottom: 20px;">{episode_title_html} — Listen to the full episode, including the week's health news and listener Q&amp;A.</p>
       <div style="display: flex; gap: 12px; flex-wrap: wrap;">
-        <a href="https://podcasts.apple.com/us/podcast/wellness-actually-with-emily-oster-perry-wilson-md/id1633515294" target="_blank" rel="noopener noreferrer" class="btn btn-primary">Apple Podcasts</a>
+        <a href="{apple_url}" target="_blank" rel="noopener noreferrer" class="btn btn-primary">Apple Podcasts</a>
         <a href="https://open.spotify.com/show/5igTryEwHMmAJfODAFKp3W" target="_blank" rel="noopener noreferrer" class="btn btn-outline">Spotify</a>
         <a href="https://www.iheart.com/podcast/1119-wellness-actually-with-em-99325147/" target="_blank" rel="noopener noreferrer" class="btn btn-outline">iHeart</a>
       </div>
@@ -533,14 +675,16 @@ def update_podcast_index(slug, headline, date_iso, date_display, meta_desc):
 
     # Extract existing entries between <!-- EPISODES-START --> and the next blank line / closing tag
     entry_pattern = re.compile(
-        r'      <div class="media-item">.*?</div>\n      </div>\n',
+        r'      <div class="media-item"[^>]*>.*?</div>\n      </div>\n',
         re.DOTALL
     )
-    existing_entries = entry_pattern.findall(content)
+    matched = entry_pattern.findall(content)
 
-    # Remove all existing entries from content
-    for entry in existing_entries:
+    # Remove all existing entries from content; drop any stale entry for this
+    # same slug so a re-run replaces rather than duplicates it
+    for entry in matched:
         content = content.replace(entry, '')
+    existing_entries = [e for e in matched if f'href="/podcast/{slug}.html"' not in e]
 
     # Build new entry
     new_entry = f"""      <div class="media-item" data-date="{date_iso}">
@@ -595,14 +739,21 @@ def update_episodes_js(slug, headline):
 def update_sitemap(slug, date_iso):
     sitemap_path = Path('sitemap.xml')
     content = sitemap_path.read_text(encoding='utf-8')
-    new_entry = f"""  <url>
+    # Bump the article-listing page's lastmod, since it changes with every episode
+    content = re.sub(
+        r'(<loc>https://fperrywilson\.com/podcast/</loc>\s*<lastmod>)[^<]+(</lastmod>)',
+        rf'\g<1>{date_iso}\g<2>', content)
+    if f'<loc>https://fperrywilson.com/podcast/{slug}.html</loc>' in content:
+        print(f"[sitemap] entry for {slug} already present; not adding a duplicate.")
+    else:
+        new_entry = f"""  <url>
     <loc>https://fperrywilson.com/podcast/{slug}.html</loc>
     <lastmod>{date_iso}</lastmod>
     <changefreq>yearly</changefreq>
     <priority>0.7</priority>
   </url>
 """
-    content = content.replace('</urlset>', f'{new_entry}</urlset>')
+        content = content.replace('</urlset>', f'{new_entry}</urlset>')
     sitemap_path.write_text(content, encoding='utf-8')
 
 
@@ -627,6 +778,17 @@ def main():
     transcript_text = transcript_path.read_text(encoding='utf-8')
     date_iso, date_display = parse_date_from_filename(transcript_path.stem)
 
+    # The transcript filename seeds the article date, sitemap entry, and RSS
+    # pubDate. A wrong year here poisons all of them (it happened once:
+    # 2025-05-27 instead of 2026-06-04), so sanity-check before generating.
+    age_days = (datetime.now() - datetime.strptime(date_iso, '%Y-%m-%d')).days
+    if (age_days > 90 or age_days < -14) and '--allow-odd-date' not in sys.argv:
+        sys.exit(
+            f"ERROR: article date {date_iso} (parsed from the transcript filename) is "
+            f"{abs(age_days)} days in the {'past' if age_days > 0 else 'future'}. "
+            "Check the year/format of the transcript filename, or pass --allow-odd-date to override."
+        )
+
     print("Looking for vetted episode script in Drive...")
     script_text = fetch_drive_script(transcript_path.stem)
     if script_text:
@@ -636,13 +798,30 @@ def main():
 
     print("Calling Claude to generate article...")
     data = call_claude(transcript_text, script_text=script_text)
+    if not data.get('faqs'):
+        print("Model returned no FAQs; retrying once...")
+        data = call_claude(transcript_text, script_text=script_text)
+        if not data.get('faqs'):
+            sys.exit("ERROR: model returned no FAQs after retry. Every episode page needs the "
+                     "FAQ section and FAQPage schema for rich-result eligibility.")
+
+    data = strip_em_dashes(data)
+    data['article_html'] = clean_article_html(data['article_html'])
+    validate_links(data['article_html'], script_text)
+
+    desc_len = len(data['meta_description'])
+    if not 130 <= desc_len <= 165:
+        print(f"WARNING: meta description is {desc_len} chars (target 150-160). "
+              "Consider tightening it during PR review.")
 
     slug = data['slug']
     headline = data['headline']
     print(f"Generated: '{headline}' → podcast/{slug}.html")
 
+    episode_url = fetch_episode_link(date_iso, data['episode_title'])
+
     # Write episode page
-    episode_html = build_episode_html(data, date_iso, date_display)
+    episode_html = build_episode_html(data, date_iso, date_display, episode_url=episode_url)
     output_path = Path(f'podcast/{slug}.html')
     output_path.parent.mkdir(exist_ok=True)
     output_path.write_text(episode_html, encoding='utf-8')
@@ -653,6 +832,12 @@ def main():
     update_sitemap(slug, date_iso)
     update_episodes_js(slug, headline)
     print("Updated podcast/index.html, sitemap.xml, and js/episodes.js")
+
+    # Keep the crawlable internal-link chain and the feed in sync. These were
+    # manual checklist steps before and drifted every time they were skipped.
+    prerender_nav.main()
+    build_rss.main()
+    print("Pre-rendered episode nav on all pages and rebuilt podcast/rss.xml")
 
     set_output('slug', slug)
     set_output('headline', headline)

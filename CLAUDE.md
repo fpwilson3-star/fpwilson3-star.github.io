@@ -9,9 +9,36 @@ this. Previously at methodsman.com (which now redirects here).
 ```
 index.html          — Single-page site with all sections
 css/style.css       — All styles (editorial/magazine aesthetic)
-images/             — Local images (if any added later)
+images/             — Local images (OG images, covers, headshot)
+podcast/            — One SEO article per episode + index.html listing + rss.xml
+js/episodes.js      — EPISODES array (oldest-first); source of truth for episode order
+transcripts/        — Episode transcripts; pushing one triggers article generation
+scripts/            — generate_episode_post.py, build_rss.py, prerender_nav.py,
+                      check_site.py, retrofit_episode_links.py (idempotent: adds
+                      episode-specific Apple links + PodcastEpisode schema to
+                      any episode page missing them; title-first matching)
+.github/workflows/  — generate-episode-post.yml (transcript → article PR),
+                      site-checks.yml (runs check_site.py on every push/PR)
+sitemap.xml         — All pages; episode entries added by the generator
 CLAUDE.md           — This file (Claude Code context)
 ```
+
+## Sitemap freshness policy
+`<lastmod>` must reflect real content changes — Google trusts the field only
+when it is consistently truthful, so never bump dates artificially. Automation
+keeps it honest: the episode generator stamps each new article and bumps
+`/podcast/`, and update-podcast.yml bumps `/` when the weekly latest-episode
+box changes. The one manual case: when substantively editing an existing
+episode page, also update its sitemap `<lastmod>` and the page's JSON-LD
+`dateModified` to the edit date.
+
+## Validation — run after touching anything under /podcast/
+`python scripts/check_site.py` verifies every episode page is consistently
+listed in podcast/index.html, js/episodes.js, sitemap.xml, and podcast/rss.xml;
+that dates match everywhere and are not in the future; that every page has a
+visible FAQ exactly matching its FAQPage schema; and that the pre-rendered
+prev/next nav matches the chain in js/episodes.js. CI runs it on every push to
+main and every PR, so a broken state fails loudly — run it locally first.
 
 ## Sections (in order)
 1. **Hero** — Name, title, photo, tagline
@@ -60,6 +87,16 @@ Put them in `images/` and reference with relative paths.
 
 ## Transcript to Article Workflow
 
+**The transcript filename sets the article date.** Name transcripts
+`YYYY-MM-DD-topic.txt` using the episode air date — that date becomes the
+article's published_time, JSON-LD dates, byline, sitemap lastmod, and RSS
+pubDate. A wrong year once shipped an article dated 2025 instead of 2026; the
+generator now refuses dates more than 90 days old or 14 days in the future
+(`--allow-odd-date` overrides). Don't rename an already-merged transcript —
+any push touching `transcripts/*.txt` re-triggers generation and will open a
+duplicate-article PR. To re-run generation deliberately, use the workflow's
+manual "Run workflow" button (workflow_dispatch) instead.
+
 There are two paths into this workflow, and both must source hyperlinks from the same place:
 
 - **Automated path (default).** When a transcript is pushed to `transcripts/`, the GitHub Action `.github/workflows/generate-episode-post.yml` runs `scripts/generate_episode_post.py`. That script (a) fetches the vetted episode SCRIPT doc from Google Drive via service-account credentials, (b) passes the script content into a single Anthropic API call, and (c) instructs the model to use ONLY those URLs for hyperlinks. If Drive is unavailable or no script is found, the article ships without hyperlinks rather than guessing.
@@ -71,6 +108,16 @@ Steps either way:
 2. Identify every specific study mentioned in the transcript (by finding, paper, trial name, or author).
 3. For each study, look it up in the SCRIPT. If found, link the relevant phrase inline using its URL. If not found, leave it as plain text.
 4. **Never fabricate, guess, or WebSearch for URLs.** Trust on this site depends on every link being one the host vetted.
+
+The generator script enforces the link rule mechanically: every `href` in the
+generated article must appear verbatim in the Drive SCRIPT text (zero links
+allowed if no script was found), or the run fails. It also hard-fails on
+truncated model output and missing FAQs, strips em-dashes, warns on
+off-length meta descriptions, replaces (rather than duplicates) entries on
+re-runs, and looks up the episode's Apple Podcasts URL via the iTunes API
+(same one update-podcast.yml uses) to link each article to its specific
+episode and emit `PodcastEpisode` JSON-LD. When editing articles by hand,
+honor the same rules.
 
 ### Google Drive episode scripts
 
@@ -152,11 +199,16 @@ The generator script also produces a visible FAQ section (collapsible `<details>
 ```
 
 ### After publishing a new episode page
-1. Add it to `podcast/index.html` inside `<!-- EPISODES-START -->` (newest first)
-2. Add it to `sitemap.xml` with `<changefreq>yearly</changefreq>` and the correct `<lastmod>` date
-3. Add it to `js/episodes.js` EPISODES array (oldest-first order) — powers the prev/next nav on all episode pages
-4. Run `python scripts/build_rss.py` to regenerate `podcast/rss.xml`
-5. Pre-render the prev/next nav server-side inside `<div id="episode-nav">` (see existing episode pages), so crawlers follow the internal links without running JS
+
+`scripts/generate_episode_post.py` does all of this automatically. When
+creating or editing an episode page by hand:
+
+1. Add it to `podcast/index.html` inside `<!-- EPISODES-START -->` (newest first, with a `data-date` attribute)
+2. Add it to `sitemap.xml` with `<changefreq>yearly</changefreq>` and the correct `<lastmod>` date; bump the `/podcast/` entry's `<lastmod>` too
+3. Add it to `js/episodes.js` EPISODES array (oldest-first order) — the source of truth for prev/next nav
+4. Run `python scripts/prerender_nav.py` — bakes the prev/next nav into every page's `<div id="episode-nav">` so crawlers follow the links without JS. This also updates the previously-newest page, whose nav otherwise dead-ends at "Newest article".
+5. Run `python scripts/build_rss.py` to regenerate `podcast/rss.xml`
+6. Run `python scripts/check_site.py` — must pass before committing (CI enforces it)
 
 ## Key Links
 - Medium: https://fperrywilson.medium.com/

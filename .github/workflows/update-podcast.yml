@@ -63,6 +63,20 @@ jobs:
               with open('index.html', 'w') as f:
                   f.write(new_content)
               print("index.html updated.")
+
+              # The homepage content changed, so its sitemap lastmod should say so
+              today = datetime.utcnow().strftime('%Y-%m-%d')
+              with open('sitemap.xml', 'r') as f:
+                  sitemap = f.read()
+              new_sitemap = re.sub(
+                  r'(<loc>https://fperrywilson\.com/</loc>\s*<lastmod>)[^<]+(</lastmod>)',
+                  rf'\g<1>{today}\g<2>',
+                  sitemap,
+              )
+              if new_sitemap != sitemap:
+                  with open('sitemap.xml', 'w') as f:
+                      f.write(new_sitemap)
+                  print("sitemap.xml homepage lastmod updated.")
           EOF
 
       - name: Commit and push if changed
@@ -70,7 +84,7 @@ jobs:
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
           git diff --quiet && echo "No changes to commit." || (
-            git add index.html &&
+            git add index.html sitemap.xml &&
             git commit -m "Update latest podcast episode" &&
             git push
           )

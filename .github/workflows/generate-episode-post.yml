@@ -27,11 +27,16 @@ jobs:
         id: find_transcript
         run: |
           if [ "${{ github.event_name }}" = "workflow_dispatch" ]; then
-            TRANSCRIPT="${{ inputs.transcript }}"
+            ALL="${{ inputs.transcript }}"
           elif [ "${{ github.event.before }}" = "0000000000000000000000000000000000000000" ]; then
-            TRANSCRIPT=$(git show --name-only --format="" HEAD | grep '^transcripts/.*\.txt$' | head -1)
+            ALL=$(git show --name-only --format="" HEAD | grep '^transcripts/.*\.txt$' || true)
           else
-            TRANSCRIPT=$(git diff --name-only ${{ github.event.before }} ${{ github.sha }} | grep '^transcripts/.*\.txt$' | head -1)
+            ALL=$(git diff --name-only ${{ github.event.before }} ${{ github.sha }} | grep '^transcripts/.*\.txt$' || true)
+          fi
+          TRANSCRIPT=$(echo "$ALL" | head -1)
+          COUNT=$(echo "$ALL" | grep -c . || true)
+          if [ "$COUNT" -gt 1 ]; then
+            echo "::warning::This push touched $COUNT transcripts but only '$TRANSCRIPT' will be processed. Generate the others by running this workflow manually (Actions -> Generate Episode Blog Post -> Run workflow) with each transcript path."
           fi
           if [ -z "$TRANSCRIPT" ]; then
             echo "No transcript found, skipping."
@@ -56,6 +61,10 @@ jobs:
           ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
           GOOGLE_DRIVE_CREDENTIALS: ${{ secrets.GOOGLE_DRIVE_CREDENTIALS }}
         run: python scripts/generate_episode_post.py "${{ steps.find_transcript.outputs.transcript }}"
+
+      - name: Validate site consistency
+        if: steps.find_transcript.outputs.transcript != ''
+        run: python scripts/check_site.py
 
       - name: Create Pull Request
         if: steps.find_transcript.outputs.transcript != ''
