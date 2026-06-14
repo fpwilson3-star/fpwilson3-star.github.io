@@ -24,6 +24,8 @@
 
     { slug: 'do-cupping-and-dry-needling-actually-work', title: 'Do Cupping and Dry Needling Actually Work? What the Evidence Says' },
 
+    { slug: 'does-addyi-work-low-sexual-desire-women', title: 'Does Addyi (Flibanserin) Actually Work for Low Sex Drive in Women?' },
+
   ];
 
   const linkStyle = 'font-family:var(--font-mono);font-size:0.85rem;color:var(--color-accent);text-decoration:none;';
