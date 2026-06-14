@@ -11,13 +11,96 @@ import json
 import re
 import html as htmlmod
 from datetime import datetime
+from html.parser import HTMLParser
 from pathlib import Path
+from urllib.parse import urlparse, parse_qs, unquote
 
 import build_rss
 import prerender_nav
 
 
 EPISODES_FOLDER_ID = '1qhx8vF3m6Gd9eYUEntLoeAtaVgZ7N-Si'
+
+
+class _GDocTextExtractor(HTMLParser):
+    """Render a Google Docs HTML export to text while preserving the real
+    destination URL of every inline hyperlink.
+
+    This exists because Google Docs' text/plain export silently drops inline
+    hyperlinks (URLs attached to words rather than pasted as bare text). On the
+    HSDD episode that stripped every study citation out of the script, so the
+    model only saw the one bare URL and the article shipped with a single link.
+    Exporting HTML and re-inserting each link's URL right after its anchor text
+    keeps the URL adjacent to the study it documents, which is exactly what both
+    the model prompt and validate_links() depend on.
+    """
+
+    BLOCK = {'p', 'div', 'br', 'li', 'tr', 'h1', 'h2', 'h3', 'h4', 'h5', 'h6'}
+    SKIP = {'style', 'script', 'head'}
+
+    def __init__(self):
+        super().__init__(convert_charrefs=True)
+        self.parts = []
+        self._href = None
+        self._skip_depth = 0
+
+    @staticmethod
+    def _unwrap(href):
+        # Google wraps external links as https://www.google.com/url?q=REAL&sa=...
+        if not href:
+            return None
+        if 'google.com/url' in href:
+            qs = parse_qs(urlparse(href).query)
+            if qs.get('q'):
+                href = qs['q'][0]
+        href = unquote(href)
+        return href if href.startswith('http') else None
+
+    def handle_starttag(self, tag, attrs):
+        if tag in self.SKIP:
+            self._skip_depth += 1
+            return
+        if self._skip_depth:
+            return
+        if tag == 'a':
+            self._href = self._unwrap(dict(attrs).get('href'))
+        if tag in self.BLOCK:
+            self.parts.append('\n')
+
+    def handle_startendtag(self, tag, attrs):
+        if not self._skip_depth and tag in self.BLOCK:
+            self.parts.append('\n')
+
+    def handle_endtag(self, tag):
+        if tag in self.SKIP and self._skip_depth:
+            self._skip_depth -= 1
+            return
+        if self._skip_depth:
+            return
+        if tag == 'a' and self._href:
+            # Put the URL right after the linked text so it stays attached to
+            # the specific study it documents.
+            self.parts.append(f' ({self._href})')
+            self._href = None
+        if tag in self.BLOCK:
+            self.parts.append('\n')
+
+    def handle_data(self, data):
+        if not self._skip_depth:
+            self.parts.append(data)
+
+    def get_text(self):
+        text = ''.join(self.parts)
+        text = re.sub(r'\n[ \t]*\n[ \t]*\n+', '\n\n', text)
+        return text.strip()
+
+
+def gdoc_html_to_text(content):
+    """Convert a Google Docs text/html export (bytes or str) to link-preserving text."""
+    html_str = content.decode('utf-8', 'replace') if isinstance(content, bytes) else content
+    parser = _GDocTextExtractor()
+    parser.feed(html_str)
+    return parser.get_text()
 
 
 def parse_date_from_filename(stem):
@@ -170,14 +253,17 @@ def fetch_drive_script(stem):
         script = scripts[0]
         print(f"[drive] exporting script: {script['name']}")
 
-        # Export Google Doc as plain text. Native binary types would need files().get_media().
+        # Export the Google Doc as HTML, not text/plain: text/plain drops inline
+        # hyperlinks, which is how the host attaches most study URLs. We convert
+        # the HTML back to text but keep each link's real URL inline next to its
+        # anchor. Native binary types would need files().get_media().
         if script['mimeType'] == 'application/vnd.google-apps.document':
             content = service.files().export(
-                fileId=script['id'], mimeType='text/plain'
+                fileId=script['id'], mimeType='text/html'
             ).execute()
             # Note: files().export does not accept supportsAllDrives; it works on any
             # file the service account can read, including shared-drive content.
-            return content.decode('utf-8') if isinstance(content, bytes) else content
+            return gdoc_html_to_text(content)
         print(f"[drive] script has unexpected mimeType {script['mimeType']}; skipping.")
         return None
 
