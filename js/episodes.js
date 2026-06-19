@@ -26,6 +26,8 @@
 
     { slug: 'does-addyi-work-low-sexual-desire-women', title: 'Does Addyi (Flibanserin) Actually Work for Low Sex Drive in Women?' },
 
+    { slug: 'how-much-sleep-do-you-need', title: 'How Much Sleep Do You Actually Need? What the Science Says' },
+
   ];
 
   const linkStyle = 'font-family:var(--font-mono);font-size:0.85rem;color:var(--color-accent);text-decoration:none;';
