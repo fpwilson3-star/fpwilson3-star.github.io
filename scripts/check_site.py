@@ -29,6 +29,7 @@ from pathlib import Path
 
 sys.path.insert(0, str(Path(__file__).parent))
 import prerender_nav  # noqa: E402
+import episode_blocks  # noqa: E402
 
 SITE = 'https://fperrywilson.com'
 errors = []
@@ -60,6 +61,8 @@ def main():
     pages = {p.stem for p in Path('podcast').glob('*.html')} - {'index'}
     episodes = prerender_nav.parse_episodes()  # oldest-first [(slug, title)]
     js_slugs = [s for s, _ in episodes]
+    related_order = [s for s, _ in reversed(episodes)]  # newest-first
+    title_by_slug = dict(episodes)
     index_entries = parse_index()
     index_slugs = [s for _, s in index_entries]
     index_dates = {s: d for d, s in index_entries}
@@ -72,12 +75,19 @@ def main():
     rss_dates = {}
     for link, pub in rss_pairs:
         rss_dates[link] = datetime.strptime(pub, '%a, %d %b %Y %H:%M:%S +0000').strftime('%Y-%m-%d')
+    llms_path = Path('llms.txt')
+    if llms_path.exists():
+        llms_slugs = re.findall(r'/podcast/([^/.]+)\.html', llms_path.read_text(encoding='utf-8'))
+    else:
+        err('llms.txt is missing (run scripts/build_llms_txt.py)')
+        llms_slugs = []
 
     # No file may list the same episode twice (e.g. from a re-run of the generator)
     for name, slugs in [('podcast/index.html', index_slugs),
                         ('js/episodes.js', js_slugs),
                         ('sitemap.xml', [s for s, _ in sitemap_pairs]),
-                        ('podcast/rss.xml', [s for s, _ in rss_pairs])]:
+                        ('podcast/rss.xml', [s for s, _ in rss_pairs]),
+                        ('llms.txt', llms_slugs)]:
         for slug in sorted({s for s in slugs if slugs.count(s) > 1}):
             err(f'{slug}: listed more than once in {name}')
 
@@ -85,7 +95,8 @@ def main():
     for name, listed in [('podcast/index.html', set(index_slugs)),
                          ('js/episodes.js', set(js_slugs)),
                          ('sitemap.xml', set(sitemap_lastmod)),
-                         ('podcast/rss.xml', set(rss_dates))]:
+                         ('podcast/rss.xml', set(rss_dates)),
+                         ('llms.txt', set(llms_slugs))]:
         for slug in sorted(pages - listed):
             err(f'{slug}: missing from {name}')
         for slug in sorted(listed - pages):
@@ -122,6 +133,27 @@ def main():
             if block.get('@type') == 'Article':
                 if block.get('datePublished') != pub:
                     err(f'{slug}: JSON-LD datePublished {block.get("datePublished")} != {pub}')
+                # AEO: the article must tie its author to the homepage Person @id
+                if (block.get('author') or {}).get('@id') != episode_blocks.PERSON_ID:
+                    err(f'{slug}: Article JSON-LD author missing @id {episode_blocks.PERSON_ID} '
+                        '(run scripts/retrofit_author_aeo.py)')
+
+        # 6. AEO: visible "Short answer" box and "About the author" block present
+        if episode_blocks.TLDR_MARKER not in src:
+            err(f'{slug}: missing "Short answer" box (run scripts/retrofit_author_aeo.py)')
+        if episode_blocks.AUTHOR_BIO_MARKER not in src:
+            err(f'{slug}: missing "About the author" block (run scripts/retrofit_author_aeo.py)')
+
+        # 7. AEO: related-episodes block present and fresh
+        m = re.search(r'<div id="related-episodes"[^>]*>(.*?)</div>', src, re.DOTALL)
+        if not m:
+            err(f'{slug}: missing <div id="related-episodes"> (run scripts/prerender_nav.py)')
+        elif slug in js_slugs:
+            expected = episode_blocks.render_related_inner(
+                [(s, title_by_slug[s]) for s in episode_blocks.compute_related(slug, related_order)])
+            if m.group(1).strip() != expected.strip():
+                err(f'{slug}: related-episodes block is empty or stale '
+                    '(run scripts/prerender_nav.py)')
 
         # 4. FAQ presence and visible/schema parity
         faq = next((b for b in jsonld_blocks(src) if b.get('@type') == 'FAQPage'), None)

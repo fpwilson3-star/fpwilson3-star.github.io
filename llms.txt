@@ -1,0 +1,39 @@
+# F. Perry Wilson, MD MSCE
+
+> Yale physician, clinical researcher, and science communicator. Director of the Clinical and Translational Research Accelerator (CTRA) at Yale. Host of the Wellness, Actually podcast with Emily Oster and author of How Medicine Works and When It Doesn't.
+
+F. Perry Wilson is a nephrologist and Associate Professor of Medicine and Public Health at Yale University. His work focuses on separating medical fact from fiction through rigorous analysis of the evidence. This site collects his evidence-based podcast episode articles, his book, his popular writing, media appearances, research, and teaching.
+
+## Main pages
+- [About F. Perry Wilson](https://fperrywilson.com/#about): Bio, credentials (Harvard College, Columbia P&S, Penn), and board certifications in internal medicine and nephrology.
+- [Wellness, Actually podcast](https://fperrywilson.com/#podcast): Weekly evidence-based wellness podcast co-hosted with economist Emily Oster, distributed by iHeartMedia.
+- [How Medicine Works and When It Doesn't](https://fperrywilson.com/#book): His 2023 book (Grand Central Publishing) on evaluating medical claims and knowing who to trust.
+- [Understanding Medical Research (Coursera)](https://www.coursera.org/learn/medical-research): Free Yale course on how to critically evaluate medical studies.
+- [CTRA at Yale](https://medicine.yale.edu/internal-medicine/ctra/): The clinical and translational research lab he directs.
+
+## Episode articles
+Evidence-based deep dives, one per podcast episode. Each answers a specific wellness question with what the research actually shows.
+- [How Much Sleep Do You Actually Need? What the Science Says](https://fperrywilson.com/podcast/how-much-sleep-do-you-need.html): Most adults need about 7 hours of sleep. Here's what really helps insomnia, why sleep apnea is underdiagnosed, and what sleep trackers can and can't tell you.
+- [Does Addyi (Flibanserin) Actually Work for Low Sex Drive in Women?](https://fperrywilson.com/podcast/does-addyi-work-low-sexual-desire-women.html): Hypoactive sexual desire disorder is a real diagnosis with FDA-approved drugs. Here is what the evidence on Addyi, Vyleesi, and testosterone actually shows.
+- [Do Cupping and Dry Needling Actually Work? What the Evidence Says](https://fperrywilson.com/podcast/do-cupping-and-dry-needling-actually-work.html): A nephrologist breaks down what cupping and dry needling actually do, what the studies show, and where the real risks are, from bruises to collapsed lungs.
+- [Is red meat actually bad for you? What the evidence really shows](https://fperrywilson.com/podcast/is-red-meat-actually-bad-for-you.html): A nephrologist breaks down what the evidence on red meat, saturated fat, LDL, and cancer risk actually says, and where the science gets oversold.
+- [Does methylene blue actually do anything? What the evidence says](https://fperrywilson.com/podcast/does-methylene-blue-actually-work.html): Methylene blue is the wellness world's newest darling. I'm a nephrologist. Here's what the evidence actually shows about energy, memory, mood, and risk.
+- [Do Psychedelics Actually Work for Depression, PTSD, and Addiction? What the Evidence Says](https://fperrywilson.com/podcast/do-psychedelics-actually-work.html): A rigorous look at what psychedelics like psilocybin, MDMA, and ibogaine actually do to the brain, and whether the data supports the hype around mental health.
+- [Does bovine colostrum actually do anything?](https://fperrywilson.com/podcast/does-bovine-colostrum-actually-work.html): Bovine colostrum is everywhere in wellness marketing. Here's what the evidence actually shows about performance, immunity, leaky gut, and safety.
+- [Does testosterone replacement therapy actually work? What the evidence says about TRT](https://fperrywilson.com/podcast/does-testosterone-replacement-therapy-actually-work.html): A nephrologist breaks down testosterone replacement therapy: who actually benefits, what the trials show, the real risks, and why most claims are overblown.
+- [Does hormone replacement therapy actually work? What the evidence says in 2026](https://fperrywilson.com/podcast/does-hormone-replacement-therapy-actually-work.html): A nephrologist breaks down hormone replacement therapy: what the Women's Health Initiative really showed, who benefits, and what HRT can and can't do.
+- [Do continuous glucose monitors actually work for people without diabetes?](https://fperrywilson.com/podcast/continuous-glucose-monitors-non-diabetics.html): A nephrologist breaks down whether continuous glucose monitors help non-diabetics, what the evidence shows on spikes, and when a CGM is worth $50.
+- [How much protein do you actually need?](https://fperrywilson.com/podcast/how-much-protein-do-you-actually-need.html): A Yale nephrologist breaks down the evidence on protein intake: how much you need, what it does for muscle and weight loss, and when more is too much.
+- [Does creatine actually work? What the evidence says about muscle, memory, and your kidneys](https://fperrywilson.com/podcast/does-creatine-actually-work.html): Creatine is everywhere right now. Here's what the randomized trials actually show about muscle gains, brain benefits, kidney safety, and hair loss.
+- [Do Stem Cell Injections Actually Work? What the Evidence Says About Regenerative Medicine Clinics](https://fperrywilson.com/podcast/do-stem-cell-injections-actually-work.html): Regenerative medicine clinics sell stem cell injections for knees, wrinkles, and more. Here's what the data actually shows, and what you're really getting.
+- [Are Microplastics Actually Harming Your Health?](https://fperrywilson.com/podcast/are-microplastics-actually-harming-your-health.html): Microplastics are in our food, our dust, and apparently our brains. But does the evidence actually show they're hurting us? A doctor breaks down what we know.
+- [Does red light therapy actually work? What the evidence shows](https://fperrywilson.com/podcast/does-red-light-therapy-actually-work.html): Red light therapy is sold for wrinkles, hair loss, muscle recovery, and mood. Here's what the evidence actually shows, and where the claims fall apart.
+- [GLP-1s for Weight Loss: What the Evidence Actually Shows](https://fperrywilson.com/podcast/glp-1-weight-loss-evidence.html): A nephrologist's honest look at GLP-1 drugs like Ozempic and Zepbound: weight loss, muscle loss, weight regain, side effects, and what we still don't know.
+- [Do Cold Plunges and Saunas Actually Work? What the Evidence Shows](https://fperrywilson.com/podcast/cold-plunges-saunas-health-benefits.html): A Yale physician breaks down the real evidence on cold plunges and saunas, from athletic recovery to cardiovascular health, detox claims, and safety.
+- [Do peptide injections like BPC 157 actually work?](https://fperrywilson.com/podcast/do-peptide-injections-actually-work.html): Peptides like BPC 157 and the "Wolverine stack" are everywhere on social media. Here's what the evidence actually shows, and where the real risks are.
+- [Are sperm counts really declining, and should you care?](https://fperrywilson.com/podcast/are-sperm-counts-really-declining.html): Sperm counts have dropped over the past 50 years, but the cause isn't cell phones, soy, or laptops. Here's what the evidence actually says.
+
+## Indexes
+- [All episode articles](https://fperrywilson.com/podcast/)
+- [Episode article RSS feed](https://fperrywilson.com/podcast/rss.xml)
+- [Sitemap](https://fperrywilson.com/sitemap.xml)

@@ -13,13 +13,22 @@ images/             — Local images (OG images, covers, headshot)
 podcast/            — One SEO article per episode + index.html listing + rss.xml
 js/episodes.js      — EPISODES array (oldest-first); source of truth for episode order
 transcripts/        — Episode transcripts; pushing one triggers article generation
-scripts/            — generate_episode_post.py, build_rss.py, prerender_nav.py,
-                      check_site.py, retrofit_episode_links.py (idempotent: adds
-                      episode-specific Apple links + PodcastEpisode schema to
-                      any episode page missing them; title-first matching)
+scripts/            — generate_episode_post.py, build_rss.py, build_llms_txt.py,
+                      prerender_nav.py,
+                      check_site.py, episode_blocks.py (shared AEO fragments:
+                      enriched author schema, "Short answer" box, author-bio
+                      block, and the topic-CLUSTERS map + related-episodes logic
+                      — imported by the generator, prerender_nav, and the
+                      retrofit so they can't drift), retrofit_episode_links.py (idempotent:
+                      adds episode-specific Apple links + PodcastEpisode schema to
+                      any episode page missing them; title-first matching),
+                      retrofit_author_aeo.py (idempotent: adds the AEO blocks
+                      above to any episode page missing them)
 .github/workflows/  — generate-episode-post.yml (transcript → article PR),
                       site-checks.yml (runs check_site.py on every push/PR)
 sitemap.xml         — All pages; episode entries added by the generator
+llms.txt            — Site map for LLMs/answer engines (llmstxt.org); generated
+                      from the episode list by scripts/build_llms_txt.py
 CLAUDE.md           — This file (Claude Code context)
 ```
 
@@ -34,11 +43,15 @@ episode page, also update its sitemap `<lastmod>` and the page's JSON-LD
 
 ## Validation — run after touching anything under /podcast/
 `python scripts/check_site.py` verifies every episode page is consistently
-listed in podcast/index.html, js/episodes.js, sitemap.xml, and podcast/rss.xml;
+listed in podcast/index.html, js/episodes.js, sitemap.xml, podcast/rss.xml, and
+llms.txt;
 that dates match everywhere and are not in the future; that every page has a
-visible FAQ exactly matching its FAQPage schema; and that the pre-rendered
-prev/next nav matches the chain in js/episodes.js. CI runs it on every push to
-main and every PR, so a broken state fails loudly — run it locally first.
+visible FAQ exactly matching its FAQPage schema; that each page carries the AEO
+blocks (a "Short answer" box, an "About the author" block, an Article author
+tied to the homepage Person @id, and a fresh related-episodes block); and that
+the pre-rendered prev/next nav matches the chain in js/episodes.js. CI runs it
+on every push to main and every PR, so a broken state fails loudly — run it
+locally first.
 
 ## Sections (in order)
 1. **Hero** — Name, title, photo, tagline
@@ -179,8 +192,8 @@ The generator script also produces a visible FAQ section (collapsible `<details>
   "datePublished": "{{DATE}}",
   "dateModified": "{{DATE}}",
   "image": "https://fperrywilson.com/images/og-podcast.jpg",
-  "author": {"@type": "Person", "name": "F. Perry Wilson", "url": "https://fperrywilson.com"},
-  "publisher": {"@type": "Person", "name": "F. Perry Wilson", "url": "https://fperrywilson.com"},
+  "author": {"@type": "Person", "@id": "https://fperrywilson.com/#person", "name": "F. Perry Wilson", "honorificSuffix": "MD MSCE", "jobTitle": "Associate Professor of Medicine and Public Health", "affiliation": {"@type": "Organization", "name": "Yale University"}, "url": "https://fperrywilson.com", "sameAs": ["https://scholar.google.com/citations?user=iB9er1AAAAAJ", "https://www.ncbi.nlm.nih.gov/pubmed/?term=wilson+fp", "https://twitter.com/fperrywilson"]},
+  "publisher": {"@type": "Person", "@id": "https://fperrywilson.com/#person", "name": "F. Perry Wilson", "url": "https://fperrywilson.com"},
   "description": "{{DESCRIPTION}}",
   "url": "https://fperrywilson.com/podcast/{{SLUG}}.html"
 }
@@ -206,9 +219,10 @@ creating or editing an episode page by hand:
 1. Add it to `podcast/index.html` inside `<!-- EPISODES-START -->` (newest first, with a `data-date` attribute)
 2. Add it to `sitemap.xml` with `<changefreq>yearly</changefreq>` and the correct `<lastmod>` date; bump the `/podcast/` entry's `<lastmod>` too
 3. Add it to `js/episodes.js` EPISODES array (oldest-first order) — the source of truth for prev/next nav
-4. Run `python scripts/prerender_nav.py` — bakes the prev/next nav into every page's `<div id="episode-nav">` so crawlers follow the links without JS. This also updates the previously-newest page, whose nav otherwise dead-ends at "Newest article".
+4. Run `python scripts/prerender_nav.py` — bakes the prev/next nav into every page's `<div id="episode-nav">` and stamps the `<div id="related-episodes">` block from the topic clusters in `episode_blocks.py`, so crawlers follow the links without JS. This also updates the previously-newest page (whose nav otherwise dead-ends at "Newest article") and any related blocks whose recency tiebreak shifted. To change which episodes are "related," edit `CLUSTERS` in `scripts/episode_blocks.py` and re-run this.
 5. Run `python scripts/build_rss.py` to regenerate `podcast/rss.xml`
-6. Run `python scripts/check_site.py` — must pass before committing (CI enforces it)
+6. Run `python scripts/build_llms_txt.py` to regenerate `llms.txt`
+7. Run `python scripts/check_site.py` — must pass before committing (CI enforces it)
 
 ## Key Links
 - Medium: https://fperrywilson.medium.com/

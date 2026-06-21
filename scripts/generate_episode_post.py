@@ -16,7 +16,9 @@ from pathlib import Path
 from urllib.parse import urlparse, parse_qs, unquote
 
 import build_rss
+import build_llms_txt
 import prerender_nav
+import episode_blocks
 
 
 EPISODES_FOLDER_ID = '1qhx8vF3m6Gd9eYUEntLoeAtaVgZ7N-Si'
@@ -598,6 +600,13 @@ def build_episode_html(data, date_iso, date_display, episode_url=None):
     faqs = data.get('faqs') or []
     faq_jsonld = render_faq_jsonld(faqs)
     faq_section = render_faq_section(faqs)
+    # AEO: surface the answer-shaped meta description as a visible "Short answer"
+    # box, and attach an "About the author" E-E-A-T block at the foot.
+    tldr_section = episode_blocks.render_tldr(meta_desc)
+    author_bio_section = episode_blocks.render_author_bio()
+    # Emitted empty; prerender_nav.main() (called at the end of generation)
+    # fills it from the topic clusters, the same way it fills the nav below.
+    related_div_open = episode_blocks.RELATED_DIV_OPEN
     episode_jsonld = render_episode_jsonld(episode_title, date_iso, episode_url)
     show_apple_url = ('https://podcasts.apple.com/us/podcast/'
                       'wellness-actually-with-emily-oster-perry-wilson-md/id1633515294')
@@ -648,16 +657,8 @@ def build_episode_html(data, date_iso, date_display, episode_url=None):
     "datePublished": "{date_iso}",
     "dateModified": "{date_iso}",
     "image": "https://fperrywilson.com/images/og-podcast.jpg",
-    "author": {{
-      "@type": "Person",
-      "name": "F. Perry Wilson",
-      "url": "https://fperrywilson.com"
-    }},
-    "publisher": {{
-      "@type": "Person",
-      "name": "F. Perry Wilson",
-      "url": "https://fperrywilson.com"
-    }},
+    "author": {episode_blocks.indent_json(episode_blocks.author_jsonld(), 4)},
+    "publisher": {episode_blocks.indent_json(episode_blocks.publisher_jsonld(), 4)},
     "description": "{meta_desc}",
     "url": "https://fperrywilson.com/podcast/{slug}.html"
   }}
@@ -706,6 +707,7 @@ def build_episode_html(data, date_iso, date_display, episode_url=None):
       By <a href="/" style="color: var(--color-muted);">F. Perry Wilson, MD MSCE</a>
     </p>
 
+{tldr_section}
     <div style="font-size: 1.08rem; line-height: 1.85;">
       {article_html}
     </div>
@@ -720,6 +722,8 @@ def build_episode_html(data, date_iso, date_display, episode_url=None):
       </div>
     </div>
 
+{author_bio_section}
+    {related_div_open}</div>
     <div id="episode-nav" style="margin-top: 40px; padding-top: 24px; border-top: 1px solid #e0d9d0; display: flex; justify-content: space-between; align-items: center; flex-wrap: wrap; gap: 12px;"></div>
 
   </article>
@@ -923,7 +927,8 @@ def main():
     # manual checklist steps before and drifted every time they were skipped.
     prerender_nav.main()
     build_rss.main()
-    print("Pre-rendered episode nav on all pages and rebuilt podcast/rss.xml")
+    build_llms_txt.main()
+    print("Pre-rendered episode nav on all pages and rebuilt podcast/rss.xml and llms.txt")
 
     set_output('slug', slug)
     set_output('headline', headline)
