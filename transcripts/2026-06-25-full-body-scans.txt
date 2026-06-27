@@ -1,0 +1,377 @@
+Emily: [00:00:00] Hi, Perry.
+
+Perry: [00:00:02] Hi, Emily.
+
+Emily: [00:00:03] I'm glad to be back. Thank you for holding down the fort without me last week.
+
+Perry: [00:00:07] I'm glad you had such a nice vacation and I am really excited about today's topic. This is one where, to be honest, I am hoping to get to my smash or pass like through the course of our discussion. I am not there yet.
+
+Emily: [00:00:20] You haven't committed. You're not.
+
+Perry: [00:00:22] Really. It's really difficult. We'll get to that. You know, we're talking about full body scans today. And because I know our listeners are dedicated Trekkies, like, I know this because I choose to believe it. And I, you know, I grew up watching Star Trek The Next Generation and, you know, watching the doctors use the tricorder scanner and you just kind of and all of a sudden, you know, everything that's wrong with the person. This is basically why I wanted to become a doctor. I assumed that this is how it would work. Um, I frequently walk around telling [00:01:00] people, God damn it, I'm a doctor, not a blank like that is one of my go to catchphrases.
+
+Emily: [00:01:05] Yeah, I considered becoming a doctor because I wanted to meet Doogie Howser because I had the biggest crush on Neil Patrick Harris.
+
+Perry: [00:01:14] Uh, I have some bad news for you, Emily.
+
+Emily: [00:01:16] I know, I know. Um, but it's okay. It's okay. And then I didn't become a doctor, and, you know, he's he's not for me, but I still love him. Anyway, my point is, we're going to get to your smash or pass. And this is a great topic because it apparently intersects with your love of Star Trek and my love of Bayes rule. And we're going to find out about both of those things.
+
+Perry: [00:01:38] Awesome. Let's go.
+
+Emily: [00:01:42] I'm Emily Oster, I'm an economist and a data expert.
+
+Perry: [00:01:45] And I'm Perry Wilson. I'm a medical doctor.
+
+Emily: [00:01:47] It's Thursday, June 25th. And this is Wellness, Actually.
+
+Perry: [00:01:52] Because you're getting a staggering amount of health and wellness information nowadays from every source imaginable. And some of it is awesome. [00:02:00]
+
+Emily: [00:02:00] And some of it is, well, actually bullshit. Fortunately, we are both people who know how to read studies, how to parse the data, and can tell you what's worth thinking about and what you can safely ignore.
+
+Perry: [00:02:13] But before we dig in a note that this podcast is for educational purposes and should not be construed as medical advice. We don't know your unique situation, so talk to your doctor for personal health decisions.
+
+Emily: [00:02:25] This week we're asking what's the deal with full body scans? Perry and I will give the official smash or pass, and then we'll get to your question of the week. But first, let's do the health news roundup after the break. And now for the health news of the week. Perry first up, the flu. We're having a flu outbreak on a military base. No one could have predicted this except us and [00:03:00] also many other people say more.
+
+Perry: [00:03:02] You know, no one likes and I told you so. But, um, I would like to play the following clip from a prior episode of Wellness, Actually.
+
+Emily: [00:03:11] Perry, no more flu vaccine mandates for military troops. Your thoughts?
+
+Perry: [00:03:18] Yeah, this is weird. Combat readiness is in part determined by the health of the troops in terms of infectious diseases. I mean, if you look at like the history of warfare, you would find that infection has killed vastly more soldiers than combat is often responsible for losing the war. I mean, one of the one of the reasons Americans were able to hold out during the Revolutionary War was because Washington made the rather bold and somewhat risky decision to force smallpox vaccination on all the Revolutionary War troops. And like, let's not forget that the worst [00:04:00] influenza pandemic in history. This is the Spanish flu. Influenza pandemic occurred after World War One because a bunch of infected troops brought brought the virus home. So a weird decision. It feels completely like brazenly sort of political to me. I see no justification for this in a rational society.
+
+Perry: [00:04:23] All right, we told you so. Um, we are referring, of course, to influenza outbreak on a joint military base in Lackland, Texas. As of the time of this recording, there are 222 positive cases from the 37th training wing. This is, um, from what I can tell, a flying training group, um, who live in close quarters, obviously. And this is happening after Secretary of Defense Pete Hegseth eliminated the flu vaccine mandate, after which time for for military personnel and after [00:05:00] which time only 40% of trainees chose to be vaccinated for the flu, which is a yearly vaccine. You know, once again, although although we said it before, military readiness is more inhibited by illness than just about anything else, which is why vaccination has been such a huge part of armies all around the world. And, you know, they even joke about how much stuff they're getting vaccinated for. And there's a reason for that. And this flu outbreak is telling us why it is the case. 222 people out of training for a while, two of them hospitalized, by the way, which is which is not great. And we're obviously pulling for them. Emily, do you think this is going to change policy?
+
+Emily: [00:05:42] Nope, I don't, but, uh, I wish it would, but I'm not optimistic. I think you will hear people say, well, even if they had been vaccinated, blah, blah, blah, blah. Uh, so I don't think it will change policy even though it definitely should.
+
+Perry: [00:05:54] Absolutely. Um, let's stick with vaccines for a second because we have some really [00:06:00] cool vaccine news. A new study appearing in The Lancet about the HPV vaccine in the UK. Um, Emily, what's going on with HPV? So great.
+
+Emily: [00:06:10] So I think first it's worth sort of stepping back. We give kids the HPV vaccine and we give people the HPV vaccine typically in adolescence. And it's actually one of the vaccines where you see more hesitancy. And I think we're not always doing a great job of explaining to people why we should give kids this vaccine. Uh, the vaccine prevents against the human papillomavirus, two different versions of it. And the reason for this is that those are the primary causes of cervical cancer. So this is really a true cancer vaccine. It's a vaccine that prevents you from getting cervical cancer in principle, and also now in practice. So this new study is from The Lancet. It's a population based study which looks at cervical cancer mortality from 2001 to 2020. For this sort of [00:07:00] cover, some of the period in which the vaccine was rolled out, you know, it's not a randomized trial because at this point, the vaccine was available to everyone, but they've got calendar year and age to try to sort of suss out the causal impact of the vaccine on cervical cancer. And more or less, this eliminated got close to eliminating cervical cancer. So they they estimate a vaccine efficacy between 85 and 100%, which is amazing. And people die of cervical cancer. Cervical cancer is is a it's a really bad cancer. I mean, all cancers are bad. This is this is a bad one. And to have a vaccine that is so effective is amazing. Actually, I'm so excited that my kids live in a time when they can be vaccinated for this. And I will just say, not only should you vaccinate your daughters for this, you should also vaccinate your sons because they can give people HPV and because there are some other sort of [00:08:00] reasons why they should be vaccinated. So kids should get this vaccine.
+
+Perry: [00:08:04] Absolutely it's not. It's not even just cervical cancer. Cancers of the head and neck are now more driven by HPV than smoking as smoking rates have gone down. Those can obviously affect everybody boys and girls, men and women. So really positive results. No cervical cancer deaths in this vaccinated group.
+
+Emily: [00:08:24] My 11 year old was bemoaning his need for the HPV vaccine at the next Well-child visit, which is next week. And I was just like, I can't wait. Sorry, dude. I'm so excited. It's the best.
+
+Perry: [00:08:37] Yeah.
+
+Emily: [00:08:38] Joy.
+
+Perry: [00:08:39] Um, your 11 year old might have something else to bemoan. Uh, with our last piece of health news, and that is that we are saying goodbye to two close friends, the blue and brown colored M&Ms.
+
+Emily: [00:08:54] Oh, it's so sad.
+
+Perry: [00:08:56] So sad. Why are they going away?
+
+Emily: [00:08:58] I don't know. Uh, I blame [00:09:00] the health secretary. Uh, for everything, actually. Uh, but this particular thing. So, uh, so there's been a push towards having no artificial dyes in food. We've talked about this perhaps before. I'm sure we'll talk more about it. I think it's not real evidence based, but at any rate that's the direction we're going. And so M&Ms is trying to replace all of their dyes with natural colors. And it seems like they can't produce blue and brown. Is that your understanding? Like I was a little confused.
+
+Perry: [00:09:32] I definitely I get blue like that blue color.
+
+Emily: [00:09:35] Yeah. That's not in nature.
+
+Perry: [00:09:36] You're not you don't see that anywhere. Or that flavor like blue is its own flavor.
+
+Emily: [00:09:41] It is not its own flavor.
+
+Perry: [00:09:42] Not for.
+
+Emily: [00:09:42] Me.
+
+Perry: [00:09:43] But not for M&Ms, but for like, you.
+
+Emily: [00:09:45] Know.
+
+Perry: [00:09:45] Sure, there's like blue raspberry, Whatever. Anyway. Yes, blue, but like brown. Like I'm pretty sure we can find. Something that's brown.
+
+Emily: [00:09:53] There's all kinds of brown things, but it must be the. Yes. I don't understand that much about color dyes, but I will say blue and [00:10:00] brown M&Ms are off. And I suspect when we get the new M&Ms, they will also be not so colored. I mean, one of the features of natural dyes, for example, in European Fruit Loops, is that they are just like.
+
+Perry: [00:10:15] They're not as intense.
+
+Emily: [00:10:16] They're not as intense, it's not as fun. And so, uh, yes, our producer has pointed out in the comments here that chocolate is brown. And so could you just leave the M&M? But I think it's the candy coating on the M&M that's sort of crucial.
+
+Perry: [00:10:30] I mean, what is it without the candy coating?
+
+Emily: [00:10:32] It's nothing. Also it melt on itself, which would be a bad experience.
+
+Perry: [00:10:37] All right. So hoard your blue M&Ms. They will no doubt be worth millions of dollars.
+
+Emily: [00:10:42] They're going to be people who are selling choco tacos and blue M&Ms on Etsy for decades.
+
+Perry: [00:10:48] All right, that is it for the health news of the week after the break. What's the deal with full body scans? And [00:11:00] we are back. What's the deal with full body scans? Emily, I am going to start by playing a representative clip from Instagram to get us going here.
+
+Influencer: [00:11:10] So I just did a full body scan that tests for over 500 different conditions, including cancer. Now you sit in this little tube thing for an hour and you just watch a little Netflix show, and then you'll get all the information. Now there's going to be a whole report of like, everything from your brain to your toenails. They did find a nodule in my lungs. Let me show you that. You can see here there's a lung nodule. You can see it there. It's 0.5cm. Now, apparently what the doctor told me is that lung nodule is either from a prior lung infection, which is okay, and that it doesn't look like it's cancerous. But we're gonna get a scan in a year from now and just make sure it doesn't grow and we'll keep an eye on it. And so this scan is preventative, and I just don't understand why health insurance companies don't offer and pay for this, and or why our entire system doesn't provide us more preventative care like this now. This total scan with Nuvo is $2,500. I know it's a lot of money, [00:12:00] but for me, thinking about all the findings you're going to get, I think it's well worth it.
+
+Perry: [00:12:05] All right. So so there you have someone and you know, this was not hard to find a clip like this. There are hundreds of them out there of people who have gone through these direct to consumer scans. These are things that you pay for out of pocket and, you know, find something. And broadly speaking, the people seem quite grateful that they've found a thing.
+
+Emily: [00:12:27] Yeah. Ah, this is a really. Okay. So let me just tee up why I think this space is so complicated, because these scans are on a long continuum, some of which we recommend. And so you will often hear people, you know, doctors say like, well, don't you don't need a full body scan. Like you don't, you don't need a full body scan. But then in the same breath, it'll be like, but definitely get this mammogram and definitely get this colon cancer screening. Definitely get. And I think that's where it's hard to navigate. It's. Well, you told me these scans I want. [00:13:00] Why don't I want this other scan. It just seems like it would be better.
+
+Perry: [00:13:04] Isn't more information.
+
+Emily: [00:13:05] Is it more information better. And there's a sense in which the answer must be yes. And then other senses in which the answer must be no. But before we get into that, you know, there are a lot of these scans. The one I think my guess is people have heard most frequently is a company called Pronova, which does a full body MRI, sends it to a radiologist and probably some AI to, to read it. These cost something in the range of 1000 to $2500, and they come back with some information about what to do, and then you maybe have to follow up in some in some other way. So that's the most popular one. There are a bunch of.
+
+Perry: [00:13:51] Popularized by no less than Kim Kardashian who, who, who got some significant flack actually for, for promoting Nuvo. We can talk about this [00:14:00] in a little bit, but but Kim Kardashian got one of these scans, by the way, they. Nuvo often gifts these scans to celebrities and influencers. Um, so if you look at the.
+
+Emily: [00:14:11] No one has offered me any.
+
+Perry: [00:14:14] Oh, um, I still haven't gotten my graphics card from episode 1 or 2 either. Come on, we're waiting. Guys, guys. So Nuvo will get these scans to influencers and then, you know, they'll put something on Instagram and with a little with a little discount code and stuff like that. This is clearly part of their marketing strategy. Kim Kardashian had a scan. They found an aneurysm in her brain that got a lot of attention. She talked about it on her reality show. I'm going to hold off for a second to tell you what the end of that story is. But I just want to say that, like, this is something that you will hear a lot about from really famous people.
+
+Emily: [00:14:53] Yeah. So there are a bunch of, of companies that do this. I think one, one thing I wanted to kind of in some [00:15:00] ways differentiate a little bit is there is another kind of whole body scan called a Dexa scan, which people will hear about, which is basically a, a way to scan how much body fat and muscle you have. These are much cheaper and they are a totally different thing. So I sort of in the space of influencers, these things will get kind of put on top of each other, but they aren't the same thing here. We're really talking about these like full body, either CT or MRI scans designed to look for things like tumors or aneurysms or other, you know, abnormalities of your body as opposed to looking at your body fat percentage, right.
+
+Perry: [00:15:39] This is really a build as a broad sweep. And we have companies in addition to Ponovo. People may have heard of Ezra or Truscon or the Simon one scan, or there's even some CT versions. There is one that I want to address just because it's like exploding on social media just over the past [00:16:00] week. So, Emily, what if I were to submerge you in water and shoot ultrasound waves through your body? Does that seem like a good idea? Yes, yes.
+
+Emily: [00:16:11] It sounds amazing. Is it like a massage?
+
+Perry: [00:16:14] This just so people, this is the new Midjourney scan, which is like the tech bros are are over the moon for Midjourney is the company that did like AI image generation. Yeah, that that was their thing.
+
+Emily: [00:16:25] That's what I'm familiar.
+
+Perry: [00:16:26] Now. They're a full body scanning company. They're pivoting and they've shown a demo of like, you get submerged in water and this thing goes like, and you get a whole scan of your body using ultrasound waves.
+
+Emily: [00:16:38] And then what? How does that help? What?
+
+Perry: [00:16:40] Well, it's the similar idea to the full body MRI scans. Except they arguing it'll be cheaper and we can sort of get to the costs in a minute. Um and, and the problems with full body ultrasound as well. I just want to say it at the top because I think people will start hearing about this and, and [00:17:00] we will touch on it, but I but frankly, the data is all in the full body MRI scan space. This full body ultrasound is completely new. And like, there's very little we can say about its diagnostic accuracy or anything because it hasn't been really used on humans yet, but you'll see it in your feeds.
+
+Emily: [00:17:15] How much do you think that the AI, the growth of AI is powering this? I mean, radiology is one of the things that AI is sort of the best at the best kind of doctoring. And I would have thought this is like, we're only able to do this because AI is reading a huge share of these scans.
+
+Perry: [00:17:30] In almost all of these companies. Ai is is billed as augmenting the read from the radiologist. No one is saying it's only AI. You look skeptical.
+
+Emily: [00:17:41] No, I think that's I mean, that that is the way that radiology I think will work for for everything is that the AI does a first read and somebody does a does a follow up read. We have actually quite a significant radiologist shortage at the moment. And so this is a natural place for, for AI to come in, uh, including [00:18:00] for these kind of scans.
+
+Perry: [00:18:01] Yeah. And if you're one of these companies trying to raise money from investors, like, are you not going to say the AI is part of it?
+
+Emily: [00:18:06] Come on, AI. Yeah. It's like everybody's an AI company, a meal delivery service. It's more of an AI meal delivery, AI steak. It's, you know, we're we're optimizing AI. It's all about it.
+
+Perry: [00:18:18] I okay. Total aside, but my dystopian prediction for the future of AI and consumerism is that soon enough, Amazon is actually going to start sending things to your house that you haven't ordered. That's it's going to just like it's going to show up. And then they'll be like, look, look. Send it back. If you don't, if you don't want it.
+
+Emily: [00:18:38] That already happens in my house because it's one of my children has ordered it, but it's going to be even worse when Amazon is doing it. Yeah.
+
+Perry: [00:18:45] All right. Mark my words.
+
+Emily: [00:18:46] Okay. So before we get into the like, what do we know about these things in the data? I actually want to start a little bit bigger picture with how we think about tanning [00:19:00] and how we think about results that we get in in medicine. So I'm going to give you a quiz. It's a quiz for everybody. So everybody put your thinking cap on. Imagine you have a disease that affects 1 in 10,000 people.
+
+Perry: [00:19:16] Okay.
+
+Emily: [00:19:16] And you have a test for the disease that detects 99% of cases with a 2% false positive rate. So it's a really good test. It finds 99% of cases small false positive rate of two of 2%.
+
+Perry: [00:19:28] Amazing test. Sounds great.
+
+Emily: [00:19:30] You give someone the test and they test positive. What is the chance that they have the disease? Short. Jeopardy! Pause. Do do do do. Okay. What do you think?
+
+Perry: [00:19:41] I think that all your base are belong to us. Um. I know what you're getting at here, but let me tell you what I think your intuition is. And then we can talk about why the intuition is wrong. Um, the intuition is here's a test that detects 99% of disease. Great. Only has a 2% false positive rate. Great. You [00:20:00] got a positive test. Pretty sure you have the disease.
+
+Emily: [00:20:03] Pretty sure you.
+
+Perry: [00:20:04] Have. That sounds right. Yeah. Bad. Bad news. Right? You have the positive test. But you are. You mentioned that this is a pretty rare disease. 1 in 10,000. And so maybe you can walk us through the math, Emily, of like what the actual value of a positive test is here.
+
+Emily: [00:20:21] So the answer to the question is one half of 1%. So with a positive test, the chance that you actually have the disease is 1 in 200. And the reason for that is that if you think about this test, let's say you have 10,000 people, you test, one of them has it. You're going to find that very, very good chance. You find that.
+
+Perry: [00:20:42] 99% chance.
+
+Emily: [00:20:43] You find 99% chance, let's say we find that one person and then there's a 2% false positive rate. And that means of the 9999 people who don't have it, about 200 of them are going to test positive. And so now you've got 200 [00:21:00] people who tested positive who don't have it, and one person who tested positive who does. And that means that it's about 1 in 200. That's the chance that you actually are affected. And so.
+
+Perry: [00:21:10] If you're sitting there with a positive.
+
+Emily: [00:21:11] If you're sitting there with a positive test. Yeah. So I think this is a really like, I have given this test to many people ranging from middle school students to members of an Ivy League corporation. And almost nobody gets it right. Like, and in fact, when you give this to doctors, they also mostly don't get it right. I guess you're an exception. And a lot of people have the instinct. It's like 9,095%.
+
+Perry: [00:21:36] Yeah.
+
+Emily: [00:21:38] The reason that I say this is that one of the most significant issues with this kind of full body scan, and by the way, with any kind of scanning for conditions, is that many of these conditions are pretty rare and false positives are pretty common. So when you go to scan people for something [00:22:00] like breast cancer, even with a standard mammogram, there's a lot of false positives. A lot of incidental findings, a lot of just we saw something on the mammogram. And then when we went more into it, it wasn't it wasn't in there. And that's important for two reasons. One is that if you do more of this scanning, you're just going to have more of these false positives. Now you'll have more true positives also, but you will end up with a lot of people either very anxious or just having a lot of additional testing that they didn't necessarily need. And when we think about these tests, we want to to weigh those things. And full body scans are an extreme form of a problem that is already there with any kind of scanning. So we already think about this problem with breast cancer screening or colonoscopy, or prostate cancer screening or whatever. That's already an issue. If you're now scanning somebody's entire body and picking up every, you know, weird random thing in their elbow, you're going to have this problem even more extreme.
+
+Perry: [00:22:59] So this [00:23:00] is, this is so important, but it's also going to play into the central tension that I have with these scans. And we'll get there. But broadly speaking, there's always going to be this thing that like, we can look objectively at the numbers on a population level and be like, okay, yeah, you know, there's a lot of false positives and people are going to be chasing this down and seeing the doctor and stuff. But there is that one guy.
+
+Emily: [00:23:24] What if it was you?
+
+Perry: [00:23:25] There's that one guy, you said, who actually had that rare disease that we caught. And there's clearly some value in catching that one guy. But the question is sort of how many false positives is worth the true positive. And this is where I get stuck on full body scans.
+
+Emily: [00:23:45] And I think that's a part of the reason it's a very complicated question, is that it's probably different if we think about what the individual incentive is versus the kind of health system incentive. So when we make decisions about, you know, [00:24:00] who should we recommend a mammography for? We're making decisions based on trading off false positives and true positives from a kind of like population cost perspective. Yeah. Which may be the right frame for some decisions, but may be different from you as an individual. And what do you know, what, what is sort of your risk tolerance and what is your demand? And I will tell you from a personal level, um, when my mom was diagnosed with lung cancer. It was an. It was an incidental finding on a CT scan that was being done. For some other reason, she had vertigo. They thought she might have a stroke. It turned out they found lung cancer. She was in a risk group because she was a former smoker who like, could have been going for yearly CT scans. And there's a lot of debate about exactly who should be doing those. And I think all the time, like boy ex post, I really wish that she had, she had been doing that even if it, you know, from a kind of population standpoint, [00:25:00] maybe that isn't that isn't the right thing. So for me, that really crystallizes this trade off between. Yeah. What about the one that you missed?
+
+Perry: [00:25:08] Yeah. 100%. Um, so there are a couple of concepts that I want people to be aware of. You've hit on one, which is, uh, the false positive thing in medicine we call these incidentalomas.
+
+Emily: [00:25:21] So why don't you just give things regular names?
+
+Perry: [00:25:23] What's wrong? You know, because we like to have jargon so that.
+
+Emily: [00:25:27] Oh, it's an incidentaloma.
+
+Perry: [00:25:28] It's an incidentaloma. Oh. Um, this was originally named after these, uh, things you see on adrenal glands when you get a Cat scan of the abdomen. So we give people Cat scans of the abdomen for, you know, everything, right? You come in with abdominal pain to the editor, whatever you're getting a cat scan your abdomen, pelvis, and then, you know, not infrequently you see these little spots on an adrenal gland. We typically refer to them as incidentalomas. They were found incidentally, you weren't looking for them, but they tend to necessitate at least some further workup and, and, and downstream [00:26:00] stuff. Um, and that can happen anywhere in the body. Incidentalomas are things that turn out to be nothing. So you find them and then you've got to do something about it. But then it turns out it didn't matter, right? Like you biopsy that thing on your adrenal gland and it was a benign, it was a benign growth. It would never have hurt you. It's an incidentaloma. There's a related concept which people have a little more trouble with called overdiagnosis, which is when you diagnose something that really is bad, like a cancer or something like that. But it turns out that had you not diagnosed it, it probably wouldn't have hurt you at all because you were going to die of something else before this got to you at all.
+
+Perry: [00:26:46] So overdiagnosis is sort of a different thing from an incidentaloma or a false positive. To give you a sense, it's hard to get it like some of this stuff, but there are autopsy studies where we'll look at people who died of [00:27:00] something else and ask a question, for example, of like, okay, you died of not a cancer related problem. We do an autopsy. How often do we find cancer? And the answer is pretty often. Yeah, 5% of the time. There's a nice study of 800,000 non-cancer autopsies in Japan, where the overall cancer rate was 4.2%. I will say it's a little higher in recent years. Now it's like up to 7% overall. And then of course, the older the person was when they died, the higher the chance of finding an incidental cancer was. This isn't a false positive. Like, had you found that while they were alive and biopsied it, it would have come back cancer. They would have gotten cancer treatment, but they didn't die of that. So all of that treatment was theoretically overdiagnosis. So that's the second major concept.
+
+Emily: [00:27:47] Yeah. And I think this is I mean, this is where, you know, for men in particular, a lot of men get prostate cancer before they're dead. And at some point we.
+
+Perry: [00:27:54] Almost everyone.
+
+Emily: [00:27:55] Almost everybody gets.
+
+Perry: [00:27:56] It.
+
+Emily: [00:27:57] And at some point it makes sense to just stop screening [00:28:00] for prostate cancer. Because if you're 93 years old and we find out you have prostate cancer, it's fine. Like something else is going to take you before the prostate cancer for almost everybody. And so that is that is in this space of overdiagnosis. Again, it's not that it's it's not that it's not cancer. It's just not we care about the death, not the specific cause of death.
+
+Perry: [00:28:21] Yeah. So this brings me back to Kim K. Kim Kardashian.
+
+Emily: [00:28:24] Kim K, Kim K, Kim K up to.
+
+Perry: [00:28:27] So? So what? Kim Kardashian told the world. I mean, we don't have her report, her report, but what she what she said publicly is that they found a little or small aneurysm in her brain, as well as some uterine fibroids. She said that, you know, after that found little aneurysm in her brain. She went to Cedars-Sinai. She got, quote, tons of brain scans, met with a bunch of neurosurgeons, etc., etc., um, and decided to do nothing. Um, it was small enough that they decided to do this thing called watchful waiting. That's [00:29:00] probably the right choice. Um, talking about overdiagnosis of aneurysms, if you look at the rate of brain incidental brain aneurysms at autopsy. Okay, so you take people who did not die of a brain aneurysm, but you look at their brain after they died, 2 to 6% have an aneurysm in there. So they are there and a lot of them don't rupture. And Kim Kardashian's surgeons looked at the size and said, well, this is something we can keep an eye on. Now, she billed this as like a life saving thing. Like like she has talked about this as she is so thankful to know about this. She's reducing the stress in her life to, you know, potentially reduce the risk of this aneurysm bursting.
+
+Emily: [00:29:42] I would find this so awful. Like, I mean, I feel like, at least for some people, and I would put myself in this camp, the idea that I have this aneurysm, but I'm doing nothing about it is so much worse than not knowing. Because then every time [00:30:00] you have a headache, you're like, oh my God, is it Miami tourism? But I mean, and I, this is a big part of this is people just being anxious about what might happen because the information is because we're not robots and we can't like, just pretend the information is not there. And I don't know.
+
+Perry: [00:30:17] Yeah. And so much of what I see when. And it's mostly doctors online who are pushing back against full body scans. It's mostly like people, my my profession. That's like guys, careful, false positives, you know, all this kind of thing. And then there's a lot of sort of wellness tech people who are like, no, no, no, you know, more information is better. I want to find the thing before it becomes a problem. And hey, I know there's, you know, I know there's false positive, I know there's overdiagnosis. We'll figure that out over time. We'll learn how better to manage these things. And that's the step where I'm like, you know, this is going to require if you really want to deal with the false positive issue, a lot of people to have a spot on their liver and to be like, well, there's [00:31:00] a 1% chance it's cancer or maybe a three. Let's say there's a 5% chance it's cancer. There's a 95% chance it's not. I'm not going to do anything because like, chances are it's fine. There are some people who can handle that. There are a lot of people who can't. Right? Like the whole reason they did the scan was to find the spot on the liver. Now it needs a biopsy.
+
+Emily: [00:31:18] Yeah. And I think we see this in, you know, in outside of the full body scan space in, you know, in, in mammography. So, so our mammogram approach to mammogram has gotten better over time. We're doing more mammograms broadly. That's very good. It means we're catching cancers earlier, but there's actually a fairly large or at least some set of kind of stage zero cancers for which it may be based on the age of the person or what it looks like. You just shouldn't do anything. And we are almost always doing things. So typically people will be given the choice. You know, we could do watchful waiting or we could do stuff and people want to do stuff. Once they say you have, you know, ductal blah, blah, blah with the word carcinoma on it, you're doing stuff. And [00:32:00] that is maybe a good idea. But it does. It does have trade offs. I think it's just not it's not free for you or for money. I mean, it's not free in terms of money, but it's not free in terms of your emotional state either.
+
+Perry: [00:32:14] Yeah. I want to walk through the sort of third large concept which we've we've tested on here, which is called Care Cascades.
+
+Emily: [00:32:24] Can I say before we get to that, can I can I say sort of something else that happens in here that I where I think this intersects with some of the way we're doing medicine these days, which is it is much more common for people to do, like share, what do we call shared decision making. And shared decision making is great because it puts the patient in the driver's seat at some of the time. And we generally don't want the kind of 1950s doctor where it was like he sits there and smokes a cigarette and tells you you know what to do. Like we've moved away. And that's yeah, that's probably for the best.
+
+Perry: [00:32:57] Especially we're not going to tell your wife she has cancer. It will [00:33:00] just disturb her.
+
+Emily: [00:33:00] We'll just it'll just make her sad. Yeah. But the idea that the patient should be in the driver's seat around some of these decisions is very stressful for people. And I somehow it comes up more in these cases where we're just not sure what to do. And that piece of it feels like I'm not I'm not sure there's a good solution to it, but I think it's yet another piece to adding to this anxiety.
+
+Perry: [00:33:26] Yeah, it varies obviously based on the patient. Some patients very much want to be told what to do. That's my experience. And they'll phrase that in different ways. But often it comes to me as like, okay, if I were your brother or if I were your father, what would you tell me to do here? Which is always a hard question for me. I'm like, no, I would never tell my own family because I'm completely, completely biased. And then some yeah, some have very strong opinions. And then, I mean, just to say it as a doctor, like there are medical legal implications of this stuff, right? Someone comes to me after a full body scan and says, you know, hey, [00:34:00] they found this thing on my, you know, on my kidney. It's ambiguous. What it is. Could be cancer might not be. What do you think I should do? There's definitely a part of my brain that's like, well, you know. If I don't work this up, if I'm like.
+
+Emily: [00:34:16] What is cancer?
+
+Perry: [00:34:17] What if it is cancer five years from now? And, and, you know, so that's just sort of the way we're structured. It's much safer for me, you know, cover your ass kind of sense to be like, all right, well, let's get you a dedicated scan of that. Let's get a biopsy of that and so on and so forth. And that that is what happens. So a lot of these arguments that's like, oh, guys, we just it's not the scans that are the problem. It's the psychology around them. And we have to get better at dealing with ambiguity is a nice theory, but we're just not very good at it.
+
+Emily: [00:34:45] No, we're just not. It's a nice theory, but not very realistic.
+
+Perry: [00:34:49] Yeah. All right. A guy walked into a routine physical feeling completely fine. He walked out ten units of blood and $50,000 later. And he never actually [00:35:00] had anything wrong with him.
+
+Emily: [00:35:03] This is.
+
+Perry: [00:35:04] Great.
+
+Emily: [00:35:04] It's not great.
+
+Perry: [00:35:06] This is such a great piece of writing. Uh, from Michael Rothberg, uh, who was writing in Jama about the true experience of his father and how medicine obligates subsequent testing. So let me tell you what happened to this person and get your opinion, okay? This older guy comes in, gets his routine physical, his doctor does a physical exam, listens to his heart, pushes on his belly, feels his aorta, an aortic exam. You kind of push down the belly, feel the feel the pulse. The doctor thinks the order is a little bit big. Maybe there's an aneurysm there, but there's an appropriate test for that. That's an abdominal ultrasound. So he sends them for an abdominal ultrasound. Turns out the aorta is normal. But during that ultrasound, they see something in the head of the pancreas. That's an incidental finding. All right, well, now there's something in the head of the pancreas. So the next step is, of course, to get a CT scan. Well, good news. The CT [00:36:00] scans showed the pancreas was normal, but there was a solitary lesion on his liver. Okay, that needs to be biopsied. So he gets a liver biopsy. It's not liver cancer. That's good news. But it was a hemangioma, which led to a huge bleed requiring a ten units blood transfusion and an inpatient stay that cost $50,000. Every step of this care was appropriate. There was no malpractice here. This is all exactly what you would do. The only exception, actually, is that initial physical exam palpating the aorta. There's no evidence that we're good enough at our physical exam to tell if someone's aorta is dilated or not. But, like, if your doctor does that, right, you're like, oh, this is a good I mean, this is their job.
+
+Emily: [00:36:48] They're doing stuff.
+
+Perry: [00:36:49] They're doing stuff. They're listening. This is a care cascade, albeit obviously one that's very dramatic. But I love this story because it illustrates how like these aren't bad decisions. [00:37:00] Every step of this way was the answer to the board question. Like, what do you do if you see a mass in the head of the pancreas, or you get a dedicated CT scan, like that is all correct. Um, but it all started from a screening test. In this case, it was a physical exam, not a full body scan.
+
+Emily: [00:37:17] Yeah. I mean, I, uh, that's obviously a very extreme story, but I do think it, it is even in the Instagram versions of this, it is what we're seeing from a lot of people who have these scans. Do you see this? You see this, you see, you know this. Your liver is too big. You know, at least one person I know has had these, like, they, they were like, just like your liver is enormous. Like you have an enormous liver. And it led to all this stuff. And it just turned out like this person just had kind of a big liver. Like sometimes, sometimes you have that. And so we're overdiagnosing, we're care cascading. We're just. But again, it's not that the decisions were wrong. And I think that's, that's the question is where do you stop the decisions? I think that's [00:38:00] what's such a hard piece of this is which of these things do you not want to do? Which piece of information do you want to just stop? And then we're tempted to say, well, you know what? I just shouldn't have gotten the the information in the first place, and then we wouldn't have been able, wouldn't have had all this other problems. But then when have you missed the one guy? That's why this is hard.
+
+Perry: [00:38:17] That's all right. So so we've got the big concepts people. All right. Everyone understands. Now we have a visceral feeling about about what the conceptually what the issues are. I think we need to talk about the data.
+
+Emily: [00:38:29] Yes. What happens when this actually occurs? I don't know. Um okay. So yeah. So let's say a thousand people get a full body scan. 70 of them, just 70 are going to get totally normal results, 930 will have something abnormal, 300 of them will seem will need some specific follow up. 22 will have cancer, five will have cancer that the scan missed anyway. That [00:39:00] is a broad summary of the data from these full body scans. How do we feel about that? Doesn't seem amazing.
+
+Perry: [00:39:08] This crystallizes everything we've been saying to me. All right, first of all, if you're going to get one of these scans, this by the way, this data comes from the Polaris study, which is a Nuvo funded study. Um, this, uh, it's still recruiting, but this was their initial read. So yeah, you get one of these scans, there's a 93% chance they'll find something abnormal. Like if you think you're going to go and get a clean bill of health, you're not, you're not.
+
+Emily: [00:39:31] No. But and I think that's good. That's good for people to know coming into this, right? You know, like, like if you go for one of these, like they're finding something, right? This is like this actually what my doctor told me the first time I had a mammogram, she was like, they always find something. It's probably fine.
+
+Perry: [00:39:45] Yeah. The next question, of course, is, is it actionable? Right? Like, like, you know, people have found, for example, modest slip disks or something like that. Um, and for some people that's useful, like, oh, that's why I have back pain. Okay, great. There's nothing to be done [00:40:00] about it. Or maybe you get some PT, but 300 of. So 30% of people will have a finding that requires specific follow up. Like like you now have to see another doctor or get another scan or get another test or something to tie this together. And that's where we start running into this. Um, there's sort of an ethical issue here, which is that the ethical issue with full body scans is that they privatize profits but socialize the risks. This is one of the problems I have with these companies is that like, they make money from us, right? Like you pay them, but if they if they find something like your insurance company pays for all that subsequent workup and stuff. And, and, and the more people that do this, the companies keep that money, right? They keep the profits that they've made. But theoretically, you're the economist, Emily. Theoretically, if we're chasing down all these incidentalomas, it's going to drive up insurance costs for everyone, right? Because the insurance just has to be like, well, part, you know, we got to [00:41:00] allocate X number of dollars per person for the weird stuff that it's going to get fined in full body scan.
+
+Emily: [00:41:05] Sure. And also, like there's a much more direct version of this, which is if anybody is over 65, we're already, you know, your tax dollars are paying for their health care. And so if they get this thing, then Medicare is paying and you're paying for Medicare, right?
+
+Perry: [00:41:17] So so you're not the three, the 30% of people who get follow up, like generally they're not paying well, they're paying their deductibles or whatever. And so people should be aware, especially if you have high deductible plan that you might be digging into that. But you know, that's still sort of a socialized form of medicine. 22 have cancer. And here's and this is, this is a study where they they proved it. These are biopsy proven cancers. So 2.2% out of the thousand people who got a scan. And this is where I keep just like hitting the wall in terms of what I think about this, because from a public health standpoint, I'm like, well, clearly this is a bad idea. It costs way too much to the public. It's like, no, no, no, no agency would ever recommend this. It's, it's [00:42:00] clearly not cost effective. You're spending so much money chasing down nonsense. But for an individual who. One of those 22 people. Emily like what if you're one of those 22 people?
+
+Emily: [00:42:12] Yeah. And I think it's once you put it in that frame, again, our psychology makes it very difficult because then you're in a, I don't know, like a loss frame of basically, if you don't do this, what if you're one of the 22 people? And then that's the salient, that's the salient fact that feels terrible. And of course, I would do anything to not be, you know, to have this found as part of those, those 22 people.
+
+Perry: [00:42:39] Yeah. Now, we don't know if those 22 what number of them are overdiagnosis, right. So so some in theory, those cancers that really were found might have never amounted to anything. I think people might not appreciate this as like, we as doctors don't really understand disease before it becomes symptomatic in a lot of cases, like [00:43:00] the way we diagnose most cancers, not the screening ones, not breast cancer and colon cancer, but cancers that come up in other ways because someone has symptoms and, you know, yes, sometimes they get found incidentally. We know that it seems that cancers start off small and get bigger over time. We tend to find them when they are not small unless it's a screening detected cancer. We don't really know if the small ones always become the big ones like we don't, because we've never done a study where we do a full body scan and just sit on our hands and watch. Maybe, maybe that'll happen in the future. I'm not sure. But it's you're sort of obligated because of your understanding of cancer biology to like, you got to do something about these 22 cancers. But I can't tell you for sure that they all would have killed these people.
+
+Emily: [00:43:55] Yeah. I mean, I think what's missing from this, from this discussion and from [00:44:00] the data is probably two things. So one is just a lot of these being done right. So if we had a bigger database and we understood more about what are the things that will turn into something and what are the things that are not, then this information would be more valuable because you would have more of a sense of what to what to action on. Even within those people with the abnormal findings, you would have a better sense of like, you know, yeah, like 73% of people have a lesion on their pancreas. No big deal. Like we see that all we see that all the time. Yeah, yeah. Since we haven't done this, it's hard to say that. Right. I think the second piece here is most of the time people are doing this once, or at least most of the data is on the first time you do a scan. And a lot of what we are looking for in medicine to diagnose whether something's a problem is it is a change, right? Think about dermatology.
+
+Emily: [00:44:50] Think about skin cancer screening. You know, why do I, why do you go back to the dermatologist every six months? If you're at high risk for skin cancer, it's because they're looking for. Did that change? [00:45:00] You know, there's no problem with just being a person full of moles. The problem is when your moles start looking weird and being a different weird color. Yeah. And this is a case where if you had one scan and then you can compare them over time, those second, that second scan is going to be a lot more cost effective than the first scan, because the second time you do the scan, all of those things that we saw it before and it looks the same now we're just ignoring, we're into the things that are that are changing. And I think that's the kind of promise here. I assume Nouveau tells you you should do this every 23 days or whatever, because that's what money is for. But it does feel like that's a that's a piece of something.
+
+Perry: [00:45:38] I think there's something there. I will say the mid journey, that whole body ultrasound submerged in water, like sci fi thing is specifically marketing it for that. They're like, we're going to be cheaper. They're saying it might only be $100 a scan, which like, you know, I've got a bridge to sell you if it turns out to be $100, but that's fine. Maybe VC funds it like Uber, but, um, but they're like, oh yeah, then you can do this repeatedly. [00:46:00] So we're going to solve the false positive and the incidentaloma stuff by just, you'll do this again and again and we'll watch things over time. And the answer is like, okay, maybe, but we have no data to suggest that that's the case yet.
+
+Emily: [00:46:11] Yeah.
+
+Perry: [00:46:12] So there's those five people in the, in the study that ended up having a cancer that Nuvo missed. I'll point out there's just some things that MRIs don't see very well. So, so breast colon and thyroid are like kind of classic, hard to see on MRI and a whole body MRI. You can get dedicated breast MRI, for example. But that's not how this works. Um, breast and colon obviously are ones that we screen for. So, you know, even if you're doing a whole body scan, you still want to do your, uh, age recommended cancer screening too.
+
+Emily: [00:46:45] Yes. You just want to be constantly getting screened.
+
+Perry: [00:46:50] Um.
+
+Emily: [00:46:51] That's, uh.
+
+Perry: [00:46:52] That's gotta generate those, generate medical expenses.
+
+Emily: [00:46:57] So I think it's worth, [00:47:00] uh, worth sort of saying how common it is to find some kind of, as you call it, an Incidentaloma when we do these, when we do these, just in case people go to do it, like what what is going to happen is not that they're going to tell you everything is fine. Something is going to happen. So to, to put some data on this, there's a 2014 study that looked at 666 MRIs performed on people, and they looked at what were the incidental findings. And I think an important point to to note is that they found some incidental finding in 659 of the 666 people that they scanned. So that is almost everyone. I don't know what happened to those seven people. Maybe there was an error in their scan or something, but basically everyone found something, uh, that was wrong. And, you know, some of this is, is in your brain. Some of it is in your your spine. Some of [00:48:00] them are renal cysts. There were many different things that they found. But for me, the headline here was like, you always get something. Yeah. Was that your headline?
+
+Perry: [00:48:07] Yeah. And I mean, I'll put some numbers on it for you. So like between 22 in the younger age group, 22%, uh, had some evidence of brain infarct, uh, 45% in the older group things, you know, just like little areas of the brain that look like they've had a problem in the past. Um, 5% of the younger cohort had pulmonary nodules, 16% in the older cohort, renal cysts, 17% and 41% spinal degeneration, 23% and 45%. So these are like, you're going to, you're going to see this stuff. So be prepared. Like there's a very good chance that someone's going to tell you after a full body scan that you've got a nodule in your lung, you've got a spot in your kidney, you have disc degeneration, or even that you may have at one point in the past had a micro stroke that you never noticed.
+
+Emily: [00:48:54] Yeah. So can we talk about whether there are medical [00:49:00] risks to doing this? So I mean, we've talked a tremendous amount about what I think of as sort of cost risks, but also psychology risks. You know, you're going to somebody's going to tell you you have a, you had a mini stroke. Like maybe that's going to freak you out. Yeah. But we are also, interestingly, many of the same people who are into these things are also very worried about radiation from like their microwave. And so I always find it interesting to, to be like, people don't want to stand in front of their microwave because of microwaves, but then they want to go into an MRI machine and get zapped.
+
+Perry: [00:49:30] Yeah.
+
+Emily: [00:49:31] Is that a problem?
+
+Perry: [00:49:32] I mean, not really. Um, you know, the medical risk is mostly from the downstream stuff. So MRIs don't use ionizing radiation in contrast to CT scans. So there theoretically is no increased risk of cancer from repeated MRI scanning. There are companies that offer whole body CT scans. And that certainly is radiation. And so like that in theory would increase your risk of cancer over time. But for a whole body MRI, probably not. I guess if you're claustrophobic, there's a risk you could freak [00:50:00] out. You know, those tubes are a little bit.
+
+Emily: [00:50:01] Yeah. We should say the MRI. They put you on a tube and they get you in this, like, quite loud tube and they go.
+
+Perry: [00:50:07] Yeah. So it's, it's not, it's not super comfortable. But but yeah, I don't think it's a cancer issue.
+
+Emily: [00:50:14] Okay. No cancer. Um, should is it okay to stand in front of the microwave?
+
+Perry: [00:50:19] Uh.
+
+Emily: [00:50:20] How else are you gonna do it? We'll do that later.
+
+Perry: [00:50:22] I have to watch my food carefully because I'm so hungry. Um.
+
+Emily: [00:50:28] Okay. Does anyone think anyone in the official doctor space think these are a good idea?
+
+Perry: [00:50:37] Uh, no. Yeah, the the the formal, like recommendations from the medical societies are like, um. Ah, that. No, that screening whole body MRI is not cost effective and will not save lives.
+
+Emily: [00:50:54] How do they come? Like I will say though, 22 people like how [00:51:00] do they confront that? I know some of those people maybe were saved by by this.
+
+Perry: [00:51:06] Yeah. So you're saying there's a chance.
+
+Emily: [00:51:08] Yeah. You're saying there's a chance.
+
+Perry: [00:51:10] I mean, in the end, I think the problem is that we don't have the real high quality study that you would do here, which is a full on randomized trial where you take 10,000 people and you do a whole body MRI, and you take 10,000 people that don't, you follow them for ten years and you see what happens. You know, the thing about those 22 people with cancer, we already like some of them. Maybe the cancer never matters, never would have been detected. They die of something else. Some of them, the cancer would be detected anyway, like they like they develop a symptom. And although it's often true that detecting a cancer earlier is better than detecting it later. That's not always the case. And you know, something comes up in some other way and you pick up that cancer and you get it treated and there's no difference [00:52:00] in outcomes. And so there's a lot of ways that even in those 22 people, like if you do the sliding doors thing of, you know, their life where they went through the whole body MRI and their life where they didn't go through the whole body MRI, the outcomes end up being the same, at least on sort of the broad population level.
+
+Emily: [00:52:18] Yeah, I like that study. That study is probably too expensive.
+
+Perry: [00:52:22] It's an expensive study. There's one study I really kind of liked that I thought was clever in this space. Um, this is from the European Journal of Epidemiology. And they actually they did whole body MRI on about 3300 people. So everyone got it, but they actually only disclosed the findings to half of them. That's what they sort of randomized, which I think is really interesting. Um, yeah, I think this is sort of something that maybe you could only do in Europe. And, and what they found is that if you disclosed to people the rate of biopsy of something that turns out not to be cancer [00:53:00] was 39% higher. Okay. So, so basically you see something, they get biopsied. It's not cancerous. You've got a 40% increased risk of getting a needle stuck in you. And it turns out to be nothing but the rate of biopsies that did turn out to be cancer was 74% higher. Um, now there weren't numerically, there were very few of these. But sure enough, some of those spots do turn out to be cancer, as we've seen before. The authors concluded that there was good evidence of overtesting and overdiagnosis and called for further research. But I think this is a potential study design that, like if people were willing to not hear their results for two years, but then you can even imagine like two years later when the study is over, they're like, oh, by the way, here are your results. Like there's, there's a big spot on your liver.
+
+Emily: [00:53:50] Like get it checked out. Don't, don't.
+
+Perry: [00:53:53] Don't, don't be mad. I mean, you have to do a really good job of informed consent.
+
+Emily: [00:53:57] Yeah. Yeah. I mean, I think there's all kinds of interesting [00:54:00] sort of information procedures you could think about here, which is, you know, can you have your AI after it reads the radiology report? Can you have it like decide how to like which pieces of information are potentially actionable and which are and which are not? Yeah. Again, something for which having more data would be more helpful.
+
+Perry: [00:54:21] I've got one other hypothetical for you.
+
+Emily: [00:54:23] Yeah. Okay.
+
+Perry: [00:54:23] Emily, as we're coming down to smash or pass this. So I was thinking that, you know, one of the issues on a population level is the costs borne by downstream care, which, as we said, are sort of borne by all of us. And the profits are absorbed by these few companies. Okay. Imagine a world where the insurance companies start to say like, look, listen, we're not going to pay for anything that happens downstream of these scans, which I don't know if that's possible or give you an alternative view. Well, they're like, okay, anything that you chase down after these scans, if it turns out to be like a cancer or something that would have [00:55:00] killed you, we'll pay for all that care. But if it turns out to be an incidentaloma and you get a biopsy and it's benign, we're not paying for any of that. Do you think that changes the individual calculus here? If if more of the risk of the results is borne by the individual instead of like the insurance company or society, does that change the outlook for these companies?
+
+Emily: [00:55:22] I think it would change the outlook for the companies quite a lot in the long term, because I think it would limit their growth. I mean, right now this is broadly consumed by a set of people with quite a lot of resources, for whom I suspect that incentive would be pretty small. On, on the margin, um.
+
+Perry: [00:55:42] Like, okay, I'll pay for it. That's fine.
+
+Emily: [00:55:43] Yeah. Kim Kardashian can pay for her extra stuff, but if you think about trying to expand this into like, everybody has this. Yeah, then yes, absolutely. It's going to, you know, the like downstream costs of this are going to matter. On the other hand, again, getting back to the psychology, if you put [00:56:00] it in a loss frame like you are, we're going to find what if you're one of the 22 people like. So maybe it'll cost you a little bit of money, but you might find out that you have cancer and then not die from it so soon. That's a very, very, very powerful pull.
+
+Perry: [00:56:18] All right, Emily, I need you to go first here. You got to tell him. Please convince me. Smash or pass. This is really hard.
+
+Emily: [00:56:25] I also find this one very hard. But right now I am a pass. I think that the the incidental findings feel so much more central to me than the other findings. And I think if people are doing a good job of the regular cancer screenings that they are supposed to be doing. Mammography, colon cancer screening, etc. that is sufficient. So I'm a pass.
+
+Perry: [00:56:56] Yeah. Those screenings had randomized [00:57:00] trial data to show that they decreased breast cancer specific or colon cancer specific mortality, like they did that work. These companies have not done that work yet. So by that standard, I'm going to say I'm definitely a pass on the sort of population wide level. But for an individual, I'm actually let me just personally like, no, I'm a pass. Like, I don't want to do this. I, I think I'll find it'll find something that I have to deal with. I don't want to deal with more. I'm going to pass.
+
+Emily: [00:57:29] Okay. We're passing. You seem sad, but you know, this is so this I will say this is the hardest one.
+
+Perry: [00:57:37] But what if I have.
+
+Emily: [00:57:37] Cancers that we have done for me in terms of like the smash or pass decision. Yeah, it's something I do think about like, because, and I do all kinds of other weird, you know, like all these like blood tests and all this kind of stuff. Uh, but this one is just like one step too far for me.
+
+Perry: [00:57:51] Yeah. We're not going to blame anyone for doing it. How about that?
+
+Emily: [00:57:54] No, that's for sure. We don't blame people. All right, that's it for full body scans. Your mailbag. Question of the week [00:58:00] after the break.
+
+Mailbag: [00:58:06] Hey, Emily and Perry, this is Margaret from Charleston, and my question is about the shingles vaccine, or I guess it's called the Shingrix vaccine. You know, the one for shingles. I've been trying to convince my mother to get it as a way of preventing dementia. Am I right about this? Should I keep harassing her? Love the show. Thanks so much.
+
+Emily: [00:58:24] So there's a lot of new data on this, which I find very compelling. So I, I have been trying I will just say full disclosure, I've been trying to get my mother in law to get the Shingrix vaccine for like a decade. Uh, and every time there's new information about it, I. I send it to her and I. My read is that the the evidence on dementia, while not perfect randomized trial evidence is increasingly quite strong. It's now coming out of a number of studies, stronger for women than than for men and reasonably large effect sizes. Um, you know, 5 to [00:59:00] 10% reduction in dementia risk, which is like pretty solid, pretty solid for something that also prevents you from getting shingles, which I hear is a terrible experience.
+
+Perry: [00:59:10] Horrible. So painful. Yeah. I mean, the data on dementia is observational, right? You look at large data sets of people, some of whom got the vaccine, some who didn't. And then you look and see if they end up with dementia. And of course, there are other factors that predispose both to vaccination and maybe to your dementia risk, the sort of healthy user effect you can adjust for a lot of things, you know, that said, we interpret this in the context of the risk of the vaccine, which is extraordinarily low. The other benefits like preventing shingles, which is clearly documented in randomized trials. And like, that's great. So this feels like an icing on the cake thing. I will say varicella zoster virus, which is the virus that causes both chickenpox and shingles, is a weird one. It's a DNA virus. So it can integrate into the DNA of your cells. That's actually how it lays dormant for so long. And [01:00:00] it goes and it is sitting in your DNA and just waiting to be reactivated. And then for reasons that we don't fully understand stress sometimes like UV light or whatever, will reactivate this. That's actually why shingles appears in a patch in your body, because it's traveling out from a nerve. Like it's coming from the nerve that innervates that patch of skin. It's also why it's so incredibly painful. So it integrates into DNA and it's neurotropic. So it's a virus that likes to infect nerve cells. So, you know, dementia nerve cells integrates into DNA, lasts a really long time. Like I'm there's a lot of convincing push here, so I see no reason not to get this vaccine.
+
+Emily: [01:00:40] Yeah. I mean, I think that in some sense there's no reason not to get this vaccine. There are other reasons to get this vaccine other than the dementia risk. And so in in many ways, this feels to me like, yes, it's one more thing, but also it's just interesting. And it's an interesting thing to think about as we contemplate what causes some people to have dementia versus, uh, versus [01:01:00] not having dementia. So yes, if my mother in law is listening, uh, you should get the shingles vaccine like I've been telling you.
+
+Perry: [01:01:11] All right. That's it for us today. Stick with us next week when we'll ask, what's the deal with mRNA?
+
+Emily: [01:01:19] Well, this actually is produced in association with iHeartMedia. Our senior producer is Tamar Avishai. Our executive producer at iHeart is Jennifer Bassett. Our theme music is by Eric Deutsch, and our content is for educational purposes only.
+
+Perry: [01:01:34] If you like the show, help other people find us. Leave a rating and review on Apple Podcasts or your podcatcher of choice and help us spread the word about the show. You can follow us on Instagram at Wellness Pod. And don't forget, we want to hear from you. Head over to wellness.fm and leave us a question for our mailbag or suggest a topic for a future show.
+
+Emily: [01:01:55] We'll let the influencers have the last word.
+
+Influencer: [01:01:58] I got my results from my scan, [01:02:00] and if you don't know who that is, it's a full body MRI. So we're gonna go over what they found. And they found 26 findings. When I saw this, I was like, oh my gosh, there's 26 things that's wrong with me. But really, yes. But no, but with the minor findings that they did find, is this right here is my lip filler. It says right here, just like filler or Botox injections. So this is just showing my lip filler, which is like, okay.
