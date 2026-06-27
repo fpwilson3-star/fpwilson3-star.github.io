@@ -28,6 +28,8 @@
 
     { slug: 'how-much-sleep-do-you-need', title: 'How Much Sleep Do You Actually Need? What the Science Says' },
 
+    { slug: 'are-full-body-scans-worth-it', title: 'Are full-body MRI scans worth it? What the evidence actually shows' },
+
   ];
 
   const linkStyle = 'font-family:var(--font-mono);font-size:0.85rem;color:var(--color-accent);text-decoration:none;';
