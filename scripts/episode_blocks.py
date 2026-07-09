@@ -19,6 +19,7 @@ presence and the retrofit can stay idempotent.
 import html as htmlmod
 import json
 import re
+from urllib.parse import urlparse
 
 # Stable @id for the Person entity defined once on the homepage (index.html).
 PERSON_ID = "https://fperrywilson.com/#person"
@@ -96,11 +97,33 @@ def body_region(page_src):
     return page_src[start:end] if end != -1 else page_src[start:]
 
 
+# Hosts that occasionally appear as inline links in an article body but are NOT
+# scholarly sources: social posts (often the misinformation the article rebuts)
+# and embedded video/news. Citations should point at the evidence, so these are
+# filtered out. This is a denylist, not an allowlist, on purpose: everything
+# else — PubMed, DOI, and every journal domain — is treated as scholarly, so a
+# study is never dropped just because its journal isn't on a list.
+_NON_SCHOLARLY_HOSTS = (
+    'instagram.com', 'youtube.com', 'youtu.be', 'twitter.com', 'x.com',
+    'tiktok.com', 'facebook.com', 'fb.com', 'threads.net', 'reddit.com',
+    'linkedin.com', 'nytimes.com', 'washingtonpost.com', 'statnews.com',
+    'thehill.com', 'tomshardware.com', 'share.google', 'google.com',
+)
+
+
+def _is_scholarly(url):
+    host = urlparse(url).netloc.lower()
+    if host.startswith('www.'):
+        host = host[4:]
+    return not any(host == d or host.endswith('.' + d) for d in _NON_SCHOLARLY_HOSTS)
+
+
 def extract_citations(body_html):
-    """Ordered, de-duplicated absolute http(s) links in the article body — the
-    study/source URLs, which become the Article's citation list."""
+    """Ordered, de-duplicated scholarly links in the article body — the study
+    URLs, which become the Article's citation list. Social/video/news links are
+    excluded (see _NON_SCHOLARLY_HOSTS)."""
     urls = [htmlmod.unescape(u) for u in re.findall(r'href="(https?://[^"]+)"', body_html)]
-    return list(dict.fromkeys(urls))
+    return list(dict.fromkeys(u for u in urls if _is_scholarly(u)))
 
 
 def citation_jsonld(urls):
