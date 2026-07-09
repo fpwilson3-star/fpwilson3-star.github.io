@@ -17,6 +17,7 @@ from urllib.parse import urlparse, parse_qs, unquote
 
 import build_rss
 import build_llms_txt
+import build_podcast_index_schema
 import prerender_nav
 import episode_blocks
 
@@ -596,6 +597,10 @@ def build_episode_html(data, date_iso, date_display, episode_url=None):
     slug = data['slug']
     meta_desc = data['meta_description']
     article_html = clean_article_html(data['article_html'])
+    # The vetted study links in the body become the Article's citation list.
+    citations = episode_blocks.extract_citations(article_html)
+    article_jsonld_block = episode_blocks.render_article_block(
+        headline, date_iso, date_iso, slug, meta_desc, citations)
     episode_title = data['episode_title']
     faqs = data.get('faqs') or []
     faq_jsonld = render_faq_jsonld(faqs)
@@ -649,20 +654,7 @@ def build_episode_html(data, date_iso, date_display, episode_url=None):
   <meta name="twitter:description" content="{meta_desc}">
   <meta name="twitter:image" content="https://fperrywilson.com/images/og-podcast.jpg">
   <meta name="twitter:image:alt" content="Wellness, Actually podcast — with Emily Oster and F. Perry Wilson, MD">
-  <script type="application/ld+json">
-  {{
-    "@context": "https://schema.org",
-    "@type": "Article",
-    "headline": "{headline}",
-    "datePublished": "{date_iso}",
-    "dateModified": "{date_iso}",
-    "image": "https://fperrywilson.com/images/og-podcast.jpg",
-    "author": {episode_blocks.indent_json(episode_blocks.author_jsonld(), 4)},
-    "publisher": {episode_blocks.indent_json(episode_blocks.publisher_jsonld(), 4)},
-    "description": "{meta_desc}",
-    "url": "https://fperrywilson.com/podcast/{slug}.html"
-  }}
-  </script>
+{article_jsonld_block}
   <script type="application/ld+json">
   {{
     "@context": "https://schema.org",
@@ -928,7 +920,9 @@ def main():
     prerender_nav.main()
     build_rss.main()
     build_llms_txt.main()
-    print("Pre-rendered episode nav on all pages and rebuilt podcast/rss.xml and llms.txt")
+    build_podcast_index_schema.main()
+    print("Pre-rendered episode nav on all pages and rebuilt podcast/rss.xml, "
+          "llms.txt, and the podcast index ItemList schema")
 
     set_output('slug', slug)
     set_output('headline', headline)

@@ -18,9 +18,15 @@ presence and the retrofit can stay idempotent.
 """
 import html as htmlmod
 import json
+import re
 
 # Stable @id for the Person entity defined once on the homepage (index.html).
 PERSON_ID = "https://fperrywilson.com/#person"
+
+# The episode-article collection every episode page belongs to.
+COLLECTION_NAME = "Wellness, Actually — Episode Articles"
+COLLECTION_URL = "https://fperrywilson.com/podcast/"
+INLANGUAGE = "en-US"
 
 _PROFILE_SAMEAS = [
     "https://scholar.google.com/citations?user=iB9er1AAAAAJ",
@@ -60,6 +66,79 @@ def indent_json(obj, spaces):
     block whose keys sit at `spaces` columns (first line stays inline)."""
     body = json.dumps(obj, indent=2, ensure_ascii=False)
     return ('\n' + ' ' * spaces).join(body.split('\n'))
+
+
+# --- Article JSON-LD --------------------------------------------------------
+#
+# The full Article structured-data block is built here (not inline in the
+# generator) so new articles and the retrofit of existing pages emit identical
+# markup. Beyond the basics it carries the AEO/SEO fields:
+#   - isPartOf / mainEntityOfPage / inLanguage: tie each article to the episode
+#     collection and declare its canonical page and language, so engines can
+#     consolidate the corpus and place the page.
+#   - citation: the vetted study URLs the article links, restated as machine
+#     readable sources. This is the grounding signal answer engines look for on
+#     YMYL health content — "these claims trace to these specific papers."
+
+_BODY_OPEN = '<div style="font-size: 1.08rem; line-height: 1.85;">'
+_FAQ_ANCHOR = '<section aria-labelledby="faq-heading"'
+
+
+def body_region(page_src):
+    """The article-body HTML of a rendered episode page: from the body div down
+    to the FAQ section. Isolating it means citation extraction only sees the
+    vetted study links in the prose, never the podcast-app / author-bio / nav
+    boilerplate that lives below it."""
+    start = page_src.find(_BODY_OPEN)
+    if start == -1:
+        return ''
+    end = page_src.find(_FAQ_ANCHOR, start)
+    return page_src[start:end] if end != -1 else page_src[start:]
+
+
+def extract_citations(body_html):
+    """Ordered, de-duplicated absolute http(s) links in the article body — the
+    study/source URLs, which become the Article's citation list."""
+    urls = [htmlmod.unescape(u) for u in re.findall(r'href="(https?://[^"]+)"', body_html)]
+    return list(dict.fromkeys(urls))
+
+
+def citation_jsonld(urls):
+    """Render citation URLs as schema.org CreativeWork references (or [] )."""
+    return [{"@type": "CreativeWork", "url": u} for u in urls]
+
+
+def article_jsonld(headline, date_published, date_modified, slug, description, citation_urls=()):
+    """The Article structured-data object for an episode page."""
+    url = f"https://fperrywilson.com/podcast/{slug}.html"
+    obj = {
+        "@context": "https://schema.org",
+        "@type": "Article",
+        "headline": headline,
+        "datePublished": date_published,
+        "dateModified": date_modified,
+        "image": "https://fperrywilson.com/images/og-podcast.jpg",
+        "author": author_jsonld(),
+        "publisher": publisher_jsonld(),
+        "description": description,
+        "url": url,
+        "mainEntityOfPage": url,
+        "inLanguage": INLANGUAGE,
+        "isPartOf": {"@type": "CollectionPage", "name": COLLECTION_NAME, "url": COLLECTION_URL},
+    }
+    cites = citation_jsonld(citation_urls)
+    if cites:
+        obj["citation"] = cites
+    return obj
+
+
+def render_article_block(headline, date_published, date_modified, slug, description, citation_urls=()):
+    """The full <script type="application/ld+json"> Article block, indented to
+    sit in an episode page's <head> (two-space base, matching the other blocks)."""
+    obj = article_jsonld(headline, date_published, date_modified, slug, description, citation_urls)
+    body = json.dumps(obj, indent=2, ensure_ascii=False)
+    indented = '\n'.join('  ' + line for line in body.split('\n'))
+    return f'  <script type="application/ld+json">\n{indented}\n  </script>'
 
 
 TLDR_MARKER = 'data-aeo="tldr"'
