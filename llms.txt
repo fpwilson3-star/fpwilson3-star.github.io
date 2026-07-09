@@ -36,6 +36,16 @@ Evidence-based deep dives, one per podcast episode. Each answers a specific well
 - [Do peptide injections like BPC 157 actually work?](https://fperrywilson.com/podcast/do-peptide-injections-actually-work.html): Peptides like BPC 157 and the "Wolverine stack" are everywhere on social media. Here's what the evidence actually shows, and where the real risks are.
 - [Are sperm counts really declining, and should you care?](https://fperrywilson.com/podcast/are-sperm-counts-really-declining.html): Sperm counts have dropped over the past 50 years, but the cause isn't cell phones, soy, or laptops. Here's what the evidence actually says.
 
+## Topics
+Episode articles grouped by subject. Each hub collects the deep dives on one area of health.
+- [Supplements & sports nutrition](https://fperrywilson.com/podcast/topics/supplements-sports-nutrition.html): Evidence-based deep dives on the supplements and sports-nutrition products people actually take, and what the research says they do.
+- [Hormones & sexual health](https://fperrywilson.com/podcast/topics/hormones-sexual-health.html): What the evidence shows on hormone therapies and sexual health, from testosterone and HRT to treatments for low desire.
+- [Metabolic & diet](https://fperrywilson.com/podcast/topics/metabolic-diet.html): Weight, blood sugar, and diet examined through the actual data on GLP-1s, red meat, protein, and continuous glucose monitoring.
+- [Biohacking & recovery trends](https://fperrywilson.com/podcast/topics/biohacking-recovery-trends.html): The wellness gadgets and recovery trends filling your feed, tested against the evidence rather than the hype.
+- [Injectable & regenerative therapies](https://fperrywilson.com/podcast/topics/injectable-regenerative-therapies.html): Peptides, stem cells, and other injectable therapies, and what the clinical evidence actually supports.
+- [Brain, mood & sleep](https://fperrywilson.com/podcast/topics/brain-mood-sleep.html): The science of sleep, mood, and cognition, from psychedelics to how much sleep you really need.
+- [Environmental exposures & health scares](https://fperrywilson.com/podcast/topics/environmental-exposures-health-scares.html): Microplastics, declining sperm counts, and other health scares, weighed against what the evidence really shows.
+
 ## Indexes
 - [All episode articles](https://fperrywilson.com/podcast/)
 - [Episode article RSS feed](https://fperrywilson.com/podcast/rss.xml)

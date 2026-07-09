@@ -67,8 +67,11 @@ def main():
     index_slugs = [s for _, s in index_entries]
     index_dates = {s: d for d, s in index_entries}
     sitemap = Path('sitemap.xml').read_text(encoding='utf-8')
-    sitemap_pairs = re.findall(
+    # Episode entries only: topic-hub locs (/podcast/topics/...) contain a slash
+    # and are validated separately in check_topics().
+    sitemap_pairs = [(s, d) for s, d in re.findall(
         r'<loc>' + re.escape(SITE) + r'/podcast/([^<]+)\.html</loc>\s*<lastmod>([^<]+)</lastmod>', sitemap)
+        if '/' not in s]
     sitemap_lastmod = dict(sitemap_pairs)
     rss = Path('podcast/rss.xml').read_text(encoding='utf-8')
     rss_pairs = re.findall(r'<link>' + re.escape(SITE) + r'/podcast/([^<]+)\.html</link>.*?<pubDate>([^<]+)</pubDate>', rss, re.DOTALL)
@@ -181,7 +184,8 @@ def main():
             err(f'{slug}: missing <div id="related-episodes"> (run scripts/prerender_nav.py)')
         elif slug in js_slugs:
             expected = episode_blocks.render_related_inner(
-                [(s, title_by_slug[s]) for s in episode_blocks.compute_related(slug, related_order)])
+                [(s, title_by_slug[s]) for s in episode_blocks.compute_related(slug, related_order)],
+                episode_blocks.topics_for_episode(slug))
             if m.group(1).strip() != expected.strip():
                 err(f'{slug}: related-episodes block is empty or stale '
                     '(run scripts/prerender_nav.py)')
@@ -212,12 +216,56 @@ def main():
                 err(f'{slug}: pre-rendered episode-nav is empty or stale '
                     '(run scripts/prerender_nav.py)')
 
+    check_topics()
+
     if errors:
         print(f'FAILED: {len(errors)} problem(s) found\n')
         for e in errors:
             print(f'  - {e}')
         sys.exit(1)
     print(f'OK: {len(pages)} episode pages consistent across index, episodes.js, sitemap, and RSS.')
+
+
+def check_topics():
+    """The topic hub pages, topics index, index strip, and sitemap entries must
+    match what build_topic_pages would generate from CLUSTERS/TOPIC_META."""
+    import build_topic_pages
+
+    if set(episode_blocks.TOPIC_META) != set(episode_blocks.CLUSTERS):
+        err('scripts/episode_blocks.py: TOPIC_META and CLUSTERS have different keys')
+        return
+
+    rows = build_topic_pages.topic_rows()
+    sitemap = Path('sitemap.xml').read_text(encoding='utf-8')
+    sm = dict(re.findall(
+        r'<loc>' + re.escape(SITE) + r'(/podcast/topics/[^<]*)</loc>\s*<lastmod>([^<]+)</lastmod>', sitemap))
+
+    for name, meta, entries in rows:
+        page = Path(f'podcast/topics/{meta["slug"]}.html')
+        if not page.exists():
+            err(f'topic hub {meta["slug"]}.html is missing (run scripts/build_topic_pages.py)')
+        elif page.read_text(encoding='utf-8') != build_topic_pages.render_hub(name, meta, entries):
+            err(f'topic hub {meta["slug"]}.html is stale (run scripts/build_topic_pages.py)')
+        loc = f'/podcast/topics/{meta["slug"]}.html'
+        expected = max(e['date'] for e in entries)
+        if sm.get(loc) != expected:
+            err(f'sitemap lastmod for {loc} is {sm.get(loc)}, expected {expected} '
+                '(run scripts/build_topic_pages.py)')
+
+    idx = Path('podcast/topics/index.html')
+    if not idx.exists():
+        err('podcast/topics/index.html is missing (run scripts/build_topic_pages.py)')
+    elif idx.read_text(encoding='utf-8') != build_topic_pages.render_topics_index(rows):
+        err('podcast/topics/index.html is stale (run scripts/build_topic_pages.py)')
+    newest = max((e['date'] for _n, _m, es in rows for e in es), default=None)
+    if sm.get('/podcast/topics/') != newest:
+        err(f'sitemap lastmod for /podcast/topics/ is {sm.get("/podcast/topics/")}, '
+            f'expected {newest} (run scripts/build_topic_pages.py)')
+
+    index_src = Path('podcast/index.html').read_text(encoding='utf-8')
+    strip = build_topic_pages.render_index_strip(rows)
+    if f'<!-- TOPICS-START -->{strip}<!-- TOPICS-END -->' not in index_src:
+        err('podcast/index.html "Browse by topic" strip is stale (run scripts/build_topic_pages.py)')
 
 
 if __name__ == '__main__':
