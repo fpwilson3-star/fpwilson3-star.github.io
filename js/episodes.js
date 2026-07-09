@@ -32,6 +32,8 @@
 
     { slug: 'how-mrna-vaccines-work', title: 'How do mRNA vaccines actually work, and are they safe?' },
 
+    { slug: 'does-high-cortisol-cause-belly-fat', title: 'Does high cortisol really cause belly fat and heart disease?' },
+
   ];
 
   const linkStyle = 'font-family:var(--font-mono);font-size:0.85rem;color:var(--color-accent);text-decoration:none;';
