@@ -236,6 +236,7 @@ CLUSTERS = {
     ],
     "Screening & diagnostics": [
         "are-full-body-scans-worth-it",
+        "continuous-glucose-monitors-non-diabetics",
     ],
 }
 
