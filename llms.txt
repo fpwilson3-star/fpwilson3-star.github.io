@@ -45,6 +45,8 @@ Episode articles grouped by subject. Each hub collects the deep dives on one are
 - [Injectable & regenerative therapies](https://fperrywilson.com/podcast/topics/injectable-regenerative-therapies.html): Peptides, stem cells, and other injectable therapies, and what the clinical evidence actually supports.
 - [Brain, mood & sleep](https://fperrywilson.com/podcast/topics/brain-mood-sleep.html): The science of sleep, mood, and cognition, from psychedelics to how much sleep you really need.
 - [Environmental exposures & health scares](https://fperrywilson.com/podcast/topics/environmental-exposures-health-scares.html): Microplastics, declining sperm counts, and other health scares, weighed against what the evidence really shows.
+- [Health technology](https://fperrywilson.com/podcast/topics/health-technology.html): How emerging medical technologies actually work, and what the evidence says they deliver, from mRNA vaccines onward.
+- [Screening & diagnostics](https://fperrywilson.com/podcast/topics/screening-diagnostics.html): What the evidence says about screening tests and diagnostic scans, and when they help versus when they lead to overdiagnosis.
 
 ## Indexes
 - [All episode articles](https://fperrywilson.com/podcast/)

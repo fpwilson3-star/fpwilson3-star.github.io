@@ -196,6 +196,7 @@ CLUSTERS = {
         "does-bovine-colostrum-actually-work",
     ],
     "Hormones & sexual health": [
+        "does-high-cortisol-cause-belly-fat",
         "does-testosterone-replacement-therapy-actually-work",
         "does-hormone-replacement-therapy-actually-work",
         "does-addyi-work-low-sexual-desire-women",
@@ -229,6 +230,12 @@ CLUSTERS = {
         "are-microplastics-actually-harming-your-health",
         "are-sperm-counts-really-declining",
         "is-red-meat-actually-bad-for-you",
+    ],
+    "Health technology": [
+        "how-mrna-vaccines-work",
+    ],
+    "Screening & diagnostics": [
+        "are-full-body-scans-worth-it",
     ],
 }
 
@@ -274,6 +281,16 @@ TOPIC_META = {
         "slug": "environmental-exposures-health-scares",
         "intro": "Microplastics, declining sperm counts, and other health scares, "
                  "weighed against what the evidence really shows.",
+    },
+    "Health technology": {
+        "slug": "health-technology",
+        "intro": "How emerging medical technologies actually work, and what the "
+                 "evidence says they deliver, from mRNA vaccines onward.",
+    },
+    "Screening & diagnostics": {
+        "slug": "screening-diagnostics",
+        "intro": "What the evidence says about screening tests and diagnostic scans, "
+                 "and when they help versus when they lead to overdiagnosis.",
     },
 }
 
