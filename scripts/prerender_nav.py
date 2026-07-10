@@ -81,7 +81,8 @@ def main():
             print(f'WARNING: no <div id="episode-nav"> found in {page}')
             continue
         related_inner = episode_blocks.render_related_inner(
-            [(s, title_by_slug[s]) for s in episode_blocks.compute_related(slug, order)])
+            [(s, title_by_slug[s]) for s in episode_blocks.compute_related(slug, order)],
+            episode_blocks.topics_for_episode(slug))
         new_src = stamp_related(new_src, related_inner)
         if new_src != src:
             page.write_text(new_src, encoding='utf-8')

@@ -11,6 +11,7 @@ Usage: python scripts/build_llms_txt.py
 from pathlib import Path
 
 import build_rss
+import episode_blocks
 
 HEADER = """# F. Perry Wilson, MD MSCE
 
@@ -37,9 +38,24 @@ FOOTER = """
 """
 
 
+TOPICS_HEADER = """
+## Topics
+Episode articles grouped by subject. Each hub collects the deep dives on one area of health.
+"""
+
+
+def topic_lines():
+    lines = []
+    for name, meta in episode_blocks.TOPIC_META.items():
+        url = f"https://fperrywilson.com/podcast/topics/{meta['slug']}.html"
+        lines.append(f"- [{name}]({url}): {meta['intro']}")
+    return lines
+
+
 def build(entries):
     lines = [f"- [{e['title']}]({e['url']}): {e['description']}" for e in entries]
-    return HEADER + '\n'.join(lines) + '\n' + FOOTER
+    return (HEADER + '\n'.join(lines) + '\n'
+            + TOPICS_HEADER + '\n'.join(topic_lines()) + '\n' + FOOTER)
 
 
 def main():

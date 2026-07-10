@@ -11,6 +11,9 @@ index.html          — Single-page site with all sections
 css/style.css       — All styles (editorial/magazine aesthetic)
 images/             — Local images (OG images, covers, headshot)
 podcast/            — One SEO article per episode + index.html listing + rss.xml
+podcast/topics/     — Auto-generated topic hub pages (one per CLUSTERS topic) +
+                      index.html; built from episode_blocks.CLUSTERS/TOPIC_META
+                      by scripts/build_topic_pages.py. Never hand-edit.
 js/episodes.js      — EPISODES array (oldest-first); source of truth for episode order
 transcripts/        — Episode transcripts; pushing one triggers article generation
 scripts/            — generate_episode_post.py, build_rss.py, build_llms_txt.py,
@@ -33,7 +36,12 @@ scripts/            — generate_episode_post.py, build_rss.py, build_llms_txt.p
                       the body's study links, preserving datePublished/Modified),
                       build_podcast_index_schema.py (regenerates the podcast
                       index CollectionPage → ItemList of every article,
-                      newest-first)
+                      newest-first), build_topic_pages.py (generates the
+                      /podcast/topics/ hub pages + index from the CLUSTERS/
+                      TOPIC_META map, regenerates the "Browse by topic" strip on
+                      podcast/index.html, adds topic links to each episode's
+                      related block via prerender_nav, and keeps topic URLs in
+                      sitemap.xml with lastmod = newest member article's date)
 .github/workflows/  — generate-episode-post.yml (transcript → article PR),
                       site-checks.yml (runs check_site.py on every push/PR)
 sitemap.xml         — All pages; episode entries added by the generator
@@ -61,9 +69,12 @@ blocks (a "Short answer" box, an "About the author" block, an Article author
 tied to the homepage Person @id, a fresh related-episodes block, and the
 Article's isPartOf/mainEntityOfPage/inLanguage plus a citation list matching the
 body's study links); that the podcast index CollectionPage enumerates every
-article as an ItemList newest-first; and that the pre-rendered prev/next nav
-matches the chain in js/episodes.js. CI runs it on every push to main and every
-PR, so a broken state fails loudly — run it locally first.
+article as an ItemList newest-first; that the topic hub pages, /podcast/topics/
+index, "Browse by topic" strip, and topic sitemap entries match what
+build_topic_pages.py would generate from CLUSTERS/TOPIC_META; and that the
+pre-rendered prev/next nav matches the chain in js/episodes.js. CI runs it on
+every push to main and every PR, so a broken state fails loudly — run it locally
+first.
 
 ## Sections (in order)
 1. **Hero** — Name, title, photo, tagline
@@ -240,7 +251,10 @@ creating or editing an episode page by hand:
 6. Run `python scripts/build_llms_txt.py` to regenerate `llms.txt`
 7. Run `python scripts/build_podcast_index_schema.py` to refresh the podcast index CollectionPage → ItemList
 8. Run `python scripts/retrofit_article_seo.py` to add the Article isPartOf/mainEntityOfPage/inLanguage + citation list (the hand-written template above already includes these; the retrofit is the safety net)
-9. Run `python scripts/check_site.py` — must pass before committing (CI enforces it)
+9. Run `python scripts/build_topic_pages.py` to regenerate the topic hub pages, the "Browse by topic" strip, and the topic sitemap entries. To put a new episode on a hub, add its slug to a list in `CLUSTERS` (`scripts/episode_blocks.py`) first — an episode not in any cluster gets no hub and no topic links (this is fine, just a choice). Adding a whole new topic means adding a matching entry to both `CLUSTERS` and `TOPIC_META`.
+10. Run `python scripts/check_site.py` — must pass before committing (CI enforces it)
+
+The generator (`generate_episode_post.py`) runs steps 4–9 automatically after writing a new article, so a pushed transcript refreshes the hubs, index, feeds, and schema with no manual step.
 
 ## Key Links
 - Medium: https://fperrywilson.medium.com/

@@ -18,6 +18,7 @@ from urllib.parse import urlparse, parse_qs, unquote
 import build_rss
 import build_llms_txt
 import build_podcast_index_schema
+import build_topic_pages
 import prerender_nav
 import episode_blocks
 
@@ -918,11 +919,12 @@ def main():
     # Keep the crawlable internal-link chain and the feed in sync. These were
     # manual checklist steps before and drifted every time they were skipped.
     prerender_nav.main()
+    build_topic_pages.main()
     build_rss.main()
     build_llms_txt.main()
     build_podcast_index_schema.main()
-    print("Pre-rendered episode nav on all pages and rebuilt podcast/rss.xml, "
-          "llms.txt, and the podcast index ItemList schema")
+    print("Pre-rendered episode nav on all pages and rebuilt the topic hubs, "
+          "podcast/rss.xml, llms.txt, and the podcast index ItemList schema")
 
     set_output('slug', slug)
     set_output('headline', headline)

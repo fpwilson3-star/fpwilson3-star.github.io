@@ -196,6 +196,7 @@ CLUSTERS = {
         "does-bovine-colostrum-actually-work",
     ],
     "Hormones & sexual health": [
+        "does-high-cortisol-cause-belly-fat",
         "does-testosterone-replacement-therapy-actually-work",
         "does-hormone-replacement-therapy-actually-work",
         "does-addyi-work-low-sexual-desire-women",
@@ -230,7 +231,82 @@ CLUSTERS = {
         "are-sperm-counts-really-declining",
         "is-red-meat-actually-bad-for-you",
     ],
+    "Health technology": [
+        "how-mrna-vaccines-work",
+    ],
+    "Screening & diagnostics": [
+        "are-full-body-scans-worth-it",
+        "continuous-glucose-monitors-non-diabetics",
+    ],
 }
+
+
+# Per-topic metadata for the hub pages built from CLUSTERS. Keyed by the same
+# cluster names; slugs are fixed here (not derived from the name) so renaming a
+# topic's display text never breaks its URL. intro is the hub's lead sentence
+# and meta description. build_topic_pages.py joins this with CLUSTERS (members)
+# and asserts the two dicts have identical keys, so a new cluster can't ship a
+# hub page without a slug/intro or vice versa.
+TOPIC_META = {
+    "Supplements & sports nutrition": {
+        "slug": "supplements-sports-nutrition",
+        "intro": "Evidence-based deep dives on the supplements and sports-nutrition "
+                 "products people actually take, and what the research says they do.",
+    },
+    "Hormones & sexual health": {
+        "slug": "hormones-sexual-health",
+        "intro": "What the evidence shows on hormone therapies and sexual health, from "
+                 "testosterone and HRT to treatments for low desire.",
+    },
+    "Metabolic & diet": {
+        "slug": "metabolic-diet",
+        "intro": "Weight, blood sugar, and diet examined through the actual data on "
+                 "GLP-1s, red meat, protein, and continuous glucose monitoring.",
+    },
+    "Biohacking & recovery trends": {
+        "slug": "biohacking-recovery-trends",
+        "intro": "The wellness gadgets and recovery trends filling your feed, tested "
+                 "against the evidence rather than the hype.",
+    },
+    "Injectable & regenerative therapies": {
+        "slug": "injectable-regenerative-therapies",
+        "intro": "Peptides, stem cells, and other injectable therapies, and what the "
+                 "clinical evidence actually supports.",
+    },
+    "Brain, mood & sleep": {
+        "slug": "brain-mood-sleep",
+        "intro": "The science of sleep, mood, and cognition, from psychedelics to how "
+                 "much sleep you really need.",
+    },
+    "Environmental exposures & health scares": {
+        "slug": "environmental-exposures-health-scares",
+        "intro": "Microplastics, declining sperm counts, and other health scares, "
+                 "weighed against what the evidence really shows.",
+    },
+    "Health technology": {
+        "slug": "health-technology",
+        "intro": "How emerging medical technologies actually work, and what the "
+                 "evidence says they deliver, from mRNA vaccines onward.",
+    },
+    "Screening & diagnostics": {
+        "slug": "screening-diagnostics",
+        "intro": "What the evidence says about screening tests and diagnostic scans, "
+                 "and when they help versus when they lead to overdiagnosis.",
+    },
+}
+
+TOPICS_URL = "https://fperrywilson.com/podcast/topics/"
+
+
+def topic_slug(name):
+    return TOPIC_META[name]["slug"]
+
+
+def topics_for_episode(episode_slug):
+    """The topics an episode belongs to, as [(topic_slug, topic_name), ...] in
+    CLUSTERS order. Drives the 'Topics' links in the episode's related block."""
+    return [(TOPIC_META[name]["slug"], name)
+            for name, members in CLUSTERS.items() if episode_slug in members]
 
 
 def compute_related(slug, order, limit=3):
@@ -255,22 +331,39 @@ RELATED_DIV_OPEN = ('<div id="related-episodes" style="margin-top: 48px; '
                     'padding-top: 28px; border-top: 1px solid #e0d9d0;">')
 
 
-def render_related_inner(pairs):
-    """Inner HTML for the related-episodes div. `pairs` is [(slug, title), ...]."""
-    if not pairs:
+def render_related_inner(pairs, topics=()):
+    """Inner HTML for the related-episodes div. `pairs` is [(slug, title), ...]
+    of related episodes; `topics` is [(topic_slug, topic_name), ...] linking the
+    episode's topic hub pages. Either may be empty."""
+    if not pairs and not topics:
         return ''
-    items = '\n'.join(
-        f'        <li><a href="/podcast/{s}.html" style="color: var(--color-accent); '
-        f'text-decoration: none; font-weight: 600; font-size: 1.05rem;">{htmlmod.escape(t)}</a></li>'
-        for s, t in pairs
-    )
-    return (
-        '\n      <p style="font-family: var(--font-mono); font-size: 0.72rem; text-transform: uppercase; '
-        'letter-spacing: 0.12em; color: var(--color-muted); margin-bottom: 16px;">Related episodes</p>\n'
-        '      <ul style="list-style: none; padding: 0; margin: 0; display: grid; gap: 12px;">\n'
-        + items + '\n'
-        '      </ul>\n    '
-    )
+    parts = []
+    if pairs:
+        items = '\n'.join(
+            f'        <li><a href="/podcast/{s}.html" style="color: var(--color-accent); '
+            f'text-decoration: none; font-weight: 600; font-size: 1.05rem;">{htmlmod.escape(t)}</a></li>'
+            for s, t in pairs
+        )
+        parts.append(
+            '      <p style="font-family: var(--font-mono); font-size: 0.72rem; text-transform: uppercase; '
+            'letter-spacing: 0.12em; color: var(--color-muted); margin-bottom: 16px;">Related episodes</p>\n'
+            '      <ul style="list-style: none; padding: 0; margin: 0; display: grid; gap: 12px;">\n'
+            + items + '\n'
+            '      </ul>\n'
+        )
+    if topics:
+        chips = ' &nbsp;&middot;&nbsp; '.join(
+            f'<a href="/podcast/topics/{ts}.html" style="color: var(--color-accent); '
+            f'text-decoration: none;">{htmlmod.escape(name)}</a>'
+            for ts, name in topics
+        )
+        margin = '24px 0 8px' if pairs else '0 0 8px'
+        parts.append(
+            '      <p style="font-family: var(--font-mono); font-size: 0.72rem; text-transform: uppercase; '
+            f'letter-spacing: 0.12em; color: var(--color-muted); margin: {margin};">Topics</p>\n'
+            f'      <p style="font-size: 1rem; margin: 0;">{chips}</p>\n'
+        )
+    return '\n' + ''.join(parts) + '    '
 
 
 def render_author_bio():
