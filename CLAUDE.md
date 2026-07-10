@@ -19,11 +19,21 @@ scripts/            — generate_episode_post.py, build_rss.py, build_llms_txt.p
                       enriched author schema, "Short answer" box, author-bio
                       block, and the topic-CLUSTERS map + related-episodes logic
                       — imported by the generator, prerender_nav, and the
-                      retrofit so they can't drift), retrofit_episode_links.py (idempotent:
-                      adds episode-specific Apple links + PodcastEpisode schema to
-                      any episode page missing them; title-first matching),
-                      retrofit_author_aeo.py (idempotent: adds the AEO blocks
-                      above to any episode page missing them)
+                      retrofits so they can't drift; also the shared Article
+                      JSON-LD builder with isPartOf/mainEntityOfPage/inLanguage
+                      + the body-derived citation list), retrofit_episode_links.py
+                      (idempotent: adds episode-specific Apple links +
+                      PodcastEpisode schema to any episode page missing them;
+                      title-first matching),
+                      retrofit_author_aeo.py (idempotent: adds the "Short answer"
+                      / author-bio / author-@id AEO blocks to any page missing
+                      them), retrofit_article_seo.py (idempotent: rebuilds each
+                      page's Article JSON-LD through the shared builder, adding
+                      isPartOf/mainEntityOfPage/inLanguage + a citation list of
+                      the body's study links, preserving datePublished/Modified),
+                      build_podcast_index_schema.py (regenerates the podcast
+                      index CollectionPage → ItemList of every article,
+                      newest-first)
 .github/workflows/  — generate-episode-post.yml (transcript → article PR),
                       site-checks.yml (runs check_site.py on every push/PR)
 sitemap.xml         — All pages; episode entries added by the generator
@@ -48,10 +58,12 @@ llms.txt;
 that dates match everywhere and are not in the future; that every page has a
 visible FAQ exactly matching its FAQPage schema; that each page carries the AEO
 blocks (a "Short answer" box, an "About the author" block, an Article author
-tied to the homepage Person @id, and a fresh related-episodes block); and that
-the pre-rendered prev/next nav matches the chain in js/episodes.js. CI runs it
-on every push to main and every PR, so a broken state fails loudly — run it
-locally first.
+tied to the homepage Person @id, a fresh related-episodes block, and the
+Article's isPartOf/mainEntityOfPage/inLanguage plus a citation list matching the
+body's study links); that the podcast index CollectionPage enumerates every
+article as an ItemList newest-first; and that the pre-rendered prev/next nav
+matches the chain in js/episodes.js. CI runs it on every push to main and every
+PR, so a broken state fails loudly — run it locally first.
 
 ## Sections (in order)
 1. **Hero** — Name, title, photo, tagline
@@ -195,7 +207,11 @@ The generator script also produces a visible FAQ section (collapsible `<details>
   "author": {"@type": "Person", "@id": "https://fperrywilson.com/#person", "name": "F. Perry Wilson", "honorificSuffix": "MD MSCE", "jobTitle": "Associate Professor of Medicine and Public Health", "affiliation": {"@type": "Organization", "name": "Yale University"}, "url": "https://fperrywilson.com", "sameAs": ["https://scholar.google.com/citations?user=iB9er1AAAAAJ", "https://www.ncbi.nlm.nih.gov/pubmed/?term=wilson+fp", "https://twitter.com/fperrywilson"]},
   "publisher": {"@type": "Person", "@id": "https://fperrywilson.com/#person", "name": "F. Perry Wilson", "url": "https://fperrywilson.com"},
   "description": "{{DESCRIPTION}}",
-  "url": "https://fperrywilson.com/podcast/{{SLUG}}.html"
+  "url": "https://fperrywilson.com/podcast/{{SLUG}}.html",
+  "mainEntityOfPage": "https://fperrywilson.com/podcast/{{SLUG}}.html",
+  "inLanguage": "en-US",
+  "isPartOf": {"@type": "CollectionPage", "name": "Wellness, Actually — Episode Articles", "url": "https://fperrywilson.com/podcast/"},
+  "citation": [{"@type": "CreativeWork", "url": "<each vetted study URL linked in the body>"}]
 }
 </script>
 <script type="application/ld+json">
@@ -222,7 +238,9 @@ creating or editing an episode page by hand:
 4. Run `python scripts/prerender_nav.py` — bakes the prev/next nav into every page's `<div id="episode-nav">` and stamps the `<div id="related-episodes">` block from the topic clusters in `episode_blocks.py`, so crawlers follow the links without JS. This also updates the previously-newest page (whose nav otherwise dead-ends at "Newest article") and any related blocks whose recency tiebreak shifted. To change which episodes are "related," edit `CLUSTERS` in `scripts/episode_blocks.py` and re-run this.
 5. Run `python scripts/build_rss.py` to regenerate `podcast/rss.xml`
 6. Run `python scripts/build_llms_txt.py` to regenerate `llms.txt`
-7. Run `python scripts/check_site.py` — must pass before committing (CI enforces it)
+7. Run `python scripts/build_podcast_index_schema.py` to refresh the podcast index CollectionPage → ItemList
+8. Run `python scripts/retrofit_article_seo.py` to add the Article isPartOf/mainEntityOfPage/inLanguage + citation list (the hand-written template above already includes these; the retrofit is the safety net)
+9. Run `python scripts/check_site.py` — must pass before committing (CI enforces it)
 
 ## Key Links
 - Medium: https://fperrywilson.medium.com/

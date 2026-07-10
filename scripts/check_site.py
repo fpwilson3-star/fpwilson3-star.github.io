@@ -109,6 +109,20 @@ def main():
         err('podcast/index.html order does not match js/episodes.js order reversed '
             '(a date or list position is probably wrong)')
 
+    # 2b. The podcast index CollectionPage must enumerate every article as an
+    #     ItemList, newest-first, matching the visible list.
+    index_src = Path('podcast/index.html').read_text(encoding='utf-8')
+    collection = next((b for b in jsonld_blocks(index_src)
+                       if b.get('@type') == 'CollectionPage'), None)
+    expected_urls = [f'{SITE}/podcast/{s}.html' for s in index_slugs]
+    if collection is None:
+        err('podcast/index.html: missing CollectionPage JSON-LD')
+    else:
+        got_urls = [it.get('url') for it in (collection.get('mainEntity') or {}).get('itemListElement', [])]
+        if got_urls != expected_urls:
+            err('podcast/index.html: CollectionPage ItemList does not match the visible '
+                'episode list newest-first (run scripts/build_podcast_index_schema.py)')
+
     today = datetime.now()
     for slug in sorted(pages):
         src = Path(f'podcast/{slug}.html').read_text(encoding='utf-8')
@@ -137,6 +151,23 @@ def main():
                 if (block.get('author') or {}).get('@id') != episode_blocks.PERSON_ID:
                     err(f'{slug}: Article JSON-LD author missing @id {episode_blocks.PERSON_ID} '
                         '(run scripts/retrofit_author_aeo.py)')
+                # AEO/SEO: collection membership, canonical page, language, and
+                # a citation list that matches the study links in the body.
+                page_url = f'{SITE}/podcast/{slug}.html'
+                if block.get('inLanguage') != episode_blocks.INLANGUAGE:
+                    err(f'{slug}: Article JSON-LD missing inLanguage "{episode_blocks.INLANGUAGE}" '
+                        '(run scripts/retrofit_article_seo.py)')
+                if (block.get('isPartOf') or {}).get('url') != episode_blocks.COLLECTION_URL:
+                    err(f'{slug}: Article JSON-LD isPartOf not tied to the episode collection '
+                        '(run scripts/retrofit_article_seo.py)')
+                if block.get('mainEntityOfPage') != page_url:
+                    err(f'{slug}: Article JSON-LD mainEntityOfPage != {page_url} '
+                        '(run scripts/retrofit_article_seo.py)')
+                expected_cites = episode_blocks.extract_citations(episode_blocks.body_region(src))
+                got_cites = [c.get('url') for c in (block.get('citation') or [])]
+                if got_cites != expected_cites:
+                    err(f'{slug}: Article JSON-LD citation list does not match the study links '
+                        'in the body (run scripts/retrofit_article_seo.py)')
 
         # 6. AEO: visible "Short answer" box and "About the author" block present
         if episode_blocks.TLDR_MARKER not in src:
