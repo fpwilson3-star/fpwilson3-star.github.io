@@ -1,0 +1,443 @@
+Emily: [00:00:00] Perry. Have you ever been pregnant?
+
+Perry: [00:00:04] Uh, not. No, not to my knowledge, but, um, my wife has been pregnant several times.
+
+Emily: [00:00:09] Did you know that when you are pregnant, fetal cells get into your bloodstream and they live there forever. So your children cells are still circulating around your wife's brain as we speak.
+
+Perry: [00:00:24] That is crazy. I mean, I believe it pregnancy, as I like, went back to my med school notes for this episode to like, remind myself about how incredibly bonkers the physiology is in pregnancy. I mean, it is literally like if, if I didn't know that it served some evolutionary purpose, I would be like, well, this is clearly a terminal disease. Like no one can survive this.
+
+Emily: [00:00:53] I totally agree, and that is in fact how it feels some of the time while you are pregnant. I will tell you. And today we're going [00:01:00] to talk about pregnancy brain and the ways that pregnancy makes your brain worse or maybe better or maybe different. And both. And we've brought in a special guest, special guest scientist. We've brought a special neuroscientist adjacent guest. So, Allison, would you like to introduce yourself and tell us why you're here?
+
+Allison: [00:01:24] I am here by force. I like basically commissioned this episode and forced my way onto the podcast, which I am an obsessive fan of. Um, I want to thank you for your work. You've accompanied me through many a. It's been the equivalent of a panic. Google, but much more informed and much better. So thank you for saving me from panic googling. Although I guess now we panic. Claude I ghost mode panic. Claude now dark mode. Totally. Um, anyway, hi, I'm Allison, I am an actress. I'm also a podcaster. I basically have been wondering for years now, whether my brain [00:02:00] actually physically changed in a permanent way, such that I now have a different amount of or new presentation of ADHD in adulthood, or if I always had it. But my ability to mask it was so good that I didn't know. And then once I had a kid, there's just so much going on that all of those coping mechanisms no longer worked, or if I don't have it at all, and I just now am a mom, and that means that my whole life feels like an ADHD diagnosis and looks like one and thus can be treated like one, but isn't actually one. That's kind of where this is coming from. And there was a study, which I'm sure you'll talk about with more, I don't know, authority and data, but there was a study showing that women's brains changed physically during pregnancy and it was correlated with postpartum depression. And, um, that [00:03:00] fascinated me because I also had postpartum depression and I was like, my brain feels super different, but also my life is unrecognizable. And so it's one of those. What is the causation versus correlation questions that I have been asking myself? And then I was like, why am I asking myself this? That's useless. I have no I know what I know, I think therefore I am, therefore I know nothing extra about this topic and I need to turn to people who actually will. And so I turned to the best people because I weaponized my status. And here I am.
+
+Emily: [00:03:31] We are so pleased that you did well.
+
+Allison: [00:03:33] Thank you. Now, I know there's little bits of my son. I can't wait to tell him. He's gonna be so proud. He's gonna be so excited and proud.
+
+Emily: [00:03:43] I'm Emily Oster, I'm an economist and a data expert.
+
+Perry: [00:03:46] And I'm Perry Wilson, I'm a medical doctor.
+
+Allison: [00:03:48] And I'm Allison Williams, actor and podcaster and fan of this very podcast.
+
+Emily: [00:03:53] It's Thursday, July 16th, 2026. And this is Wellness, Actually.
+
+Perry: [00:03:58] Because you're getting a [00:04:00] staggering amount of health and wellness information nowadays from every source imaginable. And some of it is awesome.
+
+Emily: [00:04:07] And some of it is, well, actually bullshit. Fortunately, we're both people who know how to read studies, how to parse the data, and can tell you what's worth thinking about and what you can safely ignore.
+
+Perry: [00:04:20] But before we dig in a note that this podcast is for educational purposes and should not be construed as medical advice. We don't know your unique situation, so talk to your doctor for personal health decisions.
+
+Emily: [00:04:31] This week we're asking what's the deal with pregnancy brain? Alison Perry and I will give the official smash or pass, and then we'll get to your question of the week. But first let's do the health news roundup after the break.
+
+Emily: [00:04:55] We're back. We've sent Allison off to go get her coffee so we can cover the [00:05:00] health news of the week. Perry. First up, the last American polio survivor in an iron lung dies. I know you know a lot about this. I know it has a personal connection. Tell me more.
+
+Perry: [00:05:11] Yeah. Um, so, uh, some listeners and certainly many of my friends will know that my mom was a polio sufferer. She was in an iron lung, um, when she was a little kid. Um, uh, she ended up only having paralysis of one lower leg. Uh, but obviously not everyone was so lucky. Um, Martha Ann Lillard is the last American polio survivor dependent on an iron lung. She died at the age of 78 on the last Friday. In June of 2026, she contracted polio. Uh, pretty similar year to my mom, 1953. That was her fifth birthday. Um, that was two years before the vaccine became widely available in the US. People don't realize this now, obviously, but that was the reality in the Pre-vaccine era, is that kids could get polio [00:06:00] and not all of them, but a, you know, a fraction of them would develop this this paralysis syndrome, which was sometime lifelong. Martha Ann was from Shawnee, Oklahoma. She rescued animals, created art and poetry, and had recently married her second husband in February of 2026. It's wonderful that she was able to lead such a full life. Not all kids with polio had that opportunity. Um, and I feel like I just need to say that, uh, polio only exists in humans. It is therefore a candidate for eradication from the earth like we did with smallpox. Um, it is on the list, but unfortunately, due to recent trends, um, in sort of the anti-vaccine movement. The eradication program has had some significant setbacks and there is polio spreading out there, although not in the United States currently.
+
+Emily: [00:06:58] Perry, did this woman live her [00:07:00] whole life in the iron lung? Is that right?
+
+Perry: [00:07:03] She she apparently, for much of her life only had to spend the night times in the iron lung so she would sleep there, although I. As far as I understand, she had a couple of bouts of Covid and and after that point was more or less confined to the iron lung. Yeah.
+
+Emily: [00:07:19] Amazing. And also, as you say, a reminder that vaccines are really, really life saving and important.
+
+Perry: [00:07:26] Absolutely. Emily. I was fascinated to see an article that riders in the tour de France are using lactate gels. What is up with lactate gel?
+
+Emily: [00:07:38] Okay, so first of all, I want you guys to understand that you're very lucky that I showed up for today's recording because I we are in the middle of tour de France stage ten. It's an important tour. I could be watching it live on Peacock right now and I'm. Instead, I'm here at work and I have to watch it later. So you're welcome.
+
+Perry: [00:07:55] You're the real hero, Emily.
+
+Emily: [00:07:57] Totally. Okay, so there's always every [00:08:00] year there's some weird like endurance sports science that comes out in the tour de France because these are like the world's most elite athletes, supported by the most amount of money. So like the United Arab Emirates is putting just millions and millions of dollars into getting Pogacar to, like, go with teeny weeny little bit faster on his bicycle.
+
+Perry: [00:08:22] Yeah.
+
+Emily: [00:08:23] Their latest thing is with their gels, which are generally just fructose, some combination of glucose and fructose, which you eat, you know, while you are biking very, very fast. They've added lactate to the gels.
+
+Perry: [00:08:34] Interesting.
+
+Emily: [00:08:35] The idea is that I think twofold. One is you can use lactate as a fuel source. And so this gives you yet another fuel source to fuel your cycling. I think there's also an idea that the lactate can make you less tired by eating up the hydrogen ions that are produced with lactic [00:09:00] acid. So maybe that works.
+
+Perry: [00:09:02] I mean, so so a little nephrology here. Um, the lactate that's going to be in these gels just a little nephrology is almost certainly not lactic acid. It's probably sodium lactate. So the conjugate base and lactate as you say can be used as fuel. That's anaerobic respiration does use lactate. And so maybe that's part of it. The other thing is that your liver metabolizes lactate into bicarbonate. And I know, Emily, that you're familiar with bicarbonate supplementation during a lot of these endurance sports. So I wonder if a little bit of this is just like bicarbonate with extra steps. But either way, bicarbonate is a good acid scavenger. You know, I teach the medical students this. Like acidosis, like being acidemic sounds so bad. But that being said, one of the things that happens when you're acidemic is that hemoglobin and you evolve this way. Hemoglobin holds onto oxygen less tightly in acidic environments because as [00:10:00] you might expect, it's like, oh, there's, it's getting acidic in here. There's not enough aerobic respiration, like have some more oxygen. And so I always worry even in the hospital about correcting acidosis too aggressively because maybe we don't deliver oxygen as well. So but I don't know. People are studying.
+
+Emily: [00:10:14] Listen what I will say about this is it's probably not for you listener for two reasons. One, there's actually no evidence that this works. I mean, there's only that they're using the only evidence is like from the market, you know, that the teams are trying to buy all these lactate gels. And also the gels cost $9 each, which is a lot since these guys are having like three every hour. And, and there's a lot of people on the team. So they're just really they're wasting. They're spending a lot of money on lactate gels, but it's safer than last year's innovation, which was, uh, carbon monoxide rebreathing, where you inhaled carbon monoxide to raise your. Which is not. That sounds like.
+
+Perry: [00:10:52] A terrible.
+
+Emily: [00:10:52] Idea. Don't do that either. Okay. Speaking of things that are about optimizing Brian Johnson, famous [00:11:00] for his desire to not die. Something we all share, but maybe not in the same with the same approach.
+
+Perry: [00:11:06] With the same zeal.
+
+Emily: [00:11:08] He has announced that he has been diagnosed with something called autoimmune gastritis. He described it as my stomach is eating itself. Is that a clinical description, Perry?
+
+Perry: [00:11:22] I mean, it's not bad. It's not bad. Okay. But it's not accurate either. It's evocative though. Autoimmune gastritis is, as it sounds, like an autoimmune condition where your immune system, not your own stomach, attacks the acid producing cells in your stomach. And that has the sort of downstream effect of inhibiting iron absorption and so people can become iron deficient. I think that's how they actually picked this up in Bryan Johnson, for those of you who don't know, I mean, I feel like a lot of people know, but Bryan Johnson is the millionaire guy who like, does literally everything. Like he's an n of one experiment on every health and wellness thing, from getting his like teenage sons [00:12:00] blood transfusions, taking methylene blue and rapamycin and like a million other things, and then gets a zillion lab tests and tries to draw conclusions, which is actually really hard because he's doing 150 things at once to optimize.
+
+Emily: [00:12:14] He monitors his erections every night. That's he, like has a system to see how good his erections are every night.
+
+Perry: [00:12:20] Does. Everyone doesn't do that. That's that's an uncommon that's fine, that's fine. So yeah, he's really into the data. And when he came out with this autoimmune gastritis, it's also a little bit like I should say this. This condition can just pop up like any autoimmune condition, you don't always know what the precipitant is, but in someone who's taking, you know, a million different supplements and probiotics and methylene blue and rapamycin and all these things. It's like, do you think maybe any of these things could have had this particular adverse effect? And we'll never know, because he's doing 150 things at once.
+
+Emily: [00:12:53] I will tell you the thing about this story I found most interesting and would love to understand better, which is, I think, part [00:13:00] of how he found this was related to his decision to have a colonoscopy. He's actually 48, and this was his first colonoscopy. So this is a person who's doing literally everything, taking every random supplement. But he actually was three years late on. One of the very basic things that we recommend people do to prevent cancer, which is a colonoscopy. So there's something so odd in my head about that. Like in the order of things. I would say health wise, I would put colonoscopy so far above methylene blue. Like you couldn't even see methylene blue from the colonoscopy in my list.
+
+Perry: [00:13:40] Yeah. Do the evidence based things first and then, you know, play around.
+
+Emily: [00:13:44] And then later play play around with your.
+
+Perry: [00:13:46] Stuff is.
+
+Emily: [00:13:47] We wish him well.
+
+Perry: [00:13:48] I guess we do wish him well.
+
+Emily: [00:13:50] What is he doing about this?
+
+Perry: [00:13:51] Okay, so his team reportedly is talking about doing car t therapy for him. This is [00:14:00] this is crazy. So so there's no actual treatment for autoimmune gastritis. Like you do iron supplementation. You monitor they have an increased risk of cancers. And so you just do gastric cancer screening with endoscopy and stuff. It's just sort of, you know, supportive care. Car T cell therapy is like primarily a therapy for cancer where you take people's T cells out of their body and you rev them up. So they're hyperactive and you infuse them back in and you have this massive immune reaction that's supposed to kill tumor cells. Um, in the hospital. The reaction that patients get when you reinfuse car T cells into them. That inflammatory immune reaction is so robust we call it a catastrophe. Um, they often get into the intensive care unit with a it looks like septic shock, like their pressure's bottoming out and their, you know, their fever is spiking, but there's no infectious organism. It's just they have all these revved up T cells in them. This is a classic example of VIP syndrome, like very important person syndrome, where doctors will [00:15:00] do weird stuff for people that like you wouldn't do for an ordinary person. And actually it probably harms the VIP. This definitely happens.
+
+Emily: [00:15:11] All right, with that, let's turn back to pregnancy brain.
+
+Perry: [00:15:20] All right. We're back with what's the deal with pregnancy brain. And we're so excited to welcome Allison Williams back to discuss with us.
+
+Allison: [00:15:28] Hi. I'm happy to be back. I'm sure all of that health news was fascinating.
+
+Emily: [00:15:37] Okay, so we are going to talk today about pregnancy brain. Uh, we're going to talk about our personal experience with this, but also scientifically about what happens to the brain during pregnancy. And I think the way I would like to structure answering your questions, Alison, are to start by talking about literally, what do we know happens to the [00:16:00] brain and then talk about how that connects to some of these things like ADHD or postpartum depression, and how we can separate diagnosis from actual changes, from life circumstance changes and hopefully get to the bottom of it. So I want to start with the fact that your brain shrinks during pregnancy. That is my first, most interesting fact. And Perry, since you're the doctor here, but not have never been pregnant, please tell us.
+
+Allison: [00:16:28] Why did.
+
+Emily: [00:16:29] You do that to.
+
+Allison: [00:16:29] Us?
+
+Emily: [00:16:30] Our brain sizes. What's wrong with you?
+
+Allison: [00:16:32] Why did you decide to do that to us?
+
+Perry: [00:16:34] I'm going to spin this in the most positive way I can. I mean, if you're listening at the top of the episode, like pregnancy is a complete physiologic disaster. Let me let me put a number on it. The estrogen level of a premenopausal woman, you know, varies over the course of the month. But like, let's say it's 400 picograms per milliliter. So okay, 400 [00:17:00] in the third trimester of pregnancy. It's 30,000. It is absolutely insane. And for the men, because like, it's about time someone speaks for the men when it comes to pregnancy.
+
+Allison: [00:17:13] Thank you for doing this every time to. I'm so brave to center the right people.
+
+Perry: [00:17:17] Men. Do you remember the testosterone replacement therapy episode where we pointed out that anabolic steroids, like the kind you're juicing with, are just synthetic forms of testosterone that are about ten times more potent. And that ten times increase in testosterone level causes muscles to grow. But also. You know, liver disease and heart disease and roid rage and hair loss and acne and all these horrible things. That's ten times the baseline level of your sort of standard hormone. Pregnancy is 100 times higher. It's insane. You asked about brain shrinkage. The positive spin on this is yes. So this is true. This is based on actually [00:18:00] several studies that have used MRIs and other techniques. And it finds about a four and a half to 5% decrease in gray matter, which is like the literally the neurons in your brain over the course of pregnancy. The thought is that pregnancy is actually a neuroplasticity event. The brain is cutting a bunch of connections that that had existed to essentially make room for a slew of new connections, including the ones that will lead to like the social interaction with the child, which is going to become such an important thing to the brain. Once delivery happens. So it might not just be that you're sitting in a toxic stew of hormones for the last three months of pregnancy, it might actually be evolutionary indicated so that your brain is ready to bond better with your child. What do you think, Kim?
+
+Emily: [00:18:52] I feel like this is this is like it's cutting all the parts of the brain that like, you know, knew how to like go out to the club [00:19:00] and then replacing it, like the parts that are that are about staying.
+
+Allison: [00:19:05] Up really late. Medical explanation for losing those parts of the brain much earlier. Like what if you never cut the parts of the brain that were like, you don't need to cry right now. This is you're good. But is this.
+
+Emily: [00:19:19] A question that I've, I have wondered about and I think is sort of in here is like, you're not. We are not using all of our brain all the time. So we are not using all of the, you know, it's like fact that you're told as a kid is like, you only ever use 10% of your brain and most of it just sits around or whatever. Um, I'm not really sure if that's 100% true, but I don't think it's true.
+
+Perry: [00:19:40] But you're right that like, we're not using all of our brain at every second. Yeah.
+
+Emily: [00:19:43] But when we shrink our brain by 5%, like, is that a meaningful number? This gets to some of the broader questions of like, is it just like it's shrinking and kind of in ways that are not that important? Or is it shrinking in ways that are meaningful? Allison, I'm curious whether you felt [00:20:00] during pregnancy. I know we're talking about after, but like, did you feel during pregnancy that your brain was shrinking?
+
+Allison: [00:20:06] I started to feel I didn't feel it for the first two trimesters, but by the end, I was like, I'm not in my body. I'm not in my brain. I whose amygdala is this? Like everything felt foreign. And also I'm not a hyper emotional person. And Emily, I know you're deeply emotional, so this might be hard to relate to. That was a joke. Um, because I'm sort of like wishing we had a deeply emotional person here to represent what that's like, because I can't imagine what that would be like. But I just have this, this one snapshot of me about two weeks shy of delivering when I made myself pasta. And when I took it off the stove, I just dumped it into the sink without a colander.
+
+Emily: [00:20:49] Yeah.
+
+Allison: [00:20:50] I don't cook a lot, obviously. And, um, I burst into tears. I was like, this is an unfixable problem like that. That time is [00:21:00] gone. That pasta is gone. I just was like weeping in the kitchen, sort of like paralyzed with the inability to decide what to do next. Like lacking all the skills to handle this situation. I felt like a little kid again. And that is a moment where I felt just like, I want all of my old machinery back, and I never got it back. Like I got new stuff. I feel like I when I lost the 5%, it didn't. That same 5% didn't just come back. It was you know, it was different.
+
+Perry: [00:21:34] Yeah. Something fundamentally changed.
+
+Allison: [00:21:36] Yeah.
+
+Perry: [00:21:37] Yeah.
+
+Emily: [00:21:37] So I think this connects to the second piece here, which is what happens to measured cognitive function in the data, because it's one thing to sort of say, okay, the brain shrinks and then it and then it comes back to normal and it maybe comes back to normal in a different with a sort of different set of connections. But there is also a fair amount of research about sort of during pregnancy, specific declines in [00:22:00] cognitive function, in memory and executive function. A lot of this is about kind of processing speed and the sort of measures of like just how quick, how much stuff can you hold in your brain at the same time? And how good is your verbal memory? That's like a common way to measure this. And I think this will. This illustrates to me a general problem with all of these discussions, which is that there's there's something we can measure, which is how is your brain actually changing? And then if we measure some change, we then want to say like, why we want to just so story about like, either it's because of the hormones all in the brain, or it could be because you're tired or because, because you're paying attention to it. Or it could be because like you're thinking about a lot of different things and there's a lot of new stimuli. And like, you know, when you poured the pasta in the sink, it wasn't because you got stupider. It was because you were also thinking about how you, like had to buy a crib. And, and.
+
+Perry: [00:22:56] We're on three hours of sleep.
+
+Emily: [00:22:58] And you hadn't gotten enough sleep. So I think like [00:23:00] in all of this stuff, it's going to be incredibly difficult to separate the like life circumstance change from the sort of some kind of true biological parameter.
+
+Perry: [00:23:10] And we've also talked before about how hard it is to measure the something that we all understand conceptually, like brain fog, whatever you want to call it, right? Like pregnancy, brain, brain fog, you know, baby brain. These subjective states of like, I don't feel as smart as I normally do. That's there's no test for that, right? There's not an IQ test that pulls that out. You have to do all this really specific neurocognitive testing, you know, to see if there are problems with like, oh, your verbal memory, which is, you know, can you think of the word for colander or your semantic memory, which is like, do you know who fought in the war of 1812? Like these are actually different things and they get teased out differently. Can I tell my wife's, uh, pregnancy brain story because I think it illustrates this really nicely. So my wife is a breast cancer surgeon and she was [00:24:00] in the operating room very pregnant with our second. And you've probably seen this on TV, but it's literally true. Like if you're the surgeon, you don't want to look away from the field, like you're looking down into the operating field. And so you just stick your hand out without looking and you say the name of the instrument you want, right? Like you want an AdSense retractor, or you want a DeBakey or whatever it is. They have these names.
+
+Allison: [00:24:24] I was going to say the same thing.
+
+Perry: [00:24:25] Yeah, yeah, yeah.
+
+Emily: [00:24:26] The ones I'm actually holding those right now.
+
+Perry: [00:24:29] How many are full of debakey's right here. Um, and the scrub techs job is they're standing with all the clean instruments is to hand you the thing that you asked for or to anticipate the thing that you ask for. And she was having this situation where she's like, in there, she's operating and she holds her hand out and she's like, the, the thing, you know, the one with the teeth, like the thing, you know, and the scrub tech because scrub techs are amazing. Handed her the proper instrument and, you know, [00:25:00] they all kind of laughed about it because they'd been pregnant too. And it's one of those situations, but it illustrated to me. So like operationally, the muscle memory is there and all the testing in pregnant women and postpartum women suggest that, like physical memory, muscle memory doesn't really change. If you can swing a golf club, you can still swing a golf club. But so she could do the operation just fine. She just couldn't name the instrument that she needed at that time. And verbal memory is certainly affected during pregnancy and after pregnancy.
+
+Allison: [00:25:28] That is fascinating. Yeah. You're literally a surgeon doing a surgery and yet you're still not spared. You still have a human brain. Yeah, yeah.
+
+Perry: [00:25:37] Okay. So there, there are a million physiologic changes that happen when you're pregnant. And it might be worth just talking about how those things affect your brain. So, so for example, you might know that there's a 40 to 50% increase in blood volume during pregnancy. So okay, that's crazy in and of itself. But what that means that volume expansion outpaces [00:26:00] the production of red blood cells, which gives some anemia. Pregnant women tend to have, you know, more anemia, less red blood cell counts, which means not as much oxygen carrying capacity, not, um, you know, which can certainly affect if your brain is firing on all cylinders. Let's talk about the cardiovascular changes. So your heart rate is up by about 30 to 50% during pregnancy. This is a big energy expenditure. This takes calories and that can contribute to fatigue. Reduces cognitive stamina. The respiratory side tidal volume. How much air you breathe in when you take a breath increases, stirring until you until you're restricted by, um, belly volume. But for the first few, for the first couple trimesters, about a 30 to 50% increase in tidal volume leads to slight hyperventilation, which means your blood carries less carbon dioxide, which can [00:27:00] contribute to feeling lightheaded or dizzy. Um, and one last thing I've mentioned several times, just the enormous, enormous surge in hormones. We talked a lot about estrogen, but progesterone also goes up by about 500 fold compared to baseline. And progesterone has some mild sedative effects. So it's almost as if the whole like physiologic state of pregnancy is conspiring to put you in a place where your brain is not working well, where you're tired and, um, you know, your body is just like people sometimes say that the purpose of your body is to get your brain from one place to another, right? Like your body is to support your brain. You are your brain. Well, true. Except during pregnancy, when the body just decides, screw you, brain. I'm focusing on the baby.
+
+Emily: [00:27:53] Okay, let's talk about the two good things about brains before we talk about postpartum changes. So one [00:28:00] is that while your brain is remapping, you get better at recognizing Recognition tasks. So if we sort of think about the pieces that you don't that you need to be, don't need to be as good at, like going to the club or whatever. Uh, then there's a set of things you need to be better at in evolutionary standpoint, which is like recognizing threats. And so we do see some evidence that people get better at sort of differentiating between like known and unknown faces in pregnancy, which may have some beneficial ability to like, recognize who is, you know, an outgroup and ingroup member and who do you want to trust more with your baby?
+
+Perry: [00:28:38] That's super fascinating. That is that I always feel like so much of the things we think of as our own thoughts and emotions are just like the monkey inside of us doing monkey things.
+
+Emily: [00:28:48] Yeah, I think that's true. But then I also think it's so easy to write just so stories about evolution, which is like, well, I guess evolution is why that happened.
+
+Allison: [00:28:56] It often is the culprit, generally true. But I also feel like [00:29:00] when you were saying this is like a medical disaster pregnancy, I, I've been saying this for a long time. Like I have so many notes for like whoever's in charge for Charles Darwin, I guess because I, I'm like, why do men have nipples? Why do I have pinky toes? Why? Like why, you know, all of these things that appendices like we don't need and why are children brought into the earth the way they are? Why is there no new way of Velcro opening, perhaps, or a zipper or a magic wand? Like as I approach childbirth, I was like, is there honestly no, like VIP secret? Third way to do this? Who do I have to talk to to not go through either of these situations?
+
+Perry: [00:29:51] This is so geeky of me, but I remember watching Star Trek when I was younger, and they would have every once in a while, like someone would be pregnant. And [00:30:00] I was like, why don't they just transport the baby out? Like we're beaming people down to the planet. Why? Like what? How is this not how is this not the main way?
+
+Allison: [00:30:09] What I want my tax dollars going towards. Its the hovercraft from back to the future that we were promised and has not appeared.
+
+Emily: [00:30:15] We were told where is that?
+
+Allison: [00:30:17] We were told and I want to be able to like disapparate my child to use Harry Potter verbiage.
+
+Perry: [00:30:23] Okay.
+
+Allison: [00:30:24] From my belly into the world. But I also think about the fact that evolutionarily, also because I have a four and a half year old, we talk about dinosaurs all the time. We've been around for a tiny blip of history, but like a triceratops, by the time they were extinct was like peak. Triceratops had had millions of years to become the best version of.
+
+Perry: [00:30:45] Saying, we're not done yet. We've got.
+
+Allison: [00:30:47] Work to do, and we're gonna.
+
+Emily: [00:30:48] Still, the Triceratops was not disappearing the baby out.
+
+Perry: [00:30:52] But well, it laid eggs, right, wasn't it? Egg laying? According to Jurassic Park, I know nothing about Triceratops, but Jurassic Park.
+
+Allison: [00:30:59] Yes, [00:31:00] Triceratops.
+
+Perry: [00:31:00] Which also seems like a better way.
+
+Allison: [00:31:02] We're egg laying. Yeah. That's right.
+
+Perry: [00:31:03] I mean, if it's small.
+
+Emily: [00:31:05] My worst pregnancy dream was one where the the baby did just come out. Um, and then, but it was like too early and then I had to like, get it back in. Oh. And like it just, but it didn't, it came out just like, like open like a Velcro, you know, not like painfully, just like velcroed itself out. And then I had to be like, no, no, no, it's not time yet. Like, put it back in.
+
+Perry: [00:31:26] Do you know that humans have babies way earlier than they should, according to our body size and level of fetal development. Like we should be pregnant for several more months. And, um, and we're not because our brains are so big that they have, what.
+
+Allison: [00:31:41] Is it called, the cranial. Um, it's there's a name for it, a conundrum among because yes, evolutionarily, like our hip size versus our brain size have forced us into a, what is it called? Do you remember? I don't want to be born into Homo sapiens. Now [00:32:00] I want to do it in 100 million years when we are like peak Homo sapiens.
+
+Emily: [00:32:06] Okay.
+
+Allison: [00:32:07] Anyway, sorry, I got.
+
+Emily: [00:32:08] Really.
+
+Allison: [00:32:08] Far afield.
+
+Emily: [00:32:10] Let us come back to our pregnancy brain because I want to come back to the post-pregnancy period, because many of these, like physiological issues that happen during pregnancy actually do sort of resolve post-pregnancy. So your brain grows back differently, but it gets its 5% back. And there's actually some super interesting research about the, the like age of your brain, as measured by brain age researchers postpartum. So in the period from like, like two weeks postpartum to like three months postpartum, your brain actually ages backwards quite quickly. And so whatever sort of terrible aging was occurring during pregnancy, you get some of it back post postpartum. And so there's this sort of feeling of like, things are kind of returning brain wise [00:33:00] in some way. And yet this is also a period in which we see a lot of we see postpartum depression, we see postpartum anxiety, we see potentially changes in other kinds of diagnoses. And I think that is that's this sort of secondary period. And it's a really hard to separate how much of those changes are about actual brain changes and how much of those changes are about like almost a diagnosis window where you're seeing people more.
+
+Perry: [00:33:31] And there's no neuroanatomical correlate of depression, like even putting aside postpartum depression, you can't take people with major depressive disorder and put them in an MRI scanner and see significant differences in brain structure. I mean, there are some experiments that are trying to tease this out, but it really is about the connectivity and the interactions between brain regions that drive these things, which means like a simple test, like how big is your brain and how small? Whatever is is not going to be enough.
+
+Emily: [00:34:00] Yeah. [00:34:00] All right. So let's talk about postpartum depression and postpartum anxiety first, because these are probably the main primary diagnoses that people get. So Alison, you said you had postpartum depression. Can you talk about that? Are you open to talking?
+
+Allison: [00:34:14] Yeah, I never I'm an anxiety girlie. So that's the side of the street I was familiar with. But so I never, I don't think, been in a depression in my life. So I didn't actually identify it until I was out of it, which is apparently a very common thing because you're just getting through it. And also those early months and weeks of motherhood are such a subjective experience that it's one of the few moments in life where you can exchange techniques, data, concrete information. But trading experience stories is not an impulse I had until I was through it, whereas now I get a ton of, um, I don't know, satisfaction from [00:35:00] talking about something I'm dealing with in this exact moment as a parent with my friends who are also going through it. There's a reporting live factor that I was not able to channel in the moment. And I think part of it is a it felt like a valve was switched in my brain that was like, no need to overthink any of this. Just get through it. And what was happening was just overwhelming emotionally. It was a lot of instances of just real feeling very disconnected from my son initially feeling very alone, very isolated. And despite having family nearby, a super supportive, loving husband, um, therapist, like I had kind of all the resources you can have. We did not have a nanny or a night nurse or anything. So I also was dealing with sleep Of deprivation. Um, but I just, it, it just felt like everything was devastating. [00:36:00] And I would very often sit on the couch where I was constantly breastfeeding our son.
+
+Allison: [00:36:06] And I have this, like very clear example of what it felt like to be in my body. My husband would come like flying through the hallway, like doing his 12th load of laundry and he'd be like, do you need me to refill your water? And like, time would stop. And then like ten minutes later, I would have done the complicated, uh, trigonometry to answer the question because what my brain was doing was, okay, yes, my water bottle is empty, but I want to be self-sufficient. I want to be the kind of person that can fill my own water bottle. But I'm breastfeeding, so I can't. And it'll be a little while and I need water to breastfeed. He's standing right there. Oh my God, he's so impatient. I'm still thinking this through, shouldn't I be? And it was. It was just happening. And I'm a ruminator in general, but it was going on twice as long. Yeah, twice the self-judgment. Oh, it was just like everything was, um, magnified. [00:37:00] And slowly after I came out of it, I realized just how dark some of those moments were and how difficult it is to express them while they're happening. And I think that's part of what makes it so gnarly, is that, I don't know, a ton of women who were able to speak from their post-partum depression while it was happening, rather than about it in retrospect. Um, but it also sucks because you're like, when people ask you how it's going or how's the baby? There's a, there's one right vibe to channel after that question.
+
+Emily: [00:37:38] It's going great.
+
+Allison: [00:37:39] Yeah, exactly.
+
+Emily: [00:37:40] I love it so much.
+
+Allison: [00:37:42] Yes. Because that's also true. You're completely obsessed with this little person who you also are so frustrated with sometimes and so exhausted by. And so both things are true. And intuitively you just know that. Just give the surface level answer and keep [00:38:00] it moving. And I, I wish I had been treated for depression while it was happening. I probably should have begun treatment before I delivered because I think it kind of started a little bit before then. And yeah, I mean, that's sort of what it looked like. It's very hard to describe as you just experienced, because I talked for like five minutes and said nothing. Um, because it's hard to channel that place again, it's hard to go back there, but I can just see moments of just being completely stuck and feeling like I was underneath a wave that I couldn't get up and out of.
+
+Emily: [00:38:35] So about half of what we're saying, about half of postpartum depression starts during pregnancy. Um, and so that, and that is often not screened for. Her. And then when you have the baby, this the hormonal changes like this estrogen that was like bathing your self or all of this last trimester, like totally could just tanks off a cliff. [00:39:00] And those changes are very, very difficult. And so almost everybody, I think this is part of the, the sort of diagnosis issue here. Almost everybody has a period of kind of quite significant mood changes, like immediately afterwards.
+
+Allison: [00:39:15] Yes. My friends were like, beware, day three, you're going to just like burst into tears on day three. And then I was like, I feel fine. And then 20 minutes later, I was just bawling. And I sent them a picture of myself, like just weeping for no reason. I was like, it's day three.
+
+Emily: [00:39:29] I have many memories of that, that period. And then then for, you know, many people that sort of for some people that normalizes and sort of what we would really think about as diagnosable postpartum depression is sort of can then creep up as late as, you know, almost a year after. It can creep up any time, but sort of can be considered postpartum depression, even up to a relatively long period of time afterwards. And I will say some of it is, as Perry said, like the there is no way to put you in an fMRI machine or do [00:40:00] some kind of like blood test and be like, okay, this is what you have. And so we are left with trying to screen people and give them appropriate treatments. But it really, in some ways doesn't matter whether you diagnose or not. Like if you have this constellation of symptoms, then you should be getting some treatment.
+
+Perry: [00:40:16] Yeah. And I do think, you know, what Alison brought up that's really important for people to hear is that, of course you have an alternative explanation than postpartum depression. There's there's a million other ways that you can justify it to yourself that like, oh, I'm probably okay, and I'll just get through this, but don't do that. You know, if these symptoms are significantly different than baby brain and brain fog, You know, the things that make postpartum depression, postpartum depression. If you look at the diagnostic criteria, it's intense dysphoria, right? Like this is real deep sadness, not confusion and stuff like that. Like you might see it's anhedonia, which is that inability to feel pleasure and things that [00:41:00] you normally take pleasure in, right? Like a numbness can be depression. Um, many, but not all women with postpartum depression actually have insomnia, which is sort of different than what you see with, uh, you know, more typical exhaustion. I'm up all night. Like if you can't sleep when the baby is sleeping, those are signs of postpartum depression. And of course, many women make it through this and that's great, but not all of them do. Like this is a potentially life threatening disease. So it's not something to sleep on. Um, and we're talking a lot about like the, you know, people like to tell the funny baby brain stories and whatever, like my wife asking for the wrong, um, instrument in the operating room and it's like, ha ha, you know, but postpartum depression is what, 1,015% of women, at least as far as we know, probably even higher because it goes undiagnosed and is even potentially life threatening. Right? So be careful. Yeah.
+
+Emily: [00:41:51] So we talked about postpartum depression. And postpartum anxiety is a different experience, but diagnosed in almost exactly the same way. It's actually the [00:42:00] same screening tool for anxiety and, and depression. There's like sort of slightly different ways of, of scoring it. And I think this gets, again, at the question of like, it's a little hard to separate experience from like that. There's some truth. Generally postpartum anxiety is more anxiety and less depression, but there's a sort of fine line there. And so when we think about diagnosing, it's really about just trying to figure out how things are going and then what is the right next treatment as opposed to like, we need to label it a particular way.
+
+Allison: [00:42:33] And they're treated very often with the same medication too.
+
+Emily: [00:42:35] Exactly. And they. Yeah. Okay. I want to talk about. Then some of these later things like the ADHD diagnoses, because there is there's like the immediate postpartum period when I think people expect maybe there's some you have some postpartum depression or postpartum anxiety, you also expect to feel like slower and so on. But then there's a [00:43:00] much longer postpartum period in which I think many people with small children kind of feel like I'm still not quite like, like I'm not back. You know, I was hoping to be back and I'm not, I'm not back. And this is where. So I pulled up in thinking about your question, thinking about this episode, what I think is kind of our best data about ADHD in in particular. So there is a, it's actually a very recent paper. It's like two months old. It's the most recent paper we have discussed on this podcast.
+
+Perry: [00:43:33] Is this the one from the Danish study?
+
+Emily: [00:43:35] So it's a it's a Danish study which looks at ADHD diagnoses around pregnancy. It's very big because in these European studies you have like everything about everybody.
+
+Perry: [00:43:47] So I'm so jealous of the data sets.
+
+Allison: [00:43:49] That.
+
+Perry: [00:43:50] They have.
+
+Emily: [00:43:50] It's amazing. So they have like 360,000 mothers, 520. Sorry. Yeah. 363,000. Yes. Oh my [00:44:00] God. I'm like, my children are 15 years old and 11, so I'm still recovering. Oh my God. They have a very large sample size. Let's just say that. Uh, and they're looking at these ADHD rates. And it's quite interesting because they actually decrease during pregnancy and remain low for a couple of years. And then they increase significantly about 25% higher diagnoses 2 to 5 years postpartum. So we sort of are seeing this uptick in this particular diagnosis in this kind of like when your kid's a toddler. And I think that's.
+
+Allison: [00:44:38] There in this, you're.
+
+Emily: [00:44:39] Right there. And there's actually like many different ways to interpret that. So, so one, I don't think that in this paper we can really tell what's going on. So I think one possibility is that this is like actually brain changes that are driving differences in sort of the way that your brain works postpartum. I think a second option is that the symptoms [00:45:00] here are close enough to the symptoms you might have of sort of being overwhelmed and being tired and having a lot of things going on that it would kind of you'd get a diagnosis, even though it's maybe almost situational isn't quite the right word, but it's sort of being driven by life experience. And another possibility is people had ADHD this entire time, and it is only because it's a little exacerbated by having kids. And also this is a period of time in which maybe people are paying more attention, perhaps, maybe because they're noticing some of the symptoms in their own kids that then they're saying, oh, that was me. And this is a thing I hear a lot from parents, which is very interesting. It's sort of like my kid was diagnosed with ADHD and I realized, oh, like, I have that too. Like all of these things that I thought were just like, the way that I am are actually like, I maybe could have been getting some treatment for this. And so I think there's like a bunch of stuff there. And I'm not sure we really have any ability to separate those things out. I'm not sure it matters, but.
+
+Allison: [00:45:59] Yeah, well, I guess [00:46:00] what's what intrigues me about like, why do I want to know? The answer to that is sort of I always find diagnoses of any kind empowering. I think part of that is having anxiety means that before the diagnosis, a huge amount of my operating system is expending energy coming up with theories. Even in the back of my mind, it's just ruminating on what this is, why it is blank. And so someone saying you are experiencing X, Y, or Z, I find deeply relaxing, even if what they're telling me I'm experiencing is objectively stressful because then I'm no longer wondering. I just know, and now I can do something about it. And so for me to think of myself as having a new brain rather than waiting to come back has been a very useful distinction for me, because I found it depressing to think of my brain, which I really liked, which was very high functioning. I was a big fan. I can say [00:47:00] that now because I feel like I don't have it anymore, and I'm not like bragging. It feels like.
+
+Perry: [00:47:03] It's not bragging anymore.
+
+Allison: [00:47:04] No it's not. It's like I'm talking about like, I don't know, my calves looked like when I was 12. Like, you know, it's something past part of me that doesn't exist anymore. I loved it, and waiting for it to come back was depressing. It was upsetting, it was frustrating, and it wasn't going to happen. And so for me, switching to thinking this experience that I had fundamentally altered me in literally every way, but it altered my Like synapses. My, you know, everything about my cognition such that I now have a new operating system. I have to learn how it works and learn how to best support it and find out how to use it. Like I learned how to use my old brain and use this one for whatever I need it for now. Um, and I found that to be really useful and that could just be me, or it could be, it could be other people as well.
+
+Emily: [00:47:56] So I think it's, I think that's actually a very interesting [00:48:00] and valuable frame for people, in part because so many of these things are, are really like diagnoses of, of like experience and how are things working for you? And so to say, like, you know, well, you didn't have ADHD before, so let's not look for that as a solution may be unhelpful as opposed to being like, right now we should try to figure out like what's going on and how can we best support your functioning as a person, whether that's something that was true before or not. And it may be for some people to say like, well, now you know, my brain, the operating system is different. And we need like a different set of software tools.
+
+Allison: [00:48:40] I also think we live in a time where we're really lucky. We don't we don't technically have to white knuckle a lot of the things that we tolerate. So the idea that I can talk to my psychiatrist and say, okay, we're going to address my anxiety because that's too much. I'm fed up. I can't live like this. It's exhausting. And then once that's been addressed, [00:49:00] there are all these other behaviors and these other executive functioning issues that are revealed not to be part of the anxiety, but something else. The fact that I don't have to live with those and tolerate those and spend the energy operating around those is such a privilege of, you know, I talk. I was talking a lot of shit about being a human in this stage of evolution, but we're very smart because those big brains and we've developed medication, that means I don't have to just figure out how to live with these things if I don't want to. There is help available to me, which is so incredible, and I wish I had availed myself of it sooner. And I can't like, I don't know, biohack my way through it or just, you know, I don't know, grit your teeth and get rid of. Have you.
+
+Emily: [00:49:47] Tried.
+
+Allison: [00:49:47] Any.
+
+Emily: [00:49:48] Peptides, Allison?
+
+Allison: [00:49:50] I have injected them into my brain and it didn't work. Was I doing it wrong.
+
+Perry: [00:49:55] As you're talking about? You know what? Changes are long term. And yes, [00:50:00] of course it's really hard to measure. But I will just say like, number one, our brains are changing all the time, right? Like we can learn, we can go to therapy. You know, it's always been sort of an amazing thing to me that talk therapy works. And it's just somehow like, if you really make it abstract, like someone is speaking words into your ear and it's reprogramming slowly your brain until it's connected in a slightly different way that makes you feel better. I always think that's amazing. So these changes are always happening. I can't imagine a more significant physiologic event than pregnancy. I think I've said this multiple times right now. You know, I don't think anyone would take a person who like, like went through chemotherapy and came out the other side cancer free and would be like, like, okay. And so you're back to normal now, right? Like everything, you're the same person you were before you did chemo, right? Like that would be almost considered inappropriate. Like how are you not respecting the, the struggle I just went through and [00:51:00] pregnancy is much like this. Like, I definitely think your brain is different. It's different forever. That's not all bad. Um, in fact, you know, Emily pointed out some of the brain aging data that looks at like, you know, whether you, when you're 60, do you have a brain of a 61 year old or a 59 year old or a 55 year old? And one of the predictors of how young your brain is in older age is how many children you've had with.
+
+Allison: [00:51:24] I was going to ask, is it cumulative these effects over several children or.
+
+Perry: [00:51:29] Yeah. So so the, the study that I was looking at, there's two here. One is from the UK Biobank, which is a. Which is a big study, uh, hundreds of thousands of people over time, which does show that multiparous women, women who had, um, you know, more than one child had younger brains than women who had one child, which had a younger brain than women who never had children. Um, there's also a smaller study out of Rotterdam that basically showed [00:52:00] a dose response where the more kids you had, the more gray matter volume you had in older age. So yes, so it's the same gray matter that like shrinks during pregnancy, you end up with more in older age. I did dig a little bit deeply and found there was one study that looked. What's the term, Emily, for women who've had like a lot, a lot of babies. Um, like, uh, super multi Paris. What's it called?
+
+Allison: [00:52:23] It's like.
+
+Emily: [00:52:23] Yes, it's super.
+
+Perry: [00:52:25] Is that what it is?
+
+Emily: [00:52:26] Something like that. Yes.
+
+Perry: [00:52:26] I'm honestly, I'm forgetting in any case, there does seem to maybe it falls off like after, you know, 7 or 8 kids, but, but um, the question is, I don't think it's the pregnancy that makes your brain better. I think it's the children to some extent, like children represent this whole new source of novelty in your life. Like the thing that I was like, oh.
+
+Emily: [00:52:49] My counter counterpoint.
+
+Perry: [00:52:50] Perry is about to say something very sweet about my children who may listen to this someday. One of the wonderful things about having children is that it's the [00:53:00] only way you get to experience something you love for the first time again. So like, I got to watch The Fellowship of the ring with my oldest daughter, and I got to go through the whole thing again, even though I'd seen it, you know, 30, 30 times, um, by the time And I think that's good for your brain. I think it I think it keeps you. I think they keep you young. All right, Emily, I'm wrong. Why?
+
+Emily: [00:53:25] Uh, you know, just in in rats, uh, having babies, uh, improves their maze performance and long term spatial learning and memory. And you should see me. And I don't think it's because they're parenting at a high level. I mean, there's no fellowship. They didn't show them the fellowship of the ring or whatever. They just probably have their babies and maybe they take them away because it's fucking rats anyway.
+
+Allison: [00:53:47] Pure anecdata. But I actually do resonate with that idea of spatial. Um, like, I think I recognize faces and places better now than I did.
+
+Perry: [00:53:58] Oh that's.
+
+Allison: [00:53:58] Cool. My memory of [00:54:00] like, have I been to this restaurant before? Have I met this person? Have I stayed at this hotel? It was really bad before and now it's decent. So that's interesting.
+
+Perry: [00:54:07] If it helps recognizing faces, I would love to be pregnant. That is my.
+
+Emily: [00:54:12] I cannot recognize faces and I have been pregnant twice and it did not improve.
+
+Allison: [00:54:18] You have, like the true face blindness.
+
+Emily: [00:54:20] I don't have true face blindness, but I just can't. I like name face. I barely know who. Who are you?
+
+Allison: [00:54:27] Who am I? I don't know if you can help me. No, that'd be great.
+
+Emily: [00:54:30] It's good thing your name is on the, you know, podcast thing.
+
+Allison: [00:54:33] Yeah, exactly.
+
+Emily: [00:54:34] Um, okay. I want to before we, before we end and get to question, um, I want to talk about, I want to sort of step back one thing because I think we talked a lot about like brain changes that are real and, you know, the fact that maybe some of this is inevitable and so on, but there actually are some like biological changes during pregnancy that if you are feeling very tired or just very [00:55:00] off, it actually is a worthwhile to get some blood work because, for example, a large share of women who have been pregnant, women of childbearing age are anemic, and which means your iron is too low and anemia can cause a lot of the kinds of symptoms we're talking about in particular, like brain fog and fatigue, and just like a feeling of being quite exhausted. And so I would sort of balance a little bit as like, your brain is new and you got to learn to live with it and also like, go get your thyroid and your anemia checked. Because if it turns out that the answer to some of this is like, you need to be taking an iron pill, like that would be good to know. And too bad to miss, right?
+
+Perry: [00:55:41] Yeah. Go for the easy fix. Yeah, totally. You know, other sort of treatments for we're going to put postpartum depression aside, obviously postpartum depression. You want to get your treatments from a doctor and things like that. But but for just the regular baby brain fog and stuff like that, obviously sleep [00:56:00] is going to come up number one, two and three on the list.
+
+Emily: [00:56:03] Frustrating.
+
+Perry: [00:56:04] Um.
+
+Allison: [00:56:05] Just sleep. So frustrating.
+
+Perry: [00:56:06] You should just sleep more. I don't know why you guys.
+
+Allison: [00:56:09] Why.
+
+Emily: [00:56:09] Are you.
+
+Allison: [00:56:10] Staying up? Why didn't I think of that?
+
+Perry: [00:56:12] Oh, Um, so actually this is a good question. You both had a partner after the baby was born. How can partners support the new mom during this period so that she can get the much needed rest? Is it bringing cups of water without being asked.
+
+Allison: [00:56:32] Without sitting in that doorway? As long as I need you to before I can summon the words that I need.
+
+Perry: [00:56:37] I think men just bring a glass of water. You don't need permission.
+
+Emily: [00:56:40] Don't even ask, don't ask. Just bring the water.
+
+Allison: [00:56:42] I feel like, honestly, it's having respect for what's happening. It feels like there's just a knowledge gap. I don't think it's just among men. I think most women who go through this process don't understand what's happening to their bodies either. Yeah. But I think, you know, [00:57:00] that amount of hormonal shift is worthy of respect and awareness and acknowledgement and understanding that for me, I don't know what the biggest hormonal shift in a man is. I'm guessing it's around arousal probably somehow.
+
+Perry: [00:57:17] And we just.
+
+Allison: [00:57:19] Don't.
+
+Perry: [00:57:19] Have anything comparable in any way. But even so.
+
+Allison: [00:57:24] The.
+
+Perry: [00:57:24] Fact anabolic steroids for weightlifting is not the same.
+
+Allison: [00:57:27] Yeah, maybe. I mean, but even that, I just feel like understanding that, uh, it's both things can be true at the same time, the person you're talking to is your spouse and you should take what they are saying and experiencing seriously. And if they wrote a document and had it notarized about their opinions and their feelings in a given moment, it may not feel correct anymore. A week later. And that is okay. And it doesn't mean you should ignore what they say. You're in a liminal space where it is and it isn't your partner. And what they [00:58:00] say is and isn't true. And just deal with it because you're going to deal with it for such a brief period compared to the amount of time they spent in that liminal space themselves. That's kind of what I would say. Emily, what do you. What do you think?
+
+Emily: [00:58:11] That's such amazing advice. The main thing, my husband is when he's made a spreadsheet that we could keep track of how many minutes my daughter was eating at different times, and how many frequency of pooping, which I actually wouldn't.
+
+Allison: [00:58:22] I remember you saying that on the podcast. There was a there's an app for that now called Baby Tracker, which I will shock you by telling you. I also used just to feel some control over completely uncontrollable.
+
+Perry: [00:58:35] I feel like spreadsheets are Emily's love language.
+
+Emily: [00:58:37] Totally know, but I just don't think that's for everybody. I'm not sure that's for everybody. But my I will say my husband was constantly making sure that I was eating like his main, his his love language was like, like there is always water and like fruit next to the like breastfeeding chair.
+
+Allison: [00:58:56] So nice.
+
+Emily: [00:58:57] It's great. So nice. We [00:59:00] haven't really discussed endurance sports yet. And so I just wanted to pop in here and say that, uh, that your elevated blood volume retains for about a year postpartum. And so there is some people think that that's why some people perform quite well at their sporting events in the first year postpartum, because of the potentially higher blood volume.
+
+Allison: [00:59:22] And I represent the group that thinks lol sporting events in the first year postpartum.
+
+Emily: [00:59:27] Yeah, it's not like a yes. There are some other things that make you slower.
+
+Allison: [00:59:30] Moving, not in a walking pace from one room to another. Yeah.
+
+Emily: [00:59:36] All right. Uh, Perry, smash or pass on the pregnancy brain. I don't even know what this means.
+
+Perry: [00:59:42] I think it's important for me to weigh in here, though. Yeah, totally.
+
+Allison: [00:59:45] As always.
+
+Perry: [00:59:47] Uh, I'm a pass. I, you know, let's let's get over. I agree with Allison. I don't know, techno bros. Fixed pregnancy. Uh, Emily, how about you smash or pass?
+
+Emily: [00:59:57] I'm a smash because my kids tiny pieces [01:00:00] of my kids are around in my brain, and that's. And that's so great. Allison?
+
+Allison: [01:00:06] I guess I'm. I'm a reluctant smash for the same reason. Because now I'd be, like, passing on my child existing. And that feels insane because he's made the world so much better. But I have a lot of notes for the way it all goes down. And I don't know who to talk to about this, but it's we have a lot of room for improvement. I would say.
+
+Emily: [01:00:28] That is it for pregnancy brain. Allison's mailbag question of the week. After the break.
+
+Allison: [01:00:39] Emily, I've come to realize that you are not just a casual runner. You are it. You are runner like Ken is beach. You are runner. And thus I have a question for you. I have to start doing cardio because I'm doing a movie that's going to require me to be cardiovascularly alive [01:01:00] in a way that I'm not on a day to day basis. I have to pretend to be a type of person I'm not, which is my whole job. And I don't have extra time though to do this cardio. So I am wondering what is the best bang for my buck if I don't have a lot of time? But I just it's not necessarily about weight loss or anything. It's just about getting my ability to deliver lines while hyperventilating to be like, what's the what did Taylor Swift do before the Eras Tour so she could sing and run 100 miles in a day? You know, what do I do? Right.
+
+Emily: [01:01:32] Okay, so first of all, what Taylor Swift did was she ran every day on the treadmill, doing the entire set for three hours. So she would run like three hours a day on the treadmill doing the entire set. It sounds to me like you don't have time for that.
+
+Allison: [01:01:45] I definitely don't, although I could because I'm such a Swiftie. I could do the whole set while running.
+
+Emily: [01:01:52] But you don't want to run is that I can't?
+
+Allison: [01:01:54] My knees are just. It's like someone read the instructions wrong. When they put my knees together, they don't work [01:02:00] properly.
+
+Emily: [01:02:00] So You're you're pretty. I think this is not a very hard question to answer, because what you really want to be doing is spending some time in like a high heart rate zone, like zone 4 or 5 and.
+
+Allison: [01:02:17] Out of what what is that? What did you just say?
+
+Emily: [01:02:19] There's five zones. It doesn't matter. You want to be raising your heart rate.
+
+Allison: [01:02:22] But that's maxed out like five out of five. I don't know much, but that's 100%.
+
+Emily: [01:02:26] It's 100. Yeah. Okay. Yeah. Okay. You want to be working hard? Like you want to think about getting some time in a cardio activity where you couldn't talk, where like if somebody came to, to sort of your husbands came and started chatting, you would just like not be able to chat back to him. But it can be like intervals of that. You don't have to do that for like a long period of time. Your best bet is going to be a bike. You should get some kind of very fun exercise bike situation. You can get these bikes, people, the endurance guys really like [01:03:00] these Zwift bikes where you can like race other crazy people in like inside a Zwift race. And it like adjusts the thing. So you can be like in the tour de France with the other guys. And if you win, then you like win extra accessories for your bike, uh, your fake Zwift bike in the, in the game.
+
+Allison: [01:03:20] It's a video game. It's a video.
+
+Emily: [01:03:22] Game biking app. But at any rate, you want some kind of interval based biking on like a stationary bike where you are working quite hard to the point where you couldn't talk.
+
+Allison: [01:03:35] Can I ask a very ignorant question? It feels like there's a lot of types of indoor bikes. There's the SoulCycle one that I did when everyone was doing SoulCycle, and I obediently also did it. Um, so there's that one where you're like leaning forward. There's one that's also in gyms where it seems to be more of a, an, a sort of seated upright situation. And then there's the third one, which is there's a big [01:04:00] fan in the front and your arms are part of it, which is the bike you picture when you say biking.
+
+Emily: [01:04:06] You're just any of these is fine. Just a regular bike is fine. You just need to go set the resistance hard enough that your heart rate goes up. That's all.
+
+Allison: [01:04:14] Okay, okay.
+
+Perry: [01:04:15] What do you think about swimming, Em?
+
+Emily: [01:04:18] Um. I generally do not think swimming is going to raise her heart rate enough. Um, and it takes a lot more time because you have to, like, go to the gym and you have to put your swimsuit on. You have to get in the water and the gym pool is not available. The bike is like stationary bike is like the easiest. You tell me you have 30 minutes. You do like five minutes of warm up, three minute intervals with a one minute rest until you feel like you're going to die, and then you get off the bike.
+
+Allison: [01:04:45] That sounds yeah, that sounds like.
+
+Emily: [01:04:47] It sounds terrible and that's what you want. That's what.
+
+Allison: [01:04:49] I know. I know again though, if any tech bro can come up with a version of this where I don't actually have to work very hard and can be physically comfortable while something is doing my cardio. I'm [01:05:00] interested.
+
+Emily: [01:05:02] That's what the peptides are for. Thank you for being here, Allison. We really appreciate it.
+
+Allison: [01:05:09] Thank you for allowing me to be here and acquiescing. Um, when I refused to take no for an answer.
+
+Perry: [01:05:15] You have carte blanche for any future topics.
+
+Allison: [01:05:18] Do not say that. I've talked so much in this episode because I'm so excited. It's embarrassing, but okay, fine. I'll. I'll come back every week.
+
+Emily: [01:05:26] Great. Stick with us next week when we'll ask, what's the deal with alcohol? Well, this actually is produced in association with iHeartMedia. Our senior producer is Tamar Avishai. Our executive producer at iHeart is Jennifer Bassett. Our theme music is by Eric Deutsch, and our content is for educational purposes only.
+
+Perry: [01:05:52] If you like the show, help other people find us. Leave a rating and review on Apple Podcasts or your podcatcher of choice and help [01:06:00] us spread the word about the show. You can follow us on Instagram at Wellness Pod. And don't forget, we want to hear from you. Head over to wellness.fm and leave us a question for our mailbag or suggest a topic for a future show.
+
+Emily: [01:06:13] We'll let the influencers have the last word.
+
+Influencer: [01:06:15] You cannot trust your pregnant brain. Last week I went to lunch. I got there early. I was so proud of myself because I usually run 5 to 10 minutes late, but I got there ten minutes early. I wait for 30 more minutes. Am I getting stood up for the very first time in my life? A couple hours later, I get a text from this person and they're like, oh my gosh, we're meeting next week. But yeah, I was sad. I hurt my own feelings.
