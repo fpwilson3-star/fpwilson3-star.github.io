@@ -34,6 +34,8 @@
 
     { slug: 'does-high-cortisol-cause-belly-fat', title: 'Does high cortisol really cause belly fat and heart disease?' },
 
+    { slug: 'pregnancy-brain-what-actually-changes', title: 'Pregnancy Brain: What Actually Changes in Your Brain During and After Pregnancy' },
+
   ];
 
   const linkStyle = 'font-family:var(--font-mono);font-size:0.85rem;color:var(--color-accent);text-decoration:none;';
