@@ -152,8 +152,12 @@ truncated model output and missing FAQs, strips em-dashes, warns on
 off-length meta descriptions, replaces (rather than duplicates) entries on
 re-runs, and looks up the episode's Apple Podcasts URL via the iTunes API
 (same one update-podcast.yml uses) to link each article to its specific
-episode and emit `PodcastEpisode` JSON-LD. When editing articles by hand,
-honor the same rules.
+episode and emit `PodcastEpisode` JSON-LD. It also has the model pick the 1-2
+best-fitting topic categories (from the fixed `CLUSTERS`/`TOPIC_META` list)
+and writes the new slug into `CLUSTERS` in `scripts/episode_blocks.py` itself
+(replacing any prior assignment on re-runs), so the episode PR includes the
+hub-page updates; a run with no valid topic hard-fails. When editing articles
+by hand, honor the same rules.
 
 ### Google Drive episode scripts
 
@@ -251,7 +255,7 @@ creating or editing an episode page by hand:
 6. Run `python scripts/build_llms_txt.py` to regenerate `llms.txt`
 7. Run `python scripts/build_podcast_index_schema.py` to refresh the podcast index CollectionPage → ItemList
 8. Run `python scripts/retrofit_article_seo.py` to add the Article isPartOf/mainEntityOfPage/inLanguage + citation list (the hand-written template above already includes these; the retrofit is the safety net)
-9. Run `python scripts/build_topic_pages.py` to regenerate the topic hub pages, the "Browse by topic" strip, and the topic sitemap entries. To put a new episode on a hub, add its slug to a list in `CLUSTERS` (`scripts/episode_blocks.py`) first — an episode not in any cluster gets no hub and no topic links (this is fine, just a choice). Adding a whole new topic means adding a matching entry to both `CLUSTERS` and `TOPIC_META`.
+9. Run `python scripts/build_topic_pages.py` to regenerate the topic hub pages, the "Browse by topic" strip, and the topic sitemap entries. When hand-writing a page, first add its slug to 1-2 lists in `CLUSTERS` (`scripts/episode_blocks.py`) — the automated generator does this itself via the model's topic pick, and every episode should be in at least one cluster. Adding a whole new topic means adding a matching entry to both `CLUSTERS` and `TOPIC_META`.
 10. Run `python scripts/check_site.py` — must pass before committing (CI enforces it)
 
 The generator (`generate_episode_post.py`) runs steps 4–9 automatically after writing a new article, so a pushed transcript refreshes the hubs, index, feeds, and schema with no manual step.

@@ -326,6 +326,10 @@ NO HYPERLINKS AVAILABLE.
 You were not given the episode script for this transcript. Do not add hyperlinks to any study, paper, or trial in the article body. Mention studies in plain text. Never fabricate URLs.
 """
 
+    topic_names = list(episode_blocks.CLUSTERS.keys())
+    topics_list = '\n'.join(
+        f"- {name}: {episode_blocks.TOPIC_META[name]['intro']}" for name in topic_names)
+
     user = f"""From the transcript below, extract ONLY the "What's the deal with" deep-dive segment and ignore all other segments (health news, listener Q&A, intros/outros).
 
 Then write a standalone article with this structure:
@@ -339,6 +343,10 @@ Then generate 4 to 6 FAQ pairs:
 - Questions: phrased exactly the way someone would type them into Google. Mix of the highest-intent queries a reader would have after reading this article (safety, dosing, mechanism, common myths, practical how-to).
 - Answers: 2 to 4 sentences each, grounded strictly in the article you just wrote. Reuse the same numbers, study names, and caveats. Plain text only — no HTML tags. No em-dashes.
 - Cover the angles most likely to appear in Google "People Also Ask" boxes; do not repeat the headline as a question.
+
+Then pick the 1 or 2 site topic categories that best fit this article. Choose from this exact list (name: what the category covers):
+{topics_list}
+At least one is required; only add a second if the article genuinely fits both.
 
 Call the create_article tool with your result.
 {script_block}
@@ -385,9 +393,16 @@ TRANSCRIPT:
                             },
                             "required": ["question", "answer"]
                         }
+                    },
+                    "topics": {
+                        "type": "array",
+                        "description": "The 1 or 2 site topic categories that best fit this article, from the fixed list in the prompt.",
+                        "minItems": 1,
+                        "maxItems": 2,
+                        "items": {"type": "string", "enum": topic_names}
                     }
                 },
-                "required": ["headline", "slug", "meta_description", "episode_title", "article_html", "faqs"]
+                "required": ["headline", "slug", "meta_description", "episode_title", "article_html", "faqs", "topics"]
             }
         }
     ]
@@ -819,6 +834,57 @@ def update_episodes_js(slug, headline):
     js_path.write_text(content, encoding='utf-8')
 
 
+EPISODE_BLOCKS_PATH = Path(__file__).resolve().parent / 'episode_blocks.py'
+
+
+def update_clusters(slug, topics):
+    """Persist the model's topic choices so the episode lands on its hub pages.
+
+    Adds the slug to the chosen lists in CLUSTERS, both in memory (so the
+    prerender_nav/build_topic_pages calls later in this run see it) and in
+    scripts/episode_blocks.py on disk (so the assignment is versioned in the
+    episode PR and future runs build on it). Replace semantics on re-runs: the
+    slug is removed from every cluster before being re-added to the chosen ones.
+    """
+    topics = topics or []
+    valid = [t for t in dict.fromkeys(topics) if t in episode_blocks.CLUSTERS]
+    unknown = [t for t in topics if t not in episode_blocks.CLUSTERS]
+    if unknown:
+        print(f"[topics] ignoring unknown topic name(s) from the model: {unknown}")
+    if not valid:
+        sys.exit(
+            "ERROR: model returned no valid topic category. Every episode must be "
+            "assigned to at least one cluster in scripts/episode_blocks.py so it "
+            "appears on a topic hub and gets related-episode links."
+        )
+
+    # In-memory first: every other script reads episode_blocks.CLUSTERS via the
+    # module attribute, so mutating the lists in place is enough for this run.
+    for members in episode_blocks.CLUSTERS.values():
+        if slug in members:
+            members.remove(slug)
+    for name in valid:
+        episode_blocks.CLUSTERS[name].append(slug)
+
+    # On disk: rewrite only the CLUSTERS block of episode_blocks.py.
+    src = EPISODE_BLOCKS_PATH.read_text(encoding='utf-8')
+    block_match = re.search(r'CLUSTERS = \{\n.*?\n\}\n', src, re.DOTALL)
+    if not block_match:
+        sys.exit("ERROR: could not locate the CLUSTERS block in scripts/episode_blocks.py.")
+    block = block_match.group(0)
+    block = re.sub(rf'^[ \t]*"{re.escape(slug)}",\n', '', block, flags=re.MULTILINE)
+    for name in valid:
+        entry_re = re.compile(
+            r'(    "' + re.escape(name) + r'": \[\n.*?)(    \],\n)', re.DOTALL)
+        block, n = entry_re.subn(
+            lambda m: m.group(1) + f'        "{slug}",\n' + m.group(2), block, count=1)
+        if not n:
+            sys.exit(f"ERROR: could not find cluster '{name}' in the CLUSTERS block.")
+    src = src[:block_match.start()] + block + src[block_match.end():]
+    EPISODE_BLOCKS_PATH.write_text(src, encoding='utf-8')
+    print(f"[topics] assigned '{slug}' to: {', '.join(valid)}")
+
+
 def update_sitemap(slug, date_iso):
     sitemap_path = Path('sitemap.xml')
     content = sitemap_path.read_text(encoding='utf-8')
@@ -915,6 +981,10 @@ def main():
     update_sitemap(slug, date_iso)
     update_episodes_js(slug, headline)
     print("Updated podcast/index.html, sitemap.xml, and js/episodes.js")
+
+    # Put the episode on its topic hub(s) before the rebuild steps below, so
+    # the hubs, related-episodes block, and topic sitemap entries include it.
+    update_clusters(slug, data.get('topics'))
 
     # Keep the crawlable internal-link chain and the feed in sync. These were
     # manual checklist steps before and drifted every time they were skipped.
