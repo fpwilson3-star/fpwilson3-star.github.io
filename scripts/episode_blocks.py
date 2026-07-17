@@ -201,6 +201,7 @@ CLUSTERS = {
         "does-hormone-replacement-therapy-actually-work",
         "does-addyi-work-low-sexual-desire-women",
         "are-sperm-counts-really-declining",
+        "pregnancy-brain-what-actually-changes",
     ],
     "Metabolic & diet": [
         "glp-1-weight-loss-evidence",
@@ -225,6 +226,7 @@ CLUSTERS = {
         "do-psychedelics-actually-work",
         "how-much-sleep-do-you-need",
         "does-methylene-blue-actually-work",
+        "pregnancy-brain-what-actually-changes",
     ],
     "Environmental exposures & health scares": [
         "are-microplastics-actually-harming-your-health",
