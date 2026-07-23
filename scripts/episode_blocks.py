@@ -208,6 +208,7 @@ CLUSTERS = {
         "is-red-meat-actually-bad-for-you",
         "continuous-glucose-monitors-non-diabetics",
         "how-much-protein-do-you-actually-need",
+        "is-moderate-drinking-actually-bad-for-you",
     ],
     "Biohacking & recovery trends": [
         "cold-plunges-saunas-health-benefits",
@@ -227,6 +228,7 @@ CLUSTERS = {
         "how-much-sleep-do-you-need",
         "does-methylene-blue-actually-work",
         "pregnancy-brain-what-actually-changes",
+        "is-moderate-drinking-actually-bad-for-you",
     ],
     "Environmental exposures & health scares": [
         "are-microplastics-actually-harming-your-health",
