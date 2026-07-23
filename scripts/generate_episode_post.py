@@ -548,6 +548,125 @@ def fetch_episode_link(date_iso, episode_title=None):
     return None
 
 
+YOUTUBE_CHANNEL_ID = 'UCu4OHd94MHqjlMp_Mgks84w'  # @fperrywilson
+
+
+def fetch_episode_video(episode_title):
+    """Find this episode's YouTube video id on the host's channel feed.
+
+    Deliberately does not look at dates. The channel feed reports wrong
+    publish dates for some uploads (the alcohol episode comes back as 2015),
+    so a date-proximity match like fetch_episode_link's would pick the wrong
+    video or none at all. Instead: keep only full-episode uploads, which all
+    carry the show name, then match on topic-word overlap with the episode
+    title. The channel also posts near-daily short clips whose titles mention
+    the same topics, which is what the show-name gate filters out.
+
+    Returns a video id, or None to ship the article with no embed (better
+    than embedding the wrong discussion).
+    """
+    import urllib.request
+    import xml.etree.ElementTree as ET
+
+    # Show-name words are in every full-episode title, so they carry no
+    # topic signal; the rest is the same boilerplate fetch_episode_link drops.
+    boilerplate = {'what', 'whats', 'the', 'deal', 'with', 'and', 'for', 'about',
+                   'wellness', 'actually', 'podcast'}
+
+    def topic_words(title):
+        norm = re.sub(r'\s+', ' ', re.sub(r'[^a-z0-9 ]', ' ', title.lower())).strip()
+        return {w for w in norm.split() if w not in boilerplate and len(w) >= 3}
+
+    wanted = topic_words(episode_title)
+    if not wanted:
+        print(f"[video] episode title '{episode_title}' has no topic words; skipping embed.")
+        return None
+
+    try:
+        feed_url = ('https://www.youtube.com/feeds/videos.xml?channel_id='
+                    + YOUTUBE_CHANNEL_ID)
+        req = urllib.request.Request(feed_url, headers={'User-Agent': 'Mozilla/5.0'})
+        raw = urllib.request.urlopen(req, timeout=30).read()
+        ns = {'atom': 'http://www.w3.org/2005/Atom',
+              'yt': 'http://www.youtube.com/xml/schemas/2015',
+              'media': 'http://search.yahoo.com/mrss/'}
+        scored = []
+        for entry in ET.fromstring(raw).findall('atom:entry', ns):
+            vid = entry.findtext('yt:videoId', default='', namespaces=ns)
+            title = entry.findtext('media:group/media:title', default='',
+                                   namespaces=ns) or entry.findtext(
+                                       'atom:title', default='', namespaces=ns)
+            if not vid or not title:
+                continue
+            flat = re.sub(r'[^a-z0-9 ]', ' ', title.lower())
+            if 'wellness' not in flat or 'actually' not in flat:
+                continue  # a short clip, not the full episode
+            scored.append((len(wanted & topic_words(title)) / len(wanted), title, vid))
+
+        if not scored:
+            print("[video] no full-episode videos in the channel feed; skipping embed.")
+            return None
+
+        scored.sort(key=lambda s: -s[0])
+        best = scored[0]
+        if best[0] < 0.5:
+            print(f"[video] best channel match '{best[1]}' shares too little with "
+                  f"'{episode_title}'; skipping embed rather than risk the wrong video.")
+            return None
+        if len(scored) > 1 and scored[1][0] == best[0]:
+            print(f"[video] '{best[1]}' and '{scored[1][1]}' match "
+                  f"'{episode_title}' equally well; skipping embed.")
+            return None
+        print(f"[video] matched YouTube episode: {best[1]} ({best[2]})")
+        return best[2]
+    except Exception as e:
+        print(f"[video] channel feed lookup failed ({e}); skipping embed.")
+    return None
+
+
+def render_video_embed(video_id, episode_title):
+    """The responsive 16:9 embed block used on every episode page."""
+    # The attribute is double-quoted, so only " needs escaping; escaping the
+    # apostrophe too would render as &#x27; and differ from the other pages.
+    title = htmlmod.escape(f"{episode_title} — Wellness, Actually",
+                           quote=False).replace('"', '&quot;')
+    return (
+        "<p>Here's our discussion from the episode:</p>\n\n"
+        '<div style="position: relative; padding-bottom: 56.25%; height: 0; '
+        'margin: 24px 0 8px; overflow: hidden;">\n'
+        '  <iframe style="position: absolute; top: 0; left: 0; width: 100%; '
+        'height: 100%; border: 0;"\n'
+        f'    src="https://www.youtube.com/embed/{video_id}"\n'
+        f'    title="{title}"\n'
+        '    loading="lazy"\n'
+        '    allow="accelerometer; clipboard-write; encrypted-media; gyroscope; '
+        'picture-in-picture; web-share"\n'
+        '    referrerpolicy="strict-origin-when-cross-origin"\n'
+        '    allowfullscreen></iframe>\n'
+        '</div>\n'
+    )
+
+
+def insert_video_embed(article_html, video_id, episode_title):
+    """Place the embed just above the model's closing 'listen below' line.
+
+    That sentence is the last paragraph of every generated article, so the
+    video lands after the body and before the podcast call to action, which
+    is where it sits on the hand-edited pages.
+    """
+    if not video_id:
+        return article_html
+    if 'youtube.com/embed' in article_html:
+        return article_html  # already embedded; don't double up on a re-run
+    block = render_video_embed(video_id, episode_title)
+    closing = re.search(r'\n*<p>[^<]*covered this in depth[^<]*</p>', article_html)
+    if closing:
+        return (article_html[:closing.start()] + '\n\n' + block + '\n'
+                + closing.group(0).lstrip('\n') + article_html[closing.end():])
+    print("[video] closing 'listen below' line not found; appending embed at the end.")
+    return article_html.rstrip() + '\n\n' + block
+
+
 def render_episode_jsonld(episode_title, date_iso, episode_url):
     payload = {
         "@context": "https://schema.org",
@@ -608,11 +727,12 @@ def render_faq_section(faqs):
     )
 
 
-def build_episode_html(data, date_iso, date_display, episode_url=None):
+def build_episode_html(data, date_iso, date_display, episode_url=None, video_id=None):
     headline = data['headline']
     slug = data['slug']
     meta_desc = data['meta_description']
     article_html = clean_article_html(data['article_html'])
+    article_html = insert_video_embed(article_html, video_id, data['episode_title'])
     # The vetted study links in the body become the Article's citation list.
     citations = episode_blocks.extract_citations(article_html)
     article_jsonld_block = episode_blocks.render_article_block(
@@ -968,9 +1088,11 @@ def main():
     print(f"Generated: '{headline}' → podcast/{slug}.html")
 
     episode_url = fetch_episode_link(date_iso, data['episode_title'])
+    video_id = fetch_episode_video(data['episode_title'])
 
     # Write episode page
-    episode_html = build_episode_html(data, date_iso, date_display, episode_url=episode_url)
+    episode_html = build_episode_html(data, date_iso, date_display,
+                                      episode_url=episode_url, video_id=video_id)
     output_path = Path(f'podcast/{slug}.html')
     output_path.parent.mkdir(exist_ok=True)
     output_path.write_text(episode_html, encoding='utf-8')

@@ -159,6 +159,34 @@ and writes the new slug into `CLUSTERS` in `scripts/episode_blocks.py` itself
 hub-page updates; a run with no valid topic hard-fails. When editing articles
 by hand, honor the same rules.
 
+### Episode video embeds
+
+The generator also embeds the episode's YouTube discussion automatically
+(`fetch_episode_video` / `insert_video_embed`), so pushing a transcript
+produces a page with the video already in it. **Upload the YouTube video
+before pushing the transcript** — the lookup only sees what is already on the
+channel at generation time, and there is no follow-up sweep.
+
+It reads the host's channel feed
+(`youtube.com/feeds/videos.xml?channel_id=UCu4OHd94MHqjlMp_Mgks84w`, no API
+key needed), keeps only uploads whose title contains "Wellness, Actually"
+(the channel also posts near-daily short clips that mention the same topics),
+and matches on topic-word overlap with the episode title. Two deliberate
+choices:
+
+- **Dates are ignored.** The feed reports wrong publish dates for some
+  uploads (the alcohol episode comes back as 2015), so a date-proximity match
+  like `fetch_episode_link`'s would pick the wrong video or none at all.
+- **It skips rather than guesses.** Below 50% topic overlap, or on a tie
+  between two episodes, it ships the article with no embed and says so in the
+  run log. Same rule as the hyperlinks: a wrong video is worse than none.
+
+If an embed is missing, check the `[video]` lines in the generate-run log.
+The usual cause is the video not being on the channel yet when the transcript
+was pushed; fix it by adding the block by hand (copy it from any other
+episode page) or re-running the workflow via its "Run workflow" button.
+`insert_video_embed` is idempotent, so a re-run will not double up.
+
 ### Google Drive episode scripts
 
 Episode scripts live in a shared Google Drive folder. Drive structure:
