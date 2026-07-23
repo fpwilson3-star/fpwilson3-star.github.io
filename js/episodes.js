@@ -36,6 +36,8 @@
 
     { slug: 'pregnancy-brain-what-actually-changes', title: 'Pregnancy Brain: What Actually Changes in Your Brain During and After Pregnancy' },
 
+    { slug: 'is-moderate-drinking-actually-bad-for-you', title: 'Is one drink a day actually bad for you?' },
+
   ];
 
   const linkStyle = 'font-family:var(--font-mono);font-size:0.85rem;color:var(--color-accent);text-decoration:none;';
