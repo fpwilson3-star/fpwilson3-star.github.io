@@ -143,10 +143,10 @@ def render_hub(name, meta, entries):
   <title>{_esc(name)} — Wellness, Actually Episode Articles | F. Perry Wilson, MD</title>
   <meta name="description" content="{_esc(intro)}">
   <meta name="author" content="F. Perry Wilson">
-  <link rel="icon" href="/favicon.ico" sizes="any">
+{episode_blocks.FONT_PRECONNECT}  <link rel="icon" href="/favicon.ico" sizes="any">
   <link rel="apple-touch-icon" href="/images/apple-touch-icon.png">
   <link rel="alternate" type="application/rss+xml" title="Wellness, Actually — Episode Articles" href="/podcast/rss.xml">
-  <link rel="stylesheet" href="../../css/style.css">
+{episode_blocks.ANALYTICS_SNIPPET}  <link rel="stylesheet" href="../../css/style.css">
   <link rel="canonical" href="{url}">
   <meta property="og:title" content="{_esc(name)} — Wellness, Actually Episode Articles">
   <meta property="og:description" content="{_esc(intro)}">
@@ -251,10 +251,10 @@ def render_topics_index(topic_rows):
   <title>Browse Episode Articles by Topic | F. Perry Wilson, MD</title>
   <meta name="description" content="{_esc(intro)}">
   <meta name="author" content="F. Perry Wilson">
-  <link rel="icon" href="/favicon.ico" sizes="any">
+{episode_blocks.FONT_PRECONNECT}  <link rel="icon" href="/favicon.ico" sizes="any">
   <link rel="apple-touch-icon" href="/images/apple-touch-icon.png">
   <link rel="alternate" type="application/rss+xml" title="Wellness, Actually — Episode Articles" href="/podcast/rss.xml">
-  <link rel="stylesheet" href="../../css/style.css">
+{episode_blocks.ANALYTICS_SNIPPET}  <link rel="stylesheet" href="../../css/style.css">
   <link rel="canonical" href="{url}">
   <meta property="og:title" content="Browse Episode Articles by Topic | F. Perry Wilson, MD">
   <meta property="og:description" content="{_esc(intro)}">

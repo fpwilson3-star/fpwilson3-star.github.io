@@ -62,6 +62,101 @@ def publisher_jsonld():
     }
 
 
+# --- Shared <head> fragments ------------------------------------------------
+#
+# Every page on the site needs these, so they live here rather than being
+# retyped per template. check_site.py asserts both are present on every page.
+
+# GA4. Episode pages were shipping without it, which made the whole SEO effort
+# unmeasurable: search traffic landed on /podcast/ articles and never appeared
+# in analytics. Same measurement ID as index.html.
+GA_MEASUREMENT_ID = "G-8Q905DBDJR"
+
+ANALYTICS_SNIPPET = (
+    '  <!-- Google tag (gtag.js) -->\n'
+    f'  <script async src="https://www.googletagmanager.com/gtag/js?id={GA_MEASUREMENT_ID}"></script>\n'
+    '  <script>\n'
+    '    window.dataLayer = window.dataLayer || [];\n'
+    '    function gtag(){dataLayer.push(arguments);}\n'
+    "    gtag('js', new Date());\n"
+    f"    gtag('config', '{GA_MEASUREMENT_ID}');\n"
+    '  </script>\n'
+)
+
+# Fonts used to be pulled in by an @import inside style.css, which the browser
+# can't discover until the stylesheet has downloaded and parsed -- a serialized
+# HTML -> style.css -> fonts.googleapis.com -> font files chain. Requesting the
+# font CSS directly from the page head removes one full round trip from that
+# chain, and the preconnects warm both font hosts' DNS/TLS in parallel.
+#
+# If this URL changes, it must change here only: style.css no longer imports.
+FONT_CSS_URL = (
+    "https://fonts.googleapis.com/css2"
+    "?family=Playfair+Display:ital,wght@0,400;0,600;0,700;1,400;1,600"
+    "&amp;family=Source+Sans+3:ital,wght@0,300;0,400;0,500;0,600;1,400"
+    "&amp;family=JetBrains+Mono:wght@400&amp;display=swap"
+)
+
+FONT_PRECONNECT = (
+    '  <link rel="preconnect" href="https://fonts.googleapis.com">\n'
+    '  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>\n'
+    f'  <link rel="stylesheet" href="{FONT_CSS_URL}">\n'
+)
+
+
+def render_breadcrumb(headline, slug):
+    """BreadcrumbList JSON-LD, built through json.dumps so a headline
+    containing a double quote can't break the block."""
+    url = f"https://fperrywilson.com/podcast/{slug}.html"
+    obj = {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+            {"@type": "ListItem", "position": 1, "name": "Home",
+             "item": "https://fperrywilson.com"},
+            {"@type": "ListItem", "position": 2, "name": "Episode Articles",
+             "item": COLLECTION_URL},
+            {"@type": "ListItem", "position": 3, "name": headline, "item": url},
+        ],
+    }
+    body = json.dumps(obj, indent=2, ensure_ascii=False)
+    indented = '\n'.join('  ' + line for line in body.split('\n'))
+    return f'  <script type="application/ld+json">\n{indented}\n  </script>\n'
+
+
+VIDEO_JSONLD_MARKER = '"@type": "VideoObject"'
+
+
+def render_video_jsonld(video_id, episode_title, date_iso, description, slug):
+    """VideoObject JSON-LD for the embedded YouTube discussion.
+
+    Without this the embed is invisible to search: an <iframe> tells crawlers
+    nothing about what the video contains. uploadDate is the episode air date --
+    the video is that episode's segment, and the channel feed's own dates are
+    unreliable (see CLAUDE.md), so this is the trustworthy value available.
+    """
+    if not video_id:
+        return ''
+    obj = {
+        "@context": "https://schema.org",
+        "@type": "VideoObject",
+        "name": f"{episode_title} — Wellness, Actually",
+        "description": description,
+        "thumbnailUrl": f"https://i.ytimg.com/vi/{video_id}/maxresdefault.jpg",
+        "uploadDate": date_iso,
+        "embedUrl": f"https://www.youtube.com/embed/{video_id}",
+        "contentUrl": f"https://www.youtube.com/watch?v={video_id}",
+        "publisher": publisher_jsonld(),
+        "isPartOf": {
+            "@type": "Article",
+            "url": f"https://fperrywilson.com/podcast/{slug}.html",
+        },
+    }
+    body = json.dumps(obj, indent=2, ensure_ascii=False)
+    indented = '\n'.join('  ' + line for line in body.split('\n'))
+    return f'  <script type="application/ld+json">\n{indented}\n  </script>\n'
+
+
 def indent_json(obj, spaces):
     """json.dumps(indent=2) re-indented so it drops cleanly into a JSON-LD
     block whose keys sit at `spaces` columns (first line stays inline)."""

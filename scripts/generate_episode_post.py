@@ -727,10 +727,24 @@ def render_faq_section(faqs):
     )
 
 
+def attr(text):
+    """Escape a model-written string for use inside an HTML attribute.
+
+    A headline or meta description containing a double quote (e.g. the
+    'Wolverine stack' peptide episode) otherwise terminates the attribute
+    early, which silently truncates the description Google reads.
+    """
+    return htmlmod.escape(str(text), quote=True)
+
+
 def build_episode_html(data, date_iso, date_display, episode_url=None, video_id=None):
     headline = data['headline']
     slug = data['slug']
     meta_desc = data['meta_description']
+    # Attribute-safe copies for the <head>; the raw values still feed JSON-LD
+    # (json.dumps escapes them) and the visible body (escaped at render time).
+    headline_attr = attr(headline)
+    meta_desc_attr = attr(meta_desc)
     article_html = clean_article_html(data['article_html'])
     article_html = insert_video_embed(article_html, video_id, data['episode_title'])
     # The vetted study links in the body become the Article's citation list.
@@ -749,6 +763,9 @@ def build_episode_html(data, date_iso, date_display, episode_url=None, video_id=
     # fills it from the topic clusters, the same way it fills the nav below.
     related_div_open = episode_blocks.RELATED_DIV_OPEN
     episode_jsonld = render_episode_jsonld(episode_title, date_iso, episode_url)
+    breadcrumb_jsonld = episode_blocks.render_breadcrumb(headline, slug)
+    video_jsonld = episode_blocks.render_video_jsonld(
+        video_id, episode_title, date_iso, meta_desc, slug)
     show_apple_url = ('https://podcasts.apple.com/us/podcast/'
                       'wellness-actually-with-emily-oster-perry-wilson-md/id1633515294')
     apple_url = episode_url or show_apple_url
@@ -763,16 +780,16 @@ def build_episode_html(data, date_iso, date_display, episode_url=None, video_id=
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>{headline} | F. Perry Wilson, MD</title>
-  <meta name="description" content="{meta_desc}">
+  <title>{headline_attr} | F. Perry Wilson, MD</title>
+  <meta name="description" content="{meta_desc_attr}">
   <meta name="author" content="F. Perry Wilson">
-  <link rel="icon" href="/favicon.ico" sizes="any">
+{episode_blocks.FONT_PRECONNECT}  <link rel="icon" href="/favicon.ico" sizes="any">
   <link rel="apple-touch-icon" href="/images/apple-touch-icon.png">
   <link rel="alternate" type="application/rss+xml" title="Wellness, Actually — Episode Articles" href="/podcast/rss.xml">
-  <link rel="stylesheet" href="../css/style.css">
+{episode_blocks.ANALYTICS_SNIPPET}  <link rel="stylesheet" href="../css/style.css">
   <link rel="canonical" href="https://fperrywilson.com/podcast/{slug}.html">
-  <meta property="og:title" content="{headline}">
-  <meta property="og:description" content="{meta_desc}">
+  <meta property="og:title" content="{headline_attr}">
+  <meta property="og:description" content="{meta_desc_attr}">
   <meta property="og:type" content="article">
   <meta property="og:url" content="https://fperrywilson.com/podcast/{slug}.html">
   <meta property="og:site_name" content="F. Perry Wilson, MD">
@@ -786,23 +803,11 @@ def build_episode_html(data, date_iso, date_display, episode_url=None, video_id=
   <meta name="twitter:card" content="summary_large_image">
   <meta name="twitter:site" content="@fperrywilson">
   <meta name="twitter:creator" content="@fperrywilson">
-  <meta name="twitter:title" content="{headline}">
-  <meta name="twitter:description" content="{meta_desc}">
+  <meta name="twitter:title" content="{headline_attr}">
+  <meta name="twitter:description" content="{meta_desc_attr}">
   <meta name="twitter:image" content="https://fperrywilson.com/images/og-podcast.jpg">
   <meta name="twitter:image:alt" content="Wellness, Actually podcast — with Emily Oster and F. Perry Wilson, MD">
-{article_jsonld_block}
-  <script type="application/ld+json">
-  {{
-    "@context": "https://schema.org",
-    "@type": "BreadcrumbList",
-    "itemListElement": [
-      {{"@type": "ListItem", "position": 1, "name": "Home", "item": "https://fperrywilson.com"}},
-      {{"@type": "ListItem", "position": 2, "name": "Episode Articles", "item": "https://fperrywilson.com/podcast/"}},
-      {{"@type": "ListItem", "position": 3, "name": "{headline}", "item": "https://fperrywilson.com/podcast/{slug}.html"}}
-    ]
-  }}
-  </script>
-{episode_jsonld}{faq_jsonld}</head>
+{article_jsonld_block}{breadcrumb_jsonld}{episode_jsonld}{video_jsonld}{faq_jsonld}</head>
 <body>
 
   <nav class="nav" id="nav">
