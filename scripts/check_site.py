@@ -175,6 +175,21 @@ def main():
         # 6. AEO: visible "Short answer" box and "About the author" block present
         if episode_blocks.TLDR_MARKER not in src:
             err(f'{slug}: missing "Short answer" box (run scripts/retrofit_author_aeo.py)')
+        else:
+            # The box must answer the headline, not repeat the meta description.
+            # A description is written to earn the click and so tends to tease
+            # ("here's what the evidence shows"), which wastes the most
+            # extractable block on the page.
+            tldr = re.search(
+                re.escape(episode_blocks.TLDR_MARKER) +
+                r'.*?<p style="font-size: 1\.1rem; line-height: 1\.6; margin: 0;">(.*?)</p>',
+                src, re.DOTALL)
+            desc = re.search(r'<meta name="description" content="([^"]*)"', src)
+            if tldr and desc and html.unescape(tldr.group(1)).strip() == \
+                    html.unescape(desc.group(1)).strip():
+                err(f'{slug}: "Short answer" box is a verbatim copy of the meta '
+                    'description; it should answer the headline '
+                    '(see scripts/backfill_short_answers.py)')
         if episode_blocks.AUTHOR_BIO_MARKER not in src:
             err(f'{slug}: missing "About the author" block (run scripts/retrofit_author_aeo.py)')
 

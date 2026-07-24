@@ -372,6 +372,20 @@ TRANSCRIPT:
                         "type": "string",
                         "description": "150-160 character meta description for search results"
                     },
+                    "short_answer": {
+                        "type": "string",
+                        "description": (
+                            "The article's verdict in 2 to 4 sentences, for the visible "
+                            "'Short answer' box at the top of the page. This is what answer "
+                            "engines and featured snippets lift, so it must ANSWER the "
+                            "headline's question, not tease it. Open with the verdict itself "
+                            "('Yes, modestly.', 'For healthy people, no.', 'About seven hours "
+                            "for most adults.'), then give the load-bearing specifics: the "
+                            "numbers, doses, or trial results that carry it. Never write "
+                            "'here's what the evidence shows' or any variant that withholds "
+                            "the answer. Every claim must already appear in article_html."
+                        )
+                    },
                     "episode_title": {
                         "type": "string",
                         "description": "Podcast episode title, e.g. What's the deal with creatine?"
@@ -402,7 +416,7 @@ TRANSCRIPT:
                         "items": {"type": "string", "enum": topic_names}
                     }
                 },
-                "required": ["headline", "slug", "meta_description", "episode_title", "article_html", "faqs", "topics"]
+                "required": ["headline", "slug", "meta_description", "short_answer", "episode_title", "article_html", "faqs", "topics"]
             }
         }
     ]
@@ -478,7 +492,7 @@ def strip_em_dashes(data):
             s = s.replace(' — ', ', ').replace('— ', ', ').replace(' —', ', ').replace('—', ', ')
         return s
 
-    for key in ('headline', 'meta_description', 'episode_title', 'article_html'):
+    for key in ('headline', 'meta_description', 'short_answer', 'episode_title', 'article_html'):
         if isinstance(data.get(key), str):
             data[key] = fix(data[key])
     for f in data.get('faqs') or []:
@@ -755,9 +769,10 @@ def build_episode_html(data, date_iso, date_display, episode_url=None, video_id=
     faqs = data.get('faqs') or []
     faq_jsonld = render_faq_jsonld(faqs)
     faq_section = render_faq_section(faqs)
-    # AEO: surface the answer-shaped meta description as a visible "Short answer"
-    # box, and attach an "About the author" E-E-A-T block at the foot.
-    tldr_section = episode_blocks.render_tldr(meta_desc)
+    # AEO: surface the model's answer-shaped verdict as a visible "Short answer"
+    # box (NOT the meta description, which is written to earn the click and so
+    # tends to tease), and attach an "About the author" E-E-A-T block at the foot.
+    tldr_section = episode_blocks.render_tldr(data['short_answer'])
     author_bio_section = episode_blocks.render_author_bio()
     # Emitted empty; prerender_nav.main() (called at the end of generation)
     # fills it from the topic clusters, the same way it fills the nav below.
@@ -1078,6 +1093,10 @@ def main():
         if not data.get('faqs'):
             sys.exit("ERROR: model returned no FAQs after retry. Every episode page needs the "
                      "FAQ section and FAQPage schema for rich-result eligibility.")
+    if not (data.get('short_answer') or '').strip():
+        sys.exit("ERROR: model returned no short_answer. The visible 'Short answer' box is "
+                 "the most extractable block on the page for answer engines, and it must "
+                 "not fall back to the meta description, which is written to tease.")
 
     data = strip_em_dashes(data)
     data['article_html'] = clean_article_html(data['article_html'])

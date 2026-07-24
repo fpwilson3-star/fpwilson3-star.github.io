@@ -264,8 +264,15 @@ AUTHOR_BIO_MARKER = 'data-aeo="author-bio"'
 
 
 def render_tldr(text):
-    """The 'Short answer' box. `text` is the same answer-shaped sentence used in
-    the meta description, surfaced visibly near the top where engines lift it."""
+    """The 'Short answer' box, surfaced near the top where engines lift it.
+
+    `text` must be the article's verdict, not its meta description. Those were
+    the same string originally, which wasted the box: a meta description is
+    written to earn a click, so it teases ("here's what the evidence shows")
+    where this box has to answer. The generator gets it from the model's
+    `short_answer` field; existing pages were backfilled by
+    scripts/backfill_short_answers.py.
+    """
     safe = htmlmod.escape(text.strip())
     return (
         f'    <div {TLDR_MARKER} style="margin-bottom: 40px; padding: 18px 24px; '

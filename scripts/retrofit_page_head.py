@@ -76,13 +76,27 @@ def json_unescape(raw):
 
 
 def _resync_tldr(src, text):
-    """Rewrite the Short answer box body to match the repaired description."""
+    """Repair a Short answer box that was truncated from a broken description.
+
+    Only fires when the box's current text is a strict prefix of the full
+    description, which is the signature of having been copied from the
+    truncated attribute. Short answers are now written independently of the
+    meta description (see backfill_short_answers.py), so anything else in that
+    box is deliberate and must not be overwritten.
+    """
     pat = re.compile(
         r'(' + re.escape(episode_blocks.TLDR_MARKER) +
         r'.*?<p style="font-size: 1\.1rem; line-height: 1\.6; margin: 0;">)'
-        r'.*?(</p>)', re.S)
-    return pat.sub(
-        lambda m: m.group(1) + htmlmod.escape(text.strip()) + m.group(2), src, count=1)
+        r'(.*?)(</p>)', re.S)
+    m = pat.search(src)
+    if not m:
+        return src
+    current = htmlmod.unescape(m.group(2)).strip()
+    full = text.strip()
+    if current == full or not full.startswith(current):
+        return src
+    return (src[:m.start()] + m.group(1) + htmlmod.escape(full) + m.group(3)
+            + src[m.end():])
 
 
 def retrofit(page, dry_run):

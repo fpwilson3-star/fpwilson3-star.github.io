@@ -30,7 +30,10 @@ scripts/            — generate_episode_post.py, build_rss.py, build_llms_txt.p
                       title-first matching),
                       retrofit_author_aeo.py (idempotent: adds the "Short answer"
                       / author-bio / author-@id AEO blocks to any page missing
-                      them), retrofit_page_head.py (idempotent: adds the GA4
+                      them; its Short answer fallback copies the meta
+                      description, so rewrite it afterwards, see below),
+                      backfill_short_answers.py (one-time: the hand-written
+                      answer-shaped "Short answer" text for each existing page), retrofit_page_head.py (idempotent: adds the GA4
                       snippet, the font preconnect/stylesheet links, and
                       VideoObject JSON-LD for embeds to any page missing them,
                       and repairs a meta description truncated by an unescaped
@@ -92,6 +95,21 @@ first.
 6. **Media** (#media) — Selected TV/radio/podcast appearances (most recent 10)
 7. **Lab** (#lab) — CTRA at Yale with link to Yale site
 8. **Course** (#course) — Coursera course: "Understanding Medical Research: Your Facebook Friend Is Wrong"
+
+## The "Short answer" box must answer
+Each episode page opens with a visible "Short answer" box. It is the single most
+extractable block on the page for AI answers and featured snippets, so it has
+to **state the verdict**, not tease it. Originally every box was a verbatim copy
+of the page's meta description, which defeated the purpose: a description is
+written to earn a click ("Here's what the randomized trials actually show...")
+where this box has to give the answer ("Yes for muscle, no for memory...").
+
+The generator gets it from the model's dedicated `short_answer` field (hard-fails
+if absent) and it is em-dash-stripped like the rest of the copy. Existing pages
+were rewritten by `scripts/backfill_short_answers.py`, whose per-slug text is
+drawn from each article's own bottom-line section — the box must never assert
+something the body doesn't. `check_site.py` fails if any box is a verbatim copy
+of its meta description.
 
 ## Analytics
 GA4 (`G-8Q905DBDJR`) must be on **every** page, not just the homepage. Episode
