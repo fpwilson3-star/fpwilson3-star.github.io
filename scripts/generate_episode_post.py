@@ -372,6 +372,20 @@ TRANSCRIPT:
                         "type": "string",
                         "description": "150-160 character meta description for search results"
                     },
+                    "short_answer": {
+                        "type": "string",
+                        "description": (
+                            "The article's verdict in 2 to 4 sentences, for the visible "
+                            "'Short answer' box at the top of the page. This is what answer "
+                            "engines and featured snippets lift, so it must ANSWER the "
+                            "headline's question, not tease it. Open with the verdict itself "
+                            "('Yes, modestly.', 'For healthy people, no.', 'About seven hours "
+                            "for most adults.'), then give the load-bearing specifics: the "
+                            "numbers, doses, or trial results that carry it. Never write "
+                            "'here's what the evidence shows' or any variant that withholds "
+                            "the answer. Every claim must already appear in article_html."
+                        )
+                    },
                     "episode_title": {
                         "type": "string",
                         "description": "Podcast episode title, e.g. What's the deal with creatine?"
@@ -402,7 +416,7 @@ TRANSCRIPT:
                         "items": {"type": "string", "enum": topic_names}
                     }
                 },
-                "required": ["headline", "slug", "meta_description", "episode_title", "article_html", "faqs", "topics"]
+                "required": ["headline", "slug", "meta_description", "short_answer", "episode_title", "article_html", "faqs", "topics"]
             }
         }
     ]
@@ -478,7 +492,7 @@ def strip_em_dashes(data):
             s = s.replace(' — ', ', ').replace('— ', ', ').replace(' —', ', ').replace('—', ', ')
         return s
 
-    for key in ('headline', 'meta_description', 'episode_title', 'article_html'):
+    for key in ('headline', 'meta_description', 'short_answer', 'episode_title', 'article_html'):
         if isinstance(data.get(key), str):
             data[key] = fix(data[key])
     for f in data.get('faqs') or []:
@@ -727,10 +741,24 @@ def render_faq_section(faqs):
     )
 
 
+def attr(text):
+    """Escape a model-written string for use inside an HTML attribute.
+
+    A headline or meta description containing a double quote (e.g. the
+    'Wolverine stack' peptide episode) otherwise terminates the attribute
+    early, which silently truncates the description Google reads.
+    """
+    return htmlmod.escape(str(text), quote=True)
+
+
 def build_episode_html(data, date_iso, date_display, episode_url=None, video_id=None):
     headline = data['headline']
     slug = data['slug']
     meta_desc = data['meta_description']
+    # Attribute-safe copies for the <head>; the raw values still feed JSON-LD
+    # (json.dumps escapes them) and the visible body (escaped at render time).
+    headline_attr = attr(headline)
+    meta_desc_attr = attr(meta_desc)
     article_html = clean_article_html(data['article_html'])
     article_html = insert_video_embed(article_html, video_id, data['episode_title'])
     # The vetted study links in the body become the Article's citation list.
@@ -741,14 +769,18 @@ def build_episode_html(data, date_iso, date_display, episode_url=None, video_id=
     faqs = data.get('faqs') or []
     faq_jsonld = render_faq_jsonld(faqs)
     faq_section = render_faq_section(faqs)
-    # AEO: surface the answer-shaped meta description as a visible "Short answer"
-    # box, and attach an "About the author" E-E-A-T block at the foot.
-    tldr_section = episode_blocks.render_tldr(meta_desc)
+    # AEO: surface the model's answer-shaped verdict as a visible "Short answer"
+    # box (NOT the meta description, which is written to earn the click and so
+    # tends to tease), and attach an "About the author" E-E-A-T block at the foot.
+    tldr_section = episode_blocks.render_tldr(data['short_answer'])
     author_bio_section = episode_blocks.render_author_bio()
     # Emitted empty; prerender_nav.main() (called at the end of generation)
     # fills it from the topic clusters, the same way it fills the nav below.
     related_div_open = episode_blocks.RELATED_DIV_OPEN
     episode_jsonld = render_episode_jsonld(episode_title, date_iso, episode_url)
+    breadcrumb_jsonld = episode_blocks.render_breadcrumb(headline, slug)
+    video_jsonld = episode_blocks.render_video_jsonld(
+        video_id, episode_title, date_iso, meta_desc, slug)
     show_apple_url = ('https://podcasts.apple.com/us/podcast/'
                       'wellness-actually-with-emily-oster-perry-wilson-md/id1633515294')
     apple_url = episode_url or show_apple_url
@@ -763,16 +795,16 @@ def build_episode_html(data, date_iso, date_display, episode_url=None, video_id=
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>{headline} | F. Perry Wilson, MD</title>
-  <meta name="description" content="{meta_desc}">
+  <title>{headline_attr} | F. Perry Wilson, MD</title>
+  <meta name="description" content="{meta_desc_attr}">
   <meta name="author" content="F. Perry Wilson">
-  <link rel="icon" href="/favicon.ico" sizes="any">
+{episode_blocks.FONT_PRECONNECT}  <link rel="icon" href="/favicon.ico" sizes="any">
   <link rel="apple-touch-icon" href="/images/apple-touch-icon.png">
   <link rel="alternate" type="application/rss+xml" title="Wellness, Actually — Episode Articles" href="/podcast/rss.xml">
-  <link rel="stylesheet" href="../css/style.css">
+{episode_blocks.ANALYTICS_SNIPPET}  <link rel="stylesheet" href="../css/style.css">
   <link rel="canonical" href="https://fperrywilson.com/podcast/{slug}.html">
-  <meta property="og:title" content="{headline}">
-  <meta property="og:description" content="{meta_desc}">
+  <meta property="og:title" content="{headline_attr}">
+  <meta property="og:description" content="{meta_desc_attr}">
   <meta property="og:type" content="article">
   <meta property="og:url" content="https://fperrywilson.com/podcast/{slug}.html">
   <meta property="og:site_name" content="F. Perry Wilson, MD">
@@ -786,23 +818,11 @@ def build_episode_html(data, date_iso, date_display, episode_url=None, video_id=
   <meta name="twitter:card" content="summary_large_image">
   <meta name="twitter:site" content="@fperrywilson">
   <meta name="twitter:creator" content="@fperrywilson">
-  <meta name="twitter:title" content="{headline}">
-  <meta name="twitter:description" content="{meta_desc}">
+  <meta name="twitter:title" content="{headline_attr}">
+  <meta name="twitter:description" content="{meta_desc_attr}">
   <meta name="twitter:image" content="https://fperrywilson.com/images/og-podcast.jpg">
   <meta name="twitter:image:alt" content="Wellness, Actually podcast — with Emily Oster and F. Perry Wilson, MD">
-{article_jsonld_block}
-  <script type="application/ld+json">
-  {{
-    "@context": "https://schema.org",
-    "@type": "BreadcrumbList",
-    "itemListElement": [
-      {{"@type": "ListItem", "position": 1, "name": "Home", "item": "https://fperrywilson.com"}},
-      {{"@type": "ListItem", "position": 2, "name": "Episode Articles", "item": "https://fperrywilson.com/podcast/"}},
-      {{"@type": "ListItem", "position": 3, "name": "{headline}", "item": "https://fperrywilson.com/podcast/{slug}.html"}}
-    ]
-  }}
-  </script>
-{episode_jsonld}{faq_jsonld}</head>
+{article_jsonld_block}{breadcrumb_jsonld}{episode_jsonld}{video_jsonld}{faq_jsonld}</head>
 <body>
 
   <nav class="nav" id="nav">
@@ -1073,6 +1093,10 @@ def main():
         if not data.get('faqs'):
             sys.exit("ERROR: model returned no FAQs after retry. Every episode page needs the "
                      "FAQ section and FAQPage schema for rich-result eligibility.")
+    if not (data.get('short_answer') or '').strip():
+        sys.exit("ERROR: model returned no short_answer. The visible 'Short answer' box is "
+                 "the most extractable block on the page for answer engines, and it must "
+                 "not fall back to the meta description, which is written to tease.")
 
     data = strip_em_dashes(data)
     data['article_html'] = clean_article_html(data['article_html'])

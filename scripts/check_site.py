@@ -175,6 +175,21 @@ def main():
         # 6. AEO: visible "Short answer" box and "About the author" block present
         if episode_blocks.TLDR_MARKER not in src:
             err(f'{slug}: missing "Short answer" box (run scripts/retrofit_author_aeo.py)')
+        else:
+            # The box must answer the headline, not repeat the meta description.
+            # A description is written to earn the click and so tends to tease
+            # ("here's what the evidence shows"), which wastes the most
+            # extractable block on the page.
+            tldr = re.search(
+                re.escape(episode_blocks.TLDR_MARKER) +
+                r'.*?<p style="font-size: 1\.1rem; line-height: 1\.6; margin: 0;">(.*?)</p>',
+                src, re.DOTALL)
+            desc = re.search(r'<meta name="description" content="([^"]*)"', src)
+            if tldr and desc and html.unescape(tldr.group(1)).strip() == \
+                    html.unescape(desc.group(1)).strip():
+                err(f'{slug}: "Short answer" box is a verbatim copy of the meta '
+                    'description; it should answer the headline '
+                    '(see scripts/backfill_short_answers.py)')
         if episode_blocks.AUTHOR_BIO_MARKER not in src:
             err(f'{slug}: missing "About the author" block (run scripts/retrofit_author_aeo.py)')
 
@@ -217,6 +232,7 @@ def main():
                     '(run scripts/prerender_nav.py)')
 
     check_topics()
+    check_page_heads()
 
     if errors:
         print(f'FAILED: {len(errors)} problem(s) found\n')
@@ -224,6 +240,39 @@ def main():
             print(f'  - {e}')
         sys.exit(1)
     print(f'OK: {len(pages)} episode pages consistent across index, episodes.js, sitemap, and RSS.')
+
+
+def check_page_heads():
+    """Every page on the site must carry analytics and the font hints, must not
+    have a meta description broken by an unescaped quote, and must describe any
+    YouTube embed with VideoObject schema.
+
+    Run scripts/retrofit_page_head.py to fix any of these.
+    """
+    pages = ([Path('index.html')]
+             + sorted(Path('podcast').glob('*.html'))
+             + sorted(Path('podcast/topics').glob('*.html')))
+    for page in pages:
+        name = page.as_posix()
+        src = page.read_text(encoding='utf-8')
+
+        if episode_blocks.GA_MEASUREMENT_ID not in src:
+            err(f'{name}: no analytics snippet (traffic to this page is untracked)')
+        for host in ('fonts.googleapis.com/css2', 'fonts.gstatic.com'):
+            if host not in src:
+                err(f'{name}: missing font {host} link in <head>')
+
+        # A raw " in a description terminates the attribute early: the tag then
+        # has leftover prose where its closing > should be.
+        for m in re.finditer(r'<meta (?:name|property)="[^"]*description"'
+                             r' content="[^"]*"([^>]*)>', src):
+            if m.group(1).strip():
+                err(f'{name}: meta description attribute is truncated by an '
+                    'unescaped double quote')
+                break
+
+        if 'youtube.com/embed/' in src and episode_blocks.VIDEO_JSONLD_MARKER not in src:
+            err(f'{name}: has a YouTube embed but no VideoObject JSON-LD')
 
 
 def check_topics():

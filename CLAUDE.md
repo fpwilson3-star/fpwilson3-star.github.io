@@ -30,7 +30,14 @@ scripts/            — generate_episode_post.py, build_rss.py, build_llms_txt.p
                       title-first matching),
                       retrofit_author_aeo.py (idempotent: adds the "Short answer"
                       / author-bio / author-@id AEO blocks to any page missing
-                      them), retrofit_article_seo.py (idempotent: rebuilds each
+                      them; its Short answer fallback copies the meta
+                      description, so rewrite it afterwards, see below),
+                      backfill_short_answers.py (one-time: the hand-written
+                      answer-shaped "Short answer" text for each existing page), retrofit_page_head.py (idempotent: adds the GA4
+                      snippet, the font preconnect/stylesheet links, and
+                      VideoObject JSON-LD for embeds to any page missing them,
+                      and repairs a meta description truncated by an unescaped
+                      double quote), retrofit_article_seo.py (idempotent: rebuilds each
                       page's Article JSON-LD through the shared builder, adding
                       isPartOf/mainEntityOfPage/inLanguage + a citation list of
                       the body's study links, preserving datePublished/Modified),
@@ -71,7 +78,10 @@ Article's isPartOf/mainEntityOfPage/inLanguage plus a citation list matching the
 body's study links); that the podcast index CollectionPage enumerates every
 article as an ItemList newest-first; that the topic hub pages, /podcast/topics/
 index, "Browse by topic" strip, and topic sitemap entries match what
-build_topic_pages.py would generate from CLUSTERS/TOPIC_META; and that the
+build_topic_pages.py would generate from CLUSTERS/TOPIC_META; that every page
+site-wide carries the GA4 snippet and font links, has no meta description
+truncated by an unescaped double quote, and pairs any YouTube embed with
+VideoObject schema (fix with `retrofit_page_head.py`); and that the
 pre-rendered prev/next nav matches the chain in js/episodes.js. CI runs it on
 every push to main and every PR, so a broken state fails loudly — run it locally
 first.
@@ -86,8 +96,35 @@ first.
 7. **Lab** (#lab) — CTRA at Yale with link to Yale site
 8. **Course** (#course) — Coursera course: "Understanding Medical Research: Your Facebook Friend Is Wrong"
 
+## The "Short answer" box must answer
+Each episode page opens with a visible "Short answer" box. It is the single most
+extractable block on the page for AI answers and featured snippets, so it has
+to **state the verdict**, not tease it. Originally every box was a verbatim copy
+of the page's meta description, which defeated the purpose: a description is
+written to earn a click ("Here's what the randomized trials actually show...")
+where this box has to give the answer ("Yes for muscle, no for memory...").
+
+The generator gets it from the model's dedicated `short_answer` field (hard-fails
+if absent) and it is em-dash-stripped like the rest of the copy. Existing pages
+were rewritten by `scripts/backfill_short_answers.py`, whose per-slug text is
+drawn from each article's own bottom-line section — the box must never assert
+something the body doesn't. `check_site.py` fails if any box is a verbatim copy
+of its meta description.
+
+## Analytics
+GA4 (`G-8Q905DBDJR`) must be on **every** page, not just the homepage. Episode
+pages, topic hubs, and the podcast index shipped without it for a while, which
+made all the SEO/AEO work unmeasurable — search traffic landed on articles and
+never showed up in analytics. The snippet lives once in
+`episode_blocks.ANALYTICS_SNIPPET`, is emitted by the episode generator and
+`build_topic_pages.py`, and `check_site.py` fails if any page lacks it.
+
 ## Design System
-- **Fonts**: Playfair Display (display/headings), Source Sans 3 (body), JetBrains Mono (labels)
+- **Fonts**: Playfair Display (display/headings), Source Sans 3 (body), JetBrains Mono (labels).
+  Loaded by a `<link rel="stylesheet">` in each page's `<head>`
+  (`episode_blocks.FONT_CSS_URL`), **not** by `@import` in style.css — an
+  `@import` isn't discoverable until the stylesheet parses, serializing
+  HTML → style.css → font CSS → font files. Change the URL in one place only.
 - **Colors**: Warm off-white background (#faf9f6), terracotta accent (#b44a2d), dark ink (#1a1a1a)
 - **CSS variables** are all defined in `:root` in style.css
 - Responsive breakpoints at 900px and 640px
@@ -209,15 +246,32 @@ The GitHub Action authenticates to Drive via a Google Cloud service account whos
 
 Each episode page `<head>` must include the full SEO block below. Replace `{{TITLE}}`, `{{DESCRIPTION}}`, `{{SLUG}}`, and `{{DATE}}` (format: YYYY-MM-DD) for each article.
 
+Model-written text (headline, meta description) must be escaped with
+`generate_episode_post.attr()` before it goes into an HTML attribute. A raw `"`
+in the text — the "Wolverine stack" peptide episode hit this — terminates the
+attribute early and silently truncates the description Google reads. JSON-LD is
+safe because every block is built through `json.dumps`.
+
 The generator script also produces a visible FAQ section (collapsible `<details>`) and a matching `FAQPage` JSON-LD block, grounded in the article body. Question text in the visible section must exactly match `mainEntity[*].name` in the schema — that parity is required for Google FAQ rich-result eligibility.
 
 ```html
 <title>{{TITLE}} | F. Perry Wilson, MD</title>
 <meta name="description" content="{{DESCRIPTION}}">
 <meta name="author" content="F. Perry Wilson">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="[FONT_CSS_URL from scripts/episode_blocks.py]">
 <link rel="icon" href="/favicon.ico" sizes="any">
 <link rel="apple-touch-icon" href="/images/apple-touch-icon.png">
 <link rel="alternate" type="application/rss+xml" title="Wellness, Actually — Episode Articles" href="/podcast/rss.xml">
+<!-- Google tag (gtag.js) — required on every page; see episode_blocks.ANALYTICS_SNIPPET -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-8Q905DBDJR"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+  gtag('config', 'G-8Q905DBDJR');
+</script>
 <link rel="stylesheet" href="../css/style.css">
 <link rel="canonical" href="https://fperrywilson.com/podcast/{{SLUG}}.html">
 <meta property="og:title" content="{{TITLE}}">
@@ -282,7 +336,7 @@ creating or editing an episode page by hand:
 5. Run `python scripts/build_rss.py` to regenerate `podcast/rss.xml`
 6. Run `python scripts/build_llms_txt.py` to regenerate `llms.txt`
 7. Run `python scripts/build_podcast_index_schema.py` to refresh the podcast index CollectionPage → ItemList
-8. Run `python scripts/retrofit_article_seo.py` to add the Article isPartOf/mainEntityOfPage/inLanguage + citation list (the hand-written template above already includes these; the retrofit is the safety net)
+8. Run `python scripts/retrofit_article_seo.py` to add the Article isPartOf/mainEntityOfPage/inLanguage + citation list (the hand-written template above already includes these; the retrofit is the safety net), then `python scripts/retrofit_page_head.py` for the GA4 snippet, font links, and VideoObject schema
 9. Run `python scripts/build_topic_pages.py` to regenerate the topic hub pages, the "Browse by topic" strip, and the topic sitemap entries. When hand-writing a page, first add its slug to 1-2 lists in `CLUSTERS` (`scripts/episode_blocks.py`) — the automated generator does this itself via the model's topic pick, and every episode should be in at least one cluster. Adding a whole new topic means adding a matching entry to both `CLUSTERS` and `TOPIC_META`.
 10. Run `python scripts/check_site.py` — must pass before committing (CI enforces it)
 
