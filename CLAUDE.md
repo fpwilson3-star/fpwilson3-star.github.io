@@ -48,8 +48,14 @@ scripts/            — generate_episode_post.py, build_rss.py, build_llms_txt.p
                       TOPIC_META map, regenerates the "Browse by topic" strip on
                       podcast/index.html, adds topic links to each episode's
                       related block via prerender_nav, and keeps topic URLs in
-                      sitemap.xml with lastmod = newest member article's date)
+                      sitemap.xml with lastmod = newest member article's date),
+                      build_home_articles.py (writes the homepage's recent-article
+                      cards + topic strip into the HOME-ARTICLES markers in the
+                      #podcast section, and bumps the `/` sitemap lastmod only
+                      when that block actually changes)
 .github/workflows/  — generate-episode-post.yml (transcript → article PR),
+                      update-podcast.yml (weekly latest-episode box, then
+                      re-runs build_home_articles.py),
                       site-checks.yml (runs check_site.py on every push/PR)
 sitemap.xml         — All pages; episode entries added by the generator
 llms.txt            — Site map for LLMs/answer engines (llmstxt.org); generated
@@ -82,6 +88,8 @@ build_topic_pages.py would generate from CLUSTERS/TOPIC_META; that every page
 site-wide carries the GA4 snippet and font links, has no meta description
 truncated by an unescaped double quote, and pairs any YouTube embed with
 VideoObject schema (fix with `retrofit_page_head.py`); and that the
+homepage recent-articles block matches what build_home_articles.py would
+generate and links no missing article; and that the
 pre-rendered prev/next nav matches the chain in js/episodes.js. CI runs it on
 every push to main and every PR, so a broken state fails loudly — run it locally
 first.
@@ -110,6 +118,26 @@ were rewritten by `scripts/backfill_short_answers.py`, whose per-slug text is
 drawn from each article's own bottom-line section — the box must never assert
 something the body doesn't. `check_site.py` fails if any box is a verbatim copy
 of its meta description.
+
+## Surfacing articles on the homepage
+The homepage is the site's highest-authority page and where people land after
+googling the host's name, so `#podcast` carries a `HOME-ARTICLES` marker block
+(written by `scripts/build_home_articles.py`) with three parts: a "Read the
+evidence" link for the latest episode, cards for the newest 3 articles, and a
+strip linking all 9 topic hubs. The hub strip is what keeps the older articles
+linked from the homepage as the card list rotates past them.
+
+Two things can invalidate the block independently, so **both** rebuild it: the
+episode generator (a new article changes the newest 3) and update-podcast.yml (a
+new episode changes which article "Read the evidence" should point at). The
+block deliberately sits *outside* the `LATEST-EPISODE` markers, because
+update-podcast.yml rewrites those wholesale and would clobber anything inside.
+
+The episode→article match is on the episode title in each article's
+`PodcastEpisode` JSON-LD. When there's no exact match — an episode that aired
+before its article exists — the link is omitted rather than guessed, same rule
+as the video embeds. `check_site.py` fails if the block is stale or links a
+slug that doesn't exist.
 
 ## Analytics
 GA4 (`G-8Q905DBDJR`) must be on **every** page, not just the homepage. Episode
@@ -337,7 +365,7 @@ creating or editing an episode page by hand:
 6. Run `python scripts/build_llms_txt.py` to regenerate `llms.txt`
 7. Run `python scripts/build_podcast_index_schema.py` to refresh the podcast index CollectionPage → ItemList
 8. Run `python scripts/retrofit_article_seo.py` to add the Article isPartOf/mainEntityOfPage/inLanguage + citation list (the hand-written template above already includes these; the retrofit is the safety net), then `python scripts/retrofit_page_head.py` for the GA4 snippet, font links, and VideoObject schema
-9. Run `python scripts/build_topic_pages.py` to regenerate the topic hub pages, the "Browse by topic" strip, and the topic sitemap entries. When hand-writing a page, first add its slug to 1-2 lists in `CLUSTERS` (`scripts/episode_blocks.py`) — the automated generator does this itself via the model's topic pick, and every episode should be in at least one cluster. Adding a whole new topic means adding a matching entry to both `CLUSTERS` and `TOPIC_META`.
+9. Run `python scripts/build_home_articles.py` to refresh the homepage's recent-article cards, then `python scripts/build_topic_pages.py` to regenerate the topic hub pages, the "Browse by topic" strip, and the topic sitemap entries. When hand-writing a page, first add its slug to 1-2 lists in `CLUSTERS` (`scripts/episode_blocks.py`) — the automated generator does this itself via the model's topic pick, and every episode should be in at least one cluster. Adding a whole new topic means adding a matching entry to both `CLUSTERS` and `TOPIC_META`.
 10. Run `python scripts/check_site.py` — must pass before committing (CI enforces it)
 
 The generator (`generate_episode_post.py`) runs steps 4–9 automatically after writing a new article, so a pushed transcript refreshes the hubs, index, feeds, and schema with no manual step.

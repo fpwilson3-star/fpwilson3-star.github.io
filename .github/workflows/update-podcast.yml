@@ -79,6 +79,15 @@ jobs:
                   print("sitemap.xml homepage lastmod updated.")
           EOF
 
+      # The homepage's "Read the evidence" link is matched to whichever episode
+      # the box above now names, so it has to be rebuilt in the same run or it
+      # keeps pointing at the previous episode's article.
+      - name: Refresh homepage article block
+        run: python scripts/build_home_articles.py
+
+      - name: Validate site consistency
+        run: python scripts/check_site.py
+
       - name: Commit and push if changed
         run: |
           git config user.name "github-actions[bot]"

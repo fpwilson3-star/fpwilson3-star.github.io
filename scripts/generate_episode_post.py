@@ -19,6 +19,7 @@ import build_rss
 import build_llms_txt
 import build_podcast_index_schema
 import build_topic_pages
+import build_home_articles
 import prerender_nav
 import episode_blocks
 
@@ -1139,8 +1140,12 @@ def main():
     build_rss.main()
     build_llms_txt.main()
     build_podcast_index_schema.main()
+    # Surfaces the new article on the homepage. Runs after update_podcast_index
+    # above, since it reads the newest-first order out of podcast/index.html.
+    build_home_articles.main()
     print("Pre-rendered episode nav on all pages and rebuilt the topic hubs, "
-          "podcast/rss.xml, llms.txt, and the podcast index ItemList schema")
+          "podcast/rss.xml, llms.txt, the podcast index ItemList schema, and "
+          "the homepage's recent-articles block")
 
     set_output('slug', slug)
     set_output('headline', headline)
