@@ -233,6 +233,7 @@ def main():
 
     check_topics()
     check_page_heads()
+    check_home_articles()
 
     if errors:
         print(f'FAILED: {len(errors)} problem(s) found\n')
@@ -240,6 +241,39 @@ def main():
             print(f'  - {e}')
         sys.exit(1)
     print(f'OK: {len(pages)} episode pages consistent across index, episodes.js, sitemap, and RSS.')
+
+
+def check_home_articles():
+    """The homepage's recent-articles block must match what the builder would
+    generate: the newest articles, and a "Read the evidence" link pointing at
+    the episode the latest-episode box actually names.
+
+    Both inputs move on their own schedules -- a new article from a transcript,
+    a new episode from the podcast feed -- so this is the check that catches the
+    block drifting behind either one. Run scripts/build_home_articles.py to fix.
+    """
+    import build_home_articles
+
+    src = Path('index.html').read_text(encoding='utf-8')
+    if build_home_articles.START not in src:
+        err('index.html: missing the recent-articles block '
+            '(run scripts/build_home_articles.py)')
+        return
+
+    pattern = re.compile(r' *' + re.escape(build_home_articles.START) + r'.*?'
+                         + re.escape(build_home_articles.END), re.DOTALL)
+    m = pattern.search(src)
+    if m and m.group(0) != build_home_articles.render_block():
+        err('index.html: recent-articles block is stale '
+            '(run scripts/build_home_articles.py)')
+
+    # Every article the homepage links must exist -- a rename would otherwise
+    # leave the site's highest-authority page pointing at a 404.
+    pages = {p.stem for p in Path('podcast').glob('*.html')} - {'index'}
+    for slug in re.findall(r'href="/podcast/([^"/]+)\.html"', m.group(0) if m else ''):
+        if slug not in pages:
+            err(f'index.html: recent-articles block links /podcast/{slug}.html, '
+                'which does not exist')
 
 
 def check_page_heads():
