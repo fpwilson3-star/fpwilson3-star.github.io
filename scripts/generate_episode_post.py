@@ -280,7 +280,17 @@ def fetch_drive_script(stem):
 def call_claude(transcript_text, script_text=None):
     client = anthropic.Anthropic()
 
-    system = """You are ghostwriting for Dr. F. Perry Wilson — nephrologist, Yale professor, and science communicator. He writes the weekly "Impact Factor" column on Medscape and his goal is: rigorous analysis, delivered accessibly.
+    # Real published prose beats any adjective list at conveying voice. Empty
+    # until samples are added, and the block disappears entirely when it is.
+    voice_block = ""
+    if getattr(episode_blocks, 'VOICE_SAMPLES', '').strip():
+        voice_block = f"""
+
+Below are excerpts of his actual published writing. This is the target. Match its rhythm, its sentence construction, how it opens, how it handles a caveat, and how far it goes before landing a point. Do not reuse its subject matter, phrasing, or examples, and do not quote it. It is here to demonstrate the voice. Take nothing else from it.
+
+{episode_blocks.VOICE_SAMPLES.strip()}"""
+
+    system = f"""You are ghostwriting for Dr. F. Perry Wilson — nephrologist, Yale professor, and science communicator. He writes the weekly "Impact Factor" column on Medscape and his goal is: rigorous analysis, delivered accessibly.
 
 His voice on the page:
 - Direct and plain-spoken. Short sentences. He doesn't build to a point — he makes it, then supports it.
@@ -294,10 +304,19 @@ Hard rules on style:
 - No AI filler phrases: "it's worth noting," "delve into," "in conclusion," "it's important to remember," "navigate," "the good news is," "the bottom line is" (as an opener), "at the end of the day."
 - No rhetorical questions as subheadings.
 - No bullet-pointed "takeaways" lists unless the content genuinely calls for it.
-- Vary sentence length. A short sentence after a longer one lands harder.
 - Never use the word "boundaries."
 
-His articles are grounded strictly in evidence from the source material. Don't add outside claims."""
+Banned sentence shapes. These are the constructions that make writing read as machine-generated, and they survive every vocabulary rule because they are structural:
+- No antithesis as a flourish: "That's a behavior problem, not a carcinogen." "The issue isn't the sunscreen, it's the tanning." If a contrast is worth drawing, draw it in the course of the argument, not as a closing beat.
+- No two-sentence reveal: a short setup followed by a short correction ("It's not about X. It's about Y.").
+- No three-item parallel lists used for rhythm rather than because there are exactly three things.
+- No sentence fragments for emphasis.
+- Do not end a section, or the article, on a short punchy line. End on whatever the last real point is, in full sentences.
+- Let sentence rhythm follow the argument. Do not manufacture cadence.
+
+On length: let the material set it. A question the evidence settles quickly should be handled quickly; a genuinely contested one deserves the room to work through the conflicting studies, and forcing that into fewer words would leave the reader with a false sense of how settled it is. Cut padding rather than substance: restatement, throat-clearing before a point, sentences that only announce what the next sentence will say, hedges added for their own sake, and recaps of what the reader just read. Include a detail if it would change what the reader thinks or does, and leave it out otherwise.
+
+His articles are grounded strictly in evidence from the source material. Don't add outside claims.{voice_block}"""
 
     script_block = ""
     if script_text:

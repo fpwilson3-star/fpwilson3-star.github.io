@@ -210,6 +210,34 @@ Steps either way:
 3. For each study, look it up in the SCRIPT. If found, link the relevant phrase inline using its URL. If not found, leave it as plain text.
 4. **Never fabricate, guess, or WebSearch for URLs.** Trust on this site depends on every link being one the host vetted.
 
+### Voice: ban shapes, not just words, and show rather than describe
+
+The style rules used to ban vocabulary ("delve into", "it's worth noting") and
+describe voice with adjectives ("wry but not jokey"). Neither holds. The tics
+that read as machine-written are *structural* and slip past a phrase blocklist:
+antithesis as a closing flourish ("That's a behavior problem, not a
+carcinogen."), the two-beat reveal, tricolons for rhythm, fragments for
+emphasis, ending a section on a short punchy line. Those are now banned by
+shape. Note the tic long predates Opus 5 — the Opus 4.8 draft of the same
+episode ran six of them per 2,400 words against Opus 5's three per 2,978.
+
+One rule was actively producing it: *"Vary sentence length. A short sentence
+after a longer one lands harder."* That is an instruction to write punchy
+closers. It is gone. **When adding style rules, don't write them in the shapes
+they ban** — instruction prose is in-context and its constructions leak into
+output.
+
+**There is deliberately no word-count target.** A cap makes the model compress
+genuinely contested evidence into false confidence. The rule instead names what
+to cut (restatement, throat-clearing, hedges, recaps) and lets length follow the
+material.
+
+`episode_blocks.VOICE_SAMPLES` holds excerpts of real published prose, injected
+into the system prompt when non-empty and omitted entirely when not. Demonstrated
+voice beats described voice: every model's reading of "wry, confident science
+writer" converges on the same generic house style. Keep it to 2-3 excerpts,
+roughly 800-1200 words, or it starts crowding the transcript.
+
 ### The transcript is the only content source. The SCRIPT is a link lookup.
 
 The transcript is what was said on air. The Drive SCRIPT is a planning doc

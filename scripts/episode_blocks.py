@@ -502,3 +502,21 @@ def render_author_bio():
         '      </div>\n'
         '    </section>\n'
     )
+
+
+# Excerpts of F. Perry Wilson's actual published prose (Medium, Medscape's
+# "Impact Factor", the book), injected into the episode-generation system
+# prompt by generate_episode_post.call_claude().
+#
+# Why this exists: the prompt used to convey voice with adjectives ("wry but
+# not jokey", "confident without being arrogant"). Every model's reading of
+# that converges on the same generic house style, which is how the sun
+# episode's article ended up with tics like "That's a behavior problem, not a
+# carcinogen." Demonstrated voice carries far more signal than described voice.
+#
+# Keep this to roughly 800-1200 words total, 2-3 excerpts. More than that
+# starts crowding the transcript in the prompt. It lives in the system prompt,
+# which is stable across runs, so it costs effectively nothing per run.
+#
+# Empty is a valid state: the block is omitted from the prompt entirely.
+VOICE_SAMPLES = ""
