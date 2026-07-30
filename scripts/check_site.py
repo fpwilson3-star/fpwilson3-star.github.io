@@ -308,6 +308,15 @@ def check_page_heads():
         if 'youtube.com/embed/' in src and episode_blocks.VIDEO_JSONLD_MARKER not in src:
             err(f'{name}: has a YouTube embed but no VideoObject JSON-LD')
 
+        # Google rejects a bare date here ("Datetime property uploadDate is
+        # missing a timezone") and drops the video rich result. Schema.org
+        # allows it, so nothing else catches this. Fix with retrofit_page_head.py.
+        for m in re.finditer(r'"uploadDate": "([^"]*)"', src):
+            if not re.fullmatch(r'\d{4}-\d{2}-\d{2}T\d{2}:\d{2}:\d{2}(?:Z|[+-]\d{2}:\d{2})',
+                                m.group(1)):
+                err(f'{name}: VideoObject uploadDate "{m.group(1)}" is not an '
+                    'ISO 8601 datetime with a UTC offset')
+
 
 def check_topics():
     """The topic hub pages, topics index, index strip, and sitemap entries must
