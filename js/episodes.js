@@ -38,6 +38,8 @@
 
     { slug: 'is-moderate-drinking-actually-bad-for-you', title: 'Is one drink a day actually bad for you?' },
 
+    { slug: 'does-sunscreen-actually-prevent-skin-cancer', title: 'Does sunscreen actually prevent skin cancer?' },
+
   ];
 
   const linkStyle = 'font-family:var(--font-mono);font-size:0.85rem;color:var(--color-accent);text-decoration:none;';
