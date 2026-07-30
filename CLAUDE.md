@@ -210,6 +210,84 @@ Steps either way:
 3. For each study, look it up in the SCRIPT. If found, link the relevant phrase inline using its URL. If not found, leave it as plain text.
 4. **Never fabricate, guess, or WebSearch for URLs.** Trust on this site depends on every link being one the host vetted.
 
+### Voice: ban shapes, not just words, and show rather than describe
+
+The style rules used to ban vocabulary ("delve into", "it's worth noting") and
+describe voice with adjectives ("wry but not jokey"). Neither holds. The tic
+that reads as machine-written is *structural* and slips past a phrase blocklist:
+"That's a behavior problem, not a carcinogen." Note it long predates Opus 5, so
+don't blame a model for it: the Opus 4.8 draft of the same episode ran six of
+these per 2,400 words against Opus 5's three per 2,978.
+
+**Do not ban it by shape.** That was tried and it was wrong. An earlier pass
+banned six constructions (antithesis, the two-beat reveal, tricolons, fragments,
+closing a section on a short line, manufactured cadence) and the voice samples
+then turned out to use five of them, well: "And they do." / "These additives?" /
+"But maybe not entirely for the reason you think. It's simpler than that." /
+"Just stand on one leg."
+
+The tic was never brevity or contrast. His short lines **carry the argument
+somewhere** — they deliver a payoff a setup promised, continue a thought, or
+open the explanation that follows. The tic **arrives after the work is done and
+restates it**. So the rule is now a single ban on the summarizing verdict, with
+the test being whether a sentence adds something the reader did not already
+have. If it does, length and shape are irrelevant. Resist re-adding shape bans;
+the samples teach the shapes better than any rule can.
+
+One rule was actively producing it: *"Vary sentence length. A short sentence
+after a longer one lands harder."* That is an instruction to write punchy
+closers. It is gone. **When adding style rules, don't write them in the shapes
+they ban** — instruction prose is in-context and its constructions leak into
+output.
+
+**There is deliberately no word-count target.** A cap makes the model compress
+genuinely contested evidence into false confidence. The rule instead names what
+to cut (restatement, throat-clearing, hedges, recaps) and lets length follow the
+material.
+
+`episode_blocks.VOICE_SAMPLES` holds excerpts of real published prose, injected
+into the system prompt when non-empty and omitted entirely when not. Demonstrated
+voice beats described voice: every model's reading of "wry, confident science
+writer" converges on the same generic house style. Keep it to 2-3 excerpts,
+roughly 800-1200 words, or it starts crowding the transcript.
+
+### The transcript is the only content source. The SCRIPT is a link lookup.
+
+The transcript is what was said on air. The Drive SCRIPT is a planning doc
+written *before* the episode: it lists what the hosts intended to cover, which
+is not always what they said or concluded. It also contains the ad read, the
+cold open, and the whole health-news roundup. **Every claim, number, framing,
+and section of an article comes from the transcript. The SCRIPT supplies URLs
+and nothing else.** If a study appears in the SCRIPT but not in the transcript,
+it does not go in the article, not even as background.
+
+This was violated silently for a long time. The whole SCRIPT was pasted into the
+prompt under a heading about hyperlinks, with no rule saying it wasn't source
+material, and it is a clean article-shaped outline sitting next to a messy
+conversation. The sun episode made it visible: the generated article cited the
+Nambour trial four times and described UVB hitting "tumor suppressor" genes, and
+none of that is anywhere in the transcript. Emphasis was inverted too, with the
+transcript saying "vitamin D" 67 times to sunscreen's 48 while the article did
+the reverse, mirroring the SCRIPT's sunscreen-heavy Deep Dive.
+
+Three things now keep the boundary, and they are load-bearing together:
+
+- The transcript leads the prompt and is labeled the only content source; the
+  SCRIPT follows as a demoted appendix with explicit "not a content source"
+  rules (planning doc, transcript wins on conflict, don't import unmentioned
+  studies, don't take emphasis or phrasing from it).
+- `extract_link_context()` passes only the SCRIPT lines that carry a URL, so the
+  importable prose is not in the prompt at all. It is **line-scoped on purpose**:
+  a character window wide enough to identify the tanning-bed study also swallowed
+  the UVB/UVA mechanism paragraph directly above it (at 300 chars, 76% of the doc
+  survived and every leak with it). Line-scoped keeps ~30% and all URLs.
+- `validate_links()` still checks hrefs against the **full** SCRIPT text, so
+  trimming what the model sees never weakens link enforcement.
+
+Note the appendix keeps each linked study's own findings on its line, since a
+URL can't be matched to a study without naming it. That is intended: the guard
+against importing it is that the transcript must have discussed it.
+
 The generator script enforces the link rule mechanically: every `href` in the
 generated article must appear verbatim in the Drive SCRIPT text (zero links
 allowed if no script was found), or the run fails. It also hard-fails on

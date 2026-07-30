@@ -280,10 +280,20 @@ def fetch_drive_script(stem):
 def call_claude(transcript_text, script_text=None):
     client = anthropic.Anthropic()
 
-    system = """You are ghostwriting for Dr. F. Perry Wilson — nephrologist, Yale professor, and science communicator. He writes the weekly "Impact Factor" column on Medscape and his goal is: rigorous analysis, delivered accessibly.
+    # Real published prose beats any adjective list at conveying voice. Empty
+    # until samples are added, and the block disappears entirely when it is.
+    voice_block = ""
+    if getattr(episode_blocks, 'VOICE_SAMPLES', '').strip():
+        voice_block = f"""
+
+Below are excerpts of his actual published writing. This is the target. Match its rhythm, its sentence construction, how it opens, how it handles a caveat, and how far it goes before landing a point. Do not reuse its subject matter, phrasing, or examples, and do not quote it. It is here to demonstrate the voice. Take nothing else from it.
+
+{episode_blocks.VOICE_SAMPLES.strip()}"""
+
+    system = f"""You are ghostwriting for Dr. F. Perry Wilson, nephrologist, Yale professor, and science communicator. He writes the weekly "Impact Factor" column on Medscape and his goal is: rigorous analysis, delivered accessibly.
 
 His voice on the page:
-- Direct and plain-spoken. Short sentences. He doesn't build to a point — he makes it, then supports it.
+- Direct and plain-spoken. Short sentences. He doesn't build to a point. He makes it, then supports it.
 - Wry but not jokey. Occasional dry aside, never a punchline.
 - Confident without being arrogant. He'll say "the evidence is weak" without hedging it into mush.
 - Uses "you" and "I" naturally. Talks to the reader like an intelligent adult, not a patient.
@@ -294,31 +304,48 @@ Hard rules on style:
 - No AI filler phrases: "it's worth noting," "delve into," "in conclusion," "it's important to remember," "navigate," "the good news is," "the bottom line is" (as an opener), "at the end of the day."
 - No rhetorical questions as subheadings.
 - No bullet-pointed "takeaways" lists unless the content genuinely calls for it.
-- Vary sentence length. A short sentence after a longer one lands harder.
 - Never use the word "boundaries."
 
-His articles are grounded strictly in evidence from the source material. Don't add outside claims."""
+The one banned sentence shape: the summarizing verdict. This is a short constructed line that re-labels a judgment the reader has already been given, then stops. "That's a behavior problem, not a carcinogen." "The issue isn't the sunscreen, it's the tanning." It reads as machine-written because it adds nothing; it only announces that a point has been made.
+
+Do not mistake this for a ban on short sentences. He writes short constantly, and the excerpts below are full of exactly the shapes a naive style guide would forbid: fragments, one-line paragraphs, rhetorical questions mid-paragraph, a setup and a reveal across two short sentences, a section closing on five words. Those are his voice. The difference is that his short lines carry the argument somewhere. They deliver the payoff a setup promised ("Just stand on one leg."), or continue a thought ("And they do."), or open the explanation that follows ("It's simpler than that."). The verdict line does the opposite: it arrives after the work is done and restates it.
+
+The test is whether the sentence adds something the reader did not already have. If it does, its length and shape do not matter. If it only re-labels what they just read, cut it.
+
+Let rhythm follow the argument. Do not manufacture cadence. The excerpts below show the real thing, so match them rather than reasoning from rules about it.
+
+On length: let the material set it. A question the evidence settles quickly should be handled quickly; a genuinely contested one deserves the room to work through the conflicting studies, and forcing that into fewer words would leave the reader with a false sense of how settled it is. Cut padding rather than substance: restatement, throat-clearing before a point, sentences that only announce what the next sentence will say, hedges added for their own sake, and recaps of what the reader just read. Include a detail if it would change what the reader thinks or does, and leave it out otherwise.
+
+His articles are grounded strictly in evidence from the source material. Don't add outside claims.{voice_block}"""
 
     script_block = ""
     if script_text:
         script_block = f"""
 
-VETTED HYPERLINKS — EPISODE SCRIPT BELOW.
-The text below is the show script prepared by the host. It contains pre-sourced URLs for the studies, papers, trials, and clips discussed on the episode. These are the ONLY links you may use.
+REFERENCE APPENDIX. VETTED URLs ONLY. NOT A SOURCE FOR CONTENT.
+Below are excerpts from the host's pre-show planning doc, trimmed to the URLs and just enough surrounding text to identify which study each one documents. These are the ONLY links you may use.
+
+This appendix is a link lookup table. It is NOT source material for the article:
+- Every claim, number, finding, framing, and section of the article must come from the TRANSCRIPT above. The appendix supplies URLs and nothing else.
+- The planning doc was written BEFORE the episode. It lists what the hosts intended to cover, which is not always what they actually said or concluded on air. Where the two differ, the transcript wins, always.
+- If a study, trial, or statistic appears in this appendix but is NOT discussed in the transcript, it does NOT go in the article. Do not import it, not even as background.
+- Do not take the article's emphasis or proportions from this appendix. If the transcript spends most of the deep dive on one subtopic and the appendix has more detail on another, follow the transcript.
+- Do not copy phrasing from this appendix. Write from what was said on air, in the voice described above.
+- These excerpts may include material from other segments (health news, ad reads). Ignore all of it.
 
 Rules for hyperlinks:
-- Link EVERY study, trial, meta-analysis, or paper the article discusses that has a URL in the script below. Do not stop at one link. Most episodes have several vetted URLs and most should end up in the article. Before finishing, re-scan the script for every URL and confirm you used each applicable one.
-- Match each URL to the SPECIFIC study it belongs to in the script. The text immediately around a URL in the script tells you which finding it supports (e.g. a Cochrane link goes on the Cochrane sentence, the runner-study link goes on the runner sentence). Never attach a URL to a different study than the one it documents in the script.
+- Link EVERY study, trial, meta-analysis, or paper the article discusses that has a URL in the appendix below. Do not stop at one link. Most episodes have several vetted URLs and most should end up in the article. Before finishing, re-scan the appendix for every URL and confirm you used each applicable one.
+- Match each URL to the SPECIFIC study it belongs to in the appendix. The text kept around each URL tells you which finding it supports (e.g. a Cochrane link goes on the Cochrane sentence, the runner-study link goes on the runner sentence). Never attach a URL to a different study than the one it documents in the appendix.
 - Link the relevant phrase using a standard HTML anchor: <a href="URL" target="_blank" rel="noopener noreferrer">linked text</a>
-- A URL is valid ONLY if that exact string appears verbatim somewhere in the script below. Before you emit any href, find that exact URL in the script text. If you cannot find it character-for-character, do not link at all.
+- A URL is valid ONLY if that exact string appears verbatim somewhere in the appendix below. Before you emit any href, find that exact URL in the appendix text. If you cannot find it character-for-character, do not link at all.
 - NEVER build a URL from a journal, publisher, or website name. If the script cites "Journal of Physiotherapy" or "Clinical Journal of Pain" but the adjacent URL is a pubmed.ncbi.nlm.nih.gov link, you MUST use that pubmed link, NOT the journal's homepage. Linking a study to its journal/publisher homepage (e.g. jospt.org, journals.lww.com/.../default.aspx, a frontiersin.org or sciencedirect.com journal landing page) is a fabrication and is forbidden, even if you "know" the journal's website.
-- The URL belongs to the SPECIFIC study described in the text right next to it in the script. Most vetted URLs in this script are individual study links (often PubMed). Use the specific article URL, never a generic section or homepage.
-- If a study is mentioned in the transcript but does NOT appear in the script below, mention it WITHOUT a hyperlink.
+- The URL belongs to the SPECIFIC study described in the text right next to it. Most vetted URLs are individual study links (often PubMed). Use the specific article URL, never a generic section or homepage.
+- If a study is mentioned in the transcript but does NOT appear in the appendix below, mention it WITHOUT a hyperlink.
 - NEVER fabricate, guess, or infer URLs. NEVER use a search-engine URL. NEVER link to a site you have not been given.
 - Do not link the same source more than once in the article.
 
-EPISODE SCRIPT:
-{script_text}
+REFERENCE APPENDIX (URLs and identifying context only):
+{extract_link_context(script_text)}
 """
     else:
         script_block = """
@@ -331,10 +358,15 @@ You were not given the episode script for this transcript. Do not add hyperlinks
     topics_list = '\n'.join(
         f"- {name}: {episode_blocks.TOPIC_META[name]['intro']}" for name in topic_names)
 
-    user = f"""From the transcript below, extract ONLY the "What's the deal with" deep-dive segment and ignore all other segments (health news, listener Q&A, intros/outros).
+    user = f"""TRANSCRIPT. This is what was actually said on the episode, and it is the only source for the article's content:
+{transcript_text}
+
+===
+
+From the transcript above, extract ONLY the "What's the deal with" deep-dive segment and ignore all other segments (health news, listener Q&A, intros/outros).
 
 Then write a standalone article with this structure:
-1. SEO headline (how someone would Google this topic, e.g. "Does creatine actually work?")
+1. SEO headline (how someone would Google this topic, e.g. "Does creatine actually work?"). Make the headline cover what the deep dive actually covered. Many episodes examine one question and a narrow headline is right. But when the deep dive works through several distinct subtopics, name the umbrella subject the way a reader would search it (e.g. for an episode covering sunscreen, vitamin D, and mood, "What does the sun actually do to your health?" rather than "Does sunscreen prevent skin cancer?"). Never let one subtopic stand in for a broader episode, and check the headline against the H2s you wrote: if it only describes the first one, it is too narrow.
 2. Opening hook (1-2 sentences that establish why this matters)
 3. Body with 2-4 H2 subheadings covering the key evidence and nuance
 4. "Bottom line" section summarizing the takeaway
@@ -342,7 +374,7 @@ Then write a standalone article with this structure:
 
 Then generate 4 to 6 FAQ pairs:
 - Questions: phrased exactly the way someone would type them into Google. Mix of the highest-intent queries a reader would have after reading this article (safety, dosing, mechanism, common myths, practical how-to).
-- Answers: 2 to 4 sentences each, grounded strictly in the article you just wrote. Reuse the same numbers, study names, and caveats. Plain text only — no HTML tags. No em-dashes.
+- Answers: 2 to 4 sentences each, grounded strictly in the article you just wrote. Reuse the same numbers, study names, and caveats. Plain text only, no HTML tags. No em-dashes.
 - Cover the angles most likely to appear in Google "People Also Ask" boxes; do not repeat the headline as a question.
 
 Then pick the 1 or 2 site topic categories that best fit this article. Choose from this exact list (name: what the category covers):
@@ -350,9 +382,7 @@ Then pick the 1 or 2 site topic categories that best fit this article. Choose fr
 At least one is required; only add a second if the article genuinely fits both.
 
 Call the create_article tool with your result.
-{script_block}
-TRANSCRIPT:
-{transcript_text}"""
+{script_block}"""
 
     tools = [
         {
@@ -469,6 +499,43 @@ def clean_article_html(article_html):
         print(f"[sanitize] stripped {first_tag} chars of non-HTML preamble from article body.")
         html = html[first_tag:]
     return html
+
+
+URL_RE = re.compile(r'https?://[^\s<>()\[\]"\']+')
+
+
+def extract_link_context(script_text, max_chars=400):
+    """Reduce the Drive script to only the lines that carry a URL.
+
+    The script is a full show doc: an article-shaped outline with mechanisms,
+    study names, the health-news roundup, and the cold open. Pasting the whole
+    thing in made the model write *from* it — the sun episode's article cited
+    the Nambour trial four times and it was never mentioned on air.
+
+    Line-scoped, not a character window. A window wide enough to identify the
+    tanning-bed study also swallowed the UVB/UVA mechanism paragraph sitting
+    directly above it (at 300 chars, 76% of the doc survived). The gdoc
+    extractor already appends each URL right after its own anchor text, so the
+    line containing a URL is the identifying context and the surrounding bullets
+    are not. Long lines are trimmed around the URL so a stray wall of text can't
+    reintroduce the problem.
+
+    validate_links still checks hrefs against the FULL script text, so link
+    enforcement does not depend on any of this.
+    """
+    if not script_text:
+        return ''
+    kept = []
+    for line in script_text.splitlines():
+        if not URL_RE.search(line):
+            continue
+        line = line.strip()
+        if len(line) > max_chars:
+            first, last = URL_RE.search(line), list(URL_RE.finditer(line))[-1]
+            start = max(0, first.start() - (max_chars - (last.end() - first.start())) // 2)
+            line = ('...' if start else '') + line[start:start + max_chars] + '...'
+        kept.append(line)
+    return '\n'.join(kept)
 
 
 def validate_links(article_html, script_text):
