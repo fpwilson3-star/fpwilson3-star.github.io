@@ -210,6 +210,43 @@ Steps either way:
 3. For each study, look it up in the SCRIPT. If found, link the relevant phrase inline using its URL. If not found, leave it as plain text.
 4. **Never fabricate, guess, or WebSearch for URLs.** Trust on this site depends on every link being one the host vetted.
 
+### The transcript is the only content source. The SCRIPT is a link lookup.
+
+The transcript is what was said on air. The Drive SCRIPT is a planning doc
+written *before* the episode: it lists what the hosts intended to cover, which
+is not always what they said or concluded. It also contains the ad read, the
+cold open, and the whole health-news roundup. **Every claim, number, framing,
+and section of an article comes from the transcript. The SCRIPT supplies URLs
+and nothing else.** If a study appears in the SCRIPT but not in the transcript,
+it does not go in the article, not even as background.
+
+This was violated silently for a long time. The whole SCRIPT was pasted into the
+prompt under a heading about hyperlinks, with no rule saying it wasn't source
+material, and it is a clean article-shaped outline sitting next to a messy
+conversation. The sun episode made it visible: the generated article cited the
+Nambour trial four times and described UVB hitting "tumor suppressor" genes, and
+none of that is anywhere in the transcript. Emphasis was inverted too, with the
+transcript saying "vitamin D" 67 times to sunscreen's 48 while the article did
+the reverse, mirroring the SCRIPT's sunscreen-heavy Deep Dive.
+
+Three things now keep the boundary, and they are load-bearing together:
+
+- The transcript leads the prompt and is labeled the only content source; the
+  SCRIPT follows as a demoted appendix with explicit "not a content source"
+  rules (planning doc, transcript wins on conflict, don't import unmentioned
+  studies, don't take emphasis or phrasing from it).
+- `extract_link_context()` passes only the SCRIPT lines that carry a URL, so the
+  importable prose is not in the prompt at all. It is **line-scoped on purpose**:
+  a character window wide enough to identify the tanning-bed study also swallowed
+  the UVB/UVA mechanism paragraph directly above it (at 300 chars, 76% of the doc
+  survived and every leak with it). Line-scoped keeps ~30% and all URLs.
+- `validate_links()` still checks hrefs against the **full** SCRIPT text, so
+  trimming what the model sees never weakens link enforcement.
+
+Note the appendix keeps each linked study's own findings on its line, since a
+URL can't be matched to a study without naming it. That is intended: the guard
+against importing it is that the transcript must have discussed it.
+
 The generator script enforces the link rule mechanically: every `href` in the
 generated article must appear verbatim in the Drive SCRIPT text (zero links
 allowed if no script was found), or the run fails. It also hard-fails on
