@@ -422,14 +422,25 @@ TRANSCRIPT:
         }
     ]
 
-    message = client.messages.create(
-        model="claude-opus-4-8",
-        max_tokens=16000,
+    # Streaming, not create(): max_tokens above ~16k on a non-streaming request
+    # risks an SDK HTTP timeout (the client refuses some of them outright), and
+    # the budget below is deliberately larger than that. get_final_message()
+    # returns the same Message object create() would have.
+    #
+    # thinking is set explicitly because the default changed with the model:
+    # omitting it meant "no thinking" on Opus 4.8 and "adaptive" on Opus 5.
+    # Adaptive is what we want for a long article written to a detailed spec --
+    # and max_tokens caps thinking plus output together, which is why 32000.
+    with client.messages.stream(
+        model="claude-opus-5",
+        max_tokens=32000,
+        thinking={"type": "adaptive"},
         system=system,
         tools=tools,
         tool_choice={"type": "tool", "name": "create_article"},
         messages=[{"role": "user", "content": user}],
-    )
+    ) as stream:
+        message = stream.get_final_message()
 
     # A truncated response silently drops whatever the model was mid-writing —
     # the FAQs went missing this way once. Fail loudly instead.

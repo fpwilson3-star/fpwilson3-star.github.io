@@ -274,6 +274,15 @@ The GitHub Action authenticates to Drive via a Google Cloud service account whos
 
 Each episode page `<head>` must include the full SEO block below. Replace `{{TITLE}}`, `{{DESCRIPTION}}`, `{{SLUG}}`, and `{{DATE}}` (format: YYYY-MM-DD) for each article.
 
+The generation call uses **Opus 5** (`claude-opus-5`) with adaptive thinking, a
+32k `max_tokens` budget, and **streaming** (`client.messages.stream(...)` +
+`get_final_message()`). Three coupled reasons, so don't change one in isolation:
+thinking is set explicitly because the default flipped between model generations
+(omitting it meant "off" on Opus 4.8 and "adaptive" on Opus 5); `max_tokens`
+caps thinking *plus* output together, so it has to be larger than the old 16k;
+and above roughly 16k a non-streaming request risks an SDK HTTP timeout. A
+truncated response still hard-fails loudly rather than shipping half an article.
+
 Model-written text (headline, meta description) must be escaped with
 `generate_episode_post.attr()` before it goes into an HTML attribute. A raw `"`
 in the text — the "Wolverine stack" peptide episode hit this — terminates the
