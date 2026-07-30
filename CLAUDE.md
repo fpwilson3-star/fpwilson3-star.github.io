@@ -213,13 +213,26 @@ Steps either way:
 ### Voice: ban shapes, not just words, and show rather than describe
 
 The style rules used to ban vocabulary ("delve into", "it's worth noting") and
-describe voice with adjectives ("wry but not jokey"). Neither holds. The tics
-that read as machine-written are *structural* and slip past a phrase blocklist:
-antithesis as a closing flourish ("That's a behavior problem, not a
-carcinogen."), the two-beat reveal, tricolons for rhythm, fragments for
-emphasis, ending a section on a short punchy line. Those are now banned by
-shape. Note the tic long predates Opus 5 — the Opus 4.8 draft of the same
-episode ran six of them per 2,400 words against Opus 5's three per 2,978.
+describe voice with adjectives ("wry but not jokey"). Neither holds. The tic
+that reads as machine-written is *structural* and slips past a phrase blocklist:
+"That's a behavior problem, not a carcinogen." Note it long predates Opus 5, so
+don't blame a model for it: the Opus 4.8 draft of the same episode ran six of
+these per 2,400 words against Opus 5's three per 2,978.
+
+**Do not ban it by shape.** That was tried and it was wrong. An earlier pass
+banned six constructions (antithesis, the two-beat reveal, tricolons, fragments,
+closing a section on a short line, manufactured cadence) and the voice samples
+then turned out to use five of them, well: "And they do." / "These additives?" /
+"But maybe not entirely for the reason you think. It's simpler than that." /
+"Just stand on one leg."
+
+The tic was never brevity or contrast. His short lines **carry the argument
+somewhere** — they deliver a payoff a setup promised, continue a thought, or
+open the explanation that follows. The tic **arrives after the work is done and
+restates it**. So the rule is now a single ban on the summarizing verdict, with
+the test being whether a sentence adds something the reader did not already
+have. If it does, length and shape are irrelevant. Resist re-adding shape bans;
+the samples teach the shapes better than any rule can.
 
 One rule was actively producing it: *"Vary sentence length. A short sentence
 after a longer one lands harder."* That is an instruction to write punchy
