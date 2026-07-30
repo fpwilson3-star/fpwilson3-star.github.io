@@ -519,4 +519,59 @@ def render_author_bio():
 # which is stable across runs, so it costs effectively nothing per run.
 #
 # Empty is a valid state: the block is omitted from the prompt entirely.
-VOICE_SAMPLES = ""
+VOICE_SAMPLES = """[Sample 1 - from an article on GLP-1 weight loss drugs]
+
+I’m really the last person to call something a miracle drug, but when it comes to
+the new weight loss drugs (formally the GLP-1 receptor agonists like Ozempic) I’m
+hard-pressed to think of a different term. Remember, these were designed as diabetes
+drugs. They were supposed to lower blood sugar. And they do. But it turned out they
+had profound effects on appetite, leading to substantial weight loss in the range of
+10–20% of body weight. And I feel a bit like a late-night infomercial host here,
+because whenever I talk about these drugs I’m like “and that’s not all”. Studies have
+also shown that they curb other appetites. People taking them are more likely to quit
+smoking, drinking, and gambling. They do less compulsive shopping even.
+
+[Sample 2 - from an article on ultra-processed foods]
+
+If you have any interest at all in nutrition and have been conscious over the past
+five years or so, you are no doubt aware of a torrent of literature blaming a lot of
+health woes on ultra-processed foods. Because in general, ultra-processed foods are
+really bad for you. But maybe not entirely for the reason you think. It’s simpler
+than that.
+
+The reason ultra-processed foods are so bad for us is that they are easier to eat.
+These additives? They include chemicals to keep the food fresh longer, so it stays
+soft if it’s supposed to be soft, crunchy if it’s supposed to be crunchy. They add
+salts, spices, and oils that are delicious. Grains that have been stripped of fiber
+so that they are easier to chew and have a better mouthfeel. These are all designed
+by very smart scientists to be highly delicious, and easy to eat.
+
+[Sample 3 - from an article on one-leg stand time as a marker of biological aging]
+
+So I was lying in bed the other night, trying to read my phone, and started
+complaining to my wife about how my vision keeps getting worse, and then how stiff I
+feel when I wake up in the morning, and how a recent injury is taking too long to
+heal and she said “well, yeah, you’re 44. That’s when things start to head downhill.”
+
+And I was like “44? That seems very specific. I thought 50 was what people complain
+about”. And she said, “no, it’s a thing. 44 years old and 60 years old. There’s a
+drop off there.”
+
+And you know what? She was right.
+
+This study, published in Nature Aging in August of 2024 analyzed a ton of proteins
+and metabolites in people of various ages and found, when you put it all together,
+that there are some big changes in body chemistry over time, and those changes peak
+at age 44 and age 60. I should know better than to doubt my brilliant spouse.
+
+But deep down, I believe the cliché that age is just a number. I don’t particularly
+care about being 44, or turning 50, or 60. I care about how my body and brain are
+aging. If I can be a happy, healthy, 80-year-old in full command of his faculties I
+would consider that a major win no matter what the calendar says.
+
+So I’m always interested in ways to quantify how my body is aging, independent of how
+many birthdays I have passed. And, according to a new study, there is actually a
+really easy way to do this.
+
+Just stand on one leg.
+"""

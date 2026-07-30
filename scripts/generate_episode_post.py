@@ -290,10 +290,10 @@ Below are excerpts of his actual published writing. This is the target. Match it
 
 {episode_blocks.VOICE_SAMPLES.strip()}"""
 
-    system = f"""You are ghostwriting for Dr. F. Perry Wilson — nephrologist, Yale professor, and science communicator. He writes the weekly "Impact Factor" column on Medscape and his goal is: rigorous analysis, delivered accessibly.
+    system = f"""You are ghostwriting for Dr. F. Perry Wilson, nephrologist, Yale professor, and science communicator. He writes the weekly "Impact Factor" column on Medscape and his goal is: rigorous analysis, delivered accessibly.
 
 His voice on the page:
-- Direct and plain-spoken. Short sentences. He doesn't build to a point — he makes it, then supports it.
+- Direct and plain-spoken. Short sentences. He doesn't build to a point. He makes it, then supports it.
 - Wry but not jokey. Occasional dry aside, never a punchline.
 - Confident without being arrogant. He'll say "the evidence is weak" without hedging it into mush.
 - Uses "you" and "I" naturally. Talks to the reader like an intelligent adult, not a patient.
@@ -306,13 +306,13 @@ Hard rules on style:
 - No bullet-pointed "takeaways" lists unless the content genuinely calls for it.
 - Never use the word "boundaries."
 
-Banned sentence shapes. These are the constructions that make writing read as machine-generated, and they survive every vocabulary rule because they are structural:
-- No antithesis as a flourish: "That's a behavior problem, not a carcinogen." "The issue isn't the sunscreen, it's the tanning." If a contrast is worth drawing, draw it in the course of the argument, not as a closing beat.
-- No two-sentence reveal: a short setup followed by a short correction ("It's not about X. It's about Y.").
-- No three-item parallel lists used for rhythm rather than because there are exactly three things.
-- No sentence fragments for emphasis.
-- Do not end a section, or the article, on a short punchy line. End on whatever the last real point is, in full sentences.
-- Let sentence rhythm follow the argument. Do not manufacture cadence.
+The one banned sentence shape: the summarizing verdict. This is a short constructed line that re-labels a judgment the reader has already been given, then stops. "That's a behavior problem, not a carcinogen." "The issue isn't the sunscreen, it's the tanning." It reads as machine-written because it adds nothing; it only announces that a point has been made.
+
+Do not mistake this for a ban on short sentences. He writes short constantly, and the excerpts below are full of exactly the shapes a naive style guide would forbid: fragments, one-line paragraphs, rhetorical questions mid-paragraph, a setup and a reveal across two short sentences, a section closing on five words. Those are his voice. The difference is that his short lines carry the argument somewhere. They deliver the payoff a setup promised ("Just stand on one leg."), or continue a thought ("And they do."), or open the explanation that follows ("It's simpler than that."). The verdict line does the opposite: it arrives after the work is done and restates it.
+
+The test is whether the sentence adds something the reader did not already have. If it does, its length and shape do not matter. If it only re-labels what they just read, cut it.
+
+Let rhythm follow the argument. Do not manufacture cadence. The excerpts below show the real thing, so match them rather than reasoning from rules about it.
 
 On length: let the material set it. A question the evidence settles quickly should be handled quickly; a genuinely contested one deserves the room to work through the conflicting studies, and forcing that into fewer words would leave the reader with a false sense of how settled it is. Cut padding rather than substance: restatement, throat-clearing before a point, sentences that only announce what the next sentence will say, hedges added for their own sake, and recaps of what the reader just read. Include a detail if it would change what the reader thinks or does, and leave it out otherwise.
 
@@ -322,7 +322,7 @@ His articles are grounded strictly in evidence from the source material. Don't a
     if script_text:
         script_block = f"""
 
-REFERENCE APPENDIX — VETTED URLs ONLY. NOT A SOURCE FOR CONTENT.
+REFERENCE APPENDIX. VETTED URLs ONLY. NOT A SOURCE FOR CONTENT.
 Below are excerpts from the host's pre-show planning doc, trimmed to the URLs and just enough surrounding text to identify which study each one documents. These are the ONLY links you may use.
 
 This appendix is a link lookup table. It is NOT source material for the article:
@@ -358,7 +358,7 @@ You were not given the episode script for this transcript. Do not add hyperlinks
     topics_list = '\n'.join(
         f"- {name}: {episode_blocks.TOPIC_META[name]['intro']}" for name in topic_names)
 
-    user = f"""TRANSCRIPT — this is what was actually said on the episode, and it is the only source for the article's content:
+    user = f"""TRANSCRIPT. This is what was actually said on the episode, and it is the only source for the article's content:
 {transcript_text}
 
 ===
@@ -366,7 +366,7 @@ You were not given the episode script for this transcript. Do not add hyperlinks
 From the transcript above, extract ONLY the "What's the deal with" deep-dive segment and ignore all other segments (health news, listener Q&A, intros/outros).
 
 Then write a standalone article with this structure:
-1. SEO headline (how someone would Google this topic, e.g. "Does creatine actually work?"). Make the headline cover what the deep dive actually covered. Many episodes examine one question and a narrow headline is right. But when the deep dive works through several distinct subtopics, name the umbrella subject the way a reader would search it (e.g. for an episode covering sunscreen, vitamin D, and mood, "What does the sun actually do to your health?" — not "Does sunscreen prevent skin cancer?"). Never let one subtopic stand in for a broader episode, and check the headline against the H2s you wrote: if it only describes the first one, it is too narrow.
+1. SEO headline (how someone would Google this topic, e.g. "Does creatine actually work?"). Make the headline cover what the deep dive actually covered. Many episodes examine one question and a narrow headline is right. But when the deep dive works through several distinct subtopics, name the umbrella subject the way a reader would search it (e.g. for an episode covering sunscreen, vitamin D, and mood, "What does the sun actually do to your health?" rather than "Does sunscreen prevent skin cancer?"). Never let one subtopic stand in for a broader episode, and check the headline against the H2s you wrote: if it only describes the first one, it is too narrow.
 2. Opening hook (1-2 sentences that establish why this matters)
 3. Body with 2-4 H2 subheadings covering the key evidence and nuance
 4. "Bottom line" section summarizing the takeaway
@@ -374,7 +374,7 @@ Then write a standalone article with this structure:
 
 Then generate 4 to 6 FAQ pairs:
 - Questions: phrased exactly the way someone would type them into Google. Mix of the highest-intent queries a reader would have after reading this article (safety, dosing, mechanism, common myths, practical how-to).
-- Answers: 2 to 4 sentences each, grounded strictly in the article you just wrote. Reuse the same numbers, study names, and caveats. Plain text only — no HTML tags. No em-dashes.
+- Answers: 2 to 4 sentences each, grounded strictly in the article you just wrote. Reuse the same numbers, study names, and caveats. Plain text only, no HTML tags. No em-dashes.
 - Cover the angles most likely to appear in Google "People Also Ask" boxes; do not repeat the headline as a question.
 
 Then pick the 1 or 2 site topic categories that best fit this article. Choose from this exact list (name: what the category covers):
