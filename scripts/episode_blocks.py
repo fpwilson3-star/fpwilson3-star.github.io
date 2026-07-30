@@ -296,6 +296,7 @@ CLUSTERS = {
         "does-creatine-actually-work",
         "how-much-protein-do-you-actually-need",
         "does-bovine-colostrum-actually-work",
+        "does-sunscreen-prevent-skin-cancer",
     ],
     "Hormones & sexual health": [
         "does-high-cortisol-cause-belly-fat",
@@ -343,6 +344,7 @@ CLUSTERS = {
     "Screening & diagnostics": [
         "are-full-body-scans-worth-it",
         "continuous-glucose-monitors-non-diabetics",
+        "does-sunscreen-prevent-skin-cancer",
     ],
 }
 
