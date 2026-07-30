@@ -296,6 +296,7 @@ CLUSTERS = {
         "does-creatine-actually-work",
         "how-much-protein-do-you-actually-need",
         "does-bovine-colostrum-actually-work",
+        "what-does-the-sun-actually-do-to-your-health",
     ],
     "Hormones & sexual health": [
         "does-high-cortisol-cause-belly-fat",
@@ -336,6 +337,7 @@ CLUSTERS = {
         "are-microplastics-actually-harming-your-health",
         "are-sperm-counts-really-declining",
         "is-red-meat-actually-bad-for-you",
+        "what-does-the-sun-actually-do-to-your-health",
     ],
     "Health technology": [
         "how-mrna-vaccines-work",

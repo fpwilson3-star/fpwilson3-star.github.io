@@ -38,6 +38,8 @@
 
     { slug: 'is-moderate-drinking-actually-bad-for-you', title: 'Is one drink a day actually bad for you?' },
 
+    { slug: 'what-does-the-sun-actually-do-to-your-health', title: 'What does the sun actually do to your health?' },
+
   ];
 
   const linkStyle = 'font-family:var(--font-mono);font-size:0.85rem;color:var(--color-accent);text-decoration:none;';
