@@ -19,7 +19,9 @@ presence and the retrofit can stay idempotent.
 import html as htmlmod
 import json
 import re
+from datetime import datetime
 from urllib.parse import urlparse
+from zoneinfo import ZoneInfo
 
 # Stable @id for the Person entity defined once on the homepage (index.html).
 PERSON_ID = "https://fperrywilson.com/#person"
@@ -126,6 +128,26 @@ def render_breadcrumb(headline, slug):
 
 VIDEO_JSONLD_MARKER = '"@type": "VideoObject"'
 
+# The show is produced on US Eastern time, so the air date means Eastern.
+SHOW_TZ = ZoneInfo('America/New_York')
+
+
+def video_upload_datetime(date_iso):
+    """Episode air date as a full ISO 8601 timestamp with a UTC offset.
+
+    Google Search Console rejects a bare "2026-06-25" on VideoObject.uploadDate
+    with "Datetime property uploadDate is missing a timezone" / "Invalid
+    datetime value", which suppressed the video rich result on all 15 pages
+    carrying an embed. Schema.org accepts a plain date; Google does not.
+
+    Midnight Eastern is a convention, not a claim about the real upload minute.
+    We only know the air date: the YouTube feed's own publish timestamps carry
+    the offset but are wrong for some uploads (the alcohol episode reports 2015,
+    see CLAUDE.md), so they cannot be used. ZoneInfo picks EST or EDT per date,
+    so summer episodes get -04:00 and winter ones -05:00.
+    """
+    return datetime.strptime(date_iso, '%Y-%m-%d').replace(tzinfo=SHOW_TZ).isoformat()
+
 
 def render_video_jsonld(video_id, episode_title, date_iso, description, slug):
     """VideoObject JSON-LD for the embedded YouTube discussion.
@@ -143,7 +165,7 @@ def render_video_jsonld(video_id, episode_title, date_iso, description, slug):
         "name": f"{episode_title} — Wellness, Actually",
         "description": description,
         "thumbnailUrl": f"https://i.ytimg.com/vi/{video_id}/maxresdefault.jpg",
-        "uploadDate": date_iso,
+        "uploadDate": video_upload_datetime(date_iso),
         "embedUrl": f"https://www.youtube.com/embed/{video_id}",
         "contentUrl": f"https://www.youtube.com/watch?v={video_id}",
         "publisher": publisher_jsonld(),

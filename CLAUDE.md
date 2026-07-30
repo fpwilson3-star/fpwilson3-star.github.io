@@ -37,7 +37,8 @@ scripts/            — generate_episode_post.py, build_rss.py, build_llms_txt.p
                       snippet, the font preconnect/stylesheet links, and
                       VideoObject JSON-LD for embeds to any page missing them,
                       and repairs a meta description truncated by an unescaped
-                      double quote), retrofit_article_seo.py (idempotent: rebuilds each
+                      double quote, plus a bare-date VideoObject uploadDate
+                      that Google rejects for having no timezone), retrofit_article_seo.py (idempotent: rebuilds each
                       page's Article JSON-LD through the shared builder, adding
                       isPartOf/mainEntityOfPage/inLanguage + a citation list of
                       the body's study links, preserving datePublished/Modified),
@@ -87,7 +88,8 @@ index, "Browse by topic" strip, and topic sitemap entries match what
 build_topic_pages.py would generate from CLUSTERS/TOPIC_META; that every page
 site-wide carries the GA4 snippet and font links, has no meta description
 truncated by an unescaped double quote, and pairs any YouTube embed with
-VideoObject schema (fix with `retrofit_page_head.py`); and that the
+VideoObject schema whose `uploadDate` is a full ISO 8601 datetime with a UTC
+offset (fix either with `retrofit_page_head.py`); and that the
 homepage recent-articles block matches what build_home_articles.py would
 generate and links no missing article; and that the
 pre-rendered prev/next nav matches the chain in js/episodes.js. CI runs it on

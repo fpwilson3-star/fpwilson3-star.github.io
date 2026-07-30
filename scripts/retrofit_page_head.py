@@ -128,6 +128,14 @@ def retrofit(page, dry_run):
         src = src[:m.start()] + ''.join(missing) + src[m.start():]
         actions.append('font-hints')
 
+    # 3b. Repair a bare-date uploadDate on an already-present VideoObject.
+    #     Google Search Console flags "2026-06-25" as missing a timezone and
+    #     drops the video rich result. Pages generated before the fix all
+    #     carry the bare form; re-running is a no-op once repaired.
+    src, stamped = _fix_upload_date(src)
+    if stamped:
+        actions.append('uploadDate-timezone')
+
     # 4. VideoObject schema for pages with an episode embed
     if episode_blocks.VIDEO_JSONLD_MARKER not in src:
         m = _EMBED_ID.search(src)
@@ -143,6 +151,22 @@ def retrofit(page, dry_run):
     if not dry_run:
         page.write_text(src, encoding='utf-8')
     return 'added ' + ', '.join(actions)
+
+
+_BARE_UPLOAD_DATE = re.compile(r'("uploadDate": ")(\d{4}-\d{2}-\d{2})(")')
+
+
+def _fix_upload_date(src):
+    """Give a bare-date uploadDate a time and UTC offset. Idempotent.
+
+    Only matches the exact YYYY-MM-DD form, so a value already carrying an
+    offset is left alone and re-running changes nothing.
+    """
+    def stamp(m):
+        return m.group(1) + episode_blocks.video_upload_datetime(m.group(2)) + m.group(3)
+
+    fixed, n = _BARE_UPLOAD_DATE.subn(stamp, src)
+    return fixed, n > 0
 
 
 def _video_block_for(src, video_id, slug):
