@@ -40,6 +40,8 @@
 
     { slug: 'what-does-the-sun-actually-do-to-your-health', title: 'What does the sun actually do to your health?' },
 
+    { slug: 'is-gluten-actually-bad-for-you', title: 'Is gluten actually bad for you?' },
+
   ];
 
   const linkStyle = 'font-family:var(--font-mono);font-size:0.85rem;color:var(--color-accent);text-decoration:none;';
