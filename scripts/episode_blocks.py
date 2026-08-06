@@ -334,6 +334,7 @@ CLUSTERS = {
         "continuous-glucose-monitors-non-diabetics",
         "how-much-protein-do-you-actually-need",
         "is-moderate-drinking-actually-bad-for-you",
+        "is-gluten-actually-bad-for-you",
     ],
     "Biohacking & recovery trends": [
         "cold-plunges-saunas-health-benefits",
