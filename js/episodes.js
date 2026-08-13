@@ -42,6 +42,8 @@
 
     { slug: 'is-gluten-actually-bad-for-you', title: 'Is gluten actually bad for you?' },
 
+    { slug: 'is-fluoride-in-water-safe-and-does-it-still-work', title: 'Is fluoride in drinking water safe, and does it still work?' },
+
   ];
 
   const linkStyle = 'font-family:var(--font-mono);font-size:0.85rem;color:var(--color-accent);text-decoration:none;';

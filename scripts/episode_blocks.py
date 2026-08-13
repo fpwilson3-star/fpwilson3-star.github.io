@@ -355,12 +355,14 @@ CLUSTERS = {
         "does-methylene-blue-actually-work",
         "pregnancy-brain-what-actually-changes",
         "is-moderate-drinking-actually-bad-for-you",
+        "is-fluoride-in-water-safe-and-does-it-still-work",
     ],
     "Environmental exposures & health scares": [
         "are-microplastics-actually-harming-your-health",
         "are-sperm-counts-really-declining",
         "is-red-meat-actually-bad-for-you",
         "what-does-the-sun-actually-do-to-your-health",
+        "is-fluoride-in-water-safe-and-does-it-still-work",
     ],
     "Health technology": [
         "how-mrna-vaccines-work",
