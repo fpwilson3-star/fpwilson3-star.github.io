@@ -44,6 +44,8 @@
 
     { slug: 'is-fluoride-in-water-safe-and-does-it-still-work', title: 'Is fluoride in drinking water safe, and does it still work?' },
 
+    { slug: 'what-ticks-actually-do-to-your-body', title: 'What ticks actually do to your body, from Lyme to alpha-gal' },
+
   ];
 
   const linkStyle = 'font-family:var(--font-mono);font-size:0.85rem;color:var(--color-accent);text-decoration:none;';
