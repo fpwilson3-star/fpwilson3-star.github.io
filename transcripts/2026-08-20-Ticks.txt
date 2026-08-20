@@ -1,0 +1,944 @@
+Emily Oster, PhD (00:00)
+So, Perry, when I was in college and my brother was also in college, we came home one year for Thanksgiving and my brother had a cold. And, you know, people get sick, whatever. He's a college student. He has a cold. It kind of goes on for a little while. And then it's like the day before Thanksgiving. My parents are like, You still have this cold. Like, what do you is just a cold? He's Yeah, yeah, it's I think it's just a cold. There is one other thing it could be.
+
+like like what? And he's like, Well, I was hiking in Lyme, Connecticut. And then later I found a tick. And then I noticed this very specific kind of rash on my back. It looks like a bullseye. Yeah. So it could be something else, like Lyme disease. And my parents were it was like a moment which now I reflect on as a parent.
+
+Where they're just like, Are you kidding? It's like the day before Thanksgiving. And now we have to call our friends and be like, How can we get some Doxy Cycling? So teenage boys.
+
+Perry Wilson, MD (00:57)
+Cannot be trusted with anything. Totally. is there anything worse than a teenage boy trying to take care of their own health or ticks in Lyme, Connecticut?
+
+Emily Oster, PhD (01:07)
+And there's nothing. It was so it was so specific. And today we're gonna talk about ticks and their many, many problems.
+
+Perry Wilson, MD (01:14)
+it's our creepiest episode so far. Creepy
+
+Emily Oster, PhD (01:17)
+Buggiest.
+
+Perry Wilson, MD (01:18)
+crawly episode of wellness actually. but you know, coming to you here together broadcast center in Connecticut, birthplace of Lyme disease.
+
+Emily Oster, PhD (01:29)
+No better place to discuss ticks. So far the room has no ticks, but we'll have to say how things evolve.
+
+Perry Wilson, MD (01:36)
+See what happens.
+
+Emily Oster, PhD (01:37)
+It's Thursday, August 20th, 2026, and this is wellness actually. This week we're asking, what's the deal with ticks? Perry and I will give the official smasher pass. I I think we're gonna pass, but let's see. And then we'll get to your question of the week. But first, let's do the health news roundup after the break.
+
+Perry Wilson, MD (01:59)
+That is all.
+
+Emily Oster, PhD (02:11)
+Mm. Okay.
+
+Perry Wilson, MD (02:15)
+Tomorrow, I'm recording two tracks locally here. Yeah.
+
+A little bit, yeah.
+
+Okay. We'll be careful.
+
+Emily Oster, PhD (02:31)
+I think you should
+
+Perry Wilson, MD (02:32)
+Yeah.
+
+Emily Oster, PhD (02:33)
+Are you okay?
+
+Perry Wilson, MD (02:40)
+And we're back with the health news of the week. first bit of health news, I needed to get your opinion on, Emily, because I saw this and I was like, it turns out I'm the best parent ever. Okay. So a study shows that less unsupervised physical activity and more screen time in childhood is associated with better cognitive outcomes in adolescence. Okay, so less physical activity, more screen time.
+
+Smarter kids. I'm doing great. My kids waking up and and do picking up an iPad while they eat their like processed cereal is is high quality parenting. We probably shouldn't even discuss it. Let's move on to our next health item. All right, fine. What's your opinion on this?
+
+Emily Oster, PhD (03:26)
+Okay. So we have seen so much data in the other direction. And I am always crapping on that data on because you see a lot of data that says screens are bad and physical activity is good. And most of that is just driven by biases, other differences between families, et cetera. This study is also bad, but it is it's in the other direction bad. And this this study has both
+
+The problem that all the other studies do, which is that it's got parents who are different in in different ways. It's very small. It's like a few hundred people. So it's not that important. But it also has a very, very important problem, which is that in all of their analyses, they control for a baseline cognitive metric. So it's like the outcome is a cog is like cognition now. And then they have some controls for like how much physical activity and screen time you have.
+
+But there's also a control for when they enrolled you in study initially, what your cognition was. And so that's actually soaking up like almost all the variation because there's so much correlation over time. And when you soak up all that variation, you get a lot of random noise out in the So
+
+Perry Wilson, MD (04:42)
+Just on the mark.
+
+Emily Oster, PhD (04:43)
+it's really just on the margins. And then small biases and differences will drive stuff and
+
+some most of their stuff is not significant. There's like a little P hacking. This paper has a lot of problems. But that is
+
+Perry Wilson, MD (04:55)
+Impressed though.
+
+Emily Oster, PhD (04:55)
+You got a lot of press because people love people are like you. They will like people love to hear what they think. Yeah already is they love to hear they're doing a good job.
+
+Perry Wilson, MD (05:03)
+Zeke Manuel has a whole book about why it's healthy to eat ice cream.
+
+Emily Oster, PhD (05:06)
+Right. And people like that. People that book sold really well. Yeah. because people want to hear that what they're doing is okay. And what you're doing probably is okay, but this study doesn't tell you anything about that.
+
+Perry Wilson, MD (05:17)
+stay tuned for our episode next week where we talk about the benefits of cocaine and methamphetamine.
+
+Emily Oster, PhD (05:22)
+Totally. Okay. next up, the AHA updated their cholesterol targets. Yeah. Tell me more. Yeah. I mean This is not as interesting. It's not.
+
+Perry Wilson, MD (05:32)
+I mean, this is not the
+
+sexiest bit of news, but it is important. The AHA has not updated its cholesterol targets since 2018. So it's been a fair amount of time and there's been a lot of research in the interim about the relative benefits of reducing bad cholesterol, typically LDL cholesterol. it's a big document, but I'll go through just some of the highlights. the the broad strokes here is that they recommend screening.
+
+Earlier and getting LDL lower for longer. So they actually say that kids should be screened between ages nine and 11 for cholesterol checking. And they sort of reduce their targets across the board. So for people, for everyone, no matter what your cardiovascular risk is, the LDL target is less than 160 now. And then they recommend a risk assessment system. There's a scoring system called Prevent, which
+
+You input a bunch of stuff like are you a smoker, diabetes, other things. It calculates your risk of heart disease in the next 10 years. And then there are targets based on the various risk thresholds. The other addition to this from the prior guidelines was that among adults who are on therapy, like on a statin or something, to reduce their bad LDL cholesterol, that we should measure APOB, which is a different lipoprotein, a different type of cholesterol that's not typically measured in the screening tests.
+
+and that all adults should have LP little A measured once. LP little A is an interesting little type of cholesterol lipoprotein that clearly is associated with heart disease risk over time. So higher level people with higher levels do have more heart disease over time. We know that. however, it's mediated almost entirely genetically. So as opposed to LDL, which has lifestyle.
+
+dietary implications. LP little A is like you get what you get, which is why they're only recommending that you measure it once. and actually the therapies to lower LP little A are still are are still in the sort of research phases, although I think we'll see some commercialization soon. So yeah, get your cholesterol lower, I guess.
+
+Emily Oster, PhD (07:43)
+This kind of cutoff in medicine is something economists like a lot because it suggests good opportunities for figuring out how much different treatments matter, like in the real world. So if you say, you know, well, the cutoff is a hundred, then doctors treat people with a hundred and one different from people with ninety-nine, even though that's super, super dumb. And we can talk about why. But like that is definitely how how it happens. And so when you move these cutoffs, it like provides more interesting.
+
+Opportunities for identification. So economists listening, you got like two years and then you can use these new cutoffs to do stuff.
+
+Perry Wilson, MD (08:19)
+exciting. I love a good natural experiment.
+
+Emily Oster, PhD (08:21)
+Good natural experiment.
+
+also I think my LDL is higher than a hundred, so I'm I'm a bit concerned, but let's move on.
+
+Perry Wilson, MD (08:27)
+I suspect you're not at borderline risk, which is what the 100 target is. So it's 160 for people with low risk. Okay.
+
+Emily Oster, PhD (08:33)
+Great. Yeah.
+
+Perry Wilson, MD (08:34)
+But you can enter maybe who knows. I don't know there's family history stuff in the risk score, so you can check it out. All right. has there been a new album drop? If so, be careful because a new study finds a 15% increase in traffic fatalities on the day of a top 10 streaming album release compared to the day
+
+before or after. So the idea here being we're in our car. Taylor drops her new album and we're like just we're rocking out, our eyes are closed and traffic fatalities go up quite a bit. I think you have a connection to this paper.
+
+Emily Oster, PhD (09:13)
+Yeah. So this this the senior author on this paper is a guy named Bapu Jana, who is at Harvard, who is perfect for the Wellness Actually podcast because Bapu is an MD PhD and his PhD is in economics. He was actually my student at Chicago. my gosh. And there aren't very many people with an MD PhD in economics. It's an unusual combination of things. but he writes a lot of very interesting papers that have some similarities to this. so he has some papers on how
+
+more people die of heart attacks during marathons, not because they are running, but because you cannot get to the hospital if you have a heart attack.
+
+Perry Wilson, MD (09:50)
+Because there's the roads are all closed.
+
+Emily Oster, PhD (09:51)
+So yeah, marathons are deadly. Look it up. but in this case, what they find is they use this nice identification strategy around album releases and they show that people are more distracted. And it's particularly men. not that surprising. And I would guess, if I had to guess, and I didn't I don't think they have a lot of heterogeneity by like what type of music it is, but I would guess like the Noah Kahan album, like
+
+People are not, you know, like driving crazy. You're just like you're not going ninety. You're like cry maybe maybe you're crying a lot. So anyway. that's true. Yeah.
+
+Perry Wilson, MD (10:27)
+Okay, what I wonder, I you know, I I did see in the study that they they adjusted for the day of the week and and like the number of subscriptions to the service and stuff over time. Like there's obviously confounders here, but what I was kind of thinking is like, how sophisticated are record producers or or distribution companies in terms of picking that date? Like, do they know, like, are they going for a date that's gonna be that's important in a way that we're not adjusting here for? And I don't know what it is. Like, are they looking for dates that are high?
+
+literally high traffic. Like, do they want to release on dates when there are a lot of people on the road just to get those get those clicks, get those streams?
+
+Emily Oster, PhD (11:04)
+Do not I think that that is st stretching credul I mean, is the right question to ask about identification. Thank you. But I think it is very unlikely that this that surely they are choosing for some reason. But as long as that reason is not about traffic fatalities, which seems less plausible, then this identification strategy is fine. All right. And based on the timing of choosing book releases, I would say it's mostly basically if somebody
+
+Perry Wilson, MD (11:31)
+Yeah.
+
+Emily Oster, PhD (11:32)
+in the office is like
+
+I've thought about it and July fifteenth, it's like they're just like Yeah. All right.
+
+Perry Wilson, MD (11:40)
+do you worry about kids listening to music when they drive? My daughter is always listening to music and does like I do worry that it's at one extra
+
+Emily Oster, PhD (11:48)
+I would prefer my children never drive. so I'm gonna go with I I just don't I don't like the idea of children children driving. I haven't thought about the music part of it, honestly. I'm still getting past the driving part.
+
+That is it
+
+Perry Wilson, MD (12:01)
+Hey.
+
+Emily Oster, PhD (12:03)
+for the health news of the week. Now, what's the deal with ticks? What's the deal?
+
+Perry Wilson, MD (12:09)
+What's going on, Ticks?
+
+Emily Oster, PhD (12:12)
+Ticks, why are you here? jeez. Okay.
+
+Perry Wilson, MD (12:17)
+all right. I have to start with with a correction. It's buds per usually.
+
+Emily Oster, PhD (12:26)
+every time.
+
+Perry Wilson, MD (12:27)
+At the at the end of last week's episode, when we said this week is what's the deal with ticks, I think I made a comment like, those those bugs. You call them. I call them bugs. They're bugs. You the entomologists get really upset when you call an animal a bug that's not a bug. Even like insects, like there are some insects which are bugs and
+
+And and but not all insects are bugs? Okay. It's true Yeah, but like bug, I thought that bug was a colloquial term for a creepy crawly thing, but there's also like an entomological term. This is not f ticks aren't bugs. They're not even insects. They're not even insects. They are arachnids. They're more closely related to spiders than they are to mosquitoes or other blood suckers. That's interesting.
+
+Emily Oster, PhD (13:14)
+That is interesting. are they r so and also like related to mites? Yes. Different kinds of mites. Yeah.
+
+Perry Wilson, MD (13:21)
+Other arachnid arachnid type stuff. Yep.
+
+Emily Oster, PhD (13:24)
+I'm already I don't like I don't like bugs. guess in this case that's fine because this isn't about bugs as previously noted. I'm not into things that crawl.
+
+Perry Wilson, MD (13:33)
+They're crawl on you.
+
+no, agreed. No, this is this is a creepy episode, as we said.
+
+Emily Oster, PhD (13:38)
+All right, so
+
+ticks eat blood. they need blood in order to move forward with their with their life cycle. And when they get on you, they get on and they feed in your blood and they get enormous. They can go like s up six hundred times their weight while they suck your juices.
+
+Perry Wilson, MD (14:01)
+It's
+
+super gross. I've never had a tick on me that got that big, but I have had like a tick on a dog that is just gigantic. And yeah.
+
+Emily Oster, PhD (14:13)
+okay.
+
+Perry Wilson, MD (14:15)
+We have to stop. We have to take a break already.
+
+Emily Oster, PhD (14:19)
+Okay. but it turns out that the stage of the tick that matters the most is the nymph. They're very, very, very small, which is which is why they are the most dangerous because that is the thing that you would not you would not see or it's very hard to see. It looks like a little tiny yeah pop poppy seed.
+
+Perry Wilson, MD (14:38)
+Yeah, deer tick nymph in particular, which are, you know, the main vectors for Lyme disease, which is which is the big, the big one when it comes to tick-borne diseases, but by no means the only one. and you mentioned that blood meals are necessary to advance in the stage of the life cycle and like not just the way that, well, everyone has to eat to grow bigger, but ticks go from, you know, larva to nymph to I think one more stage and then adult. And each of those things needs
+
+a blood meal to like unlock the genetic machinery. So it they literally level up every time they feed off of someone. and yeah, if you don't get them off, they feed until they get gigantic and then they just fall off on the ground and then go through their next little molting life cycle and wait for the next blood meal to come by.
+
+Emily Oster, PhD (15:22)
+So for Lyme disease, which we are going to get to, but we're actually gonna there's a lot to talk about. So we're actually gonna start the the episode by talking about things that are not Lyme disease, and then we're gonna get to Lyme. But for Lyme, the one thing I will say now is that the tick has to stay attached for something like 36 to 48 hours. You actually have quite a long time to remove the tick in in Lyme disease before it would cause disease. That's not gonna be true for for every everything else. So
+
+Yeah. We're gonna get to line, but we're gonna start with generally what what can happen. Well ticks are responsible for many diseases and they kind of work in three different ways. So I thought rather than talking about the an entire list, we'll say for listeners, Perry had a like a spreadsheet and had like 45 rows. And I thought he was gonna, we were gonna go through every tick disease.
+
+Perry Wilson, MD (16:10)
+Tick disease number thirty
+
+Emily Oster, PhD (16:12)
+So it's like this episode would be boring. and so instead we're gonna we're gonna focus a little bit on the sort of three ways that the tick can actually
+
+Impact you. Impact your health. Impact your health. Yeah. Yes.
+
+Perry Wilson, MD (16:24)
+yeah, so I think I mean, honestly, the tick-borne diseases are super fascinating, but yes, three big ways. The first thing that a tick can do to make you sick is it can infect you with something, be it virus, bacteria, et cetera. And we'll obviously talk about a a a sampling of those, but just so you know, there are many more and we'll we'll miss we'll miss quite a few of them in the interest of time. The second thing a tick can do is
+
+Poison you. So we'll talk about some ticks that have substances in their saliva, so non-infectious, but nevertheless chemical substances that can have really devastating effects on humans. And the third thing is that they can rewire your immune system. and there's a few themes that have come up in the Wellness Actually podcast when it comes to allergy and immunology. And one of them is this.
+
+understanding that when you deliver something into your body not through the normal way, like not by eating it, you can get allergic to the substance in a way that you wouldn't get if you ate it. And because ticks are injecting stuff basically directly into your bloodstream, it opens up the door to all sorts of really interesting allergies. So I think if we hit some representative sampling there before we get to all the Lyme disease stuff, that would be great. Okay.
+
+Emily Oster, PhD (17:45)
+So we're gonna start with the infection one because it has is actually both the way the Lyme works and also the way that what I think is by far the scariest tick disease works. So the scariest tick disease I think is Powassan. Is that how you say it?
+
+Perry Wilson, MD (18:04)
+Pulasin. Pulasin? Yeah. Okay. Poison virus.
+
+Emily Oster, PhD (18:07)
+The Poessin virus. The Poussen virus is spread by the same tick as Lyme disease. It is the black-leg deer tick. And this is the thing. There are two really, really scary aspects of this. So one is that it can happen very fast. So Lyme disease needs a very long time. This virus tick
+
+Perry Wilson, MD (18:29)
+Or the
+
+Emily Oster, PhD (18:30)
+to be attached. And this virus needs 15 minutes. Yeah. And
+
+It is very possible for you to miss. I mean, it's very possible to miss a tick for two days. It's really possible to miss a tick for fifteen minutes.
+
+Perry Wilson, MD (18:43)
+A hundred percent. If you see a deer tick on you and it has bitten, like it's not crawling, but it's in and you have to pull it off, then in theory it could have transmitted coassan virus.
+
+Emily Oster, PhD (18:55)
+And the Pues virus is very scary.
+
+Perry Wilson, MD (18:57)
+It's very scary. So, all right. If you if you look this up, what you'll find is that Powassan virus is a virus with no treatment and a 10% case fatality rate, which is like, so I can walk through the woods of Connecticut where deer tick abound and I can have a tick on me for 15 minutes and then I have a 10% death rate. this is not entirely true, but but the broad strokes and the way the the the data we have.
+
+will lead to some people saying these things. So so what the virus does in most people is nothing. now that's not what you'll see when you Google. What you'll see when you Google is that Poassin virus causes meningitis. So it's a it's a brain inflammatory virus. And indeed, if you develop meningitis from powassin virus, you're gonna go to the hospital, you're gonna be very sick, it's a virus, so antibiotics don't work, you're gonna get supportive care, IV fluids and
+
+pain control and fingers crossed and the case fatality rate is about 10%. So that's super scary. But most people don't ever get symptoms from it.
+
+Emily Oster, PhD (20:04)
+Yeah. And I think we sort of no have to know that it that has to be true just based on the base rate. You know, there are many, many, many cases of Lyme every year spread by the same tick. There are a s very small number of cases of this. So so so far in twenty twenty six there have been thirty. Last year there were seventy six. That's a very small number. The US is 330 million people. The Northeast has many, many, many tens of millions of people.
+
+This is a very small number. And there is some sero prevalence work, which means like testing people to see if there's evidence that they've been exposed to this, would suggest much higher rates of exposures.
+
+Perry Wilson, MD (20:45)
+So
+
+you have an antibody to the virus, but you never were sick.
+
+Emily Oster, PhD (20:47)
+Yeah. So I one way to think about this is conditional on arriving at the hospital, very sick with this. The fatality rate is quite high. Mo the vast majority of people who get this do not actually develop this virus. So it's not that it's not scary. It is like it is this is very scary. Yeah, it's very scary. But a there are many other things that are scarier in the world.
+
+Perry Wilson, MD (21:11)
+yeah, yeah. If insofar as this motivates you to like do the anti tick measures, we'll talk about some of the things you can do to prevent getting tick bites, then great. but yeah, don't let it keep you up at night.
+
+Emily Oster, PhD (21:21)
+I mean, I I do I do think like things like this are very salient to people. When you say, you know, there's a thing that could happen, you get bitten by a tick and you could, you know, have a ten percent case fatality date, that is really scary. And then that lives in your head. Yeah. Because people are very poor at understanding small probabilities, right? The fact that it's 76 out of, you know, 75 million people, it it just feels like, well, it could it could be a chance. It could happen could happen. It's like the lottery. Yep.
+
+it's worth putting it in the space of, you know, you are an awful lot more likely to die in a car in your car on the way to the woods than you are to die of a tick that you get in the woods. I'm not saying you should be afraid of going hiking. Yeah. But like in the space of risks you're taking, this is very small.
+
+Perry Wilson, MD (22:07)
+health benefits of going on that hike probably outweigh any risk.
+
+Emily Oster, PhD (22:10)
+If you
+
+did the sort of minute calculation, you're you're on a good
+
+Perry Wilson, MD (22:16)
+absolutely. Absolutely.
+
+Emily Oster, PhD (22:19)
+Okay.
+
+Perry Wilson, MD (22:20)
+Yeah.
+
+Emily Oster, PhD (22:20)
+So the second way, so that's tick infections. And there are other diseases that that can be spread by ticks in this same way. Yeah. What's your favorite other tick infection? I know so many.
+
+Perry Wilson, MD (22:33)
+No, I mean I think for me I guess I guess Ehrlichosis. I I yeah. what's my favorite?
+
+Emily Oster, PhD (22:46)
+This question is I didn't think this was such a hard question.
+
+Perry Wilson, MD (22:50)
+hold on, we have to edit this a second. Okay, well, let me go back. Had to think about it. Okay, yeah. There's so many interesting tick-borne diseases. and I feel like people have their favorites, and someone's gonna be like, You didn't mention Rocky Mountain spotted fever, you didn't mention anoplasmosis. I think babesiosis, to me, because we see this in the hospital not infrequently, and it is the
+
+Closest thing to malaria that we have in the United States. So babesiosis is a bacterial infection that gets a parasite that gets inside red blood cells. So just like the malaria parasite, I mean it's not the same, it's a different parasite, but that's its mechanism. It gets in these red blood cells, and people come in with severe anemia and actually like very similar symptoms that malaria presents with. So
+
+you sort of learn about malaria in medical school because malaria is the biggest killer of humans, infectious disease killer of humans in the world. and then, you know, you come here to to Connecticut and you see people coming in with the same symptoms and it'll be pobesiosis.
+
+Emily Oster, PhD (23:57)
+There are about a hundred to five hundred cases of this your favorite disease every year. Okay. Great. All right. Well, good great for you. But I'm just telling people that's not very, very
+
+Perry Wilson, MD (24:06)
+yeah, there
+
+is selection bias here too because a lot of people with obesiosis will have some kidney dysfunction, so they call people like me.
+
+Emily Oster, PhD (24:13)
+Okay. So the second thing that ticks can do is they can poison you. and the best poison tick disease is tick paralysis. Yeah. It's the best one because it's super interesting. It's a neurotoxin in the saliva of some kinds of ticks and it causes paralysis.
+
+Perry Wilson, MD (24:36)
+And it causes a very particular type of paralysis. So what it is, is it's a flaccid paralysis, so a weakness as opposed to a spasticity. So there's kind of two types of paralysis, a weak paralysis that goes from your legs and goes up your body. And if you're a doctor listening to this and you saw a patient that had that pattern of paralysis, you would be like, that's Guillain Bray syndrome, because it looks exactly the same.
+
+Emily Oster, PhD (25:01)
+But actually it's ticks. And if you remove the tick, the paralysis goes away. Which
+
+Perry Wilson, MD (25:07)
+Which is awesome.
+
+Emily Oster, PhD (25:08)
+is awesome. And there is an episode of House in which this happens. Yes, there's an episode of House in which there is a person, a a teenage girl, and this is what House thinks is happening. And everyone says that he's an idiot because they can't find a tick and they look for a tick and blah, blah, blah. But then it turns out
+
+that her boyfriend had snuck in and he had picked up a tick and they had had sex and actually the tick was in her vagina and that was what House identified. So for me, this is like stuck in my I don't know why I really like that show.
+
+Perry Wilson, MD (25:43)
+no, I I like the show too.
+
+Emily Oster, PhD (25:45)
+Yeah. And so then the things I and that was an episode that stuck with me and also the fact that they always thought it was Wilson's disease. Like every single time it was Wilson's disease. that's funny. It's like not a lot of people get Wilson. Anyway, that's a different topic. But
+
+Perry Wilson, MD (25:56)
+Wilson's is a disease of no relation. Disease of copper metabolism that causes liver failure. so it is worth it to know for clinicians that if someone presents with Guillain Buret syndrome that you should do a tick check. Generally, we advise looking at the scalp, but I suppose
+
+Emily Oster, PhD (26:14)
+That's why House is a genius. He doesn't just do the first thing.
+
+Perry Wilson, MD (26:16)
+do a to do
+
+a thorough tick check if you have a patient with Guillain Bray syndrome. But it is cool. The paralysis goes away within hours of removing the tick. So miracle stuff.
+
+Emily Oster, PhD (26:27)
+All right, third thing is that the tick can rewire your immune system in this crazy way. And this is the one actually everyone has been talking about. or at least one of the diseases that's caused in this caused by this mechanism, which is Alpha Gal. Alpha Gal has been the talk of Nantucket this summer s because one of the
+
+things that happens, the thing that happens with this is that you cannot tolerate meat. And there's been some discussion, which I think is totally overblown, that like the stores on Nantucket have stopped stocking hamburgers because too many people have alpha gas. my gosh, which I don't think is true. But but this is like
+
+Perry Wilson, MD (27:15)
+It's
+
+probably the Ozempic.
+
+Emily Oster, PhD (27:18)
+I would guess it's the Zampic. But let's, you know, move on. So what the like it's but it's totally weird.
+
+Perry Wilson, MD (27:26)
+It's it's it's it's super fascinating. And I alluded to this earlier that allergies tend to develop when you get exposed to a potential allergen, not through your GI tract, like through some other way. and so what Alpha Gal is, is I guess what you need to know is that every species, every mammalian species on the surface of their cells has a sugar called Galactose Alpha 13 galactose. Except the
+
+Old world apes, the old world primates like us and chimpanzees and gorillas. So we lost that in our evolutionary history. We'd like the gene to make that sugar just went away. We do not make it anymore. I don't think it causes us a particular problem. I don't know. That's evolution for you. All other mammals except us and the chimpanzees and the gorillas. okay, so we don't see that protein, that sugar in our body, but we eat meat, and as long as it goes through our GI tract, that's fine. This
+
+Tick, and in this case it's the lone star tick primarily, in its saliva has Galactose Alpha 13 galactose for other reasons, presumably. Obviously, it's not mammalian, but it injects that into you. And in theory, because it's going in through your skin and not through your GI tract, you can develop an allergy to it. What is a little unusual about this allergy is it's not usually full-blown anaphylaxis, where like you, I don't know, you have a bite of hamburger and two minutes later you're on the floor.
+
+it's usually a hours after. So probably something you probably have to digest some stuff and it's gotta get into your system for things to happen. And usually the presenting symptoms are R GI in nature, like pain, bloating, diarrhea, sometimes vomiting. and because that time between when you ate and when you got sick is so long, it's like not immediately obvious to people that it is an allergy. there can be allergic symptoms as well. So
+
+It's a really interesting bit of physiology that like we're really only just starting to understand.
+
+Emily Oster, PhD (29:25)
+It is also a place where testing has revealed that a lot of people seem to have been exposed in this way. So they're like serum, there's a test for this. You can test for the serum alpha-gal antibody antibody. And when you do that in some sort of places with a lot of chicks, you get actually quite high rates. So somebody did a residual blood donor sample and the sero prevalence was like 24%. Wow. And of course
+
+Twenty four percent of people in, you know, Arkansas, Kentucky, Missouri, and Tennessee are not allergic to meat.
+
+And so so it you know, and we're seeing like five hundred cases a year diagnosed of this. So I think it's it's one of these places where obviously people have this without actually having having symptoms. And it does go away for most people over time.
+
+Perry Wilson, MD (30:17)
+That's right. That's right. If you if you avoid further tick bites, the symptoms get better. But for some people, they can really never eat meat again. And the immune system is an incredibly complex thing and an antibody titer is not the same as, you know, a full-blown immune reaction. So it can be it can be hard to tease out. But you know, stay away from those lung starts.
+
+Emily Oster, PhD (30:37)
+So interesting. It is. I don't know. The body is very cool.
+
+Perry Wilson, MD (30:39)
+It is.
+
+Emily Oster, PhD (30:44)
+all right. Wait, what did we
+
+we want to do in this. Take a break. Yeah. Okay.
+
+Perry Wilson, MD (30:51)
+I think we move on. Let's take a break and
+
+Emily Oster, PhD (30:54)
+All right. So those are your three big tick approaches. And we're very sorry to the entomologist listeners that we have not covered Perry's spreadsheet of ticks, tick-borne diseases. but we're going to take a break and when we come back, we're going to talk about Lyme disease.
+
+huh.
+
+All right, we're back and we're gonna talk about Lyme, which is the largest, or at least most it is the largest, right?
+
+Perry Wilson, MD (31:38)
+yeah.
+
+Emily Oster, PhD (31:39)
+So we're back and we're gonna talk about Lyme, which is the most common tick-borne disease in the US. it's actually not clear how many cases there are in the year in a given year, but it's in the hundreds of thousands we we think. and Lyme disease really begins with a
+
+Some moms in in Old Lyme, Connecticut, who had identified they all had children who had been diagnosed with juvenile arthritis, rheumatoid arthritis, which is basically joint, like joint pain. And they just felt that was not, could not really seem right. It didn't seem right. It's not very common. That isn't typically a cluster disease. Why
+
+Perry Wilson, MD (32:22)
+All these kids have
+
+Emily Oster, PhD (32:23)
+do all these kids have it? And they pushed and pushed and pushed, and eventually some researchers
+
+at Yale identified a identified the cause which was is which is it's a par is it parasite?
+
+Perry Wilson, MD (32:36)
+y it's a bacteria, a spirochete, a spirally shaped bacteria. Like syphilis.
+
+Emily Oster, PhD (32:42)
+And so they identify the bacteria that Tamar, do you want us to redo that? So I yeah. Okay. so these moms they pushed and pushed and pushed, and eventually a researcher at Yale sort of took them seriously, worked this up, and identified a bacteria which was is spread by ticks that was causing this set of symptoms and conditions. And
+
+I actually think this story, and we can talk much more about the mic microbiology, but just from a kind of sociological standpoint, this story is the beginning of Lyme disease. And it's also like the middle and the end, because so much of what happens in the discussion of Lyme disease, particularly around chronic Lyme, feels like patients feel like they're not being listened to doctors by doctors. And this is like it sort of started.
+
+Perry Wilson, MD (33:37)
+Started
+
+Emily Oster, PhD (33:37)
+That way. Started that way.
+
+and so so that's that's where that's where the start. And this all happened in like the mid mid nineteen seventies, early nineteen eighties.
+
+Perry Wilson, MD (33:46)
+Yeah, it was Willie Berdorfer who actually identified the the the bacteria. It's called a spirochete, it's kind of a spirally shaped bacteria. it's named after him, Borelia Bergdorfer I. we'll hear more about Willie Birddorfer when we talk about some of the lime interesting Lyme disease conspiracy theories that that are out there. but before we get to that, we should just talk about like Lyme disease. What is it? What is
+
+Emily Oster, PhD (34:12)
+Tell me what are you?
+
+Perry Wilson, MD (34:12)
+I
+
+think people people broadly know. But okay, so we've got this bacteria that lives in a tick. the vector is typically the deer tick. It can be carried by some other ticks. And as you pointed out, the nymph stage is where we see most of the transmission, not because it's uniquely infected, but because it's so tiny. Poppy seed size, little black thing, super easy to miss, especially in the hair. as you said, it takes a while for it to transmit. That's actually because the tick has to start feeding and
+
+process and it actually inject it like metabolizes some of your blood and then puts it back in you and that's how it that takes some time and it and and that's I know it's like we're getting creepy again. but that's actually how the spirochete gets into you. And the entomologist will go out and like take samples of deer ticks and look and just measure the ticks. And about 25 to 50% of them are Lyme disease positive. So it's like if you have a deer tick,
+
+The chances are it's got Lyme disease in it, or at the chances are very good it's got Lyme disease in it. clinically, the standard way to define Lyme disease is the the we say early or localized Lyme disease and then late or disseminated Lyme disease. And if you see me using air quotes or trying to hedge my bets with the tone of my voice, that's because various other societies have created different staging systems.
+
+So this is the most common one. Early localized disease is the rash. It's known as erythema migrans, classic target-shaped rash.
+
+looks like a bullseye.
+
+Emily Oster, PhD (35:45)
+Looks like a bullseye.
+
+Perry Wilson, MD (35:48)
+correct. And it can be, you know, you'll see pictures online that's like, it's clearly a bullseye. But my daughter had Lyme disease. I took a picture of like a vague ring-shaped thing on her back. I was like, I think this is.
+
+Erithema migrans. And I sent it to a pediatrician, and they were like, nah, it looks, it doesn't really look like that. Like it's too faint or whatever. It like wasn't. And yeah, she had Lyme disease. So, okay. also in that early period, you can get those flu like, cold-like symptoms, fatigue, headache, and stuff like that. And ideally, you want to treat at that point in time. You don't want to let it get to disseminated Lyme disease. That's where you can get
+
+A lot of other symptoms. Now it's spread throughout your body. And so you can see symptoms in other organ systems. Classically joints. my daughter, because she wasn't treated at the early stage, had a big like joint effusion in her knee. That's how she ended up getting diagnosed. but you can have cardiac abnormalities, facial palsy is actually fairly common. you know, it can look almost like you had a stroke or something like that with because there's some some nerve stuff there. This all gets better with treatment. and
+
+I will say explicitly, you can have Lyme disease without the rash. So 70 to 80% of Lyme disease cases will have erythema migrants, but not every single one. So you do have to be suspicious.
+
+Emily Oster, PhD (37:17)
+So part of what is complicated here is of course, for some set of people, like let I'm gonna divide a little bit into kind of like the best, almost like the best case scenario here, which is you have an identified tick bite. There is a bullseye shaped rash that you notice immediately. And then there is a very clear treatment. There's no testing. We assume that you have Lyme disease, that you take a dose of doxycycline and you know that.
+
+fixes the problem. Doxycycline's an antibiotic. It treats deals with the bacteria and we're and we're good.
+
+Perry Wilson, MD (37:52)
+Yeah. Several doses of document.
+
+Emily Oster, PhD (37:53)
+Several
+
+doses. It's like it's it's not yeah, it's not just not yeah. Don't just like take one.
+
+Perry Wilson, MD (37:57)
+I I
+
+mentioned that because there are there are pediatricians who will recommend a prophylactic doxycycline dose with any tick bite. Like no rationite, you got a tick bite, just like take a doxycycline. There's not good randomized trial evidence to support that. So just you might hear it, but
+
+Emily Oster, PhD (38:12)
+There is there is a more complicated question about if your child has been exposed to a tick, should you take the full dose of doxycycline as if you have been and there's a the also some debate about whether that
+
+Perry Wilson, MD (38:25)
+Yeah.
+
+Emily Oster, PhD (38:27)
+So, okay, so that's like the sort of I know what's happening, I've fixed the problem in the short term, fine. It is much more complicated if you have gotten to this later potential phase, particularly if you're not sure it was a tick. So think about the case in which someone's bitten by a tick, the tick is on for a long time, the tick falls off, they don't notice, they never get a rash, and then all of a sudden they have a series of complicated symptoms.
+
+palsy, nerve pain, disseminated rashes. There's a lot of difference. That's a hard that's a hard diagnostic problem. And the testing here is actually not, it's not a single test that for sure tells you what is going on.
+
+Perry Wilson, MD (39:11)
+Yeah. So testing for Lyme disease, and we're we're gonna get to this a little bit when we talk about chronic Lyme disease. So let's carve that out for a minute. testing relies typically on looking for antibodies against the Lyme spirochete, against the bacteria. the FDA and the CDC recommend a two tiered testing system. So they have you do an initial test that is fairly sensitive, so it's gonna look like
+
+Really, it'll pick up kind of anything. So a high false positive rate, but also a high true positive rate. An initial test, if that's positive, then you move on to a secondary test that's more specific. And there's a couple of different approved tests for that. And putting those two things together in an approved laboratory gets you a pretty high ability to detect, but not perfect to detect the disease. I think it's something like, you know.
+
+you would detect 80% of them, 80% of positive infections, and you'd have a false positive rate of like 10% or so. So it's not terrible, not perfect. What the problem is that there is an entire ecosystem of unlicensed testing for Lyme disease and labs that use different thresholds for these antibody levels, which can give rise to false positive rates north of 50%.
+
+We'll talk about why this ecosystem exists. You you you mentioned at the beginning that a lot the story of Lyme is really a story about doctors and patients not seeing eye to eye and a lot of doctors not listening to their patients. And whenever that happens, people come in to fill that void. And some are very well intentioned and some are not so well intentioned. So we'll get there. Testing's not perfect, but not bad.
+
+Emily Oster, PhD (40:58)
+It can miss early on. I mean, a antibody test can miss early on. They can also pick up in like past infection because antibodies maintain for for a long time. So not perfect, but there is some testing you you can do. This is generally not something you would do if somebody shows up with a standard rash. They're just given the Dicecycline and
+
+Perry Wilson, MD (41:21)
+Most people would just treat I I know some docs who will treat end test too, just to like have it in the record or something. But yeah, I think if you you know you come up with a rash like that, you're
+
+Emily Oster, PhD (41:29)
+Getting
+
+you're not waiting. You're getting treated. You're not waiting. You're not waiting. in part because the test is most likely to be a false negative early on before you've mentioned an antibody response, which is why we're giving you the Daxycycline. Okay. so before we get into the chronic Lyme space, I wanna ask you a question. Actually, I wanna I'm not gonna ask you. I'm gonna ask the Health Secretary of America a question about whether Lyme is a bioweapon. Let's hear what he has to say.
+
+Okay, so it sounds like it sounds like maybe yes. Tell me where this came from.
+
+Perry Wilson, MD (42:08)
+I I I have to admit that until I heard RFK Jr. say that Lyme disease is a result of gain of function research. And in other places he's described it as like a literal bioweapon. I kind of didn't know this story. And it's really fascinating. So let me let me let me walk you through why this is like remotely a thing at all.
+
+and also tell you why I think it's not a bioweapon. So, so this all starts in 2004. There's a book by a guy named Michael Carroll. It's called Lab 257 about the Plum Island Animal Disease Center, which is on the eastern tip of Long Island. and yes, there is an animal disease research center on the eastern tip of Long Island. And yes, they study animal diseases and some tick-borne diseases.
+
+And Lyme, Connecticut is just across the sound from there. But that's sort of mostly where that story stops. Like we don't have evidence that they were doing any particular experiments with Lyme there. However, remember Bergdorfer, the guy who discovered Borelia Bergdorfer, who discovered the spirochete. So he actually did work at a
+
+Government facility that did study tick-borne diseases. Let me see if I can find the name for you. So it was a program called Rocky Mountain Labs. it was indeed an entomological warfare program. So the US government was interested in like, hey, can we have insects spread?
+
+Emily Oster, PhD (43:56)
+By the way, a thing which definitely has happened in the past, I mean, this is how we got like malaria. I mean the c diseases spread all the time. I mean
+
+Perry Wilson, MD (44:09)
+insect spread diseases, but we didn't malaria.
+
+Emily Oster, PhD (44:11)
+We haven't fair enough. Fair enough.
+
+Perry Wilson, MD (44:14)
+But we but yes, biological warfare has happened. there there are some okay, but that's all we have. So we've got the guy who studied tick diseases was also working at the government studying tick diseases. Like of course he was. Like if you're gonna develop this program, like maybe you have a guy who knows about tick diseases. but here's the
+
+Issue with all of this theory is that Lyme disease was identified in the 1970s. these programs that they're talking about were maybe open in the late in the 60s and late 60s, but actually Lyme disease has been around way longer than that. So we have direct evidence of Lyme disease infection in white-footed mice from museum specimens. So you go in the back of these like little museums and you test the white-footed mice, and at least as early as 1898.
+
+we have Lyme disease and mice. So this is long before the government had any type of biological warfare weapon. The other source of evidence is that genetic sequencing can tell you how diverse Borrelia burdorferi is. If Borrelia burdorperi were released at a discrete time, let's say in 1970, to in Lyme, Connecticut, I don't know why we're doing it, but let's do it. Let's let's affect the people of Lyme. the genetic similarity.
+
+Because it's only been what, 50 years? It would be highly genetically similar to itself as it spread, because it had a point source in time. And in fact, it's very diverse. And there are all sorts of methods to tell how long something has been around. And the thoughts are actually that Borelli Bergdorf rye has a long lineage going back millions of years in mammalian species.
+
+Emily Oster, PhD (45:58)
+This is
+
+also the dumbest animal like insects to use for a bioweapon. Like mosquitoes are of just a much better better bioweapon.
+
+Perry Wilson, MD (46:09)
+right, ticks?
+
+Emily Oster, PhD (46:11)
+And and you gotta leave it on for like two days?
+
+Perry Wilson, MD (46:14)
+yeah, I mean you had you had one job, evil scientists.
+
+Emily Oster, PhD (46:18)
+Like, well, let me think. I've got this animal that flies around and bites you immediately, or I have this other one that crawls around and you have to leave on for we're gonna go with the crawler. what could go wrong?
+
+Perry Wilson, MD (46:28)
+Yeah, yeah, totally. I I think so so it's not a bioweapon. I guess the question I have for you is like, so why, you know, so these coincidences, it's hard not to see similar things with COVID nineteen. I'm not getting into lab leak versus not lab leak, but like, you know, there's a virological institute near the place where the epidemic starts. I guess there's a resonance there with Lyme disease, although it's across Long Island Sound. I don't know why you don't just do it on Long Island.
+
+But whatever. but like, is it because Lyme disease is scary? You know, we know it can have these long-term effects potentially. And believing that and and and that quote from RFK, like he mentioned Lyme disease, mentioned RSV, he mentioned COVID, all of these things as like potential bioweapons or gain of function research, like the result of human, yeah, human mess in with nature. And
+
+In some way, I'm getting putting my non-psychologist out on, in some ways it's satisfying to people to be like, well, if all these bad things out there that could happen at any time, I could my kid could get RSV and could be terrible, if they're the result of human malfeasance, then there is a future where we can stop that malfeasance, right? Like we could the good guys can win. Whereas if not, if this stuff just happens randomly and like stuff evolves and all of a sudden we have a pandemic, like we have no control over that. Is that what's attractive about it?
+
+Emily Oster, PhD (47:55)
+I think it's simpler than that. I think it's that people like explanations. And so the people want to understand why things are happening and they want to understand why bad things happen. And the explanation of just like animals have diseases and sometimes you get them is not actually a super satisfying explanation. It's much better to have an explanation like it is because. I mean, you think it's the same reason why people like this idea that there's a conspiracy between, you know, big pharma and big food to give your kids
+
+Diabetes as opposed to just saying like food companies are trying to sell stuff and people like to buy delicious food. Like, you know, there's a lot in here where it would be nice to have someone to blame because it would help you organize and understand the world of why bad stuff happens. And I think that's related to the good and evil, but I think almost like just one l rung down of complication. I also think in the case of Lyme, and maybe it's a good pivot to the chronic Lyme discussion.
+
+It lends itself well because of the origin story. Right. Because the origin story is people were being ignored. The a lot of the current discussion has focused on this question of like is chronic Lyme ignored.
+
+Perry Wilson, MD (49:04)
+Are people still being
+
+Emily Oster, PhD (49:05)
+People still being ignored with this thing. And so to sort of have in the middle, it's not surprising that it's like we're being ignored. And also, by the way, this is the fault of, you know, this DOD scientist. So
+
+Perry Wilson, MD (49:18)
+All right, so let's turn to chronic Lyme disease. And I think we have to define our terms before we get too deep in this. because there are going to be people listening who are like, what are you talking about? so first of all, I will say that earlier I talked about late disseminated Lyme disease. So the Lyme disease, untreated Lyme disease that can cause, you know, joint swelling, heart problems, nerve problems, brain problems. In some sense, that's chronic Lyme disease. You've had it for a long time.
+
+Not years, but you've had it for, you know, whatever, a few weeks or something, it hasn't been treated, and you get these diffuse symptoms. But that's not, that's late disseminated Lyme disease. That is not what we mean when we say chronic Lyme disease. Medically speaking, the most people will refer to a syndrome called post-treatment Lyme disease syndrome, which is what it sounds like. You had Lyme disease, that was documented, it was treated, your post-treatment, and you still have something.
+
+Wrong with you, which is not how this is supposed to go. This is a bacterial infection. You should get antibiotics and be better. That's how these things are supposed to work. But post-treatment Lyme disease syndrome exists. We'll talk about what those symptoms can be. and we need to begin to understand, you know, how this weird bacteria can affect your body downstream even after it's dead. Chronic Lyme disease, though, is a catchier term than post-treatment Lyme disease syndrome.
+
+And not only encompasses post-treatment Lyme disease syndrome, people who documented Lyme, treated, still sick, but also a much larger group of people potentially without documented Lyme, without a known tick bite sometimes, who also have long-term symptoms. And they can get caught up in this Lyme disease ecosystem for a variety of reasons, including the testing issues that we
+
+talked about. And the chronic Lyme disease ecosystem is filled with some very good practitioners who know a lot about infectious disease and Lyme disease and other tick-borne illnesses, and some charlatans, unfortunately.
+
+Emily Oster, PhD (51:32)
+And I think this space is so hard to talk about. It's so hard to talk about because there are many people who are genuinely suffering and who really deserve better answers and research. And there are also things that are being wildly oversold. And there's a n there's a balance between not wanting to say,
+
+you know, you are being oversold this thing, which is not going to fix your problems and saying you have no problems. Right. And I think people hear you have no problems. This is all in your head. This is like a classic, like chronic anything, in particular for women, here so frequently, this is all in your head. This is all in your head. And then people, it's not surprising that people would go out and search for someone who is going to take their very real concerns seriously. And this is why we actually need to see what the data says and why
+
+This deserves more research rather than being left to, you know, charlatans who are taking advantage of people's suffering.
+
+Perry Wilson, MD (52:37)
+Yeah, yeah. absolutely. So let me just talk about the symptoms. Yeah. here's the problem.
+
+Emily Oster, PhD (52:45)
+They're everything.
+
+Perry Wilson, MD (52:46)
+It's it there's a lot of different symptoms that are lumped into both post-treatment Lyme disease syndrome and chronic Lyme disease. Fatigue, brain fog, joint pain, intermittent rashes, gastrointestinal distress, psychological disturbance, depression, mania, psychosis, so hallucinations.
+
+And you know, these can be debilitating. There are people who are unable to walk because of these issues. And yet, those are also symptoms that can occur from a lot of other diseases, including other infectious diseases. And there is not a clear diagnostic test for either post-treatment Lyme disease syndrome or chronic Lyme disease. So we have a bad case definition.
+
+One of the problems with how like this comes up with the long COVID discussion a lot. I've I've criticized the case definition for long COVID because when a case definition isn't narrow, it actually becomes harder to study. And when when people were making the case definition for long COVID, everyone was so concerned about having a big tent, right? Like it can be long COVID if you're tired, it can be long COVID if you have postural tachycardia syndrome, it can be long COVID if you have brain fog. It was so diffuse.
+
+That it actually was difficult to study because you look at biomarker differences in people with and without long COVID and like they all look the same, but the people with long COVID is this very heterogeneous group. So sometimes you actually want a case definition that's super tight, even if it'll exclude people from diagnosis, so that you can actually figure out what the testing should be. And that wasn't done for long COVID and it wasn't done.
+
+Emily Oster, PhD (54:26)
+Yeah, I think in the case of chronic Lyme, you know, in in some ways you would think, okay, so part of that should be, you know, tick bite and basic, like some evidence that you have had acute Lyme disease. But since our tests for this are potentially false positive, potentially we have a lot of false positives and potentially some false negatives. And because sometimes you get bitten by a tick and then you don't it falls off and you don't know it, that actually can't be a or at least that's
+
+not necessarily a perfect diagnostic criteria. So by leaving the tent open, we don't have a we don't even have that, which would seem like the basic. Yeah. The sort of first basic.
+
+Perry Wilson, MD (55:04)
+Yeah. and again, you know, the the pathway for this is you start with a narrow case definition, then you get your diagnostic tests, then you expand those to other people with more like without as classic symptoms and and you can then you can enlarge the tent. I said several times there's an ecosystem here. And I think what people need to be aware of is okay, if you ha if you're in an ambiguous state, you don't remember a tick bite, you didn't have a rash, but you're feeling all these vague symptoms, you can get
+
+sort of funneled into, often through social media or through the internet, to a self-described group of practitioners called Lyme literate doctors. and this is another term that's way too broad because there I know plenty of infectious disease doctors who would call themselves Lyme literate. I mean especially here in Connecticut. We have great infectious disease doctors who know everything there is about my giant table of
+
+Tick-borne illnesses. Then there are sort of self-described Lyme literate doctors who are part of this almost like a more shadowy medical adjacent ecosystem. And the reason I keep saying ecosystem is because these doctors refer to each other. So there's a there's a a sort of circular nature there. These doctors send blood tests to specific labs, so sort of Lyme literate labs.
+
+Often lack FDA clearance and sometimes lack CLIA certification. These labs will run tests that are research tests on the blood to look for evidence of Lyme disease, look for evidence of the spirochete, and often we'll find evidence. But again, we're very concerned about false positives because these are research tests and they set the thresholds for detection very low. There's a lot of cross-reactivity.
+
+And I've seen patients kind of get drawn into this. They start with vague symptoms, then they get a confirmatory test that tells them they have Lyme disease and they go down a treatment pathway, which can actually be quite dangerous. Again, this is not to say that they don't have real symptoms. It's not even to say that they don't have Lyme disease. It's just not the safe path to obtain the diagnosis and get the right treatments.
+
+Emily Oster, PhD (57:22)
+And there is a treatment that is very common and has been tested repeatedly and doesn't work. So the most common treatment for this is like IV antibiotics or very high dose, long-term
+
+Perry Wilson, MD (57:35)
+Long term. I
+
+Emily Oster, PhD (57:37)
+IV antibiotics. And, you know, there's a trial in the New England Journal of Medicine, which does not see any differences in health-related quality of life with people who are given, you know, long-term
+
+antibiotics versus a sh a shorter course. And this is a long term people are on these antibiotics for like months at a time.
+
+Perry Wilson, MD (57:56)
+Yeah. And
+
+the the the risks of long-term intravenous antibiotics are quite, quite high. just to say them out loud. you've got an indwelling catheter, so some right, you to infuse it somehow, a pick line, a central line of some kind that's breaking the skin. So that increases the risk of skin-borne bacteria getting into your bloodstream and causing sepsis. You're getting antibiotics, which increases your risk for C. diffacyl, that bad
+
+Diarrheal infection that happens when you kill off your good, healthy gut bacteria and the bad, evil bacteria take over. You dramatically increase your risk for candida infections. So yeast doesn't get killed by traditional bacteria. If you take an antibiotic, you're at high risk for yeast infections. But those yeast infections can happen in the blood in people with indwelling lines, and they're a disaster. I mean, they really are life-threatening. So
+
+This approach to therapy is super dangerous. And as you said, there's not just one randomized trial of this in chronic Lyme disease, there's multiple randomized trials. So some people got placebo and some people got long-term intravenous antibiotics, and there's no difference in outcomes. It just doesn't work. And it's one of the red flags I have for people that are going through this and who are, you know, seeing a practitioner that's diagnosing them this way. If they get to the point where they want to put a line in you and give you.
+
+several months of antibiotics, that's really time to get a second opinion. I I really think that's a red flag.
+
+Emily Oster, PhD (59:21)
+And I I mean I think that the truth is, of course, there people will say, Well, I did this and it and it helped. And
+
+Perry Wilson, MD (59:26)
+My gosh, look on Instagram, yeah.
+
+Emily Oster, PhD (59:27)
+and you know, the placebo effect is a really, really powerful effect. That is why we need randomized trial data. And especially in a case like this where the potential downsides are very, very real. Yeah. It is very important to make these decisions based on actual trial data. This is not, you know, taking a sugar pill and just using the placebo effect for it's
+
+Perry Wilson, MD (59:49)
+Why
+
+Not when it's intravenous. Yeah. there's also some confirmation bias that I've seen happen. So you know, you get your antibiotics and you feel better. Okay, great. That's confirmation that it worked. You get your antibiotics and you feel worse because you get diarrhea or one of the other many side effects from antibiotic use. there are people who say, that's the Jerish Herzheimer reaction, or the community calls it jerksing. this is a true thing. so any spirochete.
+
+for whatever reason when you kill it with so the other common one is syphilis. when you when you either kill syphilis or Lyme disease, acute Lyme disease, with an antibiotic, the spirochetes lie and they release a lot of inflammatory stuff. And for about 24 hours you can get like fevers and chills and stuff. It's more commonly described in syphilis with initial treatment. So that happens in acute Lyme disease or can in a subset of people with acute Lyme disease. But there's there's no real reason to think it would happen in chronic Lyme disease because
+
+We can't isolate the bacteria. Like it's not like we can see the bacteria in your blood that's floating around. It's not there. you know, the the tests don't show that. So it's not lysing. So, but what people will do, they'll just attribute any negative symptom to jerksing and any positive symptom to getting better, and it becomes this self-reinforcing thing. And by the way, here's another red flag if you're seeing one of these practitioners. If they're not taking your insurance, okay, if you're paying out of pocket for this, these
+
+Intravenous infusions can cost thousands and thousands and thousands of dollars. And I've seen patients who do it for three months. Maybe they feel better, they stop, they feel worse again, they do it for another three months. It can be really financially devastating.
+
+Emily Oster, PhD (1:01:30)
+Yeah. I mean, think the last thing I would just want to end on in this in this discussion, I don't think we're gonna answer these questions, is you know, people are going this route because the medical system has failed them. And so it's I think fine to say it's reasonable to say, you know, you shouldn't go this route. But to just say you shouldn't go this route and whatever. So just like live with it is also terrible. Correct. And so I think there are there is real research that needs to
+
+happen and I think some of it is happening, but you know, real things that need to be done and people do need to be listened to. And if they were listened to, it would potentially close some of this exactly.
+
+Perry Wilson, MD (1:02:10)
+Distrust
+
+that exists. absolutely. Actually, just today I saw HHS had announced a series of new initiatives towards Lyme disease, including some research funding directed towards understanding these long-term post-treatment syndromes. that's good. Yeah.
+
+Emily Oster, PhD (1:02:28)
+Ross Duthap, by the way, has a very good book called The Deep Places. Ross is a columnist for the Times who had cro had Lyme and had chronic Lyme. And it's it's an interesting book to read because he, you know, this is a very scient broadly scientifically minded person who really goes in directions that I think he would even he would say were very unscientific and experimental, just in the cert, and you can sort of feel the like.
+
+I just need to figure out something to fix this because it is ruining my life. Desperate.
+
+Perry Wilson, MD (1:02:58)
+The desperation. The desperation.
+
+and and doctors are, you know, I'll tell you from a from a physician standpoint, it is I it's really hard to not be able to offer a patient something. You know, they come in and it's like, you know, they're having all this stuff and I can do these tests. And if I'm not coming up with anything, it it feels terrible. But the truth is, those are the places where research is most needed. And
+
+Until that good high-quality research is done, we are going to see a parallel ecosystem emerge. It's it's sort of the natural thing. People are going to offer solutions. and I don't want to discourage people from exploring any potential solution, with the potential exception of long-term intravenous antibiotics, because they really can be so so harmful and potentially fatal. So that's the that's the only one that I really do worry about in this space. Otherwise, we just have to do better. listen to your patients.
+
+Work through if you have to go symptom by symptom, go symptom by symptom, get them to the right specialists, figure out other mechanisms, other solutions to this.
+
+Emily Oster, PhD (1:04:09)
+Okay, I want to end on a more positive note, which is about the vaccine. so you know, a lot of people, specifically my husband, asked me three times a week why there's no Lyme disease vaccine because he hates ticks.
+
+Perry Wilson, MD (1:04:23)
+My dog gets a Lyme disease vaccine more than
+
+Emily Oster, PhD (1:04:25)
+your dog gets one. And amazingly, we used to have one. So there was a there was a Lyme disease vaccine called LimeRix, which was pulled off the market in 2002.
+
+It did work. There was a litigation backdrop. People said there were autoimmune side effects. G I they just decided it was
+
+Perry Wilson, MD (1:04:45)
+I don't think I made enough money, honestly. I
+
+Emily Oster, PhD (1:04:47)
+didn't people didn't want it, but it's back. Not that, but something else. There's a new Lyme disease vaccine that just complete completed its trial in March. 73% efficacy against infection. The confidence interval is enormous. 16 to 93%. Very big. Not enough people in your trial. more ordinary cases, but but you know, it seems like we are moving in the direction of having this. So, Jesse, hopefully soon for you. Lyme disease.
+
+and let me say one other thing before we smash or pass our ticks, which is you should be avoiding ticks. Moving away from Lyme disease, you want to avoid ticks.
+
+Perry Wilson, MD (1:05:24)
+Yeah, let's not even get started.
+
+Emily Oster, PhD (1:05:26)
+Okay. So there are two things about avoiding ticks. One is there's stuff, comes in an orange spray bottle. You can spray it on it, it's called Pireth.
+
+Perry Wilson, MD (1:05:36)
+Per met per methrase.
+
+Emily Oster, PhD (1:05:38)
+Permethrin.
+
+Yeah. And you can spray your clothes with it. That's a really good idea if you're gonna be hiking in tick-borne areas because it like repels the ticks off your clothing. Okay. That's a really good idea. Yep. Bug spray also works. deed is fine. It's not poison. You can use it. Also protects you against mosquitoes. And you should check people for ticks in your family. You should check each other for ticks. It's not going to fix your Piwassin problem, but for Lyme, taking ticks off.
+
+if you see them is good and so you should check yourself. There's also really good country song with that lyric.
+
+Perry Wilson, MD (1:06:12)
+Check yourself for tick.
+
+Emily Oster, PhD (1:06:13)
+No, it's like I want the lyric is I wanna check you for ticks. and, you know, it's it's romantic. I yeah I guess so. Foreplay
+
+Perry Wilson, MD (1:06:21)
+Sure. primates do groom each other.
+
+Emily Oster, PhD (1:06:25)
+Primates do groom each other. All right, Perry. Are you a smash are you a smasher bass on dick?
+
+Perry Wilson, MD (1:06:33)
+I'm gonna pass on ticks. I think you should stay away from them. I think they should stay away from us. You know, I don't know. Ecologically, do they have some role? Yeah, I you know, may I like if I could snap my fingers and eliminate all ticks, would it cause some horrible like would then all of a sudden like all the ducks would die? I don't know. But yeah, pass. How about you, Emily?
+
+Emily Oster, PhD (1:06:55)
+I'm a I'm a pass on ticks. Yeah, I'm a pass on them. That's controversial,
+
+Perry Wilson, MD (1:06:59)
+Very controversial controversial.
+
+Emily Oster, PhD (1:07:01)
+controversial take. Don't like ticks.
+
+Perry Wilson, MD (1:07:05)
+All right, when we come back your question of the week.
+
+Emily Oster, PhD (1:07:10)
+Okay, somebody's gonna read this view.
+
+Perry Wilson, MD (1:07:15)
+I'll I'll read it.
+
+Emily Oster, PhD (1:07:25)
+You should just ask me. I'm so good at this. Yes, running.
+
+Perry Wilson, MD (1:07:32)
+Back with question of the week. If you have a question for us, drop us a line at wellnessactually.fm. Our mailbag question of the week is here.
+
+Okay, Emily, VO2 Max. This is right down the middle for an Emily Auster question. What is VO2 Max? What do you think my VO2 Max is? What is your VO2 Max? And how good is it as an indicator for overall health?
+
+Emily Oster, PhD (1:08:02)
+Amazing.
+
+Okay. So VO2 ma'am made for this question. so VO2 max is the highest amount of oxygen that your body can use during hard exercise. So it is a measure of how well your heart and lungs and muscles working together. The V is volume, O2 is oxygen. So max is means the ma maximum. so it is a a common metric of like aerobic fitness. Higher is better. Higher
+
+Perry Wilson, MD (1:08:28)
+Higher's better.
+
+Emily Oster, PhD (1:08:30)
+is better. It goes down with
+
+age. and the reason this gets a lot of attention is if you ran a regression, like an analysis of like long so looked at correlations between longevity and many other many metrics you would have, this loads the strongest. So this is like the highest value predictor of things like longevity that that we have. Okay. Yeah. And overall health.
+
+Perry Wilson, MD (1:08:59)
+Interesting.
+
+Emily Oster, PhD (1:09:02)
+Yeah, it beats like finger strength, although finger strength, let's we can get another episode, how stupid that is. But this is really it beats, you know, resting heart rate. It beats like BMI B, like it's really, really good. Okay. And so one people like to interpret that as like, you know, if I changed this, it would be really beneficial. I think that that's too far. I think the issue is that this is something that moves very readily with a lot of the kinds of behaviors we know are effective. So this is a
+
+This is something you can move pretty easily with exercise. and so even when when people who don't exercise at all exercise for small amounts, you will already move their VO two max. And so it's just like a very sensitive measure. And so that's why the correlation is so good. Okay. But and so there are many things that you could do to move this, which would probably be good for you. But like if just one day you woke up and nothing else had changed and all of a sudden your VO two max was higher, like that's probably not.
+
+Meaningful. what's a good number?
+
+Perry Wilson, MD (1:10:01)
+How do I measure
+
+Emily Oster, PhD (1:10:02)
+Yeah. So if you have a wearable, it will measure it will give you a kind of correlationally appropriate but noisy and kind of garbage like but like f your wearable will measure this. If you really want to measure this, like you're in the you know, cycling routine or whatever. Yep. you gotta get on a like you get on a on a treadmill with a mask on. And that will measure your VO your BO two max.
+
+Perry Wilson, MD (1:10:29)
+Yeah.
+
+Emily Oster, PhD (1:10:29)
+People people don't really don't people don't really do that. There's no reason to do that. but if you have a wearable the like and you start exercising more, this is a number of people will see move. It's like a good motivator. I would guess yours is
+
+Forty five.
+
+Perry Wilson, MD (1:10:48)
+Okay. What's yours? That's
+
+Emily Oster, PhD (1:10:49)
+Fifty five. all right.
+
+Perry Wilson, MD (1:10:51)
+fine. I don't really know what that means, but I'm I'm flattered that you you're gonna give me ninety percent.
+
+Emily Oster, PhD (1:10:56)
+Yeah.
+
+it's like the you know, truly like exceptional elite athletes will be in like the eighties, but that would be like very unusual. The sort of average for people is in the like
+
+Perry Wilson, MD (1:11:06)
+thirties. Have you done the full mask?
+
+Emily Oster, PhD (1:11:08)
+No,
+
+I didn't I c I did consider it, but I had trouble finding a lab, because I'm crazy. and I ultimately decided there was no point in knowing that number, except to tell you I'm t to say it on a five. Now I'm
+
+Perry Wilson, MD (1:11:19)
+And to just
+
+Emily Oster, PhD (1:11:20)
+assert that you're ten points higher than I am. Now I'm regretting it. but I was able to I was able to assert that I was ten points higher than you with no evidence. So
+
+Perry Wilson, MD (1:11:28)
+Emily and I are doing a VO2 max competition. I will probably die.
+
+All right, that's it for us today. we are off next week. but you're going to hear a classic episode worth re-listen.
+
+Enjoy the end of the s okay. I didn't say that very well. I'll try it again. That's it for us today. We are actually off next week. We'll be rerunning a classic episode. It's definitely worth a listen. Enjoy the end of the summer.
+
+Emily Oster, PhD (1:12:01)
+And it was great to see you in person today, Perry. And I wanna thank our audio engineer here at Yale, Ryan McCa how do you say your last name?
+
+Perry Wilson, MD (1:12:08)
+Boy.
+
+Emily Oster, PhD (1:12:10)
+it was great to see you in person today. And I wanna thank the audio engineer here at Yale, Ryan McAvoy. Thanks, Ryan.
+
+Perry Wilson, MD (1:12:19)
+all right, opening for peptides rerun.
+
+Hi everyone, Perry and Emily here.
+
+Emily Oster, PhD (1:12:26)
+sorry, I don't have it open so I can't do this. Is it in the
+
+Perry Wilson, MD (1:12:32)
+It's at the very end of the tab one.
+
+Emily Oster, PhD (1:12:34)
+sorry.
+
+I'm sorry guys.
+
+Perry Wilson, MD (1:12:39)
+It's long episode. Got a lot of stuff to do tomorrow. That's what happens when we're in person.
+
+Emily Oster, PhD (1:12:44)
+Okay.
+
+Perry Wilson, MD (1:12:48)
+Okay. Hi everyone, Perry and Emily here. Hello. And if you're hearing this, I'm actually in Italy, on vacation, probably eating gelato.
+
+Emily Oster, PhD (1:12:58)
+And I'm in my office in Providence. I'm probably drinking a creatine infused protein shake.
+
+Perry Wilson, MD (1:13:02)
+And we're running our first rerun and enjoying what's left of the summer.
+
+Emily Oster, PhD (1:13:07)
+This is our episode on peptides. It was one of our earliest, but also one of the most prescient ones.
+
+Perry Wilson, MD (1:13:12)
+Yeah, it's amazing to me how often peptides have come up in so many other wellness discussions.
+
+Emily Oster, PhD (1:13:18)
+It is actually somewhat upsetting to me, to be honest.
+
+Perry Wilson, MD (1:13:21)
+Anyway, enjoy the rest of the summer.
+
+Emily Oster, PhD (1:13:24)
+Be careful of text.
+
+Perry Wilson, MD (1:13:25)
+And we'll see you for a brand new episode next week. In the meantime, please leave us a rating and review on Apple Podcasts and follow our Instagram at wellness actuallypod and tell people about the show. It really helps us out.
+
+Emily Oster, PhD (1:13:35)
+Thank you for listening.
+
+Perry Wilson, MD (1:13:36)
+Ciao.
+
+You've got to say it's Thursday.
+
+Emily Oster, PhD (1:13:44)
+It's Thursday. Sorry. Okay. I can't scroll. It's Thursday, August 27th, 2026. And this is wellness actually.
+
+Okay. Thank you.
+
+Perry Wilson, MD (1:13:58)
+Right,
+
+everybody.
+
