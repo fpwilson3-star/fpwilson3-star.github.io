@@ -363,6 +363,7 @@ CLUSTERS = {
         "is-red-meat-actually-bad-for-you",
         "what-does-the-sun-actually-do-to-your-health",
         "is-fluoride-in-water-safe-and-does-it-still-work",
+        "what-ticks-actually-do-to-your-body",
     ],
     "Health technology": [
         "how-mrna-vaccines-work",
@@ -370,6 +371,7 @@ CLUSTERS = {
     "Screening & diagnostics": [
         "are-full-body-scans-worth-it",
         "continuous-glucose-monitors-non-diabetics",
+        "what-ticks-actually-do-to-your-body",
     ],
 }
 
