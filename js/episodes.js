@@ -46,6 +46,8 @@
 
     { slug: 'what-ticks-actually-do-to-your-body', title: 'What ticks actually do to your body, from Lyme to alpha-gal' },
 
+    { slug: 'what-your-poop-says-about-your-health', title: 'What can your poop actually tell you about your health?' },
+
   ];
 
   const linkStyle = 'font-family:var(--font-mono);font-size:0.85rem;color:var(--color-accent);text-decoration:none;';

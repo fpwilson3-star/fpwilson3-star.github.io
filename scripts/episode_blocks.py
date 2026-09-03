@@ -335,6 +335,7 @@ CLUSTERS = {
         "how-much-protein-do-you-actually-need",
         "is-moderate-drinking-actually-bad-for-you",
         "is-gluten-actually-bad-for-you",
+        "what-your-poop-says-about-your-health",
     ],
     "Biohacking & recovery trends": [
         "cold-plunges-saunas-health-benefits",
@@ -342,6 +343,7 @@ CLUSTERS = {
         "do-cupping-and-dry-needling-actually-work",
         "does-methylene-blue-actually-work",
         "continuous-glucose-monitors-non-diabetics",
+        "what-your-poop-says-about-your-health",
     ],
     "Injectable & regenerative therapies": [
         "do-peptide-injections-actually-work",
