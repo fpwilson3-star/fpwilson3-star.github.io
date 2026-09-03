@@ -1,0 +1,1070 @@
+WELLNESS, ACTUALLY
+
+WHAT'S THE DEAL WITH POOP?
+
+Recorded: September 2, 2026
+Air date: Thursday, September 3, 2026
+Hosts: F. Perry Wilson, MD, and Emily Oster, PhD
+Runtime: approximately 72 minutes
+
+This transcript has been edited for clarity. Filler words, false starts, retakes, and in-
+studio production chatter have been removed. A handful of misspoken terms have been
+corrected; see the editor's note at the end.
+
+========================================================================
+
+Correction
+
+Perry Wilson (00:02): Before we get started today, a quick correction on our tick episode.
+Hat tip to Parker Hudson, infectious disease doctor and Hospital of the University of
+Pennsylvania alumnus like me, who pointed out that the Infectious Diseases Society of
+America only recommends prophylactic antibiotics for prevention of Lyme disease for high-
+risk tick bites. Which means that it's an Ixodes species tick, so like a deer tick, that
+you live in a highly endemic area, and that it was attached for more than 36 hours.
+Otherwise, the ID society says just watch and wait.
+
+========================================================================
+
+Cold open
+
+Emily Oster (00:59): Perry, do men take longer to poop than women?
+
+Perry Wilson (01:06): I have no idea. Do they? Do I? Yes. Because I'm browsing my phone.
+
+Emily Oster (01:11): Well, fun fact: all mammals pretty much poop in about 12 seconds. So
+actually it doesn't take very long to poop. But the data does suggest that men spend more
+time in the bathroom. And one time a men's magazine did a highly, highly scientific survey
+of what was happening in there. And it was that they were reading on their phone.
+
+Perry Wilson (01:41): Is that what they said? Fine. Yes, everyone, that's what we're
+doing. I have my copy of Wittgenstein right by the toilet and I like to get a few chapters
+in in peace. Sorry, not sorry.
+
+Emily Oster (01:57): Twelve seconds. Twelve seconds is what you get.
+
+Perry Wilson (02:00): Well, I have a poop inferiority complex already as we start. Now two
+episodes in a row. We've done ticks, now poop. Sort of like an ick-themed series of
+things.
+
+Emily Oster (02:14): I could not be more excited. I do not think people talk enough about
+their poop, and I can't wait to discuss more about it.
+
+Perry Wilson (02:19): I'm glad you're poop positive. I am poop skeptical, but I hope that
+after this episode we'll all be more comfortable with that most natural of human bodily
+functions.
+
+Emily Oster (02:34): It's Thursday, September third, 2026, and this is Wellness, Actually.
+This week we're asking, what's the deal with poop? Perry and I will give the official
+smash or pass, and then we'll get to your question of the week. But first, let's do the
+health news roundup after the break.
+
+========================================================================
+
+Health news: rabies may be substantially undercounted
+
+Emily Oster (03:29): And now for the health news of the week. The first thing I wanted to
+talk about was rabies. Rabies is completely terrifying. It's one of the things I am the
+most afraid of. And it now seems like maybe it's underreported. Say more.
+
+Perry Wilson (03:44): Yeah, rabies is super scary because it is a disease without a cure
+that's uniformly fatal. That's what everyone needs to know. If you need to know anything
+besides that, you need to know that rabies has a rather long latent period between the
+bite, or even a scratch, people have been scratched and contracted rabies, and the time it
+manifests with symptoms. When you hit symptoms, it's basically over. But if you get
+vaccinated after the bite but before symptoms develop, you can almost always be protected
+from rabies. So that's what people need to know.
+
+Rabies is very uncommon, though. From 2000 to 2024, there were 60 reported cases in the
+US. Fifty-nine of those were fatal. The one exception is a woman named Jeanna Giese in
+2004, who underwent this special sort of protocol, was in an induced coma for a very long
+time. I just checked up, she's living a normal life now. Sort of a miracle. She's like the
+only rabies survivor. Fascinating story.
+
+But a new study just came out in Nature Communications that says that those 60 cases are a
+fairly dramatic undercount. They estimate, in fact, that there have been 856 cases of
+rabies over that time period. And the way they are estimating that is what's kind of
+interesting about this study, and actually pertains to my neck of the woods.
+
+Every once in a while, when you transplant an organ into a new person, that organ has a
+disease that you didn't test for, you didn't know it had. And of course then you put that
+organ in, a terrible example would be HIV. Obviously we test for HIV, but there have been
+rare cases where tests have been false negatives or whatever. You transplant that organ
+into someone, and not only do you transplant the infected organ, but you're
+immunosuppressing the recipient because they're getting a transplant. It's a perfect storm
+for these infections to crop up.
+
+And there have been three instances of undiagnosed rabies in a brain-dead donor, which
+only came to light after that brain-dead donor had their organs transplanted into other
+people. There was one most recently in February 2025 where the exposure was that the donor
+had been scratched by a skunk.
+
+So what the researchers did is they said, okay, we know how many deceased donors there
+have been over this time period. There have been 239,251. We know that three of them had
+rabies that we weren't aware of. And if you assume that their rate of rabies is the same
+as the general population, and we scale that 239,000 up, we get 856 cases.
+
+The idea here being that every once in a while people come in, and how this would manifest
+is as an encephalitis, a brain infection. And if you don't test for rabies, you might not
+know it's rabies. You would just say, my gosh, they have some horrible encephalitis. You
+do a bunch of tests. But maybe you don't hear a story about an animal exposure. That's the
+problem. A bat was flying around their house, they don't even know they were bitten, or
+something like that. The person invariably dies because they have symptoms, and rabies is
+uniformly fatal. And then you go to transplant their organs, or in the case of the people
+that don't go on to donate, they just die and it gets listed as encephalitis.
+
+It's not actually easy to test for rabies. You have to send the test to the CDC, or
+certain state labs can do it, but generally your hospital can't. So you need to be aware
+of it. And so yeah, we might be missing more rabies cases than we are aware of. And maybe
+people should be aware of it.
+
+Emily Oster (07:36): I do think people should be aware. But I want to dial down the alarm
+a little. This is still not that many cases, and it is still really something you can do
+something about. So if there is a bat in your house, even if you do not know that you were
+bitten by it, it is worth discussing with your doctor whether you should get a rabies
+vaccine.
+
+Perry Wilson (07:43): No, no, no. Dial it up. Dial it up. We're engaging our listeners.
+
+Emily Oster (08:06): It's not that bad. One time we found a dead bat in a guest house that
+we were staying in, and my entire family got the full-on rabies situation. And that's a
+giant needle, but it was totally fine.
+
+Perry Wilson (08:21): And it's not just bats. Any mammal, really. Very small mammals
+usually die before they can bite you, so mice and things like that, but certainly skunks.
+I think possums famously don't get rabies. But still, any strangely behaving mammal that
+you have an interaction with is something to be worried about. And as we say, you put this
+off, and once those symptoms start, and it might be weeks, it might even be a couple of
+months after exposure, it's over. So yeah, scary.
+
+========================================================================
+
+Health news: the Pennsylvania measles deaths
+
+Perry Wilson (08:51): Emily, I debated whether I wanted to put this on the list, but
+there's been so much talk about the measles deaths in Pennsylvania that I think we just
+have to weigh in here. Why don't you walk me through what's going on with measles writ
+large, and why is there so much consternation over these two perhaps measles-related,
+perhaps measles-associated deaths in Lancaster County?
+
+Emily Oster (09:25): I think it's important to start by setting the stage that we have had
+more measles this year than in many, many previous years. We've had 2,777 so far this
+year. It's the most since the early 1990s. The previous record since then was set last
+year. And there was a week in January of 2026 when there were more measles cases in that
+week than in most of the previous 20 years for the whole year.
+
+Perry Wilson (09:57): It's very contagious. We've said that a couple of times.
+
+Emily Oster (09:59): It's really contagious. And so we are clearly seeing more measles.
+There is no debate about that. There is also no debate about the fact that measles can
+kill you. Depending on the population that you're looking at, estimates of mortality are
+something like one in a thousand. Some of that mortality is actually longer term. Measles
+has impacts on your immune system that can cause death later, so kids who have had it may
+die later.
+
+So measles is definitely more around. It is also a potentially fatal disease. Most people
+who get measles don't die of it. So those things are all true.
+
+We are now having an argument about two particular cases of deaths in Pennsylvania that
+may or may not have been associated with measles. And part of what's hard about this is
+that sometimes when people die of things, it's not actually that obvious precisely what
+they died of. For example, when people die of HIV or AIDS, they are typically dying of
+something else. There's a cancer, there's something else that affected their immune
+system, but the underlying cause is the HIV virus.
+
+In this particular case, there are two measles-associated deaths. One of them I think we
+know almost nothing about. The other is a baby, and it's pretty clear now, actually, what
+happened. The Atlantic did some amazing reporting on this where they went and talked to
+the family. What happened is the mom and some of the other children in the family had very
+serious measles cases. Shortly after that, the mom gave birth. The baby had a lacerated
+spleen, which is not a very common thing to happen, but can happen potentially as a result
+of maternal measles infection. The baby died, and that's what happened.
+
+And so it's kind of ambiguous whether you want to say that's because of measles or not.
+It's not because a three-month-old baby got infected with measles and then died of
+measles. It's not that straightforward. It also seems very likely that the serious measles
+infection in mom was a factor in the death. And the reality is that there is a baby that
+died, and that is extremely sad. And these facts I said about measles are true. And this
+whole thing is so political in a way that is very frustrating from a public health
+standpoint.
+
+Perry Wilson (12:44): It's ghoulish, right? We're picking through these little tidbits of
+information that you get and you don't have adequate information. A lacerated spleen, as
+you say, is incredibly rare. It can happen through birth trauma. It can also happen
+because of spleen enlargement, which can happen with measles.
+
+Now, the coroner said the spleen wasn't enlarged. But actually, if it's bleeding, it can
+be hard to tell if the spleen was enlarged, because it kind of deflates if it's bleeding.
+And so you have to weigh it, and we don't know the weight of the spleen. We could go on
+and on. And in the end, this mom was sick enough to be in the hospital. It does appear
+like this was a preterm birth. We still don't know whether it was a C-section or a vaginal
+delivery.
+
+The unambiguous fact is that we're doing a poor job controlling an ongoing and growing
+measles outbreak. And this is not like the early days of COVID when we were saying, what
+do we do? How do we stop this? Do we isolate? Do we mask? Do we try hydroxychloroquine?
+We've known how to do this for decades and decades. It requires vaccination. Because
+measles is so infectious, it requires a lot of vaccination to achieve something like herd
+immunity.
+
+And RFK Jr. and other administration officials will pay lip service to being like, I'm not
+anti-vax, I'm not anti-vax. But then kicking up a firestorm like this almost feels like
+they're looking for an excuse to say, no, don't worry, measles is not a big deal, so it's
+okay if you're not getting vaccinated.
+
+And whether or not these kids would have died had they not had measles, this
+counterfactual that is impossible to test, it's still bad. There's other things that can
+happen. Measles can cause encephalitis, measles can cause a secondary pneumonia, missed
+school. Measles can cause this immune memory loss where it makes you more susceptible to
+other infections for years afterwards. It's just not good. And we have a solution. It
+seems like we're cutting off our nose to spite our face here.
+
+Emily Oster (15:03): It's very frustrating and also very sad. And I'm not sure how much
+there is to say about this.
+
+Perry Wilson (15:09): The one thing I will say, because people might be wondering, is that
+newborns can't get the MMR vaccine. One of the reasons that we worry about measles
+outbreaks is that because the MMR is a live attenuated vaccine, there are a lot of people
+who can't get it, including babies until they're nine months old, and then people who are
+immunocompromised, who have transplants and things like that. Which is why herd immunity
+might be important to protect them. Obviously the mother could have gotten vaccinated at
+some point. Generally we don't recommend vaccination during pregnancy.
+
+Emily Oster (15:45): Can I correct some of this? The reason we do not vaccinate newborns
+for measles is because they will not develop immunity until sometime after the maternal
+immunity wears off. So they have some immunity from their mom for about the first six
+months. Sometime between six and twelve months that wears off. But if you vaccinate them
+before that, it doesn't actually prompt their own immunity. So you can give your infant a
+measles vaccine as early as six months, then you need another dose at twelve months and
+another dose more than three months after that. So there are some ways to protect the
+baby, and very small infants are generally protected to some extent by their mother's MMR
+titers.
+
+Perry Wilson (16:22): Excellent clarification. Very nice, thank you. Appreciate that. All
+right, let's move on. That is it for the health news of the week.
+
+========================================================================
+
+Main segment: what's the deal with poop?
+
+Perry Wilson (16:30): And now for something completely different. Emily, what's the deal
+with poop?
+
+Emily Oster (16:47): I'm so excited to talk about this. I thought a lot about how we
+should help people understand this and what is really the question here. And I think I
+want to frame the question as: is poop a window to your soul? How much can we learn about
+ourselves from our poop?
+
+In the US, we're not really that into talking about it. People don't like to talk about
+it. But that's not true in every culture. Some cultures are much more into discussing the
+details of their poop.
+
+Perry Wilson (17:20): I mean, my wife is Jewish. I don't know if you're including that as
+a culture.
+
+Emily Oster (17:27): It's a disgust thing. So this whole episode, I think we should think
+of that frame. We're going to ask, is poop a window to your soul? And how much can we
+learn from your poop?
+
+Perry Wilson (17:41): I love it. All right. Talk to me.
+
+Emily Oster (17:45): No, you talk to me. You're the doctor. Let's start with the science.
+Tell me, what is my poop?
+
+What poop is made of
+
+Perry Wilson (17:52): Okay, that I can answer. I can't answer whether it's part of your
+soul, but I can tell you what's in it.
+
+So, what's poop? It's water, of differing amounts, depending on how much is reabsorbed by
+your colon. It is sloughed epithelial cells, so the lining of your colon as the poop
+passes through. It's a bunch of fiber from the food that you eat and can't digest. And
+then it is bacterial biomass.
+
+And you may wonder about the color and the smell. There's some interesting science here.
+It is generally brown because of something called stercobilin, which is a bilirubin
+metabolite. So it actually comes from the heme in your red blood cells. As red blood cells
+get broken down in your body, the heme, which is iron-containing, gets released and that
+gets metabolized into bilirubin and other things. That comes out in your stool and has a
+brownish color. We'll talk later about what colors of stool are something to be alarmed
+about.
+
+And then there's the odor. Some of that is hydrogen sulfide, the same smell that you get
+from rotten eggs, which comes from bacterial metabolism. But a fun fact: part of the smell
+is a bacterial product called skatole, which gives a particularly characteristic human
+poop smell. And little known fact, skatole is a somewhat popular additive to perfumes,
+because in very small amounts it apparently has a bit of a floral musk scent to it. Yet
+another example of the dose makes the poison, coming to you from the Wellness, Actually
+podcast.
+
+Emily Oster (19:56): That's kind of gross, actually. I find that gross. Okay, we're going
+to be positive.
+
+Perry Wilson (20:00): I thought we were going to be poop positive. I did look it up. The
+skatole that is in your perfume is not harvested directly from poop of any kind. It's
+synthesized in a lab.
+
+Emily Oster (20:10): That is reassuring.
+
+Frequency, consistency, and transit time
+
+Emily Oster (20:14): So that's what it is. I think the core question people have, before
+we get to the window to the soul, is: is my poop regular? And this is part of why we
+should talk about poop, because people wonder if their pooping is like other people's
+pooping. And you don't know.
+
+In the NHANES data, everybody's favorite nationally representative survey of Americans,
+they ask people many things, including how often they poop.
+
+Perry Wilson (20:50): Do you ever wonder about the NHANES people when they're getting
+together for next year's survey and they're like, all right, guys, we did alcohol intake,
+we did blood pressure, what's missing? And someone sheepishly raises their hand.
+
+Emily Oster (21:08): I love NHANES so much. So in that data, the typical range is
+something like three times a day up to three times a week. And the modal person is pooping
+once a day.
+
+I actually think these numbers are a little bit misleading, in the sense that almost
+everyone is in that range, including people who are having issues with their pooping. So
+frequency is actually not a very good discriminator about whether you are sick or you're
+healthy. If you're pooping 15 times a day, you probably are spending all of your time in
+the bathroom. That's a signal of a problem. If you're pooping less than three times a
+week, that is also likely a signal of constipation. But there's a pretty wide range, and
+you could be having issues with your digestive system even within that range.
+
+Perry Wilson (22:00): Right. Most people, even with irritable bowel syndrome or
+inflammatory bowel disease, with significant GI problems, still fall within that range. So
+it's not actually that helpful. There's as much variation between people.
+
+What I think people don't talk about well is consistency, because we have to talk about
+the Bristol stool scale. The good people at Bristol have created a qualitative scale to
+judge what your stool looks like. It ranges from type one, which is described as separate
+hard lumps like little pebbles, like rabbit poop, all the way to type seven, which is
+watery with no solid pieces. Those are both abnormal.
+
+The recommended healthy-ish range on the Bristol stool chart is types three and four. Type
+three is described as sausage-shaped with cracks on the surface. And type four is thinner
+and more snake-like, plus smooth and soft. So that's what we're looking for consistency-
+wise.
+
+And most of this is driven by water absorption, which happens along the colon. Your colon
+reabsorbs a lot of the water from your stool, and it does that based on the transit time
+of passage. So the longer stool sits in there, the more water gets sucked up and the drier
+and harder and lumpier it gets. And we don't talk about transit time.
+
+Emily Oster (23:37): No. But transit time is interesting because it varies quite a lot.
+Normal transit times are something like 10 to 75 hours, and that's a huge range.
+
+Perry Wilson (23:50): And that's mouth-to-toilet transit time we're talking about.
+
+Emily Oster (23:55): Mouth-to-toilet transit time. And you can test it. There are actually
+two ways. A free way to do this is to eat corn. Most people cannot digest a lot of corn
+kernels. So if you eat corn on the cob and then you wait to see when you see the corn
+kernels in your poop, that's a good metric.
+
+You can also dye your poop blue. There are different commercial and other frosting-related
+ways to do this. You can do this accidentally, and that's fun. That's like a fun activity.
+
+Perry Wilson (24:31): The blue poop challenge is an Instagram thing.
+
+[Clip: blue poop challenge]
+
+Perry Wilson (24:51): So this is something you can do in the comfort of your own home.
+What kind of food coloring to add? I've seen online, royal blue food coloring. You want to
+dye a muffin or something like that. And the normal transit time, as you said, is between
+10 and 75 hours. So 10 would be the short end and 75 would be the long end of time between
+eating a blue muffin and seeing some blue, or maybe greenish, or some abnormal color
+coming out the other end.
+
+Emily Oster (25:29): Now, having said that, transiting your poop very quickly is not a
+life goal. This idea that we are trying to poop-max and get our optimal frequency and have
+a laxative so the poop gets out faster, that's not a thing you need to do. Very long
+transit times can be associated with constipation, because the water gets pulled out and
+pulled out, and so that's something to be aware of. But you shouldn't be trying to take
+the blue poop challenge and then optimize so the poop comes out as fast as possible.
+That's just not healthy.
+
+Perry Wilson (26:09): No. Too fast would lead to malabsorption, and you want to digest
+your food. That's everything, right? If you read online, transit time within this normal
+10 to 75 hour range has not been associated with any particularly bad outcomes. So it's
+nothing you need to worry about much.
+
+But when we get into the microbiology of poop, the different types of bacteria that are in
+there, what we find is that actually a lot of that variation is driven by transit time. So
+I'm going to table that for a minute, so that when we talk about the fecal microbiome, we
+can remember that transit time is a thing. And maybe knowing your transit time doesn't
+give you any life goal in terms of making it shorter or longer, but it is nevertheless
+interesting information from a scientific and physiologic standpoint. And it's fun.
+
+When to worry
+
+Emily Oster (27:13): Before we get into all of that, I think it's worth saying, what are
+the things that would make you worry about your poop? What are the things to be concerned
+about, if it's not transit time or frequency?
+
+So one is if there is blood. Blood in the stool always deserves a call to your doctor. I
+will say, fun fact, about 40% of serious runners have blood in their stools sometimes.
+It's very, very common after a hard effort, after a marathon. Because when you're working
+really hard for a long period of time, your body basically pulls everything it can out of
+the gut. Your digestion just totally flakes apart. And then you have bloody diarrhea
+after. And it is bright red blood, it just looks like what you'd be very worried about.
+
+Perry Wilson (28:10): Can we do an episode on how humans shouldn't run marathons? Hot
+take. The first guy who did it died.
+
+Emily Oster (28:19): He did die. It's true. But he wasn't fueling adequately. So I think
+that's something to think about. Anyway, different episode.
+
+But I will say, even if you are a serious runner, if you are pooping blood, you should
+tell your doctor about that and you can decide what to do.
+
+Okay, your poop shouldn't be black, unless you are taking a lot of iron, which will turn
+it black. And it shouldn't be pale. That can be a sign of a problem with your gallbladder.
+Is that right?
+
+Perry Wilson (28:47): Yeah, pale poop is pretty scary. Gallbladder obstruction, which
+could hopefully be a gallstone in the common bile duct, but more ominously could be a sign
+of cancer that's obstructing the common bile duct, which we don't love. So definitely get
+that checked out.
+
+Emily Oster (29:02): The other thing is just weight loss and unexplained changes in
+pooping. Those are potential symptoms of a serious issue. And people generally should not
+routinely poop at night. In-the-middle-of-the-night pooping, sometimes it happens, but
+it's not a typical way your body would digest. And if that's a regular thing, that's also
+worth a call.
+
+Perry Wilson (29:24): Yeah. We talked about this in a prior episode, but I think that
+pooping is this amazing example of the brain-gut axis, because your social environment
+cues you to poop. We've talked about how for a lot of people it's like they don't feel
+like they've got to go, and then they get home where it's like, ooh, my nice toilet and
+everything. And then it's like, now I have to go. That's your brain telling your gut,
+let's go, now's the time.
+
+Coffee does this too. Caffeine obviously can stimulate your colon, but actually
+decaffeinated coffee prompts people to poop as well. And that's probably just a learned
+behavior. And your brain talks to your gut, which is why when you're sleeping, your brain
+knows that you shouldn't be pooping in your sleep. So if you are, talk to a doctor.
+
+Emily Oster (31:01): So that is what your poop tells you on a basic level, what you can
+observe in the toilet. I think the two other big pooping questions for me are, what can
+change your poop? So if you do find yourself in a bad part of the Bristol stool scale,
+like in the rabbit poop era of your Bristol stool, what can you do to fix it? And then I
+want to talk about the microbiome, because it's very hot right now and people are totally
+into it and they want to know about it. So we're going to do both of those things, but
+before that, let's take a quick break.
+
+========================================================================
+
+Fiber
+
+Emily Oster (31:43): Okay, we're back, and I want to talk about fiber maxing. Perry, are
+you fiber maxing?
+
+Perry Wilson (31:50): No. We already did protein maxing. I'm too focused on protein to
+focus on fiber. I had my protein drink, my Oikos 30 grams of protein whey protein
+milkshake, which has no fiber. I'm actually concerned about our lack of fiber given our
+protein maxing stuff.
+
+Emily Oster (31:56): No, sorry, you've got to do both. And none of it is in this cheese
+powder that you eat all the time. So you're in trouble.
+
+Perry Wilson (32:20): I have no evidence that this is true, but I'm going to assert it
+without evidence. Only here on the Wellness, Actually podcast will you hear the hosts
+admit that they're asserting something completely without evidence. But I believe that
+fiber might be the nutrient that Americans are subtherapeutic on, missing the recommended
+value on, more than any other nutrient.
+
+Like protein. We talked about the recommended protein intake, which is quite low, because
+it's just the amount you need not to waste away to nothing. Almost every American is
+getting more than that, and then we argued that probably they should be getting even more.
+But even the recommended amount of fiber, which is like 20 to 25 grams a day, according to
+NHANES the mean US fiber intake is 17 grams a day. So most Americans are actually below
+the recommended fiber intake. So we're bad at fiber maxing.
+
+Emily Oster (33:22): I don't find that very surprising, actually, because it's not that
+easy to add fiber to stuff. Most of the things we do in processing food take fiber out of
+it, and just putting it back in is not as easy as just making stuff with protein, I think.
+
+Perry Wilson (33:43): Oh my god, what a good definition for ultra-processed foods. Not the
+official definition by any stretch, but taking the fiber out to make everything easier to
+eat and digest.
+
+Emily Oster (33:54): Yeah, high energy density. But fiber comes in two types. It comes in
+soluble and insoluble, and also fermentable and not. So I guess there's like a two-by-two
+box of this.
+
+Soluble fiber gels. It's like oatmeal. It gels things together in your stomach and it
+slows the process of things through your gut. Insoluble fiber is like wheat bran, or any
+kind of husk. And that's nature's broom. I think that's probably what people think about
+more. It sort of flushes it all out. And that's the stuff you see in whole form in your
+poop a lot of the time.
+
+Perry Wilson (35:09): This might explain why doctors will recommend fiber both for
+constipation and for diarrhea, and they'll often not go into detail about which fiber
+they're talking about.
+
+It's that insoluble fiber, cellulose, wheat bran and stuff like that, that is just going
+to transit right through. Those are non-fermenting, which means they don't cause gas
+formation, which a lot of people don't like when they are taking in fiber. So looking for
+a non-fermentable insoluble fiber is going to clean you out without causing too much gas.
+That's good for constipation.
+
+A soluble non-fermenting fiber is actually going to slow things down. So when you're
+having loose stools and you want to bulk up your stools, psyllium would be a prototypical
+supplement there that doesn't cause gas.
+
+And then we have all the fermentable fibers, like resistant starch and all the things on
+the FODMAP diet that we talked about a few episodes ago, which are good sources of fiber,
+but the bacteria in your gut will ferment them and that generates gas. And then you have
+farts. Maybe that can be our next episode.
+
+Emily Oster (36:30): It's no problem to fart. Good sources of fiber include beans. Beans
+have a lot of fiber. Chia seeds have a lot of fiber. Oatmeal has a good amount of soluble
+fiber. So there are a lot of ways to get fiber, but they mostly are in the form of whole
+foods and fruits and vegetables.
+
+Perry Wilson (36:56): You've got to eat your fruits and vegetables, kids. You see a lot of
+health claims about the benefits of fiber beyond that it'll keep you regular, and I think
+there's a fair amount of support for this. I anticipate Emily is not going to be as gung-
+ho as I am. She's already rolling her eyes.
+
+There are strong observational data from multiple studies that higher fiber intake can
+reduce the risk of cardiovascular disease and stroke. I'm using causal language, which
+you're going to yell at me for. Higher fiber intake is associated with a lower risk of
+colon cancer as well. Emily, you're going to say, I predict, that people who eat a lot of
+fiber do a lot of other healthy things, and that's why they are healthier in the long
+term.
+
+Emily Oster (37:51): That's what I'm going to say. And randomized trial data has actually
+not supported some of these colon cancer claims.
+
+Perry Wilson (37:57): That's a very hard trial to do, because we're talking about fiber
+intake for twenty years.
+
+Emily Oster (38:01): I agree this is a hard question to answer. And I think part of my
+issue with this literature is that people say, this is such a strong set of things because
+we have this Lancet paper and it's 135 million person-years. But the thing is that when
+you add data that has all of the same biases, you haven't fixed your causal-versus-
+correlation problem. You've just made your correlations more precise.
+
+It's very, very clear that more fiber is associated with good health outcomes, but that is
+very different from saying that it is a causal link. And I don't think the causal evidence
+there is especially good. And we don't need to revisit my feelings on this in every
+episode, although we should, because people are confused.
+
+Perry Wilson (38:48): I like it. It makes me feel like I'm coming home to a nice warm
+sofa.
+
+Emily Oster (38:55): Not even any Mendelian randomization in this one. So, you know,
+bummer.
+
+Perry Wilson (38:57): Well, if there were, I would use causal language just to really
+annoy you.
+
+Emily Oster (39:03): The last thing I wanted to say about fiber is that you actually do
+need hydration to make your poop work with your fiber, but more hydration isn't more
+helpful. Fiber tends to be, when you add it, your poop gets better. You need to be
+adequately hydrated to appropriately poop, because as your poop moves through your colon
+it pulls water out. And if you don't have enough water, your body will prioritize pulling
+the water out for other bodily functions and then leave your poop all dry and Bristol type
+one rabbit pellets. But just drinking and drinking and being way more hydrated than you
+need to be is not going to make your poop nice.
+
+========================================================================
+
+Squatty potty, phones, and posture
+
+Emily Oster (39:42): There's more than fiber. One thing is the squatty potty. Do you have
+a squatty potty?
+
+Perry Wilson (39:56): No, I don't. I didn't know the data, and then I did the research,
+and now I'm like, I don't know. Squatty potties, tell me about it.
+
+Emily Oster (40:06): Squatty potty is great. The squatty potty is just a thing that you
+put under, it's like a plastic stool, and you put it around your toilet and you put your
+feet up on it and it changes your posture. It basically puts your knees up and it makes
+your colon straighter or whatever. It's more mimicking a squatting posture, which is the
+way people pooped before we got toilets.
+
+And there's randomized data, actually randomized crossover data, where they have people
+poop in both ways. And this improves the sense of complete emptying by like three times,
+and it reduces the straining by a lot. And this is very cheap and the effect sizes are big
+and I really, really think that you should get one.
+
+Perry Wilson (40:51): Almost five times, yeah. Do you have one?
+
+Emily Oster (40:59): Absolutely, we have multiple. I have them on all of my toilets. I'm
+not an idiot.
+
+Perry Wilson (41:01): Gosh. I'm an idiot. I want to file this. So, okay, I was seeing some
+crazy stuff online of people being like, if you're really poop maxing, you shouldn't have
+to wipe. And that's gross, first of all. But one of the arguments is like, animals don't
+wipe.
+
+Emily Oster (41:22): I used to have a cat that didn't wipe and it always had poop all over
+its butt. So I am just not getting into this.
+
+Perry Wilson (41:29): It's not the most compelling. But this is why I do these deep dives
+for this podcast. I don't know, it shows that something's deeply wrong with me. But I went
+into a little bit of evolutionary biology, and it turns out that one of the reasons we
+have to wipe is because we walk erect.
+
+We can add it to the checklist of things that, because we evolved to walk erect, which
+gave us use of our hands for tools, that was very nice, and maybe seeing over some high
+grasses in the African savannah or whatever else it was, we condemned ourselves to a life
+of back pain, a birth canal that is all jacked up and high maternal mortality, and the
+need to wipe our poops. And apparently there's evidence that humans have been wiping their
+poops since before we had paper, before we had anything. So it's not that animals are
+doing something right and we're doing something wrong. It's that we should never have
+stood up in the first place. And maybe the squatty potty corrects that just a little bit.
+
+Emily Oster (42:40): I'm not really sure that's what the squatty potty does, and you still
+have to wipe. People don't stop wiping. But do get a squatty potty.
+
+Perry Wilson (42:49): Also, I do have one of those bidet seats on my toilet, which is a
+total game changer, I will say. I love it. Come at me.
+
+Emily Oster (42:58): The other thing is you should not use your phone on the toilet,
+because it encourages you to sit for too long and then you get hemorrhoids.
+
+Perry Wilson (43:07): That is insane. You're crazy.
+
+Emily Oster (43:11): I realize this is a stupid thing to say, and many of us use our phone
+on the toilet all the time. A different way to say this is that there have been some
+studies that show that people who use their phone just sit for too long. So using your
+phone briefly on the toilet is fine. But if you're just sitting and sitting because you're
+trying to avoid your family and scrolling on your phone on the toilet, you should get off
+the toilet and sit in a different part of the bathroom and pretend that you're on the
+toilet, because otherwise you're going to get hemorrhoids.
+
+Perry Wilson (43:40): I saw that study and I think it's right, but it is very hard. I will
+say, if I forget my phone, if I leave my phone in another room and I'm on the toilet, I am
+desperate. I will grab a shampoo bottle and read the ingredients. I cannot just sit
+quietly with my thoughts.
+
+Emily Oster (43:54): You can't be alone with yourself. What does that tell us, Perry? For
+the twelve seconds that it should take you. Actually, you know what would be better? If
+you get a squatty potty, you'd be going faster and then you wouldn't be so bored.
+
+Perry Wilson (44:11): All right. Squatty Potty, hook me up.
+
+========================================================================
+
+The gut microbiome
+
+Emily Oster (44:46): So: knees up, phones down, eat your fiber, drink some water, have
+some coffee. That's the practical takeaway from this episode.
+
+But the more fun, sexy piece of this is the microbiome, and the idea that this exciting
+constellation of bacteria and fungi that are living in us are really important for a lot
+of things. I feel like the microbiome had a big moment a couple of years ago. Every
+episode of The Economist had a thing about the microbiome. Now I feel like it's died out a
+little bit.
+
+Perry Wilson (45:28): On the medical side it's still rip-roaring.
+
+Emily Oster (45:36): Okay, great. So what is this, and why are we thinking about it? Why
+do we care?
+
+Perry Wilson (45:39): Everyone knows there's bacteria in your stool, but it's more than
+just that there's bacteria. It is an ecosystem. There are thousands of different species
+of bacteria that live in your gut, that live in your colon. They're all interacting with
+each other. They're digesting food for you, they're releasing substances that are absorbed
+into your body. Without them, we would be very sick. These are symbiotes that live within
+us.
+
+People often ask, how much bacteria do you have in your colon? You'll hear statistics
+like, I have 10 pounds of bacteria. That's not true. You have 0.2 kilograms worth of
+bacteria in your colon. That's about an apple's worth of bacteria. But that's still a lot,
+because bacteria are very small.
+
+The way most microbiome studies work is you take a stool sample that is sent to a lab
+under varying conditions. There are some problems with these studies. It's mixed up, and
+labs will do DNA sequencing for a bunch of different known bacteria. Every bacterium has a
+short sequence of DNA that's kind of unique to it. And it's just, okay, if we find this
+sequence of DNA, we can therefore infer that this particular bacterium was in the stool.
+And you do that for hundreds or even thousands of different bacteria, and you can see the
+relative amounts of bacteria in someone's stool.
+
+Basically everyone has about the same 14 genera of bacteria. That's the human stool
+microbiome. But that vastly underestimates the amount of diversity from person to person.
+In a study of 4,000 people looking at their stool microbiome, 75%, so 3,000 of those
+4,000, had at least one bacteria type that was not found in any other person. So the
+chances are you have a bacterium living in your colon that, at least in your town, no one
+else has. And that seems nice. I don't know. Is that nice? I feel like I would want to
+know my personal bacteria a little bit better and talk to it. See how it's doing in life.
+
+Emily Oster (48:16): So people's microbiome is in that sense quite person-specific. People
+have shown you can basically re-identify like 80% of people a year later by various
+aspects of their microbiome. Having said that, there's actually quite a lot of individual
+over-time variation within an individual in your microbiome. It's not like you have one
+kind and exactly the same number of bacteria all the time. It's moving around with various
+aspects of your life.
+
+Perry Wilson (48:51): It's moving around a ton, and I don't think people appreciate the
+amount of within-person variation. For example, a lot of the wellness microbiome
+influencers will talk about certain species of bacteria and the relative abundance of
+something like Akkermansia or whatever. Your Akkermansia is too low, you need to take this
+supplement that I happen to sell to boost your Akkermansia. And any individual bacterium
+might vary in terms of concentration by tenfold between one day and the next day.
+
+So it's very different to say, taking the entire sum of bacteria, we can re-identify you
+from a data set, sort of like everyone has kind of unique fingerprints, than to say the
+particular whorls on your fingerprint are causing health or disease. The fact that many
+people are surprised at is that there is no reference microbiome. There's no normal.
+
+Emily Oster (49:48): This is the thing about this. People are like, make your microbiome
+great. For by what? How would I know if it was great? Who's the person with the best
+microbiome? Brian Johnson? I mean, we probably do know what Brian Johnson's microbiome is,
+but is that something to aspire to? There is no optimal here, the way there might be in
+some other things that we might measure.
+
+Perry Wilson (50:18): Brian Johnson's microbiome is probably screwed up because he has
+autoimmune gastritis. So I don't think I want his microbiome.
+
+So these things are shifting around a lot. It is unique to you. People will tell you it's
+what you're eating and your health lifestyle behaviors that are going to change your flora
+and fauna inside your gut. The primary driver in all of these studies that do repeat
+testing, so the same person, what is causing change here, is, callback, transit time. That
+seems to be the thing that changes your microbiome.
+
+And that makes biologic sense, because the longer stool is sitting in there, the more
+oxygen is getting taken up by aerobic bacteria. So the oxygen levels are going down. And
+then the anaerobic bacteria, the bacteria that don't need oxygen to grow, start growing
+later in the process. And so there's these dynamic shifts.
+
+There is some associational data that a greater percentage of anaerobic bacteria is
+associated with some worse health outcomes than aerobic bacteria. That might argue that
+shorter transit times would be better. Or maybe it argues that having a diet that promotes
+short transit times is healthy and right, and the bacteria are just a side effect that are
+moving around based on that exposure.
+
+Emily Oster (51:53): This for me is the core issue with this microbiome stuff, which is
+that it is crystal clear that the microbiome varies across people and that it plays a role
+in our lives. Just getting rid of your microbiome would be an extremely bad idea. But that
+is totally different from saying that changing it, even if you knew how to do that, would
+necessarily have some positive health outcome. Or knowing in more detail, how would I
+change it, and what would I want to achieve? And that could be different for different
+people. That's the other thing. My optimal microbiome could be different from your optimal
+microbiome. Almost certainly that's true.
+
+Perry Wilson (52:43): Totally. Although I guess we don't know what an optimal microbiome
+is, so I don't know.
+
+But I want to hammer home one more time that we don't really know whether the readout of
+bacteria in your poop is a result of your health, or whether the bacteria in your poop are
+causing health changes.
+
+Let's talk about what you'll hear when it comes to the microbiome. You'll hear that
+there's what I'll sometimes call a dysbiosis pattern. No researcher worth their salt is
+going to tell you that any one type of bacteria in your stool is good or bad. Obviously if
+you have salmonella, that's bad, but you know what I mean. They're not going to tell you
+that you want this one higher, this one lower. But they will use very complicated
+statistical techniques to identify patterns. And they have found patterns that are
+associated with things like inflammatory bowel disease, colon cancer, obesity, and other
+metabolic diseases.
+
+To me, a common thread in this dysbiosis pattern is that inflammation in the colon leads
+to decreased oxygen tension, which leads to increased anaerobic bacteria. So I can tell a
+story where you have inflammatory bowel disease for some other reason, that causes
+inflammation, that inflammation changes your gut bacteria, we read that out of your poop,
+fine, gut bacteria had nothing to do with it. They are just enjoying the anaerobic
+environment in which they live.
+
+Here's another story that's consistent with that data. For whatever reason, you got
+colonized with more anaerobic bacteria because you've eaten wrong and you didn't get
+enough fiber or whatever. Those bacteria release substances that angry up your colon,
+which then becomes inflamed and gives you inflammatory bowel disease.
+
+That's the state of observational data right now. And the only way to figure out causality
+here is to do fairly dramatic things to try to change the microbiome in a human and see,
+does it change their health?
+
+Fecal transplant and C. diff
+
+Emily Oster (54:52): And this is a place where I think the start of some of this
+microbiome interest is based on a really, really compelling set of very specific data.
+There's a condition called C. diff, which is a very debilitating diarrheal disease that
+people can get. It's a recurrent, persistent infection that can be really terrible.
+
+And it turns out that fecal transplants, transplanting healthy stool into the colon of
+somebody who has this, is incredibly effective at treating it. Much, much more effective,
+like 80 to 90% resolution versus standard antibiotics, which have a pretty low effect.
+This is the way that you treat this disease now effectively.
+
+Perry Wilson (55:53): Yeah, recurrent C. diff. And this makes sense, because C. diff,
+Clostridium difficile, can colonize your gut when the other bacteria in your gut are
+killed. Most people get this after taking a course of antibiotics. It's often a hospital-
+acquired infection. You get antibiotics, it kills off all your quote-unquote good bacteria
+in your gut, C. diff takes over. And you need to get those good bacteria back. And healthy
+stool has those good bacteria in it. So fecal microbiota transplant, pretty awesome.
+Endorsed by every major society for recurrent C. diff.
+
+Emily Oster (56:24): And this has been explored then in treatment of similar things like
+IBS, where it's obviously a little more mixed, ulcerative colitis, places where it seems
+like there's something going wrong in the stool transit system that might be impacted by
+changing the bacteria.
+
+All of this other shit that people tell you, though, this is actually not supported.
+There's this sort of idea that, okay, well, if taking someone with a really serious
+illness and putting somebody else's poop in them is going to fix that illness, then maybe
+you would just generally get healthier if you took some capsules of bacteria. But those
+are not the same activities at all.
+
+Perry Wilson (57:08): One hundred percent. And it's that theme again where wellness
+influencers start with biologic plausibility, and it's there, there is biologic
+plausibility here, and then they just jump to, let me sell you this product, without any
+of the steps in between. And when you look at those steps in between, you find that that
+stuff doesn't work.
+
+Probiotics
+
+Emily Oster (57:38): Yeah, let's talk about probiotics.
+
+Perry Wilson (57:43): I will give you three things that probiotics have been definitively
+established to be useful for. Everyone ready? And by the way, this is a multi-billion
+dollar industry out there.
+
+Here are the three things: preventing Clostridium difficile while you're taking
+antibiotics; necrotizing enterocolitis in premature infants; and pouchitis, which is an
+inflammation of the ileal pouch in people who have had a colectomy. And that is it.
+
+The American Gastroenterological Association specifically advises against probiotics for
+inflammatory bowel disease, irritable bowel syndrome, or kids with gastroenteritis. Which
+is what everyone is using this stuff for.
+
+Emily Oster (58:38): Disappointing. Yes, those are all the things people use it for. There
+are some reasons to think that this wouldn't work. There's some reasonable evidence that
+the probiotic, for many people, just never colonizes, just gets sort of eaten by other
+bacteria.
+
+Perry Wilson (59:01): Or digested, right.
+
+Emily Oster (59:06): The other thing is these probiotics are just a bunch of different
+random stuff. And even if your problem was that you were deficient in something that was
+causing some symptom, it's not at all clear that just taking the random probiotic that
+they sell at CVS or whatever was going to fix that particular set of issues.
+
+Perry Wilson (59:23): Right. It would be like someone saying, you should take an
+antibiotic for that. And it's just, okay, there's a lot of different antibiotics. And of
+course, saying that, there are plenty of influencers and naturopaths and people who will
+tell you exactly which specific strain of whatever, and no doubt sell it to you as well.
+And I'll just say there's no robust data for any of them.
+
+Emily Oster (59:50): You can actually pay people to test your stool and then sell you the
+stuff that will fix it. And what's so great is that when researchers have done this,
+there's this one paper where they sent the same poop to a bunch of different companies.
+And a lot of them just came back saying different random things. They counted them
+differently. Somebody said it was healthy, somebody said it was unhealthy. Companies
+disagree with themselves, and then they're like, here's the supplement that you need to
+fix this problem. It's an amazing business. Four hundred dollars to test your poop, plus
+you buy our supplements. I'm minting money. Where do I invest in this?
+
+Perry Wilson (01:00:41): This is the direct-to-consumer world, and it has all the
+trappings of science. This is a very complicated area. The testing is not easy. By the
+way, when you send poop in the mail, the bacteria isn't dead. It's going to continue to
+grow. So it'll change based on the temperature that it's sent at, and a lot of these are
+sent at room temperature. It'll change based on how long it takes to get to the facility
+and when they're actually testing it. There's just no valid way to do this for health and
+clinical treatment.
+
+Emily Oster (01:01:14): Let me ask you a question. What share of these companies do you
+think are just getting the poop in the mail, throwing it in the trash, generating a random
+set of data and then telling you to buy their supplements? You think it's like half?
+
+Perry Wilson (01:01:25): No, I don't think it's outright fraud. The testing is routine PCR
+testing. It's not expensive to do. It's hard to do correctly. Throwing it out would feel
+like outright fraud to me. I like to believe in the inherent goodness of humankind.
+
+Emily Oster (01:01:46): You like to believe in the inherent goodness of wellness grifters.
+Okay, that's awesome.
+
+The discordant twin study
+
+Perry Wilson (01:01:55): There's one microbiome study, and this is a little far afield,
+but I think it's such interesting science that I did want to bring it up, and that's the
+discordant twin obesity poop study.
+
+Emily Oster (01:02:09): In mice. But yes, talk about this. This is a cool one. I like
+this.
+
+Perry Wilson (01:02:15): This is a study that prompted people to begin saying that obesity
+is a disease of the microbiome, and that we can fix the obesity crisis by somehow changing
+our microbiome. It's a really fascinating study appearing in Science in 2013. It's a very
+small study. Emily points out it's largely in mice, but it's worth talking about because
+people mention it.
+
+What they did is they took four female twin pairs who were discordant for obesity. So one
+of the twins had to have a BMI greater than 30 and the other couldn't, and they had to
+have at least 5.5 BMI points between them for at least several years. So they were really
+different. By the way, only one of the four twin pairs were identical. It would be very
+hard to find identical twins that were this discordant on obesity, because so much of
+obesity is driven by genetics. So three of the pairs were dizygotic, fraternal twins.
+
+Then what they did is they took germ-free mice. These are mice who have no bacteria.
+They're raised in a germ-free environment. I think they're even birthed by C-section so as
+not to be colonized by their mom's vaginal flora. So, germ-free mice, and they gave them
+fecal microbiota transplant from each twin and let them eat whatever they wanted.
+
+And the mice given the obese twin's feces gained more total and fat mass and developed
+metabolic complications associated with obesity, like elevated blood sugar and things like
+that. Whereas the mice that received the other twin's just developed like a normal mouse.
+So, sort of a compelling study to suggest that something is going on with the bacteria
+there. Are they releasing something that's encouraging more eating behavior? Are they
+slowing the metabolism by secreting some bacterial metabolite? We don't know.
+
+Interestingly, when they put the lean mice and the obese mice in the same cage, the obese
+mice lost weight. And the reason they lost weight is because mice eat each other's poop.
+That's a mouse behavior. And so the obese mice ate the poop of the lean mice and the lean
+mice ate the poop of the obese mice, but apparently lean microbiome dominates, and the
+obese mice lost weight.
+
+Now, I can't think of any reason that this isn't a hundred percent applicable to human
+beings. Can you?
+
+Emily Oster (01:04:56): I can't think of anything, but it turns out the experiments are
+difficult to recruit for, the experiments that end in poop eating. And so for that reason
+and many others perhaps, they've actually struggled to replicate this in humans. So this
+hasn't led to some microbiome-related treatment for obesity.
+
+Perry Wilson (01:05:19): It hasn't. And there have been randomized trials of probiotics
+for obesity and they have really no effect. It doesn't seem like that's the driver in
+humans.
+
+========================================================================
+
+Smash or pass
+
+Emily Oster (01:05:27): But it is very interesting. My big-picture takeaway on the poop
+here is that actually you should be paying some attention to your poop, if for no other
+reason than that having a nice poop every day and not being constipated or having diarrhea
+really improves your life. I think for most people that's just a part of it. If every
+morning you just had one nice poop and you didn't worry about it for the rest of the day,
+that's good. That's a good way to start your day.
+
+And there are some ways to make that more possible. But that is different from saying,
+once you are at that, you're maxed. That's the poop max. There's no further poop maxing
+from there that I think we need to be doing. That's at least my take.
+
+Perry Wilson (01:06:15): I think you could not have said that better. That's my hashtag
+poop goal. And I think I'm pretty close. But maybe I need to eat more fiber, like every
+other American.
+
+Emily Oster (01:06:28): No, you need to get a squatty potty. I don't understand. Just get
+a squatty potty.
+
+Perry Wilson (01:06:35): Squatty Potty coming right up. All right, so I think I know where
+you're going to be on this, Emily, but: smash or pass, poop.
+
+Emily Oster (01:06:40): Smash on poop.
+
+Perry Wilson (01:06:43): I agree. I'm thankful for poop, and more importantly for regular
+poops on a Bristol stool scale of three to four.
+
+Emily Oster (01:06:55): Three to four. Totally. All right, that's it for poop. Your
+mailbag question of the week, after the break.
+
+========================================================================
+
+Question of the week: hydration
+
+Perry Wilson (01:08:23): And now for our question of the week. By the way, if you have a
+question for Emily and me, reach out to us at wellnessactually.fm. We would love to hear
+from you. All right, let's play it.
+
+Emily Oster (01:08:35): All right, Perry, I feel like this is your wheelhouse, as you are
+a kidney doctor. You are a kidney doctor who grew up in the 1980s. So what is going on
+with the excessive hydration that's occurring now?
+
+Perry Wilson (01:08:40): You're not going to like what I say.
+
+Drink more water is such an easy bit of wellness advice, especially living in a country
+with robust access to healthy water supplies and with good water bottles. The truth is
+that most people get a totally adequate amount of water.
+
+Physiologically, thirst is one of the most powerful sensations that animals have. We
+become thirsty when the level of sodium in our blood, which is normally 140
+milliequivalents per liter, rises to about 141 milliequivalents per liter. So as the water
+is gone, the sodium gets more concentrated. At 141, your brain is kicking in and you will
+find water. The only time that doesn't happen is if someone's incapacitated, and we'll see
+people with high sodiums because no one's giving them access to water. Or if they have
+rabies and have hydrophobia.
+
+Your urine puts out water. It's mostly water, and it can dramatically vary the amount of
+water that it puts out. You can put out about 20 liters a day of water in your urine if
+your kidneys are healthy. So if you're drinking 10 liters of water, you're just going to
+pee that right back out. And it doesn't do anything special. It doesn't help your kidneys.
+It doesn't kind of clean them out.
+
+One exception is if you're prone to kidney stones, and having more dilute urine might
+reduce the risk of recurring kidney stones. I have to say that. But beyond drinking when
+you're thirsty, there's not great evidence that drinking water that frequently improves
+your health. Sorry.
+
+For those of you not watching this on YouTube or a video platform, I wish you could see
+the faces. Everyone hates nephrologists.
+
+Emily Oster (01:10:49): You're boring, and I feel that people are water maxing and you're
+trying to, you know. I mean, first of all, do you have an Owala? Because my kids both have
+those and that's a great water bottle. And you could be water maxing.
+
+Perry Wilson (01:11:03): My kids do have some. I even give my kids water bottles to go to
+school every day. They all have their water bottles, refill their water bottles. I just,
+from a health standpoint, as long as they're given access to water, they'll drink when
+they're thirsty, and that is all you need physiologically.
+
+Emily Oster (01:11:23): I do find we've gotten to a point where occasionally, if for some
+reason one of my children forgets their water bottle, they sort of come home with this
+view of, I almost died at school today. I didn't have my water bottle. All I could do was
+drink a small amount of water from the, in Rhode Island we call it a bubbler, the water
+fountain. I had to buy water in a box, because otherwise I would have died. But I guess
+what you're saying is they wouldn't have died that quickly.
+
+Perry Wilson (01:11:51): Correct. Look, if it makes you feel good, that's great. That's
+totally fine. But I do think people maybe go a little bit overboard with it.
+
+Emily Oster (01:12:08): You can drink too much water, also.
+
+Perry Wilson (01:12:10): You can. It's hard.
+
+Emily Oster (01:12:13): Mostly happens when you're running.
+
+Perry Wilson (01:12:15): Yeah. Water without electrolytes can cause hyponatremia, where
+your sodium is too low. So you dilute your sodium, and you really need the sodium in your
+blood to keep your brain and heart working. And the treatment of severe hyponatremia is
+very fun for nephrologists, but not very fun for the patients that we treat. That's one of
+our diagnoses.
+
+Emily Oster (01:12:37): All right, with that, that's it for us today. Stick with us next
+week, when we will ask: what's the deal with seed oils?
+
+========================================================================
+
+EDITOR'S NOTE
+
+This transcript was produced from the raw Riverside session recorded September 2, 2026.
+The following changes were made:
+
+Removed: in-studio coordination (cold open cueing, segment tee-up negotiation, "let me do
+that whole thing better" retakes), backchannel interjections, and repeated false starts.
+Where a segment was recorded twice, the second take is used.
+
+Corrected fiber taxonomy: at 35:09 Perry misspoke, describing psyllium as an insoluble
+fiber, then stopped and restarted. Only the corrected version appears above: cellulose and
+wheat bran as insoluble non-fermentable, psyllium as soluble non-fermentable.
+
+Spelling and terminology fixed from the auto-transcript: Jeanna Giese; skatole;
+stercobilin; psyllium; Akkermansia; NHANES; dizygotic; resistant starch;
+hydroxychloroquine; necrotizing enterocolitis; ileal pouch; American Gastroenterological
+Association; Bristol stool chart; genera; milliequivalents; skin turgor; Owala; "neck of
+the woods."
+
+Attribution corrected: the Lyme prophylaxis guidance in the opening correction is from the
+Infectious Diseases Society of America (rendered in the raw transcript as "International
+Infectious Disease Society").
+
+Flagged for verification before publication: the claim that opossums do not get rabies;
+the 40% figure for blood in stool among serious runners; the Bristol scale effect sizes
+attributed to the squatty potty crossover trial (three times vs. five times complete-
+emptying improvement, stated differently by each host); and the Lancet fiber meta-analysis
+person-years figure. Consider adding source links for the Nature Communications rabies
+paper, the 2013 Science twin study, and the AGA probiotics guideline.
