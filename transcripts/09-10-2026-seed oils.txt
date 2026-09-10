@@ -1,0 +1,762 @@
+WELLNESS, ACTUALLY
+
+WHAT'S THE DEAL WITH SEED OILS?
+-------------------------------
+
+Recorded 8 September 2026. Hosts: Emily Oster and F. Perry Wilson, MD MSCE.
+Runtime 1:10:14. Timestamps refer to the unedited recording.
+
+============================================================
+
+COLD OPEN
+---------
+
+Emily [0:00]
+Hi Perry.
+
+Perry [0:04]
+Hi, Emily.
+
+Emily [0:14]
+Perry, did you know that avocado oil is a seed oil because it comes from the seed of the avocado?
+
+Perry [0:21]
+a actually no and I probably should have because we're doing an episode on seed oils, but I thought I assumed it can't cause avocado like meat is pretty oily. I thought it just came I thought you just squeezed the meat. Is it is meat the right term? Okay. Yep.
+
+Emily [0:34]
+No, it involves it's not the right term. But also I have another fun fact about avocados. This is a good cocktail party fact for you. Avocado seeds are very large and animal and plants that require being reseeded require animals to eat them and poop them out. Like that's how plants work. And when avocados first e existed in the Mesoamericas, there were these giant animals like fifteen foot tall animal megafauna. They have names like megatherium and they had these like giant digestive tracts and they could poop out the whole avocado seeds. So they just like eat the fruits and poop out the seeds. But then those went extinct, like thirteen thousand years ago. And avocados almost went extinct. I'm not sure that it was totally our fault, but I think we played a
+
+Perry [1:16]
+Right around the time that Homo sapiens showed up, just pointing that out. Hmm.
+
+Emily [1:22]
+role.
+
+Perry [1:23]
+Okay.
+
+Emily [1:23]
+And then avocados almost went extinct before people discovered how delicious they were and started cultivating them. That was like 8,000 years ago. So we almost
+
+Perry [1:32]
+amazing. Thank you, Ancestor humans for keeping that keeping the avocados going.
+
+Emily [1:37]
+We almost have no avocados, but instead we have a lot of avocados. So there you go. And you can make them into seed oil, which is the topic of today.
+
+Perry [1:47]
+I love when a good plan comes together.
+
+Emily [1:51]
+Yeah.
+
+INTRODUCTION
+------------
+
+Emily [1:55]
+It's Thursday, September tenth, twenty twenty six, and this is wellness actually. This week we're asking, what's the deal with seed oils? Perry and I will give the official smash or pass and then we'll get to your question of the week. But first, let's do the health news roundup after the break. No break? No, there is a break. I never fucking remember if there's fine. All right, cool.
+
+HEALTH NEWS OF THE WEEK
+-----------------------
+
+Emily [2:41]
+And now we'll go to the and now for the health news of the week. Perry, there are a bunch of articles about how a promising heart drug has failed in clinical trials. What happened and is it something we should have predicted?
+
+Perry [2:59]
+I mean, this is this is actually really has sent a shockwave around the cardiovascular community. So the the story here is that cholesterol has many different subtypes. And some of them, like LDL cholesterol, we know are both associated with heart disease, like heart attacks and strokes, and that if you reduce them, then the risk of heart attack and stroke goes down. So, like that's true of LDL cholesterol. It is causally associated with. Cardiovascular disease, therefore reducing it changes your risk of cardiovascular disease. That's why statins work. There is another subtype of cholesterol called lipoprotein A, sometimes referred to as Lp(a). And the data is completely unambiguous that people with higher levels of Lp(a) have a higher risk of heart attack and stroke, just like LDL. It's like looks very, very similar. But it was really a problem because unlike LDL, which can be influenced by lifestyle factors such as diet, Lp(a) seemed to be entirely genetically determined. It was just like you rolled the genetic dice, that's your Lp(a). Sorry. so obviously the race was on to develop a drug that can reduce Lp(a). and Novartis did have one called pelicarsin. And in phase two trials, when they Did randomized trials of this drug versus placebo, people's Lp(a) went down by 80% on this drug. Slam dunk, reducing this level of a subtype of cholesterol. But that doesn't matter, right? What matters is does taking the drug actually reduce your risk of heart attack and stroke? Not, you know, does it change this surrogate marker? And of course, we all assumed, of course it will. Because we know that LP
+
+Emily [4:47]
+Yeah.
+
+Perry [4:47]
+little A is very strongly associated with these outcomes, just like LDL was. And if we can reduce it, we'll reduce the risk of these outcomes. And you probably see where this is going. In a phase three trial of 88,383 people, all of whom had high Lp(a) and a history of heart disease. they were randomized to get this drug, which is a monthly injection versus a placebo injection. And all we know so far is that there was no difference in the subsequent rate of. Major adverse coronary events, which was the primary outcome of the trial. Like really a type of like people were so confident in this. And I'll tell you, this enters the wellness space because a lot of direct-to-consumer testing labs will tell you your Lp(a) level. They'll be like, ooh, it's the new hot biomarker of cardiovascular risk. Like a lot of people listening who have done that testing will know what their Lp(a) is. And it turns out, like, Does it even matter? So so Emily, like this is sort of your area here, right? We have a clear correlation between a level and an outcome, but changing the level doesn't change the outcome.
+
+Emily [5:51]
+Yeah, I mean, it's not dissimilar from something like vitamin D, right? Like within the normal range, you know, above 20, people with higher vitamin D measurements with their blood type is have all kinds of better outcomes. And you can change vitamin D by giving people vitamin D supplements. But it turns out that that changing doesn't change any actual outcomes, even though it changes this intermediate marker. And it suggests to us that that marker, probably like this one, maybe is picking up. something else. Or certainly that's one explanation that this is a a marker of some other aspect of of probably genetics in this case or some other bodily feature. And so just moving around the marker, okay, but it actually doesn't move the underlying thing.
+
+Perry [6:35]
+Yeah. Yeah. I often think of this as like grip strength, which yeah, clearly people with stronger grip strength have, you know, better health outcomes. But if you just took someone and made them train just their grip strength, like that doesn't actually do anything, right? It's a proxy. I I did look to see like could this have been predicted? And and I checked because you and I often debate about Mendelian randomization as a proxy for causality in an observational world.
+
+Emily [7:00]
+yeah.
+
+Perry [7:01]
+There have been several Mendelian randomization studies of Lp(a). And all of them have had suggested that Lp(a) was causally linked to major adverse coronary events. Now it is always possible that this that that's still true and this drug just like maybe increased coronary events through some other process, although now I'm, you know, I'm having to invoke some special pleading to maintain the Lp(a) hypothesis.
+
+Emily [7:28]
+And just to bring a little economics into it, Novartis' stock price went down by 15% when this came out. so this was a surprise to the stock market as well as a surprise to the people doing the trial, presumably.
+
+Perry [7:47]
+Yep, back to the drawing board, guys. Okay, moving on. Another example of the wellness actually curse striking again. by the way, I don't know if you noticed this. We got an email. This is this is not the news item, but like normally the wellness actually curse is a good thing because we mention people doing nefarious things in healthcare
+
+Emily [8:08]
+Mm.
+
+Perry [8:09]
+and then they get fired or whatever, and that's all good. but like a month ago, we mentioned Dolly Parton and
+
+Emily [8:17]
+I know.
+
+Perry [8:17]
+And like now I'm worried that this is all our fault. So
+
+Emily [8:21]
+Dolly Parton was such an amazing person that is not the topic of today, but I think just like, wow, what an incredible legacy as a person. So just a note here
+
+Perry [8:31]
+I know, I know. So I
+
+Emily [8:32]
+like Dolly Parton, we could all aspire.
+
+Perry [8:36]
+Absolutely. So we we apologize if we had anything to do with that, but but let let's do take credit for this recent example of the wellness actually curse, which is that the Pentagon has rescinded their mandatory testosterone screening for troops one day after issuing the formal guidance for the troops to be tested. So, Emily, what's going on with testosterone in the military?
+
+Emily [9:03]
+I mean, as we said at the time, doesn't really make sense to to do this. There was a lot of unclear, there's a lot of unclear reasoning. It seemed at the initial time like they hit were suggesting it for everyone, including women. Really didn't make any sense. It then seems like that dialed that back to like men over 30, which still makes more sense, I guess. but they then they published a draft and then they took it down. The links on the page say page not found. they didn't even try for a redirect, which I think is really better practice for your for your website. they've indicated that the guidance has been temporarily rescinded to allow for updates. And that's that's where they where they are. So my strong guess is we will never hear anything about this again because the kind of MO of some of the things that they try in the health space in this administration is they sort of put it out there and they throw it and then if it comes back, they're just like, all right, we'll just put it in the hopper and never talk
+
+Perry [10:08]
+Right.
+
+Emily [10:09]
+about it again. So I don't think you'll ever hear about this again. My prediction, never come up again. Yeah.
+
+Perry [10:13]
+A bold prediction. I like it. okay. There we go.
+
+Emily [10:18]
+So there we go. Let's let's find out. our last piece of our last piece of health news is is fun. I mean, yeah, good it's good news. So
+
+Perry [10:32]
+Goodness.
+
+Emily [10:33]
+someone, it's about pig kidneys. So that we have hit a record on a pig kidney transplant. You're a kidney doctor. How excited were the kid was the kidney like You're a kidney doctor. How excited was the kidney community about this?
+
+Perry [10:55]
+No, we are we are very excited. there are about 450,000 people in the United States on dialysis at any given time. And those are all people with kidney failure. They're committed to dialysis three times a week, all of whom could potentially benefit from a kidney transplant. but we have a we're woefully inadequate in terms of the supply of human kidneys. There's just not Enough to go around. So we have to really make careful decisions about who's eligible and who's not, and so on and so forth. xenotransplantation is the idea of putting another animal's organ into a human. And as you can imagine, this is not easy because animals have different DNA and and the immune reactions are going to be stronger. but pig kidneys are about the right size for human kidneys, and the science here has advanced really dramatically. So what is happening here is we're not just taking a Random pig like from the slaughterhouse and grabbing their kidney and sticking it in someone. These are specially genetically engineered pigs. They've been CRISPR-cast to remove some of the antigens that a human would respond to in a pig kidney. They're sort of, they have humanized kidneys. They they appear more human to our immune system than they otherwise would. They are raised in a completely sterile facility, like these facilities are. Crazy. These are germ-free pigs because pigs will have different infectious organisms than humans have. And when you immunosuppress a human, you don't want to give them some weird pig infection that like we would otherwise fight off because those things are always terrible. So these pigs are all born by C-section, so they can't be colonized by their mother's vaginal flora. They are in these sterile environments where people are like wearing full suits of, you know, like biohazard suits. So there's It's like boy in a bubble pigs, basically. they also edit out this just has the worst possible acronym. So in all animals' DNA, there are these things called endogenous retroviruses. these are viruses that in our ancient ancestral history got into our DNA and sit there and then they get passed on genetically, like from one person to another. And most of them never reactivate, like humans have systems. To prevent those endogenous retroviruses that live in our DNA from ever becoming active again. We've evolved to those defense systems. But what we don't have defense systems against is porcene endogenous retroviruses, abbreviation, PERVS. So a major problem with pig xenotransplantation was PERVS, because those, although pigs can suppress their own PERVs from coming out, humans. cannot keep the PERVs from coming out of the pig kidneys. these were genetically edited away, the majority of them. And so an amazing bit of science allowed a human to live with a pig kidney for a record 271 days off of dialysis. And then he finally got, this is a guy named Tim Andrews, finally got a human transplant after waiting that amount of time. So, you know, this isn't like gonna be every single patient on dialysis yet, but the progress has been really tremendous and it's it's pretty cool.
+
+Emily [14:15]
+Yep. My my question with the what you just described, which is totally fascinating, is how realistic is this as a you know, you said there's four hundred and fifty thousand people in dialysis waiting for for a kidney? Is this something where like six of them in a year would get a pig kidney? Like it's a cool, interesting thing you could do, but very unlikely to actually be a meaningful thing, or is this one step in the direction of, you know, lab grown kidneys that We could actually replace human kidneys with.
+
+Perry [14:46]
+I think lab-grown kidneys, the progress hasn't been as fast. Like growing a kidney from scratch, just we can't get that quite right yet. But the pigs are growing the kidneys on their own and they look like kidneys and they're the right shape and they have all the tubes and stuff like that. So I actually think xenotransplantation comes first before lab-grown kidneys. And I I mean, I'm not gonna say every technological barrier has been overcome, but I actually suspect that we will. Like we're going to be on an upward ramp of this, and you're going to hear about a lot more. Pretty cool.
+
+Emily [15:18]
+Amazing. That's
+
+SEED OILS
+---------
+
+Emily [15:19]
+really cool. All right. that's it for the health news of the week. Now, what's the deal with seed oils?
+
+Perry [15:26]
+All right. Seed oils.
+
+Emily [15:31]
+How did we get here? I don't I
+
+Perry [15:31]
+Why how did we get here?
+
+Emily [15:35]
+don't know. I mean, so I think this conversation is so fraught because people have no idea how we got here and they don't even know what question we're asking. So I would say the way
+
+Perry [15:46]
+Yeah, yeah.
+
+Emily [15:47]
+people ask this question is, you know, are seed oils bad? To which I would say, well, relative to what? And that is sort of the whole frame here is like, what are you comparing them to?
+
+Perry [16:01]
+Yeah, we need to cook with fat because
+
+Emily [16:02]
+A and what do you mean by bad?
+
+Perry [16:04]
+if you're not cooking with some form of fat, then you're just not cooking, guys. So yes. Seed oil versus
+
+Emily [16:10]
+So we're gonna say seed this whole episode is gonna be seed oil versus or within seed oil versus, and I think that's that's the right way to ask the question.
+
+Perry [16:18]
+And that means we get to talk about beef tallow, which just was not even in my lexicon until RFK Junior,
+
+Emily [16:24]
+I was
+
+Perry [16:26]
+I guess.
+
+Emily [16:26]
+for reasons I don't even want to get into this weekend. I was on Amazon looking for something and I came across a product that was a like collagen beef tallow face cream. And I was just like, this is all the things. Like I should buy this and put it on
+
+Perry [16:44]
+Ha ha ha.
+
+Emily [16:44]
+my face. So maybe next time we come, I'll have a beautiful face. Beef tallow collagen.
+
+Perry [16:49]
+Well, it sounds like a face with a lot of pimples. I don't know. I I feel like beef tallow on your face is not
+
+Emily [16:52]
+It's like I totally agree.
+
+Perry [16:54]
+gonna keep your pores nice and open, but what do I know?
+
+Emily [16:57]
+So, yes, we will discuss beef tallow as a great alternative or possibly not to to seed oils. But the other thing I think people don't understand is like, what is this? Right. I asked you at the top of
+
+Perry [17:08]
+Yeah, yeah.
+
+Emily [17:08]
+the episode, like, is an avocado a seed oil? yes, although not everybody thinks that. So there's a hateful eight seed oils. Do you do you know what they are?
+
+Perry [17:21]
+I do now. this comes from Kate Shanahan. and these are the the the seed oils. So canola oil, also known as rapeseed oil, cottonseed oil, soybean oil, sunflower, and safflower oils, grapeseed oil, not rapeseed, but grapeseed oil, corn oil, and rice bran. did I get them all? Yeah.
+
+Emily [17:45]
+First of all, I just want to be clear. That's right. this comes from someone whose kind of whole thing is she she doesn't like seed oils. Her tagline is that she's standing up to health authorities about seed oils. So she's not a fan. Some of these things aren't seeds. Okay, just to be clear, corn
+
+Perry [18:00]
+Talk about a niche.
+
+Emily [18:01]
+is not a seed. Okay, corn is not a seed. Oil. It's not rice anyway, fine. Corn is
+
+Perry [18:06]
+Yeah, sure.
+
+Emily [18:07]
+a grain. Rice is a husk. I don't know. So, but some of these are seeds. They're seeds.
+
+Perry [18:13]
+Yeah, so okay, so seed oil is a misnomer, but what they are but the the list is the list, right? And you said avocado is a seed oil, but most people don't put avocado avocado in the seed oil category. So this is a vibe more than anything else, right? Seed oils. It's like the cheap,
+
+Emily [18:27]
+It's vibe.
+
+Perry [18:28]
+widely available oils that I can buy in the supermarket or that I'm gonna get from a restaurant that's frying stuff.
+
+Emily [18:34]
+Yeah. And I I think that's the thought actually that's useful for people to to hold for like think about this whole time. It's like most of these oils are cheap. If you ask like what is distinguishing these, it is not as so much the seeds as the price.
+
+Perry [18:46]
+Mm.
+
+Emily [18:46]
+And these tend to be the kinds of oils you are using in a lot of processed foods, a lot of packaged foods, because they are they are cheap. And that's gonna come up when we try to evaluate their health impacts because of how price works.
+
+Perry [19:02]
+Yeah. And I mean, we've we've telegraphed multiple times in wellness actually how price signaling always confounds health relationships because rich people get better health care, at least in the United States.
+
+Emily [19:15]
+Yes. True. All right, so what these things do share, I think, which is s consistent with corn oil, safflower oil, et cetera, is that they have a lot of omega six polyunsaturated fatty acids. Sometimes the other word for this is l lineolic acid. Am I saying that right? Linolaic. Linolaic acid.
+
+Perry [19:35]
+Lenolic acid is the yeah, linoleic acid. Let's do some science.
+
+Emily [19:42]
+It is one of our essential fatty acids.
+
+Perry [19:44]
+Yeah. Yeah. Yeah. Remember when we were talking about supplements and stuff, we talk about essential vitamins and minerals and things like that. By the nutritional term essential doesn't mean like, ooh, great, and part of a healthy diet. It means a substance that you need for survival that you can't synthesize yourself. And there are two essential fatty acids, and one is linoleic acid, the the major constituent of things like corn oil. If you don't get enough linoleic acid, you die. and you can't make it yourself. So you literally, like right off the top here, you do need some. You do need to get some into your body somehow. I mean, we can argue how much is too much. And I will say that the deficiency states are pretty rare because you don't need a ton of linoleic acid to survive. You just need a little bit. And almost everyone easily gets that through their, through their diet. So we don't, we don't see, you know. We don't linoleic acid deficiency too much unless people have like various GI symptoms. the other essential fatty acid is known as ALA. It's an omega-3 fatty acid. And I think I think we've got it, like we're gonna get there, but is now a good time to talk about like ooh, polyunsaturated versus monounsaturated versus saturated fats, because people are gonna need to know.
+
+Emily [21:07]
+Yeah, do it. Let's let's do it. Go for it. Enjoy
+
+Perry [21:10]
+All right.
+
+Emily [21:10]
+yourself.
+
+Perry [21:11]
+Okay. so saturated fat, you've heard that term, and and probably because for 40 or so years, saturated fat was at the center of the lipid hypothesis, which was the idea that consumption of saturated fats increased cholesterol and promoted cardiovascular disease. This is almost certainly true. what a saturated fat is, what saturated here means is that the the chain of carbons, which is part of the lipid structure has only single bonds, no double bonds. So it is full of single bonds, saturated with single bonds. It actually means there's hydrogen sticking off, and but it's fine. They're just think all single bonds. And the way the practical upshot of this is that because they're all single bonds, the fatty acids aren't very kinky. They lay very straight, which means they can stand, they can s pack together very tightly. And that means that something that's high in saturated fat is going be solid at room temperature, okay? Like
+
+Emily [22:11]
+Like butter or beef tallow.
+
+Perry [22:13]
+butter or beef tallow. If you put some a double bond in that long chain of carbons, a single double bond, you get a monounsaturated fatty acid. And like oleic acid is probably our prototypical one there. That's the major component of olive oil. And by putting a little kink in that chain, they don't pack nicely together as much, and you get something that's liquid at room temperature. And then A polyunsaturated fatty acid has multiple double bonds. So multiple little kinks also going to be liquid at room temperature. And as you pointed out, linoleic acid is, you know, a great prototypical pofa polyunsaturated fatty acid. And now you know the chemistry that explains why beef tallow and butter are solid and
+
+Emily [22:58]
+Salad.
+
+Perry [22:59]
+olive oil is less so. Although you might note that olive oil, like if you put in your refrigerator, congeals, right? Whereas like Because it's only a monounsaturated fatty acid, but then you know, sunflower oil won't. I don't know. That's kind of neat. Food science.
+
+Emily [23:12]
+Food science. So I think it's worth talking about. Yeah, in some ways, all of the like lead up to this. And if you just talked about this like you would talk about it in a chemistry class, okay, this is a this is a kind of fatty acid. It's something that you need. Without it, you would die. It feels like, all right, cool. Why does Kate Shanahan hate them so
+
+Perry [23:30]
+Yeah.
+
+Emily [23:30]
+so very, very, very much? And I
+
+Perry [23:33]
+What'd they do to Kate Chanahan?
+
+Emily [23:35]
+ca Shade Shanahan, come on. and I think, you know, part of the for me, I think a big piece of this answer. is trans fats. So people in the 50s and 60s got very people were like very unhappy, maybe like later than this, about saturated fats and were looking for things like margarine. Remember margarine? Margarine was like so good for you. And margarine was full of trans fats. Trans fats turned out to be really bad for you. Trans fats were bad. They
+
+Perry [24:04]
+Absolutely. Yeah.
+
+Emily [24:06]
+they did not not good. They gave you heart disease. Surprise.
+
+Perry [24:10]
+Yep. pretty clearly. And trans fats are an industrial process. Like you you don't really get trans fats from natural sources. The reason the reason margarine works, and like Crisco is is, you know, maybe the first example of this, is that if you get these plant-based fats, the mono saturated and polyunsaturated fatty acids, they're liquids. And people didn't want to put liquids on their toast, right? Like they wanted to spread something on their toast. And so what Crisco, what the good people at Procter and Gamble figured out in 1911 is that they could take cottonseed oil, which was a liquid, and they could hydrogenate it so to make those double bonds back into single bonds. So they would saturate the unsaturated fat. They would, and that's what hydrogenated vegetable oil or whatever is. that process made Crisco solid and shelf stable, right? So now you've got instead of a Drizzly oil, you've got something you can spread or whatever you want to do with. And margarine was exactly the same. But the process of hydrogenation by breaking those kinks and making them straight again made trans fats the way it used to be done. They're now banned. And so you can't use those processes anymore. But it was, this is one of those cases where, yes, like it was the processing that caused the harm. And like processed foods are potentially bad in some cases.
+
+Emily [25:32]
+Yeah. So there was this backlash against trans fats. They ended up being banned. And I think part of that was then people got into okay, like let's processing in all forms is bad. And then and then I think that translated to like things that are not butter are bad because margarine was a substitute for butter. And so shouldn't we just go back to to butter? And that has led us to our current moment where the flipped food pyramid now has beef tallow and butter at the top and other things not at the at the top. And actually, yeah, RFK Jr. is moving towards trying to get seed oils out of school lunches and all kinds of other other stuff. So I it's like, you know, the trans fats were were bad, but that is different from saying that you shouldn't have canola oil.
+
+Perry [26:23]
+Right, right, right. Yeah. They were taking seed oils, they were messing up, they were messing them up and creating something bad that has now been banned. And now we're saying, therefore seed oils are bad. And we need to evaluate those claims based on what seed oils are today. and so let's do that. I think, you know, the the thing that resonates the most with what we've talked about is the first sort of Criticism. And there are a number of criticisms of seed oils, but I think the first criticism is the it's how they're made problem, right? The processing. So can I play you a clip of a st a typical influencer on Instagram talking about the processing of seed oils?
+
+Emily [27:15]
+Okay. Can I just listen to this for one second?
+
+[Clip plays]
+
+Emily [27:35]
+I got it.
+
+Perry [27:38]
+So Emily, this clip has multiple claims, all very scary. And I actually think because these get repeated over and over and over again, I think it's just worth like going through them once, talking about the processing. Yes, these are process like you can't just like squeeze a seed as hard as you can. Actually, there is cold press seeds, actually. Yeah, you can't. It's not as efficient. Yeah. Yes.
+
+Emily [27:56]
+You could actually, but it would just you just wouldn't be very much, right? You couldn't take the seeds and like squeeze them really hard and drip them into your it would take a very long time.
+
+Perry [28:04]
+Yeah, but there there are companies that are doing cold-pressed seed oils. But in any case, the standard way that like your canola oil is is getting done is a process thing. So let's let's walk through it. And I I think the basically the only thing true that was said in that clip is that hexane is used as a solvent here, right? I mean
+
+Emily [28:24]
+That sounds right. Yeah. I mean he did list some seed oils, that seemed right, at the top.
+
+Perry [28:27]
+Yeah. So so this this is true. You know, oils don't dissolve in water. So if you're trying to extract them from something, you need a non-polar solvent. Remember chemistry? Like dissolves like. So and hexane is what is typically used. So that extracts the oil, then the hexane is distilled off. you know, there is potentially some residual hexane in seed oils. The limit is less than one part per million. You know, and then this is just the standard like influencer thing, is like I'm gonna take this true fact, there's some processing here, and then I'm just going to extrapolate to everything else. So for example, hexane is it's a no it's a known neurotoxin. Okay.
+
+Emily [29:15]
+At some doses, yeah.
+
+Perry [29:17]
+Yeah, yeah, yeah. If you're sniffing glue, it's a neurotoxin. if you are if you fall into a vat of hexane in a hexane factory. It's a neurotoxin. That's true. But the dose makes the poison, right? Like tiny amounts of stuff your body deals with. You get exposed to all the time through multiple sources. I'm sure you're getting a lot more hexane filling up the gas in your car than you know, you are from your canola oil.
+
+Emily [29:43]
+Yeah, I mean this is this is such a classic wellness influencer tactic online and and really in all of in a huge share of the panic headlines that I deal with, it is just this point that people are saying, there's a tiny amount of this thing in something. And if you like ate that thing as your primary food, it could cause a problem. It's like, yeah, I get it. Or we fed mice this thing as their entire diet, and that wasn't good for them. It's like that's actually different. then there's a teeny teeny weeny amount of it and those are just not the same and that's it. They're just not the same.
+
+Perry [30:16]
+Yeah, the world is even natural foods, the world is full of toxins and poisons. Like we have multiple systems in our bodies. Exactly. That's it's just
+
+Emily [30:22]
+Sorry guys. That's why you have kidneys and a liver. Okay. That's what they're doing. It's their whole fucking job.
+
+Perry [30:27]
+the way it is. a couple of other
+
+Emily [30:30]
+Yes.
+
+Perry [30:30]
+errors there. sodium hydroxide is a powerful carcinogen. Like that is there, that's not true at all. Sodium hydroxide is just a base. We add it to the water supply in areas where the pH of the water is too low, like the p the water's too acidic. So you add sodium hydroxide to increase the pH to a normal level of seven or so.
+
+Emily [30:54]
+So what you're saying is the water is a carcinogen, is that what I'm hearing?
+
+Perry [30:56]
+Just like I just like at least hexane, you can be like, yeah, I guess if you sniff a bunch of glue, it's bad for you. But like sodium hydroxide, it's just a base. I don't know what that is. and the other thing that the oil is like made rancid by the processing or denatured, that's just also not true. Th it is extracted under some heat. And we'll we will go through what can happen with prolonged frying of oil at extremely high temperatures. That's not what's being used here. So again, just influencers saying stuff that's scary because saying scary stuff gets you to share with your friend and be like, look, you know, this is scary. Maybe we shouldn't use canola oil anymore.
+
+Emily [31:37]
+Also the the names are like, you know, so like sodium hydroxide. yes, that doesn't sound good, you know, the same but like what about sodium chloride? How does that sound? Like that sounds scary, that's salt. So
+
+Perry [31:48]
+Yeah, that's scary. yeah. it's yeah, you know, this is all sort of the like processing is bad. And and you know pr processing is it's really neither good nor bad. Processing can create bad things, like like super sugary, easily digestible food that gives us too many calories and makes us fat. Absolutely. But Processing in and of itself is not a poison. Yeah.
+
+Emily [32:22]
+Yeah, I think this is like a a sort of legacy of this is legacy in this case of the trans fat stuff. It's also a general legacy of this idea of ultra processing and processing itself as the problem as opposed to what it is processed into that is more of the of the issue. All right.
+
+Perry [32:35]
+Yeah. Exactly. Yeah.
+
+Emily [32:37]
+The second claim that I think we hear all the time beyond the processing is inflammatory. Boy, does a wellness influencer love inflammatory. I mean, good lord, could people be more excited
+
+Perry [32:45]
+Where would we be without inflammation?
+
+Emily [32:47]
+about being inflamed or not inflamed? Or like I'm not even sure if I would know if I was inflamed, but I for sure it's problematic.
+
+Perry [32:54]
+That sounds like something an inflamed person would say.
+
+Emily [32:56]
+I it definitely does. I'm f pretty sure. I'm pretty consumed a lot of sodium something yesterday and so I think I'm feeling inflamed today.
+
+Perry [33:02]
+Yeah.
+
+Emily [33:04]
+so is this first of all, what does that mean? Do we do
+
+Perry [33:09]
+god.
+
+Emily [33:09]
+we know? Do we have
+
+Perry [33:11]
+Okay.
+
+Emily [33:11]
+a sense?
+
+Perry [33:12]
+Yeah. I I think I know. Okay. so inflammation is the process of your immune system doing something. You know, it literally comes from like reddening up, right? Like like you you you get an injury and it turns red. It's in it it's inflamed. there is an increasing recognition that inflammatory molecules, things like C reactive protein, ha are different levels in different people, and that those levels might be dictated by some underlying pathology, chronic inflammation, and that chronic inflammation isn't good for you. And so a lot of times they're using these blood proxies of inflammation,
+
+Emily [33:52]
+Mm.
+
+Perry [33:53]
+often CRP. And let me give you an argument that you'll see from the influencers about linoleic acid, which is that linoleic acid is a precursor to arachidonic acid, which is another fatty acid. This is another thing your body needs. It transforms linoleic acid, an essential fatty acid, into arachidonic acid. And downstream of arachidonic acid are a bunch of inflammatory molecules. in fact, inhibiting arachidonic acid is some of the stuff that like NSAIDs do, or things downstream of arachidonic acid is some of the stuff that NSAIDs do to reduce inflammation. So it's like, well, it's on the pathway that generates inflammatory molecules, therefore it must. itself be inflammatory. True? False?
+
+Emily [34:41]
+interesting and a plausible hypothesis, which needs to be tested in re in randomized trials. I mean, this is an example a clay classic example of like here's an interesting mechanism. Could
+
+Perry [34:51]
+Mm-hmm.
+
+Emily [34:51]
+this be something that was true? How would you know? Well, you would randomize higher or lower Lenin L how the fuck do I say this? Take that part
+
+Perry [35:00]
+Little Aink.
+
+Emily [35:02]
+out tomorrow. When a lake. You would randomize people to higher or lower levels and you would see what happens to their C reactive protein or some other measure, but that would be the classic measure. And that would tell you whether this downstream path is actually having implications for what is realized in people. And they have done that. And the answer is no, that actually higher intakes do not correlate with higher metrics of inflammation or on many, many different versions of inflammation measures.
+
+Perry [35:38]
+yeah, a nice systematic review in the Journal of the Academy of Nutrition and Dietetics in 2012 looked at 15 randomized trials, which randomized people to higher linoleic acid intake versus other fats. And not a single one showed an increased C reactive protein in the high linoleic acid group. There was also no effect on IL6, TNF alpha, ICAM1, LMP selectin, fibrinogen, platelet activity, or any of the measured prostaglandins. Or thromboxane. So if you have a favorite inflammatory marker, I know you're a big thromboxane person.
+
+Emily [36:09]
+I was concerned about the the throne boxing did cause me concern. And I'm, you know, I mean, I think in some ways this is like great science. I think we should like give some credit to this, which is like this is how science should work. People say, Okay, here is a th a thing that could be true mechanistically. Maybe we have some evidence ad mice, maybe we just have some evidence in in vitro. You know, let's go test this in people to see if it is important and it happens inside people. You test it and then you learn something. Like that's like that's how science works, and that's really cool. But once you get the answer in people, then you don't go back to the other thing and say, well, because of this, you know, hypothesis I had. Well, no, you did the hypothesis. You did the testing, and then you said, No, that's it. We're done with that.
+
+Perry [36:51]
+Yeah, move on.
+
+Emily [36:52]
+Yeah, move on. To to issue three. Let's move on to issue three. Issue three Okay, please. Yes.
+
+Perry [36:58]
+I love issue three. can we play this? Like we're gonna let someone else, we're gonna let a wellness influencer introduce issue three here.
+
+Emily [37:08]
+Okay, wait, actually I haven't listened. Give me one. Labor Day got in the way of my Instagram.
+
+[Clip plays]
+
+Emily [37:27]
+That's that's that that's a pretty good one. That's
+
+Perry [37:30]
+That is insane to
+
+Emily [37:32]
+Yeah.
+
+Perry [37:34]
+say that the number one cause number
+
+Emily [37:36]
+Number one. Number one cause.
+
+Perry [37:38]
+one of diabetes and obesity is excess linoleic acid. That like it's the most specific.
+
+Emily [37:42]
+Are you familiar with snack foods, my friend?
+
+Perry [38:20]
+another classic influencer tactic, I'm going to take an extreme position, right? Because nuance is dead in social media, right? You either have to say, like, this thing will kill you dead within a week, or like this thing will make you live to be 150. So I'm gonna say, I'm gonna say that the number one cause diabetes and obesity in this country is excess linoleic acid. Emily, let's take a break and we will unpack that one in a moment.
+
+Emily [38:53]
+Is it number one or number two after the break?
+
+Perry [38:55]
+Yeah. All right, and and we're back to talk about you know, does does linoleic acid cause diabetes and obesity? And is it in fact the number one cause
+
+Emily [39:09]
+Mm.
+
+Perry [39:09]
+of diabetes and obesity? okay, yeah.
+
+Emily [39:13]
+So okay, so this is a place where actually it will be really, really quite important to think about relative to what, and think about what the evidence says. Because in fact, it because there is a lot of linoleic acid in a lot of processed foods, you can sometimes get, and we'll sort of get into this, but you can get correlations in these spaces. And so we really wanna like actually we want to look at the evidence here.
+
+Perry [39:48]
+Yeah, your Twinkie has some linoleic acid in it. It may not be the linoleic acid, it may just be the Twinkie. Yeah.
+
+Emily [39:55]
+Twinkie. It's the other things in the Twinkie. So here there is a little bit of potential mechanistic evidence. You there's like mouse study where more linoleag acid exposure raises their food intake. Although so there's like a a little bit of mouse evidence, but the people evidence kind of goes in the other direction.
+
+Perry [40:18]
+Yeah. Yeah. The the the mouse evidence suggests that there's an endocannabinoid effect of linoleic acid. So you'll hear the cannaboid, that's the same thing that marijuana does. like gives you the munchies. There's some receptors in your brain that make you hungry. and so yeah, you can get a mouse to eat a little bit more if you really restrict it to a linoleic acid diet. Although, you know, I think Marijuana probably has more of an effect on diabetes and obesity in this country than linolic acid. Actually, the number one. Yeah.
+
+Emily [40:54]
+So it's at most it's number two. It's number could be number two.
+
+Perry [40:58]
+but you're but but you're right. I mean, the the observational data clearly shows that higher linolac acid intake is associated with a lower risk of diabetes and body weight, because it's a plant based oil. Like
+
+Emily [41:12]
+Yeah. Yeah, I mean I because
+
+Perry [41:16]
+you're eating more plants.
+
+Emily [41:18]
+Right. Yes. I d I don't know what to say. Don't.
+
+Perry [41:19]
+and I know you love Mendelian randomization studies. So I did find a nice Mendelian randomization study in 2023, which showed that higher linolic, high higher genetically predisposed linoleic acid intake causally lowers the risk of diabetes, fast, and glucose, and hemoglobin A1C. my faith in Mendelian randomization is shaken a little bit by our earlier discussion of the Lp(a) studies. Nevertheless, it's very hard to find any human data that suggests that linoleic acid. increases food intake or weight or risk of diabetes and far from being the number one cause.
+
+Emily [41:55]
+Yeah. I mean, I think to believe this, forget about the number one cause. To believe this even directionally, you have to think that the biases and the observational data go very strongly in the like the other direction, right? That like somehow the people who are consuming a lot of linoleic acid are really positively selected on other things. And that's like kind of canceling out this effect in the observational data and it have to be quite large in in the other. Direction. So I think that's what you'd have to think. even to have this move in in that way, never mind for it to be important. and yeah, I mean, obviously that claim is just ban like totally bananas and weird. But you know what
+
+Perry [42:39]
+All right. So charge three.
+
+Emily [42:41]
+gets people to click on your thing? If you're just like linoleic acid is possibly the 437th tiny contributor to America's like that's boring. That's a boring reel. Yeah.
+
+Perry [42:50]
+Yeah, that I'm already bored. but guys, did you know that linoleic acid is the number one cause of sperm count loss in men? Can we just cut that clip? We should
+
+Emily [43:05]
+And low testosterone.
+
+Perry [43:07]
+do an experiment. We should just cut that clip and put it on Instagram and compare it to like a nuanced discussion of, you know, the case and see see which gets more clicks. all right. Let's
+
+Emily [43:13]
+The kidneys. It's like here's what Perry has to say about the kidneys. Okay.
+
+Perry [43:20]
+let's move on to sort of the fourth big claim you'll hear about seed oils, which has to do with the omega-6 to omega-3 fatty acid ratio. So the background here. Is I think where this comes about is that Historically, like paleo diet world in the olden days, there is some data that we ate a fairly balanced ratio of omega-6 fatty acids versus omega-3 fatty acids. this is debatable because it's based on like dietary reconstructions, not actual measurements, et cetera, et cetera. But we probably now, nowadays in our modern diet, do have a higher ratio of omega-6 to omega-3. And what the influencers will kind of spin this as is like omega-6 is the like is the angry one that's like gonna make you inflamed and bad and everything in, then omega-3 is the calm, you know, yang to the raging yin of omega-6 or or or something like that, right? And we're all out of whack. the study that gets cited every single time they talk about this ratio is. A UK Biobank study from eLife in 2024. 85,000 people. And they actually measured the plasma levels of omega-6 and omega-3 fatty acids in people. That's a nice design. So it wasn't like dietary recall, like they
+
+Emily [44:49]
+Changed. Yeah.
+
+Perry [44:50]
+actually measured it, which is great. And of course, measurement is because these are essential fatty acids, you can't make them yourself. So measurement actually does reflect kind of like what you're taking in. So I actually really like that design. They looked at the ratio of omega-6 to omega-3. And in the highest versus the lowest quintile, so the highest fifth of people in the ratio versus the lowest fifth, the highest fifth had 26% higher all-cause mortality and 31% higher cardiovascular disease mortality. So that's what you hear. You're like, this ratio is terrible. and the the seed oils are giving us all this omega-6. And then people actually read the study. And Emily, if you if you read the study instead of just talking about the abstract, what do you learn about how horrible omega-6 is?
+
+Emily [45:40]
+What you learn is that both of these fatty acids are inversely associated with all cause mortality, cancer, and cardiovascular disease mortality. It is just that omega-3s are more strongly associated than omega-6s. So both are better than other fat forms, saturated fat in particular, in this study.
+
+Perry [46:01]
+Yeah, it's it's a great so to just say it again, the people who had the highest level of omega-6 in their blood did better than the people with the lowest level. The people with the highest level of omega-3 in their blood did better than people with the lowest level. It's only when you divide the omega-6 by the omega-3 that you get this sort of weird relationship. And the conclusion
+
+Emily [46:24]
+But this all makes an unbelievable amount of sense if
+
+Perry [46:27]
+Okay.
+
+Emily [46:28]
+your view is that this is all measuring something else. So when I look at this data, what I see is that these fat metrics, sort of saturated fat, omega-6, omega-3, are all measuring like diet quality. And the people who are consuming a lot of saturated fats off on average a a Sort of worse diet quality. You see this everywhere in any food frequency diet thing, anything you see, you see people are consuming a lot more fat, typically also a lot more sugar, generally a lot more calories. That tends to be a group with higher rates of obesity, less exercise, et cetera, et cetera. The people were eating more omega-3s, kind of somewhere in the middle. This comes in a lot of snack foods. And so they're gonna have a kind of intermediate diet. The people were eating a lot of omega-3s, have the healthiest diet. And so what we're measuring here is. Some sort of overall healthiness of your diet, and probably also many other things about your behavior and resources and income and education level and so on. And so that's what you're picking up in the data, more so I think, than you're picking up any of these things. But as you said, even if you wanted to take this and say, like, these are all causal, the people who have more omega-6s do better than people with less. That's the kind of basic.
+
+Perry [47:47]
+right. And if you really are worried about this ratio, if you do think it's causal, then the solution would not be to reduce your omega 6, it would be to increase your omega 3, right? so
+
+Emily [47:56]
+Sure.
+
+Perry [47:57]
+eat your salmon, folks. That's this is the like fatty fish answer to all of this. Once again. I think there's
+
+Emily [48:02]
+Yeah, you know who eats salmon? Rich people. Okay. Just to like, you know, not to put too fine a point on it.
+
+Perry [48:11]
+one real concern though. when it comes to polyunsaturated fatty acids in general. And because seed oils are high in PUFAs, I think we do need to talk about what can happen when you fry with these oils. don't you think?
+
+Emily [48:27]
+Yeah, I think we do have to talk about frying.
+
+Perry [48:29]
+Okay. So I'll do the chemistry here. And that is that when you remember there are these double bonds in polyunsaturated fatty acids. And when you heat them up really hot, and we're not talking like sauteing in your pan, we're talking 175 to 190 degrees Celsius, like deep fat frying, those double bonds can break. And when they reform, they may reform in the cis position. The nice sort of straight position like a saturated fat would have, or they might reform in the trans position, and then it's a trans fat. So it is possible to convert a polyunsaturated fatty acid to a trans fat, not just if you're proctoring gamble, but if you leave it on the stove for hours and hours and hours. And we know that trans fats causally increase cardiovascular disease risk.
+
+Emily [49:28]
+Yes. So I think that that is true. And then I think it's really important to help people like kind of back down from sort of what that tells you, how should you think about that in the world? So this is most important in the commercial fryer space. So if you are commercially frying things at at a restaurant. They tend to hold the oil at some temperature for a like a long time, many hours, could be days. They're topping it up continuously and it's like degrading. That is treating these oils in a way that can lead them to have some trans fats. When you are doing this at home, the the on the kind of scale that most people are frying, even for deep frying, even if you're like raising it to 375 and making some delicious double-cooked french fries in your in your fryer, that is still really not enough time for this to be a meaningful thing. And certainly like sauteing anything in of some canola oil, that's just like unrelated to this, is not getting hot enough for for this to to matter.
+
+Perry [50:38]
+Yeah, exactly. It really comes from reusing and reheating these oils at high temperatures. and there's data here, rats fed sequentially reheated oil. So they like they they took some polyunsatric fatty acid oil and they heated it like once and fed rats and then they heated it twice and fed rats. So like the idea being it's getting successively more degraded by by frying. they did show a dose response effect in terms of vascular inflammation. So, you know. This is true. I mean, we also know observationally that humans who eat more fried food have a higher risk of cardiovascular disease. Like, can I really blame the deep fat fryer versus just the fact that you're eating a lot of, you know, fried chicken? That's a harder one to entangle.
+
+Emily [51:27]
+I mean, I think that these the probably the accurate thing to say about this is that this is like mechanistically plausible and we have other evidence to suggest that it there could be some small impacts, but relative to other things you are doing, these impacts are likely very, very small.
+
+Perry [51:45]
+Yeah. the more unsaturated your fat is, the more problematic this is. And so a mono monounsaturated fatty acid like oleic acid doesn't have as much of this issue. But of course, olive oil is not good for deep frying. It the smoke point is too low. but there is high oleic acid sunflower and safflower oils. Those are technically seed oils, but they're if you're gonna be deep frying at home and you are worried about this, those high oleic acid oils that have a high smoke point actually work. pretty nicely and you know, put put a lot of that to bed. And of course you could also fry in saturated fat. Like you could fry in beef tallow. and because it's saturated, it doesn't run that risk of forming trans fats with extended heating.
+
+Emily [52:31]
+Right. at the top I said I think the right frame for this episode is to ask what you could compare this to. And so I think it's reasonable to ask the question about like substitution here. So let's say you decided, you know, despite having listened so carefully to our episode, that you are a seed oil hater and you don't want to consume any seed oils. Like Is what what could you do about that? What would you substitute to? And so it's worth asking the like what does the data say about the different substitutions? There are kind of four things people would swap in here. beef tallow, butter, olive oil, and avocado oil. So can we talk about those?
+
+Perry [54:19]
+Yeah, but it's gonna make me hungry. But let's let let's let's run through them quickly. so beef tallow, because it's definitely like having a moment. The Google trends for beef tallow is going up like crazy. I actually think, in fact, Whole Foods identified tallow foods as like their number one food trend of 2026. So beef
+
+Emily [54:40]
+My god.
+
+Perry [54:41]
+tallow is having a moment. What is beef tallow? so it's fat. It's congealed beef fat. It's about 50% saturated fat, 42% monounsaturated fatty acids, and just 4% PUFA. in fact, the most abundant fatty acid in beef tallow is oleic acid, the same as olive oil, but it's also 26% palmitic acid, which we do know causally increases LDL. So, like that lipid hypothesis way back in the 50s to 70s, that saturated fat increases cholesterol, which causes cardiovascular disease. True. That being said, We do have ways to reduce your LDL now pharmacologically that we didn't have in the 50s to 70s. this is my dad's philosophy. He's like, he's like, I can eat all the red meat I want because I can take my Lipitorin and keep my LDL down. And I don't
+
+Emily [55:29]
+Yeah.
+
+Perry [55:29]
+know. Maybe there's some truth in that. we know from several studies that from substitution studies that beef tallow, substituting beef tallow for other seed oils increases LDL. but there's no outcome trials. So I can tell your LDL be a little higher if you swap in beef tallow, but I can't know for sure whether you're gonna have more heart attacks.
+
+Emily [55:52]
+Butter, similarly, very high in saturated fat, even higher than than beef towel. It is delicious. but it does also raise your cholesterol for the same reasons.
+
+Perry [56:04]
+Yeah. I will say I was surprised looking at the constituents, like beef tallow seems maybe a little healthier than butter.
+
+Emily [56:11]
+Stop it. That's enough out of you.
+
+Perry [56:13]
+Ha ha ha.
+
+Emily [56:14]
+but yes, perhaps. but butter is it's so delicious. And I think that's worth, I think that's worth saying it is delicious,
+
+Perry [56:18]
+It is. Absolutely.
+
+Emily [56:21]
+and all foods can be sometimes food, and butter is delicious. all right. So olive oil, I will say, is predominantly oleic acid, which is omega 9, actually. not omega 3, right? It has omega 3. That's right.
+
+Perry [56:37]
+Yeah, mega three you need fish stuff.
+
+Emily [56:39]
+Yeah. so olive oil is predominantly oleic acid, not omega6. and this is a place where there is a real RCT. So probably the most famous, well-known RCT in the dietary world is the is the Predmed study, which is an RCT of Spanish people, which looked at the Mediterranean diet, and there is a substantial olive oil component of this. There was a They had some people on a low-fat diet, some people on a Mediterranean diet, olive oil, some people on a Mediterranean diet with nuts. And both of those two latter groups, the Mediterranean diet groups, including the olive oil group, had a much lower risk of major cardiac events. And so it's reasonable to say olive oil has been shown to be part of probably the best evidence, the most evidence-based diet we have for people at high risk of cardiovascular disease. That's about what we can can say. Yeah. It's great. You can't fry in it. You can't fry in it. It's doesn't get hot enough. It gets weird.
+
+Perry [57:41]
+Yeah. Yeah, yeah. It's great. You can use olive oil. Don't fry with it. It'll smoke too much. Yeah. Yeah. which brings us to avocado oil. that's a 70% oleic acid oil with a pretty high smoke point and a neutral flavor. So certainly feels like one that would be better for for frying with or for cooking at higher temperatures. unfortunately, for those of us spending a lot of money on avocado oil, there is Just a ton of adulteration of avocado oil on the store shelves. So there's a big study done by UC Davis that found that looked at products saying, you know, made with avocado oil or even just avocado oil itself. And 93% of the avocado oil containing products contained other oils, sometimes unreported oils. even the all sorry, even the avocado oil in the jars, just like this, is Pure avocado oil was widely adulterated with canola, sunflower, and safflower oil, which are seed oils. So, like
+
+Emily [58:47]
+Well.
+
+Perry [58:47]
+in a lot of cases, you're paying a premium and still just getting seed oils. interestingly, the same study looked or the same group looked at the olive oils and found very little adulteration. I and from what I understand, I guess there's more standardization in the industry about olive oil, like. There's a lot of groups kind of monitoring and making sure that extravergent is extravagant and avocado oil just isn't there yet.
+
+Emily [59:09]
+Yeah, but also also avocados are expensive. Like what g w like capitalism. Like it's you know, avocados are a lot more expensive than olives
+
+Perry [59:15]
+Of course you're gonna adulterate your oil.
+
+Emily [59:19]
+and so it's like if you like it's the incentive to cheat is so much greater.
+
+Perry [59:22]
+The incentive to cheat is very high, which is why, you know, there needs to be some regulators. But buyer beware when it comes to avocado oil. it's good in theory, but in practice you might just be getting seed oil secretly.
+
+Emily [59:37]
+All right, so last thing that we should talk about is actual substitution trials. So we sort of have have like kind of talked around these, but there are a few trials where they tried replacing animal fat with some kind of typically seed oils. and you know, I would say on the whole, these these trial like There were some very early trials of this. So there's like a 1969 trial of like 850 men, where they replaced for some of them some of their animal fat with with seed seed oils. And this caused quite a large decline in their cholesterol that sustained, and ultimately they had had lower rates of myocardial infraction, heart attacks, and so on. So that That definitely is a positive in the direction of seed oils.
+
+Perry [60:35]
+Yep. Yep. Very famous study.
+
+Emily [60:38]
+There are other studies which are sort of show the opposite.
+
+Perry [60:44]
+There is. I mean, the one
+
+Emily [60:45]
+What do you say?
+
+Perry [60:45]
+that you hear a lot about is the Sydney Diet Heart Study, which is for this type of study, a little bit on the small side. This was published in the BMJ in 2013. 458 men only from Sydney who are randomized to a diet that was high in safflower oil and safflower oil margarine to replace animal fats. this study the control group here was no specific dietary instruction and no no study foods. So a little bit of an uncontrolled control group. and they actually found a higher overall mortality, although barely statistically significant, in the group that got randomized to the addition of safflower oil and safflower oil margarine. yeah, small study, not a great control group, just men. in Sydney, the way that I parse a lot of this data when you kind of see things going in one direction, you see things going in the other direction, is to say probably it doesn't matter that much overall. So there's just noise in the system. and I don't think you're necessarily going to save your life by only s adding pollen, like only adding margarine to your diet or only adding avocado oil to your diet. you probably have to do larger scale lifestyle shifts to really meaningfully impact outcomes. And the substitution of a single fat is not going to do too much.
+
+Emily [62:19]
+Yeah, I think another way to to say that is, you know, if you look overall at people's diet, higher consumptions of some foods are associated with more fried food, more ultra-processed food, more dietary patterns overall that we know to be associated with higher rates of different kinds of health events. But it's extremely difficult/slash impossible to isolate some particular acid or some particular. oil and say, you know, this is this is the thing. Like if only you pulled this out of your diet, you would be cured. This just it's just not how it works. It's ever one thing, guys.
+
+Perry [62:54]
+Yeah. It's never one thing, guys. It's never just one thing.
+
+Emily [62:58]
+Also, if you didn't have any of this, as we noted before, you'd be dead. So note.
+
+Perry [63:02]
+Right. Right.
+
+Emily [63:04]
+Note. All right. I'd like to give someone else a little little bit of a first close of our of our seed oil discussion. let's hear.
+
+[Clip plays]
+
+Emily [63:25]
+Okay.
+
+Perry [63:27]
+I like this. I don't know if it's bad or not, but it doesn't matter because I'm not eating it anyway. It's one way to live your life.
+
+Emily [63:33]
+Yeah, that's it's it's you can't you really can't argue. There's nothing much to say there.
+
+SMASH OR PASS
+-------------
+
+Emily [63:39]
+all right, Perry. Are you a smash or pass on seed oils?
+
+Perry [63:46]
+I'm a pa I'm a smash. Sorry, no, I'm a smash. I think broadly speaking, plant based fats are probably better for you than animal based fats, and seed oils are a member of that panoply. So I'm okay with it. Emily, smash pass.
+
+Emily [64:02]
+Likewise, I am a smash. I like a good seed oil. and also I like balance. So I'm happy to have seed oils and animal oils and all kinds of different fats, and you should choose. I I will say I've written about this before, and a friend of mine, Craig, wrote to me to explain that the most important thing is to match your oil to the cooking thing you're doing. He said, I have beef tallow. I have duck fat. Then he listed a few other more obscure fats. And some of them were good for some things and some of them were good for for others. And I thought that was exactly the way to look at it. Sometimes you need a seed oil, sometimes you need butter, sometimes apparently you need duck fat if you're my friend Craig.
+
+Perry [64:49]
+Thanks, Greg. That's it for Seed Oils, your mailbag question of the week after the break.
+
+QUESTION OF THE WEEK
+--------------------
+
+Perry [68:04]
+And we are back with our question of the week. If you have a question for Emily or I, leave it for us at wellnessactually.fm. We'd love to hear from you and answer your question on the air. Let's play it. All right. So Emily, what are your wellness hacks to prevent getting sick once all the kids are back in school?
+
+Emily [68:30]
+So my best wellness hack is that my kids are old. so that's been like just totally crucial for me. because older kids get sick less than younger kids because I think there's less licking of faces. I mean, maybe that's not true. I don't know what it is. Anyway, it's been it's been good. But I I don't think it's really a great answer to this, except for wash your hands. You should wash your hands that 'cause you touch your face far more than you than you think. But a lot of what people tell you, like, take this immunity booster, that stuff's just a bunch of crap. I don't know. Do you take a bunch of crap immunity boosters, Perry, like an idiot?
+
+Perry [69:01]
+Nope. Nope. Nope. I don't. nope. There's no there there's no preventative value for like, you know, mega dosing vitamin C or anything like that. And yeah, wash your hands. That is the number one, two, and three thing to do. And my kids know as soon as they walk in the door, they're gonna put their bag down and wash your hands. I'm hopeful that they do it at school from time to time too, but you know, hope springs eternal.
+
+Emily [69:22]
+The other thing, I the other thing is sleep. So if you sleep is actually quite good for your for your immunity. I think the the sort of terrible combination for parents of toddlers is that your children are going to a place designed to make them sick. like that's on purpose they're supposed to get sick, so they develop immunity for later and so on. And also you're not sleeping enough often. And so the combination of sleep deprivation and constant exposure to pathogens. is is really problematic.
+
+Perry [69:56]
+Sounds good. Get your sleep. Wash your hands.
+
+Emily [69:58]
+Get your sleep, wash your hands, that's what you can do.
+
+SIGN-OFF
+--------
+
+Emily [70:03]
+All right, that's it for us today. Stick with us next week when we'll ask what's the deal with artificial sweeteners?
