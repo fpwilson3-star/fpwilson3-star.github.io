@@ -48,6 +48,8 @@
 
     { slug: 'what-your-poop-says-about-your-health', title: 'What can your poop actually tell you about your health?' },
 
+    { slug: 'are-seed-oils-actually-bad-for-you', title: 'Are seed oils actually bad for you?' },
+
   ];
 
   const linkStyle = 'font-family:var(--font-mono);font-size:0.85rem;color:var(--color-accent);text-decoration:none;';
