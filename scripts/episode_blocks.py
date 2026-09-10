@@ -336,6 +336,7 @@ CLUSTERS = {
         "is-moderate-drinking-actually-bad-for-you",
         "is-gluten-actually-bad-for-you",
         "what-your-poop-says-about-your-health",
+        "are-seed-oils-actually-bad-for-you",
     ],
     "Biohacking & recovery trends": [
         "cold-plunges-saunas-health-benefits",
@@ -366,6 +367,7 @@ CLUSTERS = {
         "what-does-the-sun-actually-do-to-your-health",
         "is-fluoride-in-water-safe-and-does-it-still-work",
         "what-ticks-actually-do-to-your-body",
+        "are-seed-oils-actually-bad-for-you",
     ],
     "Health technology": [
         "how-mrna-vaccines-work",
