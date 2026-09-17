@@ -1,0 +1,732 @@
+Perry Wilson, MD (00:00)
+Emily, I'd like you to put yourself in the mindset of an environmental investigator. All right. Someone is leaking raw sewage into the municipal water supply somewhere upstream. And you have to figure out where it's coming from. Now you can test the water at various points and look for different substances. So I'm I'm wondering what kind of things you might look for in the water.
+
+to kind of trace back until you see who is dumping the sewage into the, you know, local pond or river. What do you think these environmental investigators are looking for?
+
+Emily Oster, PhD (00:44)
+Chemical signatures, different strains of E. coli, bacterial
+
+Perry Wilson, MD (00:46)
+Yeah. Nice. At
+
+Emily Oster, PhD (00:50)
+types.
+
+Perry Wilson, MD (00:50)
+totally. Yeah. So so bacteria that are generally found in, you know, poop and stool and stuff, definitely, definitely
+
+Emily Oster, PhD (00:58)
+Pooh, poop bacteria. Mm-hmm.
+
+Perry Wilson, MD (01:00)
+a big one. But you know, not all bacteria thrive. What you really want are some chemicals that are excreted either in the urine or in the stool, are really unchanged by the environment and even better, something that's not found in nature. So
+
+I'll give you one example, which is gadolinium from MRIs. So when you get an MRI with contrast, you get gadolinium injection, you pee it out, it comes out in your urine and it goes into the sewage, and there just ain't no gadolinium in the river water supply anywhere, unless there's some sewage leaking into it. So they could use gadolinium, but you know,
+
+Emily Oster, PhD (01:35)
+Okay.
+
+Perry Wilson, MD (01:35)
+depends. Are there MRIs going on around? One thing that they are using more and more is sucralose.
+
+Splenda. Isn't that fascinating?
+
+Emily Oster, PhD (01:45)
+Splenda.
+
+Perry Wilson, MD (01:46)
+Yeah, because there isn't any Splenda in fresh water supplies unless it gets there by passing through someone's GI tract where it is not absorbed. This is, of course, what we're talking about today when we talk about non-nutritive sweeteners or artificial sweeteners. Splenda is one that just goes right, passes right through you. And increasingly, environmental investigators are using the Splenda concentration gradient.
+
+in fresh water to track down where the the leakage is coming from.
+
+Emily Oster, PhD (02:21)
+That's gross. Does it also work with like Oline? Do you remember that? Thing speaking of things,
+
+Perry Wilson, MD (02:26)
+yeah.
+
+Emily Oster, PhD (02:27)
+unnatural things that just went like right through you.
+
+Perry Wilson, MD (02:29)
+Yeah, yeah.
+
+I I don't think yeah, maybe.
+
+Emily Oster, PhD (02:33)
+I mean I don't have that anymore. Sadly.
+
+Perry Wilson, MD (02:35)
+w a a a University of Alberta study, just to keep grossing you out before we get this episode started, looked at a sweetener that's excreted in the urine, isosulfame. it's excreted unchanged in the urine, it's nicely absorbed and excreted unchanged in the urine. And researches at the University of Alberta tested
+
+the level of this sweetener in public pools and hot tubs as as a proxy there was
+
+Emily Oster, PhD (03:03)
+no. Duh it it's fine if people pee in the hot tub, okay? It's just it's natural. It's natural.
+
+Perry Wilson, MD (03:11)
+it was detected everywhere it was
+
+Emily Oster, PhD (03:13)
+Yeah, yes it was.
+
+Perry Wilson, MD (03:15)
+it was dramatically higher in the hot tub everyone than in the pool.
+
+Emily Oster, PhD (03:18)
+Then in the pool. Well, hot dub small.
+
+Hot dub small. Okay. guys, you might think, based
+
+Perry Wilson, MD (03:23)
+Mm.
+
+Emily Oster, PhD (03:24)
+on this discussion, that this is an episode about poop, Today's episode is on artificial sweeteners. So let's go. It's Thursday, September 17th, 2026, and this is Wellness Actually. This week we're asking, what's the deal with artificial sweeteners? Perry and I will give the official smasher pass
+
+And now, what is the deal with artificial sweeteners?
+
+Perry Wilson, MD (03:50)
+All right. A while back, we got a question from a listener who was like, I'm I'm gonna I'm paraphrasing, I might not get correct, but it was basically like, I love Diet Coke, but I am worried about these artificial sweeteners. Is it healthier to drink a Coke than a Diet Coke?
+
+Emily Oster, PhD (04:12)
+Yes.
+
+Perry Wilson, MD (04:13)
+and and are you saying yes that we had that question or yes that that's the answer?
+
+Emily Oster, PhD (04:17)
+Yes, we have that question. No, is that's not
+
+no. I'm not answering it, but yes, we have that question.
+
+Perry Wilson, MD (04:22)
+Yeah.
+
+I think that more than anything else exemplifies like why we need to talk about the artificial sweeteners because there is so much scary stuff out there that the whole, the whole reason we have artificial sweeteners is because people are like, well, sugar's not good for you. Like, sugar's bad. And here's an alternative, you know, that doesn't have calories and is therefore better. And people are so nervous about artificial sweeteners that they're actually like, well, for
+
+That whole use case I don't even care about because the dangers are so high.
+
+Emily Oster, PhD (04:52)
+People also really love Diet Coke. So, you know, like Gen Z calls Diet
+
+Perry Wilson, MD (04:56)
+Yeah, yeah.
+
+Emily Oster, PhD (04:57)
+Coke a fridge cigarette, which I think is so right. It's like you take it out of the refrigerator in a can, it's like cold and you open it and that first sip, it's like it's sweep, but it's not too sweet and it's like fizzy. Like I Diet Coke, it's like it there's just nothing like that, you know, for those of us who don't smoke, I guess.
+
+Perry Wilson, MD (05:13)
+Have you ever do you remember RC Cola?
+
+Does that are we are you old enough to remember
+
+Emily Oster, PhD (05:16)
+I
+
+I don't I really really am a devotee of Diet Coke. I was not an RC Cola Cola person. So so I think this is important. I'm just what I'm saying is
+
+Perry Wilson, MD (05:23)
+Okay. All right. Yeah. I I actually I hot take R. C. cola is the superior cola. Bring it back.
+
+Emily Oster, PhD (05:29)
+what I'm saying here is that this is important to people's lives. This question
+
+Perry Wilson, MD (05:31)
+Yeah. Yes, it is.
+
+Emily Oster, PhD (05:32)
+is is important. and you know there are actually a lot of fears that people express, but I think the most in some ways like the most interesting one is the question of whether Diet Coke makes you fat.
+
+Whether be and and whether artificial sweeteners are in fact also making you fat. So why don't you just have, you know, regular sweetened soda if they're both going to be linked? And a super interesting feature is that in the observational data, that is definitely true. So people who drink
+
+Perry Wilson, MD (06:02)
+A hundred percent.
+
+Emily Oster, PhD (06:03)
+more artificially sweetened beverages are consistently, we see associations with higher obesity rates, higher type two diabetes across large cohorts, millions of people. That is very, very established as an association.
+
+in the data. So the question is, they're not. They want some causality.
+
+Perry Wilson, MD (06:18)
+But people aren't coming to us for associations. They want some causality.
+
+and we'll we'll get into that, but let's before we talk about the observational data and the problems with observational data here, we should talk about plausibility even first, right? Like you can observe data, but you want there to be some plausibility. And I will say, as a you know,
+
+Lover of the laws of thermodynamics, that I really do believe that fundamentally changes in weight are driven by the difference between calories you take in and calories you put out. Calories in,
+
+Emily Oster, PhD (07:02)
+Mm.
+
+Perry Wilson, MD (07:02)
+calories out. Now, I know it's not that simple. That's like someone saying, like, well, you get rich by, you know, earning more money than you spend. And like, well, that's technically true. Like, it doesn't really encapsulate everything. I know it's a bit pat, but when it comes to
+
+Suclose, aspartame, we'll talk about all the fun artificial sweeteners in this episode. These are, these give you zero calories. So if we're gonna say that they're they cause an increase in weight, they must do something to bring in other calories in some other way, right? Because it it can't be them in and of itself or can them, can it?
+
+Emily Oster, PhD (07:42)
+Right,
+
+no, it c it definitely can't. That's not how that that works. I think the two things that are sort of mucking around in the background of some of the wellness discussion here are one, the idea that in some way these chemicals sort of change your microbiome in a way that is gonna then impact your absorption of calories in in some way. And there's a fair amount of hand waving there. But because we don't really know anything about the microbiome, we don't understand it that well, I I guess that could be I guess that could be true.
+
+And then I think there's something else about kind of sugar tolerance, like sort of sweetness tolerance that impacts things in some in some other way. But fundamentally it doesn't really make any sense because the way that our body for the most part gets calories is by consuming them. And if you consume something that doesn't have any of them, you're not consuming them. And so that doesn't really make any sense.
+
+Perry Wilson, MD (08:31)
+But do believe that like, yeah, I I think sugar tolerance is a thing. Emily, you told me that I should not be sweetening my coffee as much.
+
+Emily Oster, PhD (08:40)
+Yeah, sugar tolerance is a thing.
+
+Perry Wilson, MD (08:42)
+and and you know, I I know my kids like like sweet things. And I do sort of wonder, like, okay, if they had less sweet things, maybe they would, you know, like sweet things like fruit as opposed to sweet things like Kit Kats.
+
+Emily Oster, PhD (08:54)
+Yeah.
+
+Maybe. but I will say I think in general, the the kind of claims about diet soda that people make that are really difficult to to track with the just the reality of the world is this idea that like it's just the same to have a Coke or a diet coke, right? Like that those things are somehow equally contributing to to weight. And that's just very hard to imagine that that's true.
+
+And yet we have these very persistent associations, which brings me to why I think artificial sweeteners are like an incredible example for statistics, which
+
+Perry Wilson, MD (09:31)
+Okay.
+
+Emily Oster, PhD (09:32)
+is that this is a place where we have very clearly the two fundamental problems with learning causality from observational data. And I'm going to tell you what they are. Okay, here we go.
+
+Perry Wilson, MD (09:45)
+I'm ready. Tell me.
+
+Emily Oster, PhD (09:47)
+Number one, reverse causality. So people begin to consume diet sodas because they would like to lose weight. Okay. This is happens in many places, but it definitely happens here that people who are who are interested in losing weight, because perhaps they are struggling with obesity will start consuming diet soda. And so then you observe out in the world, you know, the people who are
+
+Struggling with obesity are more likely to consume diet soda, but it's that the weight is causing or the illness or whatever it is is causing the diet soda consumption rather than the other way around. So that is what's called reverse causality. You see this like everywhere. So, you know, people who take baby aspirin are more likely to have heart attacks, even though baby aspirin protects you against heart attacks, because we tell people to take baby aspirin when they have already had
+
+Reject.
+
+Perry Wilson, MD (10:45)
+Yeah, yeah, yeah. We the medical researchers often call this confounding by indication, right? Like we we you have an indication to take a baby aspirin, and that's the confound there. But I like reverse causality better because economists'
+
+Emily Oster, PhD (10:55)
+Right. Reverse causality.
+
+Perry Wilson, MD (10:58)
+terms are always easier to understand.
+
+Emily Oster, PhD (10:59)
+We're winning there.
+
+Perry Wilson, MD (11:00)
+Yeah.
+
+Emily Oster, PhD (11:01)
+The second problem, which you call reverse, which you call residual confounding, and we call omitted variable bias, is that the people who are consuming Diet Coke are ex ante even before any of the like other behavioral confounding or just ex ante different. so this is a lifestyle marker. we tend to see consumption of artificial sweeteners is associated with with less education, with
+
+Lower income, that's just what what you see. And and that seems to be driving, it's also associated with smoking and less physical activity and it all kinds of other variables which contribute to health. And my sort of favorite set of facts here, and I actually confirm this by running the data myself yesterday in preparation for this episode, is that this varies with different kinds of sweeteners.
+
+So if you think about the clip space of artificial sweeteners, and we're gonna talk about the different kinds of sweeteners, but we have like sucralose, aspartame, which are kind of like the the baseline, like the old school regular sweeteners. And
+
+Perry Wilson, MD (12:09)
+Yeah.
+
+Emily Oster, PhD (12:09)
+then we have stevia, which is like the prada of artificial sweeteners. You it's like fancy, fancy
+
+Perry Wilson, MD (12:13)
+Fancy. Yeah.
+
+Emily Oster, PhD (12:15)
+sweeteners. And it's it turns out if you look in the data at like who consumes those.
+
+About fifty-three percent of Stevia consumers have a college degree versus about thirty percent of consumers of other sh other. So it's like stevia is like it it's consumed by people who have a lot of other positively selected features.
+
+Perry Wilson, MD (12:34)
+Yeah. Every
+
+product category has a bougie component, apparently.
+
+Emily Oster, PhD (12:38)
+Yes. Stevia is the bougie artificial sweetener. And then it
+
+turns out if you looked in the observational data, stevia is not associated with an increase in weight, whereas the other artificial sweeteners are. And I think that kind of closes the the book a little bit here on on this kind of like like it's it's not the artif none of these things have any. Like they're all sweet. None of them have any particular, you know.
+
+calories in them, it's just who is consuming them. And I think those combinations of absorp omitted variable bias and reverse causality are driving a huge share of what we see in this space.
+
+Perry Wilson, MD (13:11)
+Emily, so broadly, yeah, I I agree. We can explain the observational data showing a link between artificial sweetener consumption, BMI, diabetes, could very easily be explained by reverse causality and omitted variable bias. But you know, maybe it's also true, right? Like these things exist and and they push things in that in that in that direction. But nevertheless,
+
+maybe there is some effect here. And it seems to me like the best way to settle this, as always, is to do a randomized trial, right? Do we have data where we take some people and give some of them artificial sweeteners and some of them not artificial sweeteners? And broadly speaking, what happens when you do that?
+
+Emily Oster, PhD (13:52)
+Yeah, what happens when you do that is people lose a little bit of weight. you know, and we have some trials on that in in adolescents, although largely they're they're just replacing sugar sweetened beverages with like water. but in when we generally replace sweetened beverages with artificially sweetened beverages, people lose a little bit of weight. These trials are tend to be pretty short. People lose a couple of pounds. It's not like a, you know, earth shattering change in
+
+in in everything, but it does it does seem consistent with what you would expect that, you know, removing 250 calories a day from people's diet causes them to lose some weight, which is pretty much what you would expect in the kind of calories in, calories out story. And I I guess I think this this for me is like answers this core question people have at the top and the question we started with, which was like, if should I substitute a regular Coke for my diet Coke? No.
+
+Don't don't do that. you don't you shouldn't do that.
+
+Perry Wilson, MD (14:49)
+Yeah. Don't drink calories.
+
+Emily Oster, PhD (14:53)
+yes, don't drink your calories. I mean sometimes it's good to drink your calories, but in general, the don't drink your calories.
+
+Perry Wilson, MD (15:01)
+If you're worried about your
+
+weight, don't drink calories. How about that? If you're if you're training for a run.
+
+Emily Oster, PhD (15:04)
+Right. Otherwise, it's fine to drink your calories.
+
+Perry Wilson, MD (15:06)
+Yeah.
+
+Emily Oster, PhD (15:07)
+Yeah. It's great ultra if you're on in the middle of an ultra marathon. And I think another way to say this like if people are in the middle of an ultra marathon, like they drink coke. They don't drink Diet Coke.
+
+Perry Wilson, MD (15:14)
+Right. Yeah.
+
+Emily Oster, PhD (15:16)
+And that is because it doesn't have any sugar on it. and it doesn't give you the glucose that you need to complete the rest of Western states. having said that, that is actually a fairly narrow version of this question. I think there is a much
+
+Broader version of the the artificial sweetener question, which gets into like how does sweetness work? And also are there other concerns about this? And I guess that's you know, beyond the is this gonna gonna make me fat? I think there's a question of like, is this gonna give me cancer? Like, am I just putting some random, you know, you told me at the cold open that like, you know, I'm these things are so difficult to process that they're using them to track sewage.
+
+Like it doesn't seem good. and so I think that's that's where we should turn now.
+
+Perry Wilson, MD (16:07)
+absolutely. And the the story of how some of these substances came about is another example of where a lack of good regulatory oversight and and honestly outright corruption got into the very DNA of this stuff and has persisted in the form of conspiracy theories ever since. And we're gonna tell that story after the break.
+
+Okay, we are back talking about artificial sweeteners, and it's time to do a little bit of science and explain how this stuff actually works. so taste is really an amazing sense, and you have a bunch of receptors on your tongue that do certain jobs, and they communicate via nerves to the brain, and your brain interprets those signals to give you a sense of how things taste, and that's really.
+
+All there is to it. You have, for example, a sour receptor that basically is just a hydrogen channel. So hydrogen is what is present in acids, things that are sour. And if you put a bunch of acid in your mouth, the hydrogens go through that channel, stimulate a nerve, your brain says, Ooh, acid. I'm going to interpret that as sour, and that's sour. You have a salt receptor, saltiness, which does the same thing, but with sodium. So if you put a bunch of sodium in your mouth, your brain says, like, that is salty. But sweet is
+
+A bit more complicated. It's it's a protein-based receptor. actually, it's two proteins that come together in a protein dimer. and when something binds the this protein, it opens a channel that allows actually calcium to flow in. There's always calcium sitting around. and that's the sweet signal. And that's what sugar does, that's what sucrose does, or fructose or anything. They all bind, they all bind this channel. that's all well and good.
+
+And then, you know, like any other receptor in your body, you can design chemicals that bind that receptor in their own way, right? And activate the receptor in their own way. but basically none of the artificial sweeteners were designed to do this in any in any way. They were almost all discovered accidentally. Can I just run through? Cause I think it's hilarious. Like the the
+
+Emily Oster, PhD (18:33)
+Yeah, totally.
+
+Perry Wilson, MD (18:34)
+the history of artificial sweeteners is the history of bad lab hygiene. Like,
+
+What not to do.
+
+Emily Oster, PhD (18:39)
+Or just bad like
+
+work like work hygiene. Just like bad hyp like bad hygiene.
+
+Perry Wilson, MD (18:44)
+Yeah, yeah, yeah, yeah. So terrible. so we'll start with saccharine, which was invented in 1879 by a guy Constantine Fahlberg. He was working on coal tar derivatives, I guess back in 1879. That's the kind of thing you did. And he was at dinner and his hands tasted sweet as he was like licking his fingers. And he was like, that's odd. Boom. They had discovered saccharin. Wash your hands after. Yeah, right. aspartame, 19
+
+Emily Oster, PhD (19:04)
+Wash your hands, people. Wash your hands. But if you don't, you could discover a very important chemical. Or you could get, you know, sick.
+
+Perry Wilson, MD (19:14)
+Aspartame
+
+Emily Oster, PhD (19:14)
+Yes.
+
+Perry Wilson, MD (19:15)
+1965. James Schlatler was trying to synthesize an anti ulcer drug, and he licked his finger to pick up a piece of paper. He did that guy, like, and he was like, that's very sweet. And that gave us aspartame. sucralose 1976. Shashikant Fodnes at Queen Elizabeth College in London was working with some colleagues.
+
+And they had created a chlorinated sugar, and apparently his colleagues asked him, Can you test this? He heard, can you taste this? And he tasted it. It was very sweet. I just think this is hilarious. But people, don't do this.
+
+Emily Oster, PhD (20:02)
+they know they were
+
+sick like sick. This is what I don't understand. Like, did you just like you you tasted some sweet stuff on your hands at dinner, and then y the next day we were like, I'm not dead. I guess probably I should market that. Put it in a drink.
+
+Perry Wilson, MD (20:14)
+I mean, yeah. No. Yeah. They do animal testing. They do stuff. They they do studies. Well, with the ex aspartame, we we gotta get to the aspartame story, but just one
+
+Emily Oster, PhD (20:23)
+Yeah.
+
+Perry Wilson, MD (20:23)
+last thing, cause it's it's so fun. Have you ever tried miracle fruit pills, Emily? my God, we did it with my kids. So
+
+Emily Oster, PhD (20:29)
+Absolutely, my kids once made me try this. Kids love this thing.
+
+Perry Wilson, MD (20:33)
+it's so so do you wanna explain like how it works?
+
+Emily Oster, PhD (20:37)
+I don't this was a long time ago.
+
+Perry Wilson, MD (20:39)
+Well, I mean, not not the chemistry. I'll do the chemistry, but just the experience, right? So you get these pills in the mail and you sort of like dissolve them in your mouth, and then
+
+Emily Oster, PhD (20:46)
+And then after, yes,
+
+you dissolve them in your mouth and then for some like what I recall being quite a lengthy period of time, not like
+
+Perry Wilson, MD (20:53)
+Like an hour, yeah.
+
+Emily Oster, PhD (20:54)
+two minutes, but like a sizable amount of time, you could just like eat a lemon and it was delicious. And or
+
+Perry Wilson, MD (20:59)
+Yeah, yeah. So
+
+Emily Oster, PhD (21:00)
+any kind of bitter, I mean it's like or any kind of sour sour thing would sort of taste sweet.
+
+Perry Wilson, MD (21:05)
+Totally. it's really cool. And people have these like miraculin, it's called miracle miraculin, miraculin parties where they just have, yeah, they have like pickle juice and and lemon juice and all these kind of things, and they just taste amazing. Or like a Guinness tastes like a milkshake, basically. but the chemistry is so cool. So the way miraculin works is it binds that sweet receptor on your tongue, but it doesn't activate it. So it doesn't actually taste sweet itself when you when you dissolve in your mouth. It just sits there and it binds pretty strongly, which is why it lasts for like an hour.
+
+And then if the pH in your mouth goes down, like you put an acid in your mouth, the chemical, the miraculin changes its shape on the receptor and opens the receptor. So by by putting an acid in your mouth, all of a sudden your sweet receptors are like, ooh, that's sweet. And your brain, like your brain doesn't know, right? It's like, that's sweet. Now the sour receptors still work, like miraculin doesn't bind that at all. So for instance, when you're drinking lemon juice on this stuff, you still get the sour signal, but you also get
+
+sweet signal. So it kind of tastes like lemonade. It's not just like pure sugar. It's really fascinating. But actually people have like hurt themselves by putting so much acid in their mouth, like like drinking vinegar and stuff like that. It all tastes sweet that like they can get little mouth ulcers and things. So don't go crazy, but it is kind of fun.
+
+Emily Oster, PhD (22:22)
+That is it is very fun. It's something your kids will really will really like.
+
+Perry Wilson, MD (22:26)
+Yeah. all right. Aspartame is because you you you were talking about how we get from accidentally like licking my fingers instead of washing my hands to, you know, a world where we're concerned about, you know, are these things causing cancer or like any other horrible scenario? And the truth is the aspartame regulatory process was bad.
+
+Emily Oster, PhD (22:54)
+It was bad.
+
+Perry Wilson, MD (22:55)
+and
+
+I you know, that this is bigger in Europe. I feel like in in the US, you don't hear people like talking too much about aspartame is like, we gotta get aspertame out of the system. It's huge in France, for example. Like the like it's a very big sort of issue, the aspartame thing overseas. But I think this is why. So do you wanna walk us through the the crazy stuff that happened to get aspartame approved by the FDA?
+
+Emily Oster, PhD (23:25)
+Yeah, I do.
+
+So, okay, in 1974, aspartame is discovered by Searle, and it is quickly approved by the FDA, like very, very quite quite quickly. Thumbs
+
+Perry Wilson, MD (23:45)
+Yep, thumbs up. Sounds good. Let's go.
+
+Emily Oster, PhD (23:47)
+up, it's great. And and then there is a freezing of the approval because people are concerned, consumer attorneys are concerned, about some related compounds causing brain tumors advice. So this idea that
+
+These are cancer-causing things kind of come comes up. and then the FDA starts investigating. And actually, it turns out the animal testing was quite poor. And they actually start requesting a criminal investigation of the company, suggesting that they may have submitted false test results. So they may have actually done the testing and then sent, or maybe they didn't do the testing and they just made things up.
+
+Perry Wilson, MD (24:23)
+Yeah, this is a big d this does not happen. I mean, criminal investigations of pharmaceutical companies are very unusual in this country. And so, you know, do this seems pretty bad. right? Like the
+
+Emily Oster, PhD (24:38)
+And then
+
+what happens next is even worse.
+
+Perry Wilson, MD (24:40)
+Okay. Keep going.
+
+Emily Oster, PhD (24:43)
+So then the US attorney who is investigating this quits the government and he moves on to a different job. Where is that job?
+
+Perry Wilson, MD (24:51)
+Where did he where
+
+did he decide to take a job?
+
+Emily Oster, PhD (24:55)
+He took a job with Searle. Yeah. It weird. The investigation
+
+Perry Wilson, MD (24:58)
+Mm.
+
+Emily Oster, PhD (24:59)
+kind of stalls out. They get to the statute of of limitations. and this sort of just for that period goes nowhere. Then what happens?
+
+Perry Wilson, MD (25:09)
+Yeah. The the
+
+the FDA did, you know, there was some pushback here for obvious reasons, right? You had the lead prosecutor leaving the government, working for the people who's prosecuting the the case had died. So the FDA to sort of mollify the public put together an independent panel to review the aspartame data. And they basically said, look, we we're gonna recommend against approval of aspartame until there's more brain tumor data. Now, to be clear, everyone up front, there will be no more.
+
+Brain tumor data. Like it doesn't cause brain tumors. That data eventually comes out and has been replicated ad infinitum in multiple other studies. But at the time in 1980, that wasn't clear. So, so, you know, it this was a reasonable thing, but I don't want to say just because people were worried and asked for more data means that it's true. It's it's not. But okay, so the FDA panel says no. A year later, Ronald Reagan appoints Arthur Hayes as the FDA commissioner, and he takes that.
+
+FDA panel recommendation against aspartame and overrules it. Just, you know, the FDA commissioner can do that, says, thank you for your work panel, but nope, aspartame gets approved. he would later leave the FDA to join a public relations company. do you want to guess what pharmaceutical company was on that company's client list?
+
+Emily Oster, PhD (26:30)
+Yes, it was Surre. It was Surrey, wasn't it? Yes.
+
+Perry Wilson, MD (26:32)
+It was Saral.
+
+so this is all gross. This is like clo
+
+Emily Oster, PhD (26:38)
+It's really gross.
+
+Perry Wilson, MD (26:39)
+classic government corruption, you know, revolving door nonsense at the agencies. all that being said, like it's actually not Aspertain's fault that these humans are gross and corrupt, right? Like it's don't blame the molecule, blame blame the horrible people. and again, there have been
+
+There's potentially nothing more deeply studied in the nutrition literature than the potential toxicology of aspartame since this time. Like it really has gone through the ringer. It does not appear to cause cancer or anything like that. But because of how it got started, there is a there's this narrative. And I will say
+
+That one thing that really set the narrative on fire actually didn't happen until 1998. So long after all this, aspartame has been approved for a while, we actually had the follow-up studies that the FDA had originally requested, looking for brain tumors, not finding any, and so on and so forth that appears to be safe. And then we get a chain email, which like this is 1998, before the days of social media, called the Nancy Markle email. And according to the email, an
+
+I just want I'll tell you what it says, but I want people to think through like how much this stuff echoes what we see now on Instagram and
+
+Emily Oster, PhD (28:00)
+Mm-hmm.
+
+Perry Wilson, MD (28:01)
+TikTok and stuff from influencers, because it's like the exact same beats. Okay. So the email says that this was taken from her talk, Nancy Markle's talk, at the World Environmental Conference. the email claims that aspartame causes multiple sclerosis, lupus, chronic fatigue syndrome, seizures, brain tumors, Alzheimer's disease, blindness, birth defects, and deaths.
+
+Some versions of the chain email were modified to add Gulf War syndrome, which is like okay. it has a lot of scientific jargon.
+
+Emily Oster, PhD (28:29)
+It just like
+
+reads it reads like the like an Instagram post. It is like, did you know studies show, you know, da da da da
+
+Perry Wilson, MD (28:36)
+a hundred percent. Yeah.
+
+Emily Oster, PhD (28:39)
+da da like you know, there's music over it in my head. It's the same thing.
+
+Perry Wilson, MD (28:43)
+yeah, a hundred percent.
+
+the letter says that while she was giving this talk, people were standing up and saying, like, that's me. Like, like I've been affected by aspartame at this at this major scientific conference, which is the sort of old and day equivalent of like, and then everybody clapped, right? now Exactly.
+
+Emily Oster, PhD (29:00)
+It had so many likes. There's so many people like likes and comments. Follows.
+
+Perry Wilson, MD (29:06)
+now, Nancy Markle does not
+
+Exist, neither does the conference. That's never been found. the the reporters have suggested the email was written by an activist named Betty Martini. she refers to herself as Dr. Betty Martini, but just a note here that it's an honorary doctorate in humanities from an unaccredited religious institution. Another wellness trope, referring to herself as doctor. when maybe not exactly. so anyway.
+
+That's a bit of the aspartame saga, which I think just it it reminds me a little bit when we talked about Lyme disease and how there are
+
+Emily Oster, PhD (29:44)
+Mm-hmm.
+
+Perry Wilson, MD (29:44)
+a lot of conspiracy theories about Lyme disease now, and a lot of them are traced back to the sort of bad way that doctors treated the early patients before they understood what Lyme disease was. And it's like somehow the origin of these substances or these diseases like stay with us for decades and lead to where we are.
+
+Emily Oster, PhD (30:05)
+think the other the other sort of tr trope that works here that echoes a lot of other wellness stuff is the kind of discussion of chemicals and the the like scary scariness of chemical interactions. So people will tell you, you know, something which is true, which is that aspartame is a a dipeptide and it's held together by a methyl ester. And if you break it down, you get aspirate, you get a phenolaline, you get methanol, and that's toxic and it converts to femaldehyde and my God.
+
+This is basically just like drinking a can of formaldehyde. And that's you sort of work through that. That's true. But of course, it's like in tiny amounts that are very similar to the amount of methanol you get from a diet soda. Is it quite similar to what you get from like a you know fruit juice? Like you can process some formaldehyde.
+
+Perry Wilson, MD (30:57)
+Yeah, yeah. no, totally.
+
+So methanol, like has it if you've ever brewed at your own alcohol, like brewed beer, and who'd have I mean, I have, yeah,
+
+Emily Oster, PhD (31:05)
+And who hasn't? Who among us? Mm-hmm.
+
+Perry Wilson, MD (31:08)
+definitely. when you distill alcohol, like the yeast don't only make ethanol, they make methanol too, which is why fruit juice has a little bit of methanol and a little bit of alcohol in it. When you're actually distilling that out, you have to be careful not to include the you have to get rid of the methanol. That's like part of what
+
+An actual distillery does is get rid of the methanol and only keep the ethanol. But yeah, all fruit juice has a little bit of methanol in it, just to put some numbers on it. If you were to break down all of the aspartame in 12 ounces of diet soda, that would lead to about a 20 milligram methanol intake. a typical alcoholic drink has about 35 milligrams of methanol. Fruit juice, fresh squeezed before it has before yeast have a chance to do anything, has about 15 milligrams of methanol.
+
+If you let it sit for a few hours, you have about 30 milligrams of methanol. So yeah, the dose makes the poison. We say this all the time. Your body has ways to yet things in very high doses can be toxic that in low doses just aren't, because that's the natural world. Like we evolved to process some methanol because we eat fruit and other things that ferment.
+
+Emily Oster, PhD (32:20)
+To pull this together, like despite these initial concerns, despite the corrupt nature of the aspartame approval, there is no evidence that artificial sweeteners cause cancer in people. There's like in rats, there are a few studies which have suggested that if you exclusively feed rodents artificial sweeteners,
+
+Maybe there could be some problems, although even those studies I think have some, you know, pretty significant limitations. And again, when we get to the sort of dosing issues, like we are talking about doses that are vastly, vastly, vastly, vastly higher than people could ever consider, even people who really, really like diet.
+
+Perry Wilson, MD (33:07)
+Yeah. You know, some people listening might know that saccharin got a a a warning label in 1977 about bladder cancer. it was subsequently removed in in in the year 2000. but it's interesting if you look at where that came from. So so they had given mice just Herculean doses of sacharin, and male rats formed sacchar crystals.
+
+In their bladder that irritated the lining of the bladder, that like kind of damaged the epithelium of the bladder, which increased the risk of bladder cancer. It's actually only seen in male mice. It was not seen in the female mice. It was actually species-specific to like it didn't happen in other mice. It's very unique to like the kidney and urinary system of this particular mouse that it just forms saccharin crystals. This doesn't happen in people, which is why the label was removed, because it's just it's not a human risk. But if you have
+
+This particular species of mouse, please don't feed it exclusively saccharin water, which I think is what was done with this study.
+
+Emily Oster, PhD (34:08)
+Great, great point. all right, so that is all of the like regular artificial sweeteners that that we talk about. And one of the features of almost all of these is that the doses are really, really small. That we're basically giving people teeny tiny doses because these things are very sweet. They really like these chemicals, you know, you
+
+Perry Wilson, MD (34:28)
+Mm-hmm.
+
+Emily Oster, PhD (34:28)
+touch something at your lab, you lick your fingers, they're really, really sweet, way sweeter than sugar.
+
+Perry Wilson, MD (34:33)
+yeah, hundreds of times sweeter in some cases. Yeah.
+
+Emily Oster, PhD (34:36)
+and so the the third thing that I think we want to touch on here is is actually there there are artificial sweeteners, they're sugar alcohols
+
+Perry Wilson, MD (34:47)
+Mm.
+
+Emily Oster, PhD (34:47)
+that
+
+actually do you do have to consume quite a lot of to get the same effects. And this is a place where I think there there maybe are, maybe some reasons to to be a little concerned.
+
+Perry Wilson, MD (35:03)
+I think that's right. and I think we should bring it back to dose. I want to talk about dose for a second and why, in principle, I get more nervous when we're ta talking about relatively higher doses of any substance versus relatively low doses of a substance. So, so all right, no one is eating 30 grams of aspartame, right? You you 200 milligrams of aspartame in a diet coke. So th getting 30 grams, you're I can't do that math.
+
+Hundred hundred cans of Coke or something like that, hundred cans of Diet Coke. But a single serving of keto ice cream can get you 30 grams of erythritol, no problem. Okay. So we're talking, and the reason you need so much sugar sugar alcohols, things like, by the way, xylitol, erythritol is probably the most common one that you'll see. You maltitol, lactatol, they all end in that etol. they're just not that sweet. They're they're actually a bit less sweet than sugar, about 70% the sweetness. And so you really need to put a lot in, whereas with
+
+things like aspartame or sucralose you c you put a a tiny pinch in. And and the reason this matters, yeah.
+
+Emily Oster, PhD (36:08)
+And can we why are
+
+people using the like, why not sweeten your your non sweetened these are like commonly used in like keto ice cream. Why not just stick in some stevia and that shit?
+
+Perry Wilson, MD (36:20)
+I some of the some of the non nutritive sweeteners, the high potency non nutritive sweeteners aren't heat stable. I I I know that. I I think sucralose is actually though, so I don't know. But maybe sucralose is expensive. I mean it oftentimes comes down to cost.
+
+Emily Oster, PhD (36:35)
+I also wonder if some
+
+of this is by the way people are like, I don't wanna have sucralose because but I love this other
+
+Perry Wilson, MD (36:39)
+Th I mean that could be too.
+
+Emily Oster, PhD (36:41)
+thing which seems fancier.
+
+Perry Wilson, MD (36:43)
+Yeah, and I mean some of the stuff they can label as like natural because they get it from plants or things. but the reason I worry more about eating 30 grams of something than 200 milligrams of something is especially when it comes to this, the these molecules, the high potency ones, are designed to bind that receptor on your tongue. They do that, that's their job, and they do it extraordinarily well. Because you're getting such a tiny dose, the
+
+Chance of them also binding something else and like doing something else with what we call off-target effects is just slightly lower. Not zero, but they're designed with high potency towards one receptor makes it slightly less likely that they're gonna muck around with other things. When you're taking a hundred times the dose, 200 times the dose of a sugar alcohol to bind that same receptor, well, the chances that it can also do other things because it's there's so much of it around, just is higher. So I do just
+
+out the gate, worry a little bit more about the effects of the sugar alcohols in principle. But before we go to the like real biology, the clear effects are the gastrointestinal.
+
+Emily Oster, PhD (37:57)
+I there was someone okay, so I'm gonna
+
+interrupt you here because there was someone who who worked for me for a while
+
+Perry Wilson, MD (38:05)
+Mm-hmm.
+
+Emily Oster, PhD (38:05)
+who we got to talking because you know, work on health and so on, and it's talking about constipation. She
+
+Perry Wilson, MD (38:14)
+Okay.
+
+Emily Oster, PhD (38:14)
+was like, This is not something you have to worry about. All you need are these sugar-free peach slice, gummy peach slices. You have a bag of those and like
+
+If you are ever constipated, just keep a bag of those and and you're all set. And that's true. That's really true.
+
+Perry Wilson, MD (38:34)
+It is true. So the sugar, the sugar alcohols are broadly not absorbed. so so they go into your intestinal tract and they don't get absorbed by some they some of them do a a bit, but because there's so much of them, like the number of grams you're taking in is high, there's enough in there to suck water into the intestinal lumen. We say they're osmotically active.
+
+Right. So they they suck water in. It's like it's like those packets that they put those drying packets in like pill bottles and stuff like that. Right. So yeah. So they they
+
+Emily Oster, PhD (39:08)
+yeah. Don't eat those. Don't eat those.
+
+Perry Wilson, MD (39:11)
+they suck water in and that passes through you. And I found some quotes on the Amazon reviews for the haribo sugar-free gummy bears. I think this these are multitol containing for what it's worth. can you pick one or two of these? Cause I was dying reading these.
+
+Emily Oster, PhD (39:32)
+These should come with a hazmat suit and a formal apology to your plumber. I ate
+
+Perry Wilson, MD (39:37)
+Yeah.
+
+Emily Oster, PhD (39:39)
+the whole bag. I am now typing this from the bathroom. My life has changed. I am a different person than I was 20 minutes ago. Amazon reviews are the best.
+
+Perry Wilson, MD (39:48)
+a gummy bear shaped
+
+I like this one. A gummy bear shaped vessel for pure unadulterated intestinal warfare. Yeah, yeah.
+
+Emily Oster, PhD (39:55)
+So be careful is what we're saying. It's like it's like
+
+fiber, but but very fast.
+
+Perry Wilson, MD (40:03)
+yeah, absolutely.
+
+okay. Again, this is coming from the fact that you have to eat more of them to get that same sweetness. there is some concern about erythritol, and like I'll I'll be honest, these are small early studies, but just to say it out loud, there's some concern that erythritol levels are either associated with or potentially causative of a higher risk of blood clots.
+
+there's a nature medicine study in 2023 of 20 healthy volunteers. So they were, so this is a crossover study where they were randomized to glucose intake, just regular sugar intake versus erythritol. And they measured thrombosis potential, like how quickly the blood would clot given a stimulus to clot, and platelet reactivity, which is how quickly platelets clump together, given a stimulus to clump together. And in both cases, they found that erythritol exposure increased the
+
+propensity for those blood clots. Which is yeah, small study, but
+
+Emily Oster, PhD (41:05)
+Yeah. I mean you always have to be careful when there are twenty volunteers because and when there's a surrogate endpoint, which means, you know, we're looking at playlate activity, we're not looking at actual health outcomes. There's like a lot, there's many steps between that and
+
+Perry Wilson, MD (41:20)
+Totally.
+
+Emily Oster, PhD (41:20)
+and sort of genuine concern. I think, you know, the more practical nature of like some of these things really will affect you right now, is probably worth worth knowing.
+
+Perry Wilson, MD (41:33)
+yes, and they would they they will certainly affect your GI tract. Can I about erythritol? I was looking through my closet, my food, my pantry, and I found that we had had we had monk fruit sweetener, like artificial monk fruit sweetener. And I was like, okay. and monk fruit is the the sweetened thing that comes from from monk fruit is a high potency sweetener. It's called magreside. It's about
+
+150 to 250 times the potency of sugar. So it's like, you know, like the others, harder to find and I I imagine fairly expensive. But I looked at my monk fruit sweetener and the number one ingredient was erythritol. So like the thing said monk fruit, and the number two ingredient was like monk fruit extract. And I think I guess you can just say that it's monk fruit sweetener because there's like some monk fruit in it, but actually it was just erythritol. So I was getting like the sugar alcohol when I wanted.
+
+Some you know, funky, bougie, high potency sweetener.
+
+Emily Oster, PhD (42:36)
+It's perhaps a good part point to make that the these fancy sweeteners, stevia monk fruit, which I think people view as like natural and bougie, are are also very highly processed. It's not like
+
+Perry Wilson, MD (42:50)
+Right.
+
+Emily Oster, PhD (42:50)
+a stevia is just like it is true that's a plant with like a like a slightly sweet, like you can actually eat a piece of the stevia plant and it's like slightly sweet. But to get from that to the like stuff that you, you know, put in your coffee is like a
+
+Quite an extensive processing procedure. so I don't know. I think people should just be a little less fancy about their.
+
+Perry Wilson, MD (43:12)
+Yeah, I mean you're just
+
+you're you're you're throwing your money away on some some fancy marketing.
+
+Emily Oster, PhD (43:16)
+E exactly. Just get some sweet and low, my friend. It works fine.
+
+Perry Wilson, MD (43:22)
+aspartame has no saccharine. Saccharin has a little bit of an off-target binding to the bitter receptor. So in high doses, that's why saccharin gives you a just like that has that kind of funky aftertaste, which something like sucralose doesn't have. I use Splenda in my coffee.
+
+As you know, Emily, because you've chastised
+
+Emily Oster, PhD (43:39)
+Do you?
+
+Perry Wilson, MD (43:40)
+me about having sweetness in my coffee. But you don't like iced coffee either. So I don't think your coffee opinions are valid in my worldview.
+
+Emily Oster, PhD (43:50)
+Yeah, that's fair.
+
+Perry Wilson, MD (43:51)
+Yeah.
+
+Emily Oster, PhD (43:52)
+I don't like I don't like the taste of artificial sweeteners very much, except for Diet Coke. It's just like it's perfect and everything is like, yeah. Diet Coke. Bottom line, this episode should be titled, like, What's the
+
+Perry Wilson, MD (43:58)
+I think if anything comes out on top, it's Diet Coke in this in this episode. Not an ad, everyone.
+
+Emily Oster, PhD (44:05)
+deal with Diet Coke and Why Is It The Most Delicious?
+
+Perry Wilson, MD (44:09)
+All right,
+
+I think it's time. smash or pass artificial sweeteners.
+
+Emily Oster, PhD (44:17)
+I'm a smash. I mean, I think that you know, it's not a it's not a health food, but it certainly isn't something people should be afraid of.
+
+Perry Wilson, MD (44:28)
+Yeah, I'm a smash. I think I I'm gonna stand by if you're worried about weight, drinking calories is just too easy of a way to get too many calories into you. but maybe we should be aware of like sweetness overload and train yourself to like some things that aren't so tasty and sweet.
+
+All right. That's it for us today. stick with us next week. We're doing our first ever grab bag of wellness nonsense. I'm so excited. It's gonna be fun.
+
+Emily Oster, PhD (45:00)
+Can't wait.
+
