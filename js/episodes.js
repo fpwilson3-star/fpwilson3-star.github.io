@@ -50,6 +50,8 @@
 
     { slug: 'are-seed-oils-actually-bad-for-you', title: 'Are seed oils actually bad for you?' },
 
+    { slug: 'are-artificial-sweeteners-bad-for-you', title: 'Are artificial sweeteners actually bad for you?' },
+
   ];
 
   const linkStyle = 'font-family:var(--font-mono);font-size:0.85rem;color:var(--color-accent);text-decoration:none;';
