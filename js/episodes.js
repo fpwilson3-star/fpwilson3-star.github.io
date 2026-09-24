@@ -52,6 +52,8 @@
 
     { slug: 'are-artificial-sweeteners-bad-for-you', title: 'Are artificial sweeteners actually bad for you?' },
 
+    { slug: 'wellness-fads-grab-bag-what-actually-works', title: 'Cold showers, vampire facials, EMF meters, salt lamps: which wellness fads actually hold up?' },
+
   ];
 
   const linkStyle = 'font-family:var(--font-mono);font-size:0.85rem;color:var(--color-accent);text-decoration:none;';

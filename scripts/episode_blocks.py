@@ -346,6 +346,7 @@ CLUSTERS = {
         "does-methylene-blue-actually-work",
         "continuous-glucose-monitors-non-diabetics",
         "what-your-poop-says-about-your-health",
+        "wellness-fads-grab-bag-what-actually-works",
     ],
     "Injectable & regenerative therapies": [
         "do-peptide-injections-actually-work",
@@ -370,6 +371,7 @@ CLUSTERS = {
         "what-ticks-actually-do-to-your-body",
         "are-seed-oils-actually-bad-for-you",
         "are-artificial-sweeteners-bad-for-you",
+        "wellness-fads-grab-bag-what-actually-works",
     ],
     "Health technology": [
         "how-mrna-vaccines-work",
