@@ -325,6 +325,10 @@ choices:
 - **It skips rather than guesses.** Below 50% topic overlap, or on a tie
   between two episodes, it ships the article with no embed and says so in the
   run log. Same rule as the hyperlinks: a wrong video is worse than none.
+  One fallback: YouTube titles don't always mirror the podcast title (the
+  grab-bag video was "The GRABBAG Episode", sharing zero words), so on no
+  title match it uses the full-episode upload that no page embeds yet, but
+  only if exactly one such upload is in the feed.
 
 If an embed is missing, check the `[video]` lines in the generate-run log.
 The usual cause is the video not being on the channel yet when the transcript

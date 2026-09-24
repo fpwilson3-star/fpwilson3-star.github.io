@@ -703,8 +703,22 @@ def fetch_episode_video(episode_title):
         scored.sort(key=lambda s: -s[0])
         best = scored[0]
         if best[0] < 0.5:
+            # YouTube titles don't always mirror the podcast title ("The
+            # GRABBAG Episode" vs "...other wellness fads? (Grab bag)"). Fall
+            # back to the one full-episode upload no page embeds yet, but only
+            # when it's unique; two or more means we can't tell which it is.
+            embedded = set()
+            for page in (Path(__file__).resolve().parent.parent / 'podcast').glob('*.html'):
+                embedded |= set(re.findall(r'youtube\.com/embed/([\w-]{11})',
+                                           page.read_text(encoding='utf-8')))
+            unused = [s for s in scored if s[2] not in embedded]
+            if len(unused) == 1:
+                print(f"[video] no title match; using the only unembedded episode "
+                      f"upload: {unused[0][1]} ({unused[0][2]})")
+                return unused[0][2]
             print(f"[video] best channel match '{best[1]}' shares too little with "
-                  f"'{episode_title}'; skipping embed rather than risk the wrong video.")
+                  f"'{episode_title}', and {len(unused)} episode uploads are "
+                  f"unembedded; skipping embed rather than risk the wrong video.")
             return None
         if len(scored) > 1 and scored[1][0] == best[0]:
             print(f"[video] '{best[1]}' and '{scored[1][1]}' match "

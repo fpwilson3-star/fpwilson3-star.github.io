@@ -52,7 +52,7 @@
 
     { slug: 'are-artificial-sweeteners-bad-for-you', title: 'Are artificial sweeteners actually bad for you?' },
 
-    { slug: 'wellness-fads-grab-bag-what-actually-works', title: 'Cold showers, vampire facials, EMF meters, salt lamps: which wellness fads actually hold up?' },
+    { slug: 'wellness-fads-grab-bag-what-actually-works', title: 'Wellness, Actually Grabbag! Which wellness fads actually hold up?' },
 
   ];
 
