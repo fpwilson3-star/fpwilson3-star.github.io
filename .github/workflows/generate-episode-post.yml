@@ -52,7 +52,7 @@ jobs:
 
       - name: Install dependencies
         if: steps.find_transcript.outputs.transcript != ''
-        run: pip install anthropic google-api-python-client google-auth
+        run: pip install anthropic google-api-python-client google-auth pillow
 
       - name: Generate blog post
         if: steps.find_transcript.outputs.transcript != ''

@@ -9,7 +9,8 @@ this. Previously at methodsman.com (which now redirects here).
 ```
 index.html          — Single-page site with all sections
 css/style.css       — All styles (editorial/magazine aesthetic)
-images/             — Local images (OG images, covers, headshot)
+images/             — Local images (OG images, covers, headshot); images/og/
+                      holds the generated per-article share cards
 podcast/            — One SEO article per episode + index.html listing + rss.xml
 podcast/topics/     — Auto-generated topic hub pages (one per CLUSTERS topic) +
                       index.html; built from episode_blocks.CLUSTERS/TOPIC_META
@@ -53,10 +54,18 @@ scripts/            — generate_episode_post.py, build_rss.py, build_llms_txt.p
                       build_home_articles.py (writes the homepage's recent-article
                       cards + topic strip into the HOME-ARTICLES markers in the
                       #podcast section, and bumps the `/` sitemap lastmod only
-                      when that block actually changes)
+                      when that block actually changes), build_home_writing.py
+                      (bakes the newest 6 Medium essays into the HOME-WRITING
+                      markers in #writing straight from the Medium feed; same
+                      only-if-changed lastmod rule; a failed fetch keeps the
+                      current cards), build_og_images.py (renders each
+                      article's 1200x630 share card into images/og/<slug>.jpg
+                      and points og:image / twitter:image / Article image at
+                      it; font in scripts/fonts/)
 .github/workflows/  — generate-episode-post.yml (transcript → article PR),
                       update-podcast.yml (weekly latest-episode box, then
-                      re-runs build_home_articles.py),
+                      re-runs build_home_articles.py and
+                      build_home_writing.py),
                       site-checks.yml (runs check_site.py on every push/PR)
 sitemap.xml         — All pages; episode entries added by the generator
 llms.txt            — Site map for LLMs/answer engines (llmstxt.org); generated
@@ -89,7 +98,9 @@ build_topic_pages.py would generate from CLUSTERS/TOPIC_META; that every page
 site-wide carries the GA4 snippet and font links, has no meta description
 truncated by an unescaped double quote, and pairs any YouTube embed with
 VideoObject schema whose `uploadDate` is a full ISO 8601 datetime with a UTC
-offset (fix either with `retrofit_page_head.py`); and that the
+offset (fix either with `retrofit_page_head.py`); that every article has
+its share card in images/og/ with og:image, twitter:image, and the Article
+image all pointing at it (fix with `build_og_images.py`); and that the
 homepage recent-articles block matches what build_home_articles.py would
 generate and links no missing article; and that the
 pre-rendered prev/next nav matches the chain in js/episodes.js. CI runs it on
@@ -101,7 +112,9 @@ first.
 2. **About** (#about) — Bio, credentials, education
 3. **Podcast** (#podcast) — Wellness, Actually with Emily Oster (iHeartMedia)
 4. **Book** (#book) — How Medicine Works and When It Doesn't (Grand Central, 2023)
-5. **Writing** (#writing) — Medium articles via RSS feed (auto-loaded from `medium.com/feed/@fperrywilson`)
+5. **Writing** (#writing) — Medium essays, static HTML baked weekly from `medium.com/feed/@fperrywilson`
+   by `build_home_writing.py`. There is deliberately no client-side refresh: the old rss2json fetch
+   masked the fact that nothing rebaked the static cards, which sat five months stale for crawlers.
 6. **Media** (#media) — Selected TV/radio/podcast appearances (most recent 10)
 7. **Lab** (#lab) — CTRA at Yale with link to Yale site
 8. **Course** (#course) — Coursera course: "Understanding Medical Research: Your Facebook Friend Is Wrong"
@@ -400,10 +413,10 @@ The generator script also produces a visible FAQ section (collapsible `<details>
 <meta property="og:type" content="article">
 <meta property="og:url" content="https://fperrywilson.com/podcast/{{SLUG}}.html">
 <meta property="og:site_name" content="F. Perry Wilson, MD">
-<meta property="og:image" content="https://fperrywilson.com/images/og-podcast.jpg">
+<meta property="og:image" content="https://fperrywilson.com/images/og/{{SLUG}}.jpg">
 <meta property="og:image:width" content="1200">
 <meta property="og:image:height" content="630">
-<meta property="og:image:alt" content="Wellness, Actually podcast — with Emily Oster and F. Perry Wilson, MD">
+<meta property="og:image:alt" content="{{TITLE}} | Wellness, Actually, with F. Perry Wilson, MD">
 <meta property="article:published_time" content="{{DATE}}">
 <meta property="article:author" content="https://fperrywilson.com">
 <meta property="article:section" content="Health">
@@ -412,8 +425,8 @@ The generator script also produces a visible FAQ section (collapsible `<details>
 <meta name="twitter:creator" content="@fperrywilson">
 <meta name="twitter:title" content="{{TITLE}}">
 <meta name="twitter:description" content="{{DESCRIPTION}}">
-<meta name="twitter:image" content="https://fperrywilson.com/images/og-podcast.jpg">
-<meta name="twitter:image:alt" content="Wellness, Actually podcast — with Emily Oster and F. Perry Wilson, MD">
+<meta name="twitter:image" content="https://fperrywilson.com/images/og/{{SLUG}}.jpg">
+<meta name="twitter:image:alt" content="{{TITLE}} | Wellness, Actually, with F. Perry Wilson, MD">
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
@@ -421,7 +434,7 @@ The generator script also produces a visible FAQ section (collapsible `<details>
   "headline": "{{TITLE}}",
   "datePublished": "{{DATE}}",
   "dateModified": "{{DATE}}",
-  "image": "https://fperrywilson.com/images/og-podcast.jpg",
+  "image": "https://fperrywilson.com/images/og/{{SLUG}}.jpg",
   "author": {"@type": "Person", "@id": "https://fperrywilson.com/#person", "name": "F. Perry Wilson", "honorificSuffix": "MD MSCE", "jobTitle": "Associate Professor of Medicine and Public Health", "affiliation": {"@type": "Organization", "name": "Yale University"}, "url": "https://fperrywilson.com", "sameAs": ["https://scholar.google.com/citations?user=iB9er1AAAAAJ", "https://www.ncbi.nlm.nih.gov/pubmed/?term=wilson+fp", "https://twitter.com/fperrywilson"]},
   "publisher": {"@type": "Person", "@id": "https://fperrywilson.com/#person", "name": "F. Perry Wilson", "url": "https://fperrywilson.com"},
   "description": "{{DESCRIPTION}}",
@@ -458,8 +471,21 @@ creating or editing an episode page by hand:
 6. Run `python scripts/build_llms_txt.py` to regenerate `llms.txt`
 7. Run `python scripts/build_podcast_index_schema.py` to refresh the podcast index CollectionPage → ItemList
 8. Run `python scripts/retrofit_article_seo.py` to add the Article isPartOf/mainEntityOfPage/inLanguage + citation list (the hand-written template above already includes these; the retrofit is the safety net), then `python scripts/retrofit_page_head.py` for the GA4 snippet, font links, and VideoObject schema
-9. Run `python scripts/build_home_articles.py` to refresh the homepage's recent-article cards, then `python scripts/build_topic_pages.py` to regenerate the topic hub pages, the "Browse by topic" strip, and the topic sitemap entries. When hand-writing a page, first add its slug to 1-2 lists in `CLUSTERS` (`scripts/episode_blocks.py`) — the automated generator does this itself via the model's topic pick, and every episode should be in at least one cluster. Adding a whole new topic means adding a matching entry to both `CLUSTERS` and `TOPIC_META`.
+9. Run `python scripts/build_og_images.py` to render the page's share card, then `python scripts/build_home_articles.py` to refresh the homepage's recent-article cards, then `python scripts/build_topic_pages.py` to regenerate the topic hub pages, the "Browse by topic" strip, and the topic sitemap entries. When hand-writing a page, first add its slug to 1-2 lists in `CLUSTERS` (`scripts/episode_blocks.py`) — the automated generator does this itself via the model's topic pick, and every episode should be in at least one cluster. Adding a whole new topic means adding a matching entry to both `CLUSTERS` and `TOPIC_META`.
 10. Run `python scripts/check_site.py` — must pass before committing (CI enforces it)
+
+### Share cards
+
+Each article gets its own 1200x630 share card (`images/og/<slug>.jpg`): the
+headline in Outfit Bold, white on the podcast cover's teal (#1f6f78), with the
+show name above and byline/domain below. They are **deliberately text-only**:
+the YouTube thumbnails were considered and rejected (they're AI-generated and
+the faces look off), as was AI-generated art (accuracy risk on a physician's
+site, generic look, extra vendor). Before this every article shared
+`og-podcast.jpg`, so all links looked identical when shared. The font is
+committed in `scripts/fonts/` (OFL) so CI renders the same as local. Swapping a
+card image is not a content change: don't bump `dateModified` or sitemap
+`lastmod` for it.
 
 The generator (`generate_episode_post.py`) runs steps 4–9 automatically after writing a new article, so a pushed transcript refreshes the hubs, index, feeds, and schema with no manual step.
 

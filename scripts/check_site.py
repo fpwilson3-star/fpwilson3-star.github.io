@@ -234,6 +234,7 @@ def main():
     check_topics()
     check_page_heads()
     check_home_articles()
+    check_og_images()
 
     if errors:
         print(f'FAILED: {len(errors)} problem(s) found\n')
@@ -274,6 +275,37 @@ def check_home_articles():
         if slug not in pages:
             err(f'index.html: recent-articles block links /podcast/{slug}.html, '
                 'which does not exist')
+
+
+def check_og_images():
+    """Every episode article must have its own share card, and its og:image,
+    twitter:image, and Article JSON-LD image must all point at it.
+
+    Checks presence and wiring only, not pixels: this runs in CI without
+    Pillow, and a font-rendering difference between machines isn't drift.
+    Run scripts/build_og_images.py to fix.
+    """
+    for slug, _ in [(s, None) for _, s in parse_index()]:
+        page = Path(f'podcast/{slug}.html')
+        if not page.exists():
+            continue  # reported by the main consistency check
+        if not Path(f'images/og/{slug}.jpg').exists():
+            err(f'{slug}: missing share card images/og/{slug}.jpg '
+                '(run scripts/build_og_images.py)')
+        src = page.read_text(encoding='utf-8')
+        want = episode_blocks.og_image_url(slug)
+        tags = {
+            'og:image': re.search(r'<meta property="og:image" content="([^"]*)"', src),
+            'twitter:image': re.search(r'<meta name="twitter:image" content="([^"]*)"', src),
+        }
+        for name, m in tags.items():
+            if not m or m.group(1) != want:
+                err(f'{slug}: {name} does not point at its share card '
+                    '(run scripts/build_og_images.py)')
+        articles = [b for b in jsonld_blocks(src) if b.get('@type') == 'Article']
+        if not articles or articles[0].get('image') != want:
+            err(f'{slug}: Article JSON-LD image does not point at its share card '
+                '(run scripts/build_og_images.py)')
 
 
 def check_page_heads():

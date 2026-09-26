@@ -20,6 +20,7 @@ import build_llms_txt
 import build_podcast_index_schema
 import build_topic_pages
 import build_home_articles
+import build_og_images
 import prerender_nav
 import episode_blocks
 
@@ -901,10 +902,10 @@ def build_episode_html(data, date_iso, date_display, episode_url=None, video_id=
   <meta property="og:type" content="article">
   <meta property="og:url" content="https://fperrywilson.com/podcast/{slug}.html">
   <meta property="og:site_name" content="F. Perry Wilson, MD">
-  <meta property="og:image" content="https://fperrywilson.com/images/og-podcast.jpg">
+  <meta property="og:image" content="{episode_blocks.og_image_url(slug)}">
   <meta property="og:image:width" content="1200">
   <meta property="og:image:height" content="630">
-  <meta property="og:image:alt" content="Wellness, Actually podcast — with Emily Oster and F. Perry Wilson, MD">
+  <meta property="og:image:alt" content="{attr(episode_blocks.og_image_alt(headline))}">
   <meta property="article:published_time" content="{date_iso}">
   <meta property="article:author" content="https://fperrywilson.com">
   <meta property="article:section" content="Health">
@@ -913,8 +914,8 @@ def build_episode_html(data, date_iso, date_display, episode_url=None, video_id=
   <meta name="twitter:creator" content="@fperrywilson">
   <meta name="twitter:title" content="{headline_attr}">
   <meta name="twitter:description" content="{meta_desc_attr}">
-  <meta name="twitter:image" content="https://fperrywilson.com/images/og-podcast.jpg">
-  <meta name="twitter:image:alt" content="Wellness, Actually podcast — with Emily Oster and F. Perry Wilson, MD">
+  <meta name="twitter:image" content="{episode_blocks.og_image_url(slug)}">
+  <meta name="twitter:image:alt" content="{attr(episode_blocks.og_image_alt(headline))}">
 {article_jsonld_block}{breadcrumb_jsonld}{episode_jsonld}{video_jsonld}{faq_jsonld}</head>
 <body>
 
@@ -1235,9 +1236,12 @@ def main():
     # Surfaces the new article on the homepage. Runs after update_podcast_index
     # above, since it reads the newest-first order out of podcast/index.html.
     build_home_articles.main()
+    # Renders the new article's share card, which its og:image/twitter:image
+    # and Article JSON-LD image already point at.
+    build_og_images.build()
     print("Pre-rendered episode nav on all pages and rebuilt the topic hubs, "
           "podcast/rss.xml, llms.txt, the podcast index ItemList schema, and "
-          "the homepage's recent-articles block")
+          "the homepage's recent-articles block, and the share card")
 
     set_output('slug', slug)
     set_output('headline', headline)

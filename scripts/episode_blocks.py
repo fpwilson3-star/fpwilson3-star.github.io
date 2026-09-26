@@ -248,6 +248,15 @@ def citation_jsonld(urls):
     return [{"@type": "CreativeWork", "url": u} for u in urls]
 
 
+def og_image_url(slug):
+    """The per-article share card rendered by scripts/build_og_images.py."""
+    return f"https://fperrywilson.com/images/og/{slug}.jpg"
+
+
+def og_image_alt(headline):
+    return f"{headline} | Wellness, Actually, with F. Perry Wilson, MD"
+
+
 def article_jsonld(headline, date_published, date_modified, slug, description, citation_urls=()):
     """The Article structured-data object for an episode page."""
     url = f"https://fperrywilson.com/podcast/{slug}.html"
@@ -257,7 +266,7 @@ def article_jsonld(headline, date_published, date_modified, slug, description, c
         "headline": headline,
         "datePublished": date_published,
         "dateModified": date_modified,
-        "image": "https://fperrywilson.com/images/og-podcast.jpg",
+        "image": og_image_url(slug),
         "author": author_jsonld(),
         "publisher": publisher_jsonld(),
         "description": description,
