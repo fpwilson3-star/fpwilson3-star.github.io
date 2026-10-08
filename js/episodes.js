@@ -54,6 +54,8 @@
 
     { slug: 'wellness-fads-grab-bag-what-actually-works', title: 'Wellness, Actually Grabbag! Which wellness fads actually hold up?' },
 
+    { slug: 'what-does-botox-actually-do-is-it-safe', title: 'What does Botox actually do, and is it safe?' },
+
   ];
 
   const linkStyle = 'font-family:var(--font-mono);font-size:0.85rem;color:var(--color-accent);text-decoration:none;';

@@ -356,12 +356,14 @@ CLUSTERS = {
         "continuous-glucose-monitors-non-diabetics",
         "what-your-poop-says-about-your-health",
         "wellness-fads-grab-bag-what-actually-works",
+        "what-does-botox-actually-do-is-it-safe",
     ],
     "Injectable & regenerative therapies": [
         "do-peptide-injections-actually-work",
         "do-stem-cell-injections-actually-work",
         "does-testosterone-replacement-therapy-actually-work",
         "glp-1-weight-loss-evidence",
+        "what-does-botox-actually-do-is-it-safe",
     ],
     "Brain, mood & sleep": [
         "do-psychedelics-actually-work",
