@@ -347,6 +347,7 @@ CLUSTERS = {
         "what-your-poop-says-about-your-health",
         "are-seed-oils-actually-bad-for-you",
         "are-artificial-sweeteners-bad-for-you",
+        "what-does-intermittent-fasting-actually-do",
     ],
     "Biohacking & recovery trends": [
         "cold-plunges-saunas-health-benefits",
@@ -357,6 +358,7 @@ CLUSTERS = {
         "what-your-poop-says-about-your-health",
         "wellness-fads-grab-bag-what-actually-works",
         "what-does-botox-actually-do-is-it-safe",
+        "what-does-intermittent-fasting-actually-do",
     ],
     "Injectable & regenerative therapies": [
         "do-peptide-injections-actually-work",
