@@ -56,6 +56,8 @@
 
     { slug: 'what-does-botox-actually-do-is-it-safe', title: 'What does Botox actually do, and is it safe?' },
 
+    { slug: 'what-does-intermittent-fasting-actually-do', title: 'What does intermittent fasting actually do to your body?' },
+
   ];
 
   const linkStyle = 'font-family:var(--font-mono);font-size:0.85rem;color:var(--color-accent);text-decoration:none;';
