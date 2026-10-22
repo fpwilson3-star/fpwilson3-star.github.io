@@ -348,6 +348,7 @@ CLUSTERS = {
         "are-seed-oils-actually-bad-for-you",
         "are-artificial-sweeteners-bad-for-you",
         "what-does-intermittent-fasting-actually-do",
+        "is-organic-food-actually-better",
     ],
     "Biohacking & recovery trends": [
         "cold-plunges-saunas-health-benefits",
@@ -385,6 +386,7 @@ CLUSTERS = {
         "are-seed-oils-actually-bad-for-you",
         "are-artificial-sweeteners-bad-for-you",
         "wellness-fads-grab-bag-what-actually-works",
+        "is-organic-food-actually-better",
     ],
     "Health technology": [
         "how-mrna-vaccines-work",

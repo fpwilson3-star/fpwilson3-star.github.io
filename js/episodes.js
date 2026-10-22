@@ -58,6 +58,8 @@
 
     { slug: 'what-does-intermittent-fasting-actually-do', title: 'What does intermittent fasting actually do to your body?' },
 
+    { slug: 'is-organic-food-actually-better', title: 'Is organic food actually better for you or the planet?' },
+
   ];
 
   const linkStyle = 'font-family:var(--font-mono);font-size:0.85rem;color:var(--color-accent);text-decoration:none;';
