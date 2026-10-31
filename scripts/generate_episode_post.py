@@ -654,7 +654,9 @@ def fetch_episode_video(episode_title):
     video or none at all. Instead: keep only full-episode uploads, which all
     carry the show name, then match on topic-word overlap with the episode
     title. The channel also posts near-daily short clips whose titles mention
-    the same topics, which is what the show-name gate filters out.
+    the same topics, which is what the show-name gate filters out, plus a
+    vertical trailer per episode that does carry the show name; those are
+    dropped as Shorts.
 
     Returns a video id, or None to ship the article with no embed (better
     than embedding the wrong discussion).
@@ -691,6 +693,12 @@ def fetch_episode_video(episode_title):
                                    namespaces=ns) or entry.findtext(
                                        'atom:title', default='', namespaces=ns)
             if not vid or not title:
+                continue
+            # Episode trailers carry the show name too ("Can anyone cheat
+            # death? | Wellness, Actually") and tie with the full episode on
+            # topic words. They're Shorts, which the feed links as /shorts/.
+            link = entry.find('atom:link[@rel="alternate"]', ns)
+            if link is not None and '/shorts/' in link.get('href', ''):
                 continue
             flat = re.sub(r'[^a-z0-9 ]', ' ', title.lower())
             if 'wellness' not in flat or 'actually' not in flat:
