@@ -60,6 +60,8 @@
 
     { slug: 'is-organic-food-actually-better', title: 'Is organic food actually better for you or the planet?' },
 
+    { slug: 'can-you-actually-cheat-death', title: 'Can you actually cheat death? What the science says about immortality, dying, and near-death experiences' },
+
   ];
 
   const linkStyle = 'font-family:var(--font-mono);font-size:0.85rem;color:var(--color-accent);text-decoration:none;';

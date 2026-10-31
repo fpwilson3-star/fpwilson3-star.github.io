@@ -360,6 +360,7 @@ CLUSTERS = {
         "wellness-fads-grab-bag-what-actually-works",
         "what-does-botox-actually-do-is-it-safe",
         "what-does-intermittent-fasting-actually-do",
+        "can-you-actually-cheat-death",
     ],
     "Injectable & regenerative therapies": [
         "do-peptide-injections-actually-work",
@@ -375,6 +376,7 @@ CLUSTERS = {
         "pregnancy-brain-what-actually-changes",
         "is-moderate-drinking-actually-bad-for-you",
         "is-fluoride-in-water-safe-and-does-it-still-work",
+        "can-you-actually-cheat-death",
     ],
     "Environmental exposures & health scares": [
         "are-microplastics-actually-harming-your-health",
