@@ -349,6 +349,7 @@ CLUSTERS = {
         "are-artificial-sweeteners-bad-for-you",
         "what-does-intermittent-fasting-actually-do",
         "is-organic-food-actually-better",
+        "are-artificial-food-dyes-bad-for-you",
     ],
     "Biohacking & recovery trends": [
         "cold-plunges-saunas-health-benefits",
@@ -389,6 +390,7 @@ CLUSTERS = {
         "are-artificial-sweeteners-bad-for-you",
         "wellness-fads-grab-bag-what-actually-works",
         "is-organic-food-actually-better",
+        "are-artificial-food-dyes-bad-for-you",
     ],
     "Health technology": [
         "how-mrna-vaccines-work",
