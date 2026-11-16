@@ -62,6 +62,8 @@
 
     { slug: 'can-you-actually-cheat-death', title: 'Can you actually cheat death? What the science says about immortality, dying, and near-death experiences' },
 
+    { slug: 'are-artificial-food-dyes-bad-for-you', title: 'Are artificial food dyes actually bad for you?' },
+
   ];
 
   const linkStyle = 'font-family:var(--font-mono);font-size:0.85rem;color:var(--color-accent);text-decoration:none;';
