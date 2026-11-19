@@ -336,6 +336,7 @@ CLUSTERS = {
         "does-addyi-work-low-sexual-desire-women",
         "are-sperm-counts-really-declining",
         "pregnancy-brain-what-actually-changes",
+        "do-hair-loss-treatments-actually-work",
     ],
     "Metabolic & diet": [
         "glp-1-weight-loss-evidence",
@@ -362,6 +363,7 @@ CLUSTERS = {
         "what-does-botox-actually-do-is-it-safe",
         "what-does-intermittent-fasting-actually-do",
         "can-you-actually-cheat-death",
+        "do-hair-loss-treatments-actually-work",
     ],
     "Injectable & regenerative therapies": [
         "do-peptide-injections-actually-work",

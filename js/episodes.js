@@ -64,6 +64,8 @@
 
     { slug: 'are-artificial-food-dyes-bad-for-you', title: 'Are artificial food dyes actually bad for you?' },
 
+    { slug: 'do-hair-loss-treatments-actually-work', title: 'Do hair loss treatments actually work?' },
+
   ];
 
   const linkStyle = 'font-family:var(--font-mono);font-size:0.85rem;color:var(--color-accent);text-decoration:none;';
